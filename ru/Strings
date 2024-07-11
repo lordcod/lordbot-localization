@@ -1,0 +1,2634 @@
+[
+    {
+        "identifier": "\"bot-info.title\"",
+        "source_string": "{name} this is a multifunctional bot",
+        "translation": "{name} это многофункциональный бот",
+        "context": " -> bot-info.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"bot-info.description\"",
+        "source_string": "The bot is designed to facilitate server management and is equipped with various automation tool\nServer prefix: `{prefix}`",
+        "translation": "Бот предназначен для облегчения управления сервером и оснащен различными средствами автоматизации\nПрефикс сервера: `{префикс}`",
+        "context": " -> bot-info.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"bot-info.assembly\"",
+        "source_string": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
+        "translation": "Версия: `{version}`\nХэш: `{hash}`\nДата создания: <t:{time}:D> (<t:{time}:R>)",
+        "context": " -> bot-info.assembly",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"translate.placeholder\"",
+        "source_string": "Will choose the appropriate language:",
+        "translation": "Выберем подходящий язык:",
+        "context": " -> translate.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"translate.failed\"",
+        "source_string": "This message has no content, so we will not be able to translate it.",
+        "translation": "Это сообщение не содержит содержания, поэтому мы не сможем его перевести.",
+        "context": " -> translate.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"captcha.congratulation\"",
+        "source_string": "Congratulations you have passed the captcha!",
+        "translation": "Поздравляем, вы прошли проверку captcha!",
+        "context": " -> captcha.congratulation",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"captcha.enter\"",
+        "source_string": "You have 30 seconds to solve the captcha!",
+        "translation": "У вас есть 30 секунд, чтобы разгадать капчу!",
+        "context": " -> captcha.enter",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"captcha.failed\"",
+        "source_string": "Captcha failed",
+        "translation": "Не удалось ввести капчу",
+        "context": " -> captcha.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.failed\"",
+        "source_string": "This activity is unavailable or does not work",
+        "translation": "Это действие недоступно или не работает",
+        "context": " -> activiti.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.embed.title\"",
+        "source_string": "**The activity has been successfully created!**",
+        "translation": "** Действие успешно создано!**",
+        "context": " -> activiti.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.embed.description\"",
+        "source_string": "However, some types of activities may not be available for your server if the boost level does not meet the activity requirements.",
+        "translation": "Однако некоторые виды активности могут быть недоступны для вашего сервера, если уровень повышения не соответствует требованиям к активности.",
+        "context": " -> activiti.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.fields.label\"",
+        "source_string": "Activity name",
+        "translation": "Название вида деятельности",
+        "context": " -> activiti.fields.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.fields.max-user\"",
+        "source_string": "Maximum number of users",
+        "translation": "Максимальное количество пользователей",
+        "context": " -> activiti.fields.max-user",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.title\"",
+        "source_string": "Help Book",
+        "translation": "Справочная книга",
+        "context": " -> help.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.arguments\"",
+        "source_string": "[Optional] | <Required>",
+        "translation": "[Необязательно] | <Требуется>",
+        "context": " -> help.arguments",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.title\"",
+        "source_string": "Help on the `{name}` command.",
+        "translation": "Справка по команде \"{имя}\".",
+        "context": " -> help.command-embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.info\"",
+        "source_string": "Information",
+        "translation": "Информация",
+        "context": " -> help.command-embed.info",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.category\"",
+        "source_string": "Category: `{category_emoji}{category_name}`\n",
+        "translation": "Категория: `{category_emoji}{category_name}`\n",
+        "context": " -> help.command-embed.category",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.aliases\"",
+        "source_string": "Aliases: {aliases}\n",
+        "translation": "Псевдонимы: {псевдонимы}\n",
+        "context": " -> help.command-embed.aliases",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.disable_command\"",
+        "source_string": "Can I turn it off? **{value}**\n",
+        "translation": "Могу ли я отключить это? **{value}**\n",
+        "context": " -> help.command-embed.disable_command",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.connection_disabled.0\"",
+        "source_string": "Nope",
+        "translation": "Нет",
+        "context": " -> help.command-embed.connection_disabled.0",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.connection_disabled.1\"",
+        "source_string": "Yeah",
+        "translation": "Да",
+        "context": " -> help.command-embed.connection_disabled.1",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.using_command\"",
+        "source_string": "Using: `{using}`\n",
+        "translation": "Используя: `{используя}`\n",
+        "context": " -> help.command-embed.using_command",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.example\"",
+        "source_string": "Example №{number}",
+        "translation": "Пример №{number}",
+        "context": " -> help.command-embed.example",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-notfound.title\"",
+        "source_string": "Command Not Found",
+        "translation": "Команда не найдена",
+        "context": " -> help.command-notfound.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-notfound.description\"",
+        "source_string": "When searching for command, we did not find it, look at it again in the general list of commands",
+        "translation": "При поиске команды мы ее не нашли, посмотрите на нее еще раз в общем списке команд",
+        "context": " -> help.command-notfound.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-invalid.title\"",
+        "source_string": "The command is invalid",
+        "translation": "Команда недействительна",
+        "context": " -> help.command-invalid.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-invalid.description\"",
+        "source_string": "Most likely you entered the name of the team incorrectly, perhaps it contains some strange characters",
+        "translation": "Скорее всего, вы неправильно ввели название команды, возможно, оно содержит какие-то странные символы",
+        "context": " -> help.command-invalid.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingPermissions\"",
+        "source_string": "You don't have enough rights",
+        "translation": "У тебя недостаточно прав",
+        "context": " -> errors.MissingPermissions",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingRole\"",
+        "source_string": "You don't have a suitable role to execute the command",
+        "translation": "У вас нет подходящей роли для выполнения команды",
+        "context": " -> errors.MissingRole",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingChannel\"",
+        "source_string": "You cannot execute this command in this channel",
+        "translation": "Вы не можете выполнить эту команду в этом канале",
+        "context": " -> errors.MissingChannel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.NotOwner\"",
+        "source_string": "This command is intended for the bot owner",
+        "translation": "Эта команда предназначена для владельца бота",
+        "context": " -> errors.NotOwner",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CommandNotFound\"",
+        "source_string": "There is no such command",
+        "translation": "Такой команды не существует",
+        "context": " -> errors.CommandNotFound",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CheckFailure\"",
+        "source_string": "You don't fulfill all the conditions",
+        "translation": "Вы не выполняете всех условий",
+        "context": " -> errors.CheckFailure",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.BadArgument\"",
+        "source_string": "Invalid argument entered",
+        "translation": "Введен недопустимый аргумент",
+        "context": " -> errors.BadArgument",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.DisabledCommand\"",
+        "source_string": "This command is disabled on the server",
+        "translation": "Эта команда отключена на сервере",
+        "context": " -> errors.DisabledCommand",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingRequiredArgument\"",
+        "source_string": "You didn't enter a required argument",
+        "translation": "Вы не ввели обязательный аргумент",
+        "context": " -> errors.MissingRequiredArgument",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.InactiveEconomy\"",
+        "source_string": "The economy system is disabled on the server",
+        "translation": "Система экономии на сервере отключена",
+        "context": " -> errors.InactiveEconomy",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.OnlyTeamError\"",
+        "source_string": "This command can only be used by the bot team",
+        "translation": "Эта команда может быть использована только командой бота",
+        "context": " -> errors.OnlyTeamError",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MemberNotFound\"",
+        "source_string": "The participant could not be found",
+        "translation": "Не удалось найти участника",
+        "context": " -> errors.MemberNotFound",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CommandOnCooldown.title\"",
+        "source_string": "The command is on hold",
+        "translation": "Команда находится в режиме ожидания",
+        "context": " -> errors.CommandOnCooldown.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CommandOnCooldown.description\"",
+        "source_string": "Try again after {delay}.",
+        "translation": "Повторите попытку после {delay}.",
+        "context": " -> errors.CommandOnCooldown.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.DisabledEconomy\"",
+        "source_string": "The economy system is disabled on the server",
+        "translation": "Система экономии на сервере отключена",
+        "context": " -> errors.DisabledEconomy",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music-selector.title\"",
+        "source_string": "Choose the track you are interested in!",
+        "translation": "Выберите интересующий вас трек!",
+        "context": " -> music-selector.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music-selector.placeholder\"",
+        "source_string": "Select a track",
+        "translation": "Выберите трек",
+        "context": " -> music-selector.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.globals.title\"",
+        "source_string": "Suggested an idea",
+        "translation": "Подсказал идею",
+        "context": " -> ideas.globals.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.globals.ideas-disabled\"",
+        "source_string": "The **idea** module is disabled on this server",
+        "translation": "Модуль **idea** отключен на этом сервере",
+        "context": " -> ideas.globals.ideas-disabled",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.globals.embed-title\"",
+        "source_string": "New idea!",
+        "translation": "Новая идея!",
+        "context": " -> ideas.globals.embed-title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.approve\"",
+        "source_string": "Approved | {name}",
+        "translation": "Одобрено | {name}",
+        "context": " -> ideas.confirm-modal.approve",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.title\"",
+        "source_string": "The idea is approved!",
+        "translation": "Идея одобрена!",
+        "context": " -> ideas.confirm-modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.content\"",
+        "source_string": "{mention} Your idea is approved!",
+        "translation": "{mention} Ваша идея одобрена!",
+        "context": " -> ideas.confirm-modal.content",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.essence\"",
+        "source_string": "The essence of the idea:",
+        "translation": "Суть идеи:",
+        "context": " -> ideas.confirm-modal.essence",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.reason\"",
+        "source_string": "Confirmation argument:",
+        "translation": "Аргумент подтверждения:",
+        "context": " -> ideas.confirm-modal.reason",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.button.approve\"",
+        "source_string": "Approve",
+        "translation": "Одобрить",
+        "context": " -> ideas.confirm-view.button.approve",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.button.deny\"",
+        "source_string": "Deny",
+        "translation": "Отрицать",
+        "context": " -> ideas.confirm-view.button.deny",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.idea\"",
+        "source_string": "Idea:",
+        "translation": "Идея:",
+        "context": " -> ideas.confirm-view.idea",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.refused\"",
+        "source_string": "Refused | {name}",
+        "translation": "Отказано | {namr}",
+        "context": " -> ideas.confirm-view.refused",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.idea-content\"",
+        "source_string": "{mention} Your idea has been rejected!",
+        "translation": "{mention} Ваша идея была отклонена!",
+        "context": " -> ideas.confirm-view.idea-content",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.title\"",
+        "source_string": "The idea is refused!",
+        "translation": "От этой идеи отказываются!",
+        "context": " -> ideas.confirm-view.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.label\"",
+        "source_string": "Tell us about your idea",
+        "translation": "Расскажите нам о своей идее",
+        "context": " -> ideas.idea-modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.placeholder\"",
+        "source_string": "Describe your idea in as much detail as possible with usage examples.",
+        "translation": "Опишите вашу идею как можно более подробно с примерами использования.",
+        "context": " -> ideas.idea-modal.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.embed-description\"",
+        "source_string": "Whether the idea is approved or not depends on you!",
+        "translation": "Будет ли одобрена ваша идея или нет, зависит только от вас!",
+        "context": " -> ideas.idea-modal.embed-description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.idea\"",
+        "source_string": "Idea:",
+        "translation": "Идея:",
+        "context": " -> ideas.idea-modal.idea",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.thread-name\"",
+        "source_string": "Discussion of the idea from {name}",
+        "translation": "Обсуждение идеи из {name}",
+        "context": " -> ideas.idea-modal.thread-name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-view.timeout-message\"",
+        "source_string": "You can only suggest an idea once every {every_time}\nThe next opportunity to submit an idea will be in:  <t:{time}:R>",
+        "translation": "Вы можете предлагать идею только раз в 30 минут\nСледующая возможность подать идею будет через: <t:{time}:R>",
+        "context": " -> ideas.idea-view.timeout-message",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.issue.title\"",
+        "source_string": "Are you sure?",
+        "translation": "Вы уверены?",
+        "context": " -> delcat.issue.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.issue.description\"",
+        "source_string": "This will permanently delete the {category} category and every channel inside of it.",
+        "translation": "Это приведет к необратимому удалению категории {category} и всех каналов внутри нее.",
+        "context": " -> delcat.issue.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.accept.title\"",
+        "source_string": "#{category} Category Deleted",
+        "translation": "#{категория} Категория удалена",
+        "context": " -> delcat.accept.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.accept.description\"",
+        "source_string": "And also remotely {count} channels that were in the category",
+        "translation": "А также удаленно {count} каналы, которые были в этой категории",
+        "context": " -> delcat.accept.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.cancel.title\"",
+        "source_string": "Category Deletion Canceled",
+        "translation": "Удаление категории отменено",
+        "context": " -> delcat.cancel.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.title\"",
+        "source_string": "Configuring the bot modules.",
+        "translation": "Настройка модулей бота.",
+        "context": " -> settings.start.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.choose\"",
+        "source_string": "Choose settings...",
+        "translation": "Выберите настройки...",
+        "context": " -> settings.start.choose",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.description\"",
+        "source_string": "Interact with the selection drop-down menu to configure the server.",
+        "translation": "Воспользуйтесь выпадающим меню выбора, чтобы настроить сервер.",
+        "context": " -> settings.start.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.request\"",
+        "source_string": "Request from {name}",
+        "translation": "Запрос от {name}",
+        "context": " -> settings.start.request",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.economy\"",
+        "source_string": "Economy",
+        "translation": "Экономика",
+        "context": " -> settings.module-name.economy",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.languages\"",
+        "source_string": "Languages",
+        "translation": "Языки",
+        "context": " -> settings.module-name.languages",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.prefix\"",
+        "source_string": "Prefix",
+        "translation": "Префикс",
+        "context": " -> settings.module-name.prefix",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.music\"",
+        "source_string": "Music",
+        "translation": "Музыка",
+        "context": " -> settings.module-name.music",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.color\"",
+        "source_string": "Color of system messages",
+        "translation": "Цвет системных сообщений",
+        "context": " -> settings.module-name.color",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.reactions\"",
+        "source_string": "Auto Reactions",
+        "translation": "Автоматические реакции",
+        "context": " -> settings.module-name.reactions",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.thread\"",
+        "source_string": "Auto message in a thread/post",
+        "translation": "Автоматическое сообщение в теме/публикации",
+        "context": " -> settings.module-name.thread",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.command-permission\"",
+        "source_string": "Command Settings",
+        "translation": "Настройки команд",
+        "context": " -> settings.module-name.command-permission",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.ideas\"",
+        "source_string": "Ideas",
+        "translation": "Идеи",
+        "context": " -> settings.module-name.ideas",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.welcomer\"",
+        "source_string": "Welcome new members",
+        "translation": "Приветствуем новых участников",
+        "context": " -> settings.module-name.welcomer",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.auto-roles\"",
+        "source_string": "Automatic roles",
+        "translation": "Автоматические роли",
+        "context": " -> settings.module-name.auto-roles",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.role-reactions\"",
+        "source_string": "Reaction Roles",
+        "translation": "Роли реагирования",
+        "context": " -> settings.module-name.role-reactions",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.logs\"",
+        "source_string": "Changelog",
+        "translation": "Журнал изменений",
+        "context": " -> settings.module-name.logs",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.back\"",
+        "source_string": "Back",
+        "translation": "Назад",
+        "context": " -> settings.button.back",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.edit\"",
+        "source_string": "Edit",
+        "translation": "Редактировать",
+        "context": " -> settings.button.edit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.reset\"",
+        "source_string": "Reset",
+        "translation": "Сброс",
+        "context": " -> settings.button.reset",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.add\"",
+        "source_string": "Add",
+        "translation": "Добавь",
+        "context": " -> settings.button.add",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.prefix.title\"",
+        "source_string": "Prefix",
+        "translation": "Префикс",
+        "context": " -> settings.prefix.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.prefix.description\"",
+        "source_string": "Setting the prefix to which the bot will respond when calling the command.",
+        "translation": "Установка префикса, на который бот будет реагировать при вызове команды.",
+        "context": " -> settings.prefix.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.prefix.current\"",
+        "source_string": "The current prefix is `{prefix}`",
+        "translation": "Текущий префикс - `{prefix}`",
+        "context": " -> settings.prefix.current",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.languages.title\"",
+        "source_string": "Languages",
+        "translation": "Языки",
+        "context": " -> settings.languages.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.languages.description\"",
+        "source_string": "This setting changes the language for working with the bot.",
+        "translation": "Эта настройка изменяет язык для работы с ботом.",
+        "context": " -> settings.languages.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.languages.choose\"",
+        "source_string": "Select the language for the server:",
+        "translation": "Выберите язык для сервера:",
+        "context": " -> settings.languages.choose",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.not-valid\"",
+        "source_string": "The hex code format is incorrect",
+        "translation": "Неверный формат шестнадцатеричного кода",
+        "context": " -> settings.color.not-valid",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.title\"",
+        "source_string": "Color of system messages",
+        "translation": "Цвет системных сообщений",
+        "context": " -> settings.color.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.description\"",
+        "source_string": "When you use commands, the bot displays inserts that have an invisible color by default.\n\nYou can set your color according to the theme of your community.",
+        "translation": "Когда вы используете команды, бот отображает вставки, которые по умолчанию имеют невидимый цвет.\n\nВы можете настроить свой цвет в соответствии с тематикой вашего сообщества.",
+        "context": " -> settings.color.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.current\"",
+        "source_string": "Current color: `{hex_color}`",
+        "translation": "Текущий цвет: `{hex_color}`",
+        "context": " -> settings.color.current",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.button.install\"",
+        "source_string": "Install roles",
+        "translation": "Установка ролей",
+        "context": " -> settings.auto-role.button.install",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.button.delete\"",
+        "source_string": "Delete roles",
+        "translation": "Удаление ролей",
+        "context": " -> settings.auto-role.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.placeholder\"",
+        "source_string": "Select automatically assigned roles for new members",
+        "translation": "Выберите автоматически назначаемые роли для новых участников",
+        "context": " -> settings.auto-role.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.embed.title\"",
+        "source_string": "Automatic roles",
+        "translation": "Автоматические роли",
+        "context": " -> settings.auto-role.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.embed.description\"",
+        "source_string": "The control panel for automatic roles.\nYou can install, edit, delete, and view such actions from the panel.\nIf you do not see the auto roles, then they are not selected!",
+        "translation": "Панель управления автоматическими ролями.\nВы можете устанавливать, редактировать, удалять и просматривать такие действия с панели.\nЕсли вы не видите автоматические роли, значит, они не выбраны!",
+        "context": " -> settings.auto-role.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.embed.field\"",
+        "source_string": "Selected roles:",
+        "translation": "Выбранные роли:",
+        "context": " -> settings.auto-role.embed.field",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.button.delete\"",
+        "source_string": "Delete message",
+        "translation": "Удалить сообщение",
+        "context": " -> settings.welcomer.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.button.view\"",
+        "source_string": "View message",
+        "translation": "Просмотреть сообщение",
+        "context": " -> settings.welcomer.button.view",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.button.install\"",
+        "source_string": "Install message",
+        "translation": "Сообщение об установке",
+        "context": " -> settings.welcomer.button.install",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.title\"",
+        "source_string": "Message greeting",
+        "translation": "Приветственное сообщение",
+        "context": " -> settings.welcomer.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.description\"",
+        "source_string": "Automatic sending of messages when a participant logs on to the server\n\nIf you want to change the channel, just select it again and set the message\n\nTo change a message, select the current channel and set a new message for it",
+        "translation": "Автоматическая отправка сообщений при входе участника на сервер\n\nЕсли вы хотите изменить канал, просто выберите его еще раз и установите сообщение\n\nЧтобы изменить сообщение, выберите текущий канал и установите для него новое сообщение",
+        "context": " -> settings.welcomer.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.field.selected\"",
+        "source_string": "Selected greeting channel: {channel}",
+        "translation": "Выбранный канал приветствия: {channel}",
+        "context": " -> settings.welcomer.embed.field.selected",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.field.failure\"",
+        "source_string": "Not all the data has been collected yet.",
+        "translation": "Еще не все данные были собраны.",
+        "context": " -> settings.welcomer.embed.field.failure",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.dropdown-placeholder\"",
+        "source_string": "Select the welcome channel",
+        "translation": "Выберите канал приветствия",
+        "context": " -> settings.welcomer.dropdown-placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.modal.title\"",
+        "source_string": "Message greeting",
+        "translation": "Приветственное сообщение",
+        "context": " -> settings.welcomer.modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.modal.label\"",
+        "source_string": "Message",
+        "translation": "Сообщение",
+        "context": " -> settings.welcomer.modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.modal.placeholder\"",
+        "source_string": "You can also use embed builder",
+        "translation": "Вы также можете использовать embedded builder",
+        "context": " -> settings.welcomer.modal.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.title\"",
+        "source_string": "Automatic messages in forums/threads",
+        "translation": "Автоматические сообщения в форумах/темах",
+        "context": " -> settings.thread.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.brief\"",
+        "source_string": "Auto-messages",
+        "translation": "Автоматические сообщения",
+        "context": " -> settings.thread.init.brief",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.description\"",
+        "source_string": "Add or change your automatic posts in forums/threads",
+        "translation": "Добавляйте или изменяйте свои автоматические сообщения в форумах /темах",
+        "context": " -> settings.thread.init.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.placeholder\"",
+        "source_string": "Auto-message settings in branches/forums:",
+        "translation": "Настройки автосообщений в филиалах/форумах:",
+        "context": " -> settings.thread.init.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.channel\"",
+        "source_string": "Channel: {channel}",
+        "translation": "Канал: {channel}",
+        "context": " -> settings.thread.init.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.addptional.button.install-mes\"",
+        "source_string": "Install message",
+        "translation": "Сообщение об установке",
+        "context": " -> settings.thread.addptional.button.install-mes",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.addptional.channel-error\"",
+        "source_string": "Auto-messages have already been installed on this channel",
+        "translation": "На этом канале уже установлены автоматические сообщения",
+        "context": " -> settings.thread.addptional.channel-error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.addptional.placeholder\"",
+        "source_string": "Select a channel for auto-messages",
+        "translation": "Выберите канал для автоматической рассылки сообщений",
+        "context": " -> settings.thread.addptional.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.mes-not-found\"",
+        "source_string": "No message found",
+        "translation": "Сообщение не найдено",
+        "context": " -> settings.thread.thread.mes-not-found",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.button.view\"",
+        "source_string": "View the message",
+        "translation": "Просмотреть сообщение",
+        "context": " -> settings.thread.thread.button.view",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.button.edit\"",
+        "source_string": "Edit a message",
+        "translation": "Редактировать сообщение",
+        "context": " -> settings.thread.thread.button.edit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.button.delete\"",
+        "source_string": "Delete a message",
+        "translation": "Удалить сообщение",
+        "context": " -> settings.thread.thread.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.modal.label\"",
+        "source_string": "Message:",
+        "translation": "Сообщение:",
+        "context": " -> settings.thread.modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.modal.title\"",
+        "source_string": "Auto-messages",
+        "translation": "Автоматические сообщения",
+        "context": " -> settings.thread.modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.modal.placeholder\"",
+        "source_string": "You can also use embed-builder",
+        "translation": "Вы также можете использовать embedded-builder",
+        "context": " -> settings.thread.modal.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.title\"",
+        "source_string": "Automatic reactions",
+        "translation": "Автоматические реакции",
+        "context": " -> settings.reactions.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.brief\"",
+        "source_string": "Auto-reactions",
+        "translation": "Автоматические реакции",
+        "context": " -> settings.reactions.init.brief",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.description\"",
+        "source_string": "Control of automatic addition of reactions in channels",
+        "translation": "Управление автоматическим добавлением реакций в каналы",
+        "context": " -> settings.reactions.init.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.placeholder\"",
+        "source_string": "Auto-reaction settings:",
+        "translation": "Настройки автоматической реакции:",
+        "context": " -> settings.reactions.init.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.dddesc\"",
+        "source_string": "Channel: {channel}\nEmoji: {emojis}",
+        "translation": "Канал: {channel}\nЭмодзи: {emojis}",
+        "context": " -> settings.reactions.init.dddesc",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.addres.channel-error\"",
+        "source_string": "Auto-reactions have already been installed on this channel",
+        "translation": "На этом канале уже установлены автоматические реакции",
+        "context": " -> settings.reactions.addres.channel-error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.addres.placeholder\"",
+        "source_string": "Select a channel for auto-reactions",
+        "translation": "Выберите канал для автоматической реакции",
+        "context": " -> settings.reactions.addres.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.addres.install-emoji\"",
+        "source_string": "Install emoji",
+        "translation": "Установите эмодзи",
+        "context": " -> settings.reactions.addres.install-emoji",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.modal.title\"",
+        "source_string": "Auto-reaction",
+        "translation": "Автоматическая реакция",
+        "context": " -> settings.reactions.modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.modal.label\"",
+        "source_string": "Emoji:",
+        "translation": "Эмодзи:",
+        "context": " -> settings.reactions.modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.button.delete\"",
+        "source_string": "Delete reaction",
+        "translation": "Удалить реакцию",
+        "context": " -> settings.reactions.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.button.edit\"",
+        "source_string": "Edit reaction",
+        "translation": "Редактировать реакцию",
+        "context": " -> settings.reactions.button.edit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.title\"",
+        "source_string": "Music",
+        "translation": "Музыка",
+        "context": " -> settings.music.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max-queue-size.name\"",
+        "source_string": "Max size",
+        "translation": "Максимальный размер",
+        "context": " -> settings.music.max-queue-size.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max-queue-size.description\"",
+        "source_string": "Maximum track queue lenght.",
+        "translation": "Максимальная длина очереди треков.",
+        "context": " -> settings.music.max-queue-size.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max-queue-size.value\"",
+        "source_string": "Maximum queue size: {size}\n",
+        "translation": "Максимальный размер очереди: {size}\n",
+        "context": " -> settings.music.max-queue-size.value",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.default-volume.name\"",
+        "source_string": "Default volume",
+        "translation": "Громкость по умолчанию",
+        "context": " -> settings.music.default-volume.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.default-volume.description\"",
+        "source_string": "The default music volume.",
+        "translation": "Громкость музыки по умолчанию.",
+        "context": " -> settings.music.default-volume.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.default-volume.value\"",
+        "source_string": "Default volume music: {volume}\n",
+        "translation": "Громкость музыки по умолчанию: {volume}\n",
+        "context": " -> settings.music.default-volume.value",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.failed\"",
+        "source_string": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "translation": "Роль {role} не может быть назначена и используется для интеграции или ботом.",
+        "context": " -> settings.music.dj-roles.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.name\"",
+        "source_string": "Dj-roles",
+        "translation": "Роли диджеев",
+        "context": " -> settings.music.dj-roles.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.description\"",
+        "source_string": "Roles that can control music.",
+        "translation": "Роли, которые могут управлять музыкой.",
+        "context": " -> settings.music.dj-roles.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.value\"",
+        "source_string": "Dj-roles: {roles}",
+        "translation": "Роли диджеев: {roles}",
+        "context": " -> settings.music.dj-roles.value",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.delete\"",
+        "source_string": "Delete",
+        "translation": "Удалить",
+        "context": " -> settings.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.accept\"",
+        "source_string": "Accept",
+        "translation": "Принять",
+        "context": " -> settings.button.accept",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.create\"",
+        "source_string": "Create",
+        "translation": "Создать",
+        "context": " -> settings.button.create",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.init.title\"",
+        "source_string": "Ideas",
+        "translation": "Идея",
+        "context": " -> ideas.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.init.description\"",
+        "source_string": "Do you have a good idea?\nAnd you are sure that everyone will like it!\nBefore you write it, make sure that there have been no such ideas yet!",
+        "translation": "У вас есть хорошая идея?\nИ вы уверены, что она всем понравится!\nПрежде чем писать, убедитесь, что таких идей еще не было!",
+        "context": " -> ideas.init.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.image.label\"",
+        "source_string": "Image url",
+        "translation": "Ссылка на изображение",
+        "context": " -> ideas.idea-modal.image.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.image.placeholder\"",
+        "source_string": "If you want, you can attach an image",
+        "translation": "Если хотите, вы можете прикрепить изображение",
+        "context": " -> ideas.idea-modal.image.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.permission.ban\"",
+        "source_string": "You have limited access to creating ideas!\nExit Time: Forever\nModerator: {moderator}\nReason: `{reason}`",
+        "translation": "У вас ограничен доступ к созданию идей!\nВремя выхода: Навсегда\nМодератор: {moderator}\nПричина: `{reason}`",
+        "context": " -> ideas.mod.permission.ban",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.permission.mute\"",
+        "source_string": "You have limited access to creating ideas!\nExit Time:  <t:{time:.0f}:f> ({display_time})\nModerator: {moderator.mention}\nReason: `{reason}`",
+        "translation": "У вас ограничен доступ к созданию идей!\nВремя выхода:  <t:{time:.0f}:f> ({display_time})\nМодератор: {moderator.mention}\nПричина: `{reason}`",
+        "context": " -> ideas.mod.permission.mute",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.permission.unspecified\"",
+        "source_string": "unspecified",
+        "translation": "неуказанно",
+        "context": " -> ideas.mod.permission.unspecified",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.ban.title\"",
+        "source_string": "Ban in ideas",
+        "translation": "Заблокировать в идеях",
+        "context": " -> ideas.mod.ban.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.ban.already.description\"",
+        "source_string": "The {member.mention} ({member.id}) user is already banned\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Пользователь {member.mention} ({member.id}) уже забанен\nМодератором, который  забанил: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "context": " -> ideas.mod.ban.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.ban.success.description\"",
+        "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Заблокированный пользователь: {member.mention} ({member.id})\nМодератор выдавший бан: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "context": " -> ideas.mod.ban.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unban.title\"",
+        "source_string": "Unban in ideas",
+        "translation": "Разблокировать в идеях",
+        "context": " -> ideas.mod.unban.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unban.already.description\"",
+        "source_string": "The {member} user is not blocked!",
+        "translation": "Пользователь {member} не заблокирован!",
+        "context": " -> ideas.mod.unban.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unban.success.description\"",
+        "source_string": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Разблокированный пользователь: {member.mention} ({member.id})\nМодератор выдавший разбан: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "context": " -> ideas.mod.unban.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.mute.title\"",
+        "source_string": "Mute in ideas",
+        "translation": "Мут в идеях",
+        "context": " -> ideas.mod.mute.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.mute.already.description\"",
+        "source_string": "The {member.mention} ({member.id}) user is already muted\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "translation": "Пользователь {member.mention} ({member.id}) уже замучен\nМодератором, который  замутил: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "context": " -> ideas.mod.mute.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.mute.success.description\"",
+        "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "translation": "Пользователь {member.mention} ({member.id}) уже замучен\nМодератор, который замутил: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "context": " -> ideas.mod.mute.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unmute.title\"",
+        "source_string": "Unmute in ideas",
+        "translation": "Размут в идеях",
+        "context": " -> ideas.mod.unmute.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unmute.already.description\"",
+        "source_string": "The {member} user is not mutes!",
+        "translation": "Пользователь {member} не замьючен!",
+        "context": " -> ideas.mod.unmute.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unmute.success.description\"",
+        "source_string": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unmute: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Размьюченный пользователь: {member.mention} ({member.id})\nМодератор выдавший размут: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "context": " -> ideas.mod.unmute.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.sponsor\"",
+        "source_string": "Choose a giveaway sponsor",
+        "translation": "Выберите спонсора",
+        "context": " -> giveaway.settings.sponsor",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.channel\"",
+        "source_string": "Choose a giveaway channel",
+        "translation": "Выберите канал для розыгрыша",
+        "context": " -> giveaway.settings.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.placeholder\"",
+        "source_string": "Settings Giveaway Prize",
+        "translation": "Настройки Подарка",
+        "context": " -> giveaway.settings.prize.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.label\"",
+        "source_string": "Prize",
+        "translation": "Приз",
+        "context": " -> giveaway.settings.prize.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.quantity\"",
+        "source_string": "Quantity",
+        "translation": "Кол-во",
+        "context": " -> giveaway.settings.prize.quantity",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.error\"",
+        "source_string": "Quantity format is invalid!",
+        "translation": "Недопустимый формат количества!",
+        "context": " -> giveaway.settings.prize.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.description.placeholder\"",
+        "source_string": "Settings Giveaway Description",
+        "translation": "Настройки розыгрыша Описание",
+        "context": " -> giveaway.settings.description.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.description.title\"",
+        "source_string": "Description",
+        "translation": "Описание",
+        "context": " -> giveaway.settings.description.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.dateend.placeholder\"",
+        "source_string": "Settings Giveaway Dateend",
+        "translation": "Настройки даты окончания",
+        "context": " -> giveaway.settings.dateend.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.dateend.title\"",
+        "source_string": "Date end",
+        "translation": "Дата окончания",
+        "context": " -> giveaway.settings.dateend.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.dateend.error\"",
+        "source_string": "Date format is invalid!",
+        "translation": "Недопустимый формат даты!",
+        "context": " -> giveaway.settings.dateend.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.title\"",
+        "source_string": "Giveaway",
+        "translation": "Розыгрыш",
+        "context": " -> giveaway.settings.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.info.title\"",
+        "source_string": "Information",
+        "translation": "Информация",
+        "context": " -> giveaway.settings.init.info.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.info.decription\"",
+        "source_string": "Prize: {prize}\nQuantity: {quantity}\nChannel: {channel}\nSponsor: {sponsor}\nDate end: {date_end}",
+        "translation": "Приз: {prize}\nКоличество: {quantity}\nКанал: {channel}\nСпонсор: {sponsor}\nДата окончания: {date_end}",
+        "context": " -> giveaway.settings.init.info.decription",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.info.dnr\"",
+        "source_string": "not registered",
+        "translation": "не зарегистрирован",
+        "context": " -> giveaway.settings.init.info.dnr",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.create.title\"",
+        "source_string": "Create giveaway",
+        "translation": "Создать розыгрыш",
+        "context": " -> giveaway.settings.init.create.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.create.error\"",
+        "source_string": "You have filled in all required forms!",
+        "translation": "Вы заполнили не все необходимые формы!",
+        "context": " -> giveaway.settings.init.create.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.confirm.leave\"",
+        "source_string": "Leave giveaway",
+        "translation": "Покинуть розыгрыш",
+        "context": " -> giveaway.confirm.leave",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.confirm.issue\"",
+        "source_string": "Are you sure you want to leave giveaway?",
+        "translation": "Вы уверены, что хотите покинуть розыгрыш?",
+        "context": " -> giveaway.confirm.issue",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.accept.title\"",
+        "source_string": "Role #{number}",
+        "translation": "Роль #{number}",
+        "context": " -> economy.shop.accept.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.accept.description\"",
+        "source_string": "{description}・Role: <@&{role_id}>\n・Amount: {amount}{emoji}\n・Purchase limit: {limit}",
+        "translation": "{description}・ Роль: <@&{role_id}>\n・Сумма: {amount}{emoji}\n・Предел покупок: {limit}",
+        "context": " -> economy.shop.accept.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.accept.success\"",
+        "source_string": "You have completed the purchase of the role <@&{role_id}>",
+        "translation": "Вы завершили покупку роли <@&{role_id}>",
+        "context": " -> economy.shop.accept.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.error.already\"",
+        "source_string": "You already have this role!",
+        "translation": "У вас уже есть эта роль!",
+        "context": " -> economy.shop.error.already",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.error.limit\"",
+        "source_string": "The entire limit is exhausted!",
+        "translation": "Весь лимит исчерпан!",
+        "context": " -> economy.shop.error.limit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.error.balance\"",
+        "source_string": "Your balance must be more than {amount}{emoji}!",
+        "translation": "Ваш баланс должен быть больше чем {amount}{emoji}!",
+        "context": " -> economy.shop.error.balance",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.dropdown.placeholder\"",
+        "source_string": "Select an item",
+        "translation": "Выберите элемент",
+        "context": " -> economy.shop.dropdown.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.embed.title\"",
+        "source_string": "The {name} Item Store",
+        "translation": "Магазин предметов {name}",
+        "context": " -> economy.shop.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.embed.description\"",
+        "source_string": "Select the item you want to buy.",
+        "translation": "Выберите товар, который вы хотите купить.",
+        "context": " -> economy.shop.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.embed.footer\"",
+        "source_string": "Page {index}/{lenght}",
+        "translation": "Страница {index}/{lenght}",
+        "context": " -> economy.shop.embed.footer",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.image.link\"",
+        "source_string": "Link",
+        "translation": "Ссылка",
+        "context": " -> settings.welcomer.image.link",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.image.placeholder\"",
+        "source_string": "Enter a link",
+        "translation": "Введите ссылку",
+        "context": " -> settings.welcomer.image.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.image.error\"",
+        "source_string": "The data does not match the links.",
+        "translation": "Данные не совпадают со ссылками.",
+        "context": " -> settings.welcomer.image.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.modal.emoji\"",
+        "source_string": "Emoji",
+        "translation": "Эмодзи",
+        "context": " -> settings.set-reaction.modal.emoji",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.modal.error\"",
+        "source_string": "You have entered an incorrect emoji",
+        "translation": "Вы ввели некорректные эмоджи",
+        "context": " -> settings.set-reaction.modal.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.button.use-modal\"",
+        "source_string": "Use modal",
+        "translation": "Использовать модаль",
+        "context": " -> settings.set-reaction.button.use-modal",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.content\"",
+        "source_string": "Set reaction!",
+        "translation": "Установить реакцию!",
+        "context": " -> settings.set-reaction.content",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.error.timeout\"",
+        "source_string": "You didn't have time to specify the emoji, use the interaction for",
+        "translation": "У вас нет времени указывать эмодзи, используйте взаимодействие заново.",
+        "context": " -> settings.set-reaction.error.timeout",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.error.located\"",
+        "source_string": "Unfortunately I can't use this emoji check that I am on the server where this emoji is located",
+        "translation": "К сожалению, я не могу использовать этот эмодзи, проверьте что я есть на сервере, где расположены эти эмодзи",
+        "context": " -> settings.set-reaction.error.located",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.channel\"",
+        "source_string": "Select the channel to which the logs will be sent",
+        "translation": "Выберите канал, на который будут отправляться логи",
+        "context": " -> settings.logs.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.set-channel\"",
+        "source_string": "Select the channel you want to change",
+        "translation": "Выберите канал, который вы хотите изменить",
+        "context": " -> settings.logs.set-channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.type\"",
+        "source_string": "Select the type of logs",
+        "translation": "Выберите тип логов",
+        "context": " -> settings.logs.type",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.embed.title\"",
+        "source_string": "System logs",
+        "translation": "System logs",
+        "context": " -> settings.logs.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.embed.description\"",
+        "source_string": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+        "translation": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+        "context": " -> settings.logs.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.default\"",
+        "source_string": "The @everyone role is the default role for all users and can't be selected.",
+        "translation": "The @everyone role is the default role for all users and can't be selected.",
+        "context": " -> settings.roles.error.default",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.premium\"",
+        "source_string": "The {role} role is a role that is used by subscribers of your server.",
+        "translation": "The {role} role is a role that is used by subscribers of your server.",
+        "context": " -> settings.roles.error.premium",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.integration\"",
+        "source_string": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "translation": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "context": " -> settings.roles.error.integration",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.assignable\"",
+        "source_string": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
+        "translation": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
+        "context": " -> settings.roles.error.assignable",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.permission.denied\"",
+        "source_string": "You don't have the authority to use the settings",
+        "translation": "You don't have the authority to use the settings",
+        "context": " -> settings.permission.denied",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.global.title\"",
+        "source_string": "Roles for reactions",
+        "translation": "Roles for reactions",
+        "context": " -> settings.role-reaction.global.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.global.description\"",
+        "source_string": "This module will help you assign roles based on reactions",
+        "translation": "This module will help you assign roles based on reactions",
+        "context": " -> settings.role-reaction.global.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.role-view.select\"",
+        "source_string": "Select the reaction role you want to edit",
+        "translation": "Select the reaction role you want to edit",
+        "context": " -> settings.role-reaction.role-view.select",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.item.role-set-dropdown\"",
+        "source_string": "Select a role to delete or change",
+        "translation": "Select a role to delete or change",
+        "context": " -> settings.role-reaction.item.role-set-dropdown",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.item.role-dropdown\"",
+        "source_string": "Select the role that will be provided when you click on the reaction",
+        "translation": "Select the role that will be provided when you click on the reaction",
+        "context": " -> settings.role-reaction.item.role-dropdown",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.item.field\"",
+        "source_string": "Reactions",
+        "translation": "Reactions",
+        "context": " -> settings.role-reaction.item.field",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.selector.channel\"",
+        "source_string": "Find a channel to have the perfect way to use roles and reactions!",
+        "translation": "Find a channel to have the perfect way to use roles and reactions!",
+        "context": " -> settings.role-reaction.selector.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.selector.message\"",
+        "source_string": "Select the message that will display the reactions!",
+        "translation": "Select the message that will display the reactions!",
+        "context": " -> settings.role-reaction.selector.message",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.error.time\"",
+        "source_string": "You must specify a time that is later than the current time.",
+        "translation": "You must specify a time that is later than the current time.",
+        "context": " -> reminder.error.time",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.success\"",
+        "source_string": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
+        "translation": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
+        "context": " -> reminder.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.embed.title\"",
+        "source_string": "🛎️ Reminder",
+        "translation": "🛎️ Reminder",
+        "context": " -> reminder.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.embed.description\"",
+        "source_string": "{time} ago you asked me to remind you",
+        "translation": "{time} ago you asked me to remind you",
+        "context": " -> reminder.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.embed.field\"",
+        "source_string": "Remind",
+        "translation": "Remind",
+        "context": " -> reminder.embed.field",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.title\"",
+        "source_string": "Temporary ban granted!",
+        "translation": "Temporary ban granted!",
+        "context": " -> tempban.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.description\"",
+        "source_string": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
+        "translation": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
+        "context": " -> tempban.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.description.field.time\"",
+        "source_string": "Time of action",
+        "translation": "Time of action",
+        "context": " -> tempban.description.field.time",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.description.field.reason\"",
+        "source_string": "Reason",
+        "translation": "Reason",
+        "context": " -> tempban.description.field.reason",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.list.nf\"",
+        "source_string": "There are no registered temporary roles on this server",
+        "translation": "There are no registered temporary roles on this server",
+        "context": " -> tempban.list.nf",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.list.title\"",
+        "source_string": "Temp Bans",
+        "translation": "Temp Bans",
+        "context": " -> tempban.list.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.global.action\"",
+        "source_string": "New time of action",
+        "translation": "New time of action",
+        "context": " -> temprole.global.action",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.change.title\"",
+        "source_string": "The duration of the role has been changed",
+        "translation": "The duration of the role has been changed",
+        "context": " -> temprole.change.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.change.role\"",
+        "source_string": "Role",
+        "translation": "Role",
+        "context": " -> temprole.change.role",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.created.title\"",
+        "source_string": "Temporary role granted!",
+        "translation": "Temporary role granted!",
+        "context": " -> temprole.created.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.list.nf\"",
+        "source_string": "There are no registered temporary roles on this server",
+        "translation": "There are no registered temporary roles on this server",
+        "context": " -> temprole.list.nf",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.list.title\"",
+        "source_string": "Temp Roles",
+        "translation": "Temp Roles",
+        "context": " -> temprole.list.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"clone-role.success\"",
+        "source_string": "Successfully created a new role {role}",
+        "translation": "Successfully created a new role {role}",
+        "context": " -> clone-role.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"purge.error.limit\"",
+        "source_string": "The maximum number of messages to delete is `250`",
+        "translation": "The maximum number of messages to delete is `250`",
+        "context": " -> purge.error.limit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"purge.error.channel\"",
+        "source_string": "To take advantage of this, you need to select messages in one channel.",
+        "translation": "To take advantage of this, you need to select messages in one channel.",
+        "context": " -> purge.error.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"purge.success\"",
+        "source_string": "Deleted {lenght} message(s)",
+        "translation": "Deleted {lenght} message(s)",
+        "context": " -> purge.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"basic.ping.description\"",
+        "source_string": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
+        "translation": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
+        "context": " -> basic.ping.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"basic.avatar.description\"",
+        "source_string": "Avatar of the {member} member",
+        "translation": "Аватар участника {member}",
+        "context": " -> basic.avatar.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"basic.invite.description\"",
+        "source_string": "[**Click to add to your server**]({invite_link})",
+        "translation": "[**Нажмите, чтобы добавить на ваш сервер**]({invite_link})",
+        "context": " -> basic.invite.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.permission.prison\"",
+        "source_string": "You are in prison, and you will be in it for another <t:{conclusion:.0f}:R>.",
+        "translation": "Вы находитесь в тюрьме, и выйдите из нее <t:{conclusion:.0f}:R>.",
+        "context": " -> economy.permission.prison",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.error.unspecified\"",
+        "source_string": "Unfortunately this reward is not available if you are the server administrator change the reward",
+        "translation": "К сожалению, эта награда недоступна, если вы администратор сервера измените награду",
+        "context": " -> economy.reward.error.unspecified",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.error.early.title\"",
+        "source_string": "The reward is not available",
+        "translation": "Награда недоступна",
+        "context": " -> economy.reward.error.early.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.error.early.description\"",
+        "source_string": "Try again after <t:{reward_time:.0f}:R>",
+        "translation": "Попробуйте еще раз <t:{reward_time:.0f}:R>",
+        "context": " -> economy.reward.error.early.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.success.title\"",
+        "source_string": "You have received a gift",
+        "translation": "Вы получили подарок",
+        "context": " -> economy.reward.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.success.description\"",
+        "source_string": "In size {award}{emoji} come through <t:{wait_long:.0f}:R>",
+        "translation": "В размере {award}{emoji}, проходите через <t:{wait_long:.0f}:R>",
+        "context": " -> economy.reward.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.success.title\"",
+        "source_string": "Time to work",
+        "translation": "Время работы",
+        "context": " -> economy.work.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.success.description\"",
+        "source_string": "Come to work through <t:{time:.0f}:R>",
+        "translation": "Приходите работать через <t:{time:.0f}:R>",
+        "context": " -> economy.work.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.error.early.title\"",
+        "source_string": "It's too early to work",
+        "translation": "Еще слишком рано работать",
+        "context": " -> economy.work.error.early.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.error.early.description\"",
+        "source_string": "Try again after <t:{time:.0f}:R>",
+        "translation": "Попробуйте еще раз <t:{time:.0f}:R>",
+        "context": " -> economy.work.error.early.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.daily\"",
+        "source_string": "— Daily Bonus ({prefix}daily)\n",
+        "translation": "— Ежедневный Бонус ({prefix}daily)\n",
+        "context": " -> economy.balance.reward.daily",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.weekly\"",
+        "source_string": "— Weekly Bonus ({prefix}weekly)\n",
+        "translation": "— Еженедельный бонус ({prefix}weekly)\n",
+        "context": " -> economy.balance.reward.weekly",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.monthly\"",
+        "source_string": "— Monthly Bonus ({prefix}monthly)\n",
+        "translation": "— Ежемесячный Бонус ({prefix}monthly)\n",
+        "context": " -> economy.balance.reward.monthly",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.available\"",
+        "source_string": "{Emoji.award} Available Rewards:\n{description}",
+        "translation": "{Emoji.award} Доступные награды:\n{description}",
+        "context": " -> economy.balance.reward.available",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.value.cash\"",
+        "source_string": "{Emoji.money} Cash:",
+        "translation": "{Emoji.money} наличные:",
+        "context": " -> economy.balance.value.cash",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.value.bank\"",
+        "source_string": "{Emoji.bank} In bank:",
+        "translation": "{Emoji.bank} в банке:",
+        "context": " -> economy.balance.value.bank",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.value.total\"",
+        "source_string": "{Emoji.bagmoney} Total balance:",
+        "translation": "{Emoji.bagmoney} Общий баланс:",
+        "context": " -> economy.balance.value.total",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.name\"",
+        "source_string": "Balance",
+        "translation": "Баланс",
+        "context": " -> economy.balance.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Укажите сумму больше **0**",
+        "context": " -> economy.pay.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.error.unenough\"",
+        "source_string": "Not enough funds to check your balance use `{prefix}balance`",
+        "translation": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+        "context": " -> economy.pay.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.success.title\"",
+        "source_string": "Transfer of currency",
+        "translation": "Перевод валюты",
+        "context": " -> economy.pay.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.success.description\"",
+        "source_string": "**{author}** transferred {amount}{emoji} to **{member}** account",
+        "translation": "**{author}** перевел {amount}{emoji} аккаунту **{member}**",
+        "context": " -> economy.pay.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Укажите сумму больше **0**",
+        "context": " -> economy.deposit.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.error.unenough\"",
+        "source_string": "Not enough funds to check your balance use `{prefix}balance`",
+        "translation": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+        "context": " -> economy.deposit.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.success.title\"",
+        "source_string": "Transfer of currency",
+        "translation": "Перевод валюты",
+        "context": " -> economy.deposit.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.success.description\"",
+        "source_string": "You have transferred **{amount:,}**{emoji} to the bank account",
+        "translation": "Вы перевели **{amount:,}**{emoji} на банковский счет",
+        "context": " -> economy.deposit.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Укажите сумму больше **0**",
+        "context": " -> economy.withdraw.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.error.unenough\"",
+        "source_string": "Not enough funds to check your bank balance use `{prefix}balance`",
+        "translation": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+        "context": " -> economy.withdraw.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.success.title\"",
+        "source_string": "Transfer of currency",
+        "translation": "Перевод валюты",
+        "context": " -> economy.withdraw.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.success.description\"",
+        "source_string": "You have transferred **{amount:,}**{emoji}  to the account",
+        "translation": "Вы перевели **{amount:,}**{emoji}  на свой счет",
+        "context": " -> economy.withdraw.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.gift.error.negative\"",
+        "source_string": "The amount must be positive",
+        "translation": "Сумма должна быть положительной",
+        "context": " -> economy.gift.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.gift.success.member\"",
+        "source_string": "You have transferred the amount of **{amount:,}**{emoji} to **{member}**",
+        "translation": "Вы перевели сумму **{amount:,}**{emoji} **{member}**",
+        "context": " -> economy.gift.success.member",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.gift.success.role\"",
+        "source_string": "You have transferred an amount of **{amount:,}**{emoji} to the account of the players with the role **@{role}**",
+        "translation": "Вы перевели сумму **{amount:,}**{emoji} на счет игроков с ролью **@{role}**",
+        "context": " -> economy.gift.success.role",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.error.negative\"",
+        "source_string": "The amount must be positive",
+        "translation": "Сумма должна быть положительной",
+        "context": " -> economy.take.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.error.bank.unenough\"",
+        "source_string": "The operation cannot be performed because the bank balance will become negative during it, if you want to write off the entire currency, pass the value `all` to the account",
+        "translation": "Операция не может быть выполнена, так как баланс банка становится отрицательным во время операции если вы хотите списать всю валюту, передайте значение `all` ",
+        "context": " -> economy.take.error.bank.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.error.balance.unenough\"",
+        "source_string": "The operation cannot be performed because the balance will become negative during it. If you want to debit the entire currency, transfer the value `all` to the account.",
+        "translation": "Операция не может быть выполнена, так как баланс становится отрицательным во время ее действия. Если вы хотите депонировать всю валюту, переведите значение `all`.",
+        "context": " -> economy.take.error.balance.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.success\"",
+        "source_string": "You have withdrawn an amount of **{amount:,}**{emoji} from **{member}**",
+        "translation": "Вы сняли сумму **{amount:,}**{emoji} у **{member}**",
+        "context": " -> economy.take.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.title\"",
+        "source_string": "Robbery",
+        "translation": "Ограбление",
+        "context": " -> economy.rob.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.error.early\"",
+        "source_string": "{member}, You can rob now, come through <t:{time:.0f}:R>.",
+        "translation": "{member}, Вы можете ограбить только через <t:{time:.0f}:R>.",
+        "context": " -> economy.rob.error.early",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.success.mini\"",
+        "source_string": "**{author}**, you were able to steal from **{member}** an {calculated_debt:,.0f}{emoji}, but the victim lost the {debt:,.0f}{emoji}.",
+        "translation": "**{author}**, вы смогли украсть **{member}** {calculated_debt:,.0f}{emoji}, но жертва потеряла {debt:,.0f}{emoji}.",
+        "context": " -> economy.rob.success.mini",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.success.full\"",
+        "source_string": "**{author}**, you were able to steal from **{member}** an {debt:,.0f}{emoji}.",
+        "translation": "**{author}**, вы смогли украсть **{member}** {debt:,.0f}{emoji}.",
+        "context": " -> economy.rob.success.full",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.success.failure\"",
+        "source_string": "**{author}**, you couldn't steal from **{member}** anything during the robbery, but you lost {debt:,.0f}{emoji}.\nAnd you were also put in jail for a <t:{conclusion:.0f}:R>.",
+        "translation": "**{author}**, во время ограбления вы не смогли украсть у **{member}**, и потеряли {debt:,.0f}{emoji}.\nА также были помещены в тюрьму на <t:{conclusion:.0f}:R>.",
+        "context": " -> economy.rob.success.failure",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.invalid\"",
+        "source_string": "An incorrect value has been entered for the roulette game, use the command `{prefix}help roulette` to find out the arguments",
+        "translation": "Введено неверное значение для игры в рулетку, используйте команду `{prefix}help roulette`, чтобы найти аргументы",
+        "context": " -> economy.roulette.error.invalid",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Укажите сумму больше **0**",
+        "context": " -> economy.roulette.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.unenough\"",
+        "source_string": "Not enough funds to check your bank balance use `{prefix}balance`",
+        "translation": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+        "context": " -> economy.roulette.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.limit\"",
+        "source_string": "Your bet is not included in the limits\nThe maximum bid: {max_bet}{emoji}\nThe minimum bid: {min_bet}{emoji}\nYour bid: {amount}{emoji}",
+        "translation": "Ваша ставка вышла за пределы.\nМаксимальная ставка: {max_bet}{emoji}\nМинимальная ставка: {min_bet}{emoji}\nВаша ставка: {amount}{emoji}",
+        "context": " -> economy.roulette.error.limit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.title\"",
+        "source_string": "New roulette game started!",
+        "translation": "Новая рулетка запущена!",
+        "context": " -> economy.roulette.game.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.description\"",
+        "source_string": "**{member}** have placed a bet of **{amount}**{emoji} on **{value}**",
+        "translation": "**{member}** поставил ставку **{amount}**{emoji} на **{value}**",
+        "context": " -> economy.roulette.game.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.footer\"",
+        "source_string": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
+        "translation": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
+        "context": " -> economy.roulette.game.footer",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.goto\"",
+        "source_string": "The game has already started, [go to the game]({url})",
+        "translation": "The game has already started, [go to the game]({url})",
+        "context": " -> economy.roulette.game.goto",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.win\"",
+        "source_string": "**{member}** won **{amount:,}**{emoji}",
+        "translation": "**{member}** won **{amount:,}**{emoji}",
+        "context": " -> economy.roulette.game.result.win",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.lost\"",
+        "source_string": "**{member}** lost **{amount:,}**{emoji}",
+        "translation": "**{member}** lost **{amount:,}**{emoji}",
+        "context": " -> economy.roulette.game.result.lost",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.ball\"",
+        "source_string": "The ball landed on **{win_color} {ran}**",
+        "translation": "The ball landed on **{win_color} {ran}**",
+        "context": " -> economy.roulette.game.result.ball",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.wins.success\"",
+        "source_string": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
+        "translation": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
+        "context": " -> economy.roulette.game.result.wins.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.wins.failed\"",
+        "source_string": "Unfortunately, there are no winners",
+        "translation": "Unfortunately, there are no winners",
+        "context": " -> economy.roulette.game.result.wins.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.out.previous\"",
+        "source_string": "I'll get out of the voice <t:{time:.0f}:R>",
+        "translation": "I'll get out of the voice <t:{time:.0f}:R>",
+        "context": " -> music.player.out.previous",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.out.last\"",
+        "source_string": "The music was over and I left the channel",
+        "translation": "The music was over and I left the channel",
+        "context": " -> music.player.out.last",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.status\"",
+        "source_string": "Status",
+        "translation": "Status",
+        "context": " -> music.player.message.status",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.listen\"",
+        "source_string": "Listening for {passtime} / {fulltime}",
+        "translation": "Listening for {passtime} / {fulltime}",
+        "context": " -> music.player.message.listen",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.pause\"",
+        "source_string": "Pause at {passtime} / {fulltime}",
+        "translation": "Pause at {passtime} / {fulltime}",
+        "context": " -> music.player.message.pause",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.volume\"",
+        "source_string": "Volume: {volume}",
+        "translation": "Volume: {volume}",
+        "context": " -> music.player.message.volume",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.loading\"",
+        "source_string": "{Emoji.loading} Uploading a track",
+        "translation": "{Emoji.loading} Uploading a track",
+        "context": " -> music.player.loading",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.placeholder\"",
+        "source_string": "Select a track from the queue",
+        "translation": "Select a track from the queue",
+        "context": " -> music.player.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.select\"",
+        "source_string": "{Emoji.yandex_music} We found {lenght} tracks according to your request",
+        "translation": "{Emoji.yandex_music} We found {lenght} tracks according to your request",
+        "context": " -> music.player.select",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.added\"",
+        "source_string": "The track has been added to the queue!",
+        "translation": "The track has been added to the queue!",
+        "context": " -> music.player.added",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.not_in_channel\"",
+        "source_string": "{Emoji.cross} You are not in the voice channel",
+        "translation": "{Emoji.cross} You are not in the voice channel",
+        "context": " -> music.error.not_in_channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.already\"",
+        "source_string": "{Emoji.cross} The bot is already busy",
+        "translation": "{Emoji.cross} The bot is already busy",
+        "context": " -> music.error.already",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.bot_not_in_channel\"",
+        "source_string": "{Emoji.cross} The bot is not in the voice channel",
+        "translation": "{Emoji.cross} The bot is not in the voice channel",
+        "context": " -> music.error.bot_not_in_channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.track_not_found\"",
+        "source_string": "{Emoji.cross} No track number {index} found",
+        "translation": "{Emoji.cross} No track number {index} found",
+        "context": " -> music.error.track_not_found",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.current_track\"",
+        "source_string": "{Emoji.cross} This track is already playing\nIf you want to start listening to a track from scratch, use the UI panel",
+        "translation": "{Emoji.cross} This track is already playing\nIf you want to start listening to a track from scratch, use the UI panel",
+        "context": " -> music.error.current_track",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.search\"",
+        "source_string": "{Emoji.cross} No tracks were found for your query",
+        "translation": "{Emoji.cross} No tracks were found for your query",
+        "context": " -> music.error.search",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    }
+]
