@@ -1,15 +1,15 @@
 import orjson
 languages = ['da', 'de', 'en','es', 'fr','pl', 'ru', 'tr']
 
-localization_data = dict.fromkeys(languages, {})
+localization_data = {}
 
 for lang in  languages:
     with open(f'{lang}/Strings.json', 'rb') as file:
-        print(lang)
+        print(f'{lang}/Strings.json', lang, file)
         for data in orjson.loads(file.read()):
-            print(data)
             key = data['identifier'].strip('"')
-            print(key)
+            localization_data.setdefault(lang, {})
             localization_data[lang][key] = data['translation']
 
 open('any_localization.json', 'wb').write(orjson.dumps(localization_data))
+
