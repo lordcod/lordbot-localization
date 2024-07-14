@@ -1754,7 +1754,7 @@
     {
         "identifier": "\"settings.logs.embed.title\"",
         "source_string": "System logs",
-        "translation": "System logs",
+        "translation": "Системные логи",
         "context": " -> settings.logs.embed.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1762,7 +1762,7 @@
     {
         "identifier": "\"settings.logs.embed.description\"",
         "source_string": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
-        "translation": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+        "translation": "В зависимости от системных настроек, системные журналы могут содержать различные уровни детальной информации. Это позволяет администраторам настраивать уровень детализации журнала в соответствии с требованиями безопасности и аудита.",
         "context": " -> settings.logs.embed.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1770,7 +1770,7 @@
     {
         "identifier": "\"settings.roles.error.default\"",
         "source_string": "The @everyone role is the default role for all users and can't be selected.",
-        "translation": "The @everyone role is the default role for all users and can't be selected.",
+        "translation": "Роль @everyone является ролью по умолчанию для всех пользователей и не может быть выбрана.",
         "context": " -> settings.roles.error.default",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1778,7 +1778,7 @@
     {
         "identifier": "\"settings.roles.error.premium\"",
         "source_string": "The {role} role is a role that is used by subscribers of your server.",
-        "translation": "The {role} role is a role that is used by subscribers of your server.",
+        "translation": "Роль {role} - это роль, которая используется бустерами вашего сервера.",
         "context": " -> settings.roles.error.premium",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1786,7 +1786,7 @@
     {
         "identifier": "\"settings.roles.error.integration\"",
         "source_string": "The {role} role cannot be assigned and is used for integration or by a bot.",
-        "translation": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "translation": "Роль {role} не может быть назначена и используется для интеграции или ботом.",
         "context": " -> settings.roles.error.integration",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1794,7 +1794,7 @@
     {
         "identifier": "\"settings.roles.error.assignable\"",
         "source_string": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
-        "translation": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
+        "translation": "Бот не сможет назначить роль {role}, так как эта роль ниже, чем бот. Чтобы решить эту проблему, пожалуйста, переместите роль {bot_role} на более высокую позицию, чем {role}.",
         "context": " -> settings.roles.error.assignable",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1802,7 +1802,7 @@
     {
         "identifier": "\"settings.permission.denied\"",
         "source_string": "You don't have the authority to use the settings",
-        "translation": "You don't have the authority to use the settings",
+        "translation": "У вас нет прав на изменение настроек",
         "context": " -> settings.permission.denied",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1810,7 +1810,7 @@
     {
         "identifier": "\"settings.role-reaction.global.title\"",
         "source_string": "Roles for reactions",
-        "translation": "Roles for reactions",
+        "translation": "Роли по реакциям",
         "context": " -> settings.role-reaction.global.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1818,7 +1818,7 @@
     {
         "identifier": "\"settings.role-reaction.global.description\"",
         "source_string": "This module will help you assign roles based on reactions",
-        "translation": "This module will help you assign roles based on reactions",
+        "translation": "Этот модуль поможет вам назначить роли, основанные на реакциях",
         "context": " -> settings.role-reaction.global.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1826,7 +1826,7 @@
     {
         "identifier": "\"settings.role-reaction.role-view.select\"",
         "source_string": "Select the reaction role you want to edit",
-        "translation": "Select the reaction role you want to edit",
+        "translation": "Выберите роль реакции, которую вы хотите изменить",
         "context": " -> settings.role-reaction.role-view.select",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1834,7 +1834,7 @@
     {
         "identifier": "\"settings.role-reaction.item.role-set-dropdown\"",
         "source_string": "Select a role to delete or change",
-        "translation": "Select a role to delete or change",
+        "translation": "Выберите роль для удаления или изменения",
         "context": " -> settings.role-reaction.item.role-set-dropdown",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1842,7 +1842,7 @@
     {
         "identifier": "\"settings.role-reaction.item.role-dropdown\"",
         "source_string": "Select the role that will be provided when you click on the reaction",
-        "translation": "Select the role that will be provided when you click on the reaction",
+        "translation": "Выберите роль, которая будет предоставлена при клике на реакцию",
         "context": " -> settings.role-reaction.item.role-dropdown",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1850,7 +1850,7 @@
     {
         "identifier": "\"settings.role-reaction.item.field\"",
         "source_string": "Reactions",
-        "translation": "Reactions",
+        "translation": "Реакции",
         "context": " -> settings.role-reaction.item.field",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1858,7 +1858,7 @@
     {
         "identifier": "\"settings.role-reaction.selector.channel\"",
         "source_string": "Find a channel to have the perfect way to use roles and reactions!",
-        "translation": "Find a channel to have the perfect way to use roles and reactions!",
+        "translation": "Найдите канал, чтобы иметь отличный способ использовать роли и реакции!",
         "context": " -> settings.role-reaction.selector.channel",
         "labels": "temp_loc_en_2.json",
         "max_length": null
