@@ -2545,8 +2545,8 @@
     },
     {
         "identifier": "\"music.player.message.volume\"",
-        "source_string": "Volume: {volume}",
-        "translation": "Volume: {volume}",
+        "source_string": "Volume",
+        "translation": "Volume",
         "context": " -> music.player.message.volume",
         "labels": "temp_loc_en_2.json",
         "max_length": null

@@ -10,7 +10,7 @@
     {
         "identifier": "\"bot-info.description\"",
         "source_string": "The bot is designed to facilitate server management and is equipped with various automation tool\nServer prefix: `{prefix}`",
-        "translation": "Бот предназначен для облегчения управления сервером и оснащен различными средствами автоматизации\nПрефикс сервера: `{префикс}`",
+        "translation": "Бот предназначен для облегчения управления сервером и оснащен различными средствами автоматизации\nПрефикс сервера: `{prefix}`",
         "context": " -> bot-info.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -122,7 +122,7 @@
     {
         "identifier": "\"help.command-embed.title\"",
         "source_string": "Help on the `{name}` command.",
-        "translation": "Справка по команде \"{имя}\".",
+        "translation": "Справка по команде `{name}`.",
         "context": " -> help.command-embed.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -178,7 +178,7 @@
     {
         "identifier": "\"help.command-embed.using_command\"",
         "source_string": "Using: `{using}`\n",
-        "translation": "Используя: `{используя}`\n",
+        "translation": "Используя: `{using}`\n",
         "context": " -> help.command-embed.using_command",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -450,7 +450,7 @@
     {
         "identifier": "\"ideas.confirm-view.refused\"",
         "source_string": "Refused | {name}",
-        "translation": "Отказано | {namr}",
+        "translation": "Отказано | {name}",
         "context": " -> ideas.confirm-view.refused",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1754,7 +1754,7 @@
     {
         "identifier": "\"settings.logs.embed.title\"",
         "source_string": "System logs",
-        "translation": "System logs",
+        "translation": "Системные логи",
         "context": " -> settings.logs.embed.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1762,7 +1762,7 @@
     {
         "identifier": "\"settings.logs.embed.description\"",
         "source_string": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
-        "translation": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+        "translation": "В зависимости от системных настроек, системные журналы могут содержать различные уровни детальной информации. Это позволяет администраторам настраивать уровень детализации журнала в соответствии с требованиями безопасности и аудита.",
         "context": " -> settings.logs.embed.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1770,7 +1770,7 @@
     {
         "identifier": "\"settings.roles.error.default\"",
         "source_string": "The @everyone role is the default role for all users and can't be selected.",
-        "translation": "The @everyone role is the default role for all users and can't be selected.",
+        "translation": "Роль @everyone является ролью по умолчанию для всех пользователей и не может быть выбрана.",
         "context": " -> settings.roles.error.default",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1778,7 +1778,7 @@
     {
         "identifier": "\"settings.roles.error.premium\"",
         "source_string": "The {role} role is a role that is used by subscribers of your server.",
-        "translation": "The {role} role is a role that is used by subscribers of your server.",
+        "translation": "Роль {role} - это роль, которая используется бустерами вашего сервера.",
         "context": " -> settings.roles.error.premium",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1786,7 +1786,7 @@
     {
         "identifier": "\"settings.roles.error.integration\"",
         "source_string": "The {role} role cannot be assigned and is used for integration or by a bot.",
-        "translation": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "translation": "Роль {role} не может быть назначена и используется для интеграции или ботом.",
         "context": " -> settings.roles.error.integration",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1794,7 +1794,7 @@
     {
         "identifier": "\"settings.roles.error.assignable\"",
         "source_string": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
-        "translation": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
+        "translation": "Бот не сможет назначить роль {role}, так как эта роль ниже, чем бот. Чтобы решить эту проблему, пожалуйста, переместите роль {bot_role} на более высокую позицию, чем {role}.",
         "context": " -> settings.roles.error.assignable",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1802,7 +1802,7 @@
     {
         "identifier": "\"settings.permission.denied\"",
         "source_string": "You don't have the authority to use the settings",
-        "translation": "You don't have the authority to use the settings",
+        "translation": "У вас нет прав на изменение настроек",
         "context": " -> settings.permission.denied",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1810,7 +1810,7 @@
     {
         "identifier": "\"settings.role-reaction.global.title\"",
         "source_string": "Roles for reactions",
-        "translation": "Roles for reactions",
+        "translation": "Роли по реакциям",
         "context": " -> settings.role-reaction.global.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1818,7 +1818,7 @@
     {
         "identifier": "\"settings.role-reaction.global.description\"",
         "source_string": "This module will help you assign roles based on reactions",
-        "translation": "This module will help you assign roles based on reactions",
+        "translation": "Этот модуль поможет вам назначить роли, основанные на реакциях",
         "context": " -> settings.role-reaction.global.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1826,7 +1826,7 @@
     {
         "identifier": "\"settings.role-reaction.role-view.select\"",
         "source_string": "Select the reaction role you want to edit",
-        "translation": "Select the reaction role you want to edit",
+        "translation": "Выберите роль реакции, которую вы хотите изменить",
         "context": " -> settings.role-reaction.role-view.select",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1834,7 +1834,7 @@
     {
         "identifier": "\"settings.role-reaction.item.role-set-dropdown\"",
         "source_string": "Select a role to delete or change",
-        "translation": "Select a role to delete or change",
+        "translation": "Выберите роль для удаления или изменения",
         "context": " -> settings.role-reaction.item.role-set-dropdown",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1842,7 +1842,7 @@
     {
         "identifier": "\"settings.role-reaction.item.role-dropdown\"",
         "source_string": "Select the role that will be provided when you click on the reaction",
-        "translation": "Select the role that will be provided when you click on the reaction",
+        "translation": "Выберите роль, которая будет предоставлена при клике на реакцию",
         "context": " -> settings.role-reaction.item.role-dropdown",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1850,7 +1850,7 @@
     {
         "identifier": "\"settings.role-reaction.item.field\"",
         "source_string": "Reactions",
-        "translation": "Reactions",
+        "translation": "Реакции",
         "context": " -> settings.role-reaction.item.field",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1858,7 +1858,7 @@
     {
         "identifier": "\"settings.role-reaction.selector.channel\"",
         "source_string": "Find a channel to have the perfect way to use roles and reactions!",
-        "translation": "Find a channel to have the perfect way to use roles and reactions!",
+        "translation": "Найдите канал, чтобы иметь отличный способ использовать роли и реакции!",
         "context": " -> settings.role-reaction.selector.channel",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1866,7 +1866,7 @@
     {
         "identifier": "\"settings.role-reaction.selector.message\"",
         "source_string": "Select the message that will display the reactions!",
-        "translation": "Select the message that will display the reactions!",
+        "translation": "Выберите сообщение, на котором будут отображаться реакции!",
         "context": " -> settings.role-reaction.selector.message",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1874,7 +1874,7 @@
     {
         "identifier": "\"reminder.error.time\"",
         "source_string": "You must specify a time that is later than the current time.",
-        "translation": "You must specify a time that is later than the current time.",
+        "translation": "Необходимо указать время, которое позже текущего времени.",
         "context": " -> reminder.error.time",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1882,7 +1882,7 @@
     {
         "identifier": "\"reminder.success\"",
         "source_string": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
-        "translation": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
+        "translation": "🛎️ ОК, я напомню вам здесь <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
         "context": " -> reminder.success",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1890,7 +1890,7 @@
     {
         "identifier": "\"reminder.embed.title\"",
         "source_string": "🛎️ Reminder",
-        "translation": "🛎️ Reminder",
+        "translation": "🛎️ Напоминание",
         "context": " -> reminder.embed.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1898,7 +1898,7 @@
     {
         "identifier": "\"reminder.embed.description\"",
         "source_string": "{time} ago you asked me to remind you",
-        "translation": "{time} ago you asked me to remind you",
+        "translation": "{time} Вы меня просили напомнить",
         "context": " -> reminder.embed.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1906,7 +1906,7 @@
     {
         "identifier": "\"reminder.embed.field\"",
         "source_string": "Remind",
-        "translation": "Remind",
+        "translation": "Напоминание",
         "context": " -> reminder.embed.field",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1914,7 +1914,7 @@
     {
         "identifier": "\"tempban.title\"",
         "source_string": "Temporary ban granted!",
-        "translation": "Temporary ban granted!",
+        "translation": "Временный бан предоставлен!",
         "context": " -> tempban.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1922,7 +1922,7 @@
     {
         "identifier": "\"tempban.description\"",
         "source_string": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
-        "translation": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
+        "translation": "Забанен: {member} ({member_id})\nМодератор: {author} ({author_id})",
         "context": " -> tempban.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1930,7 +1930,7 @@
     {
         "identifier": "\"tempban.description.field.time\"",
         "source_string": "Time of action",
-        "translation": "Time of action",
+        "translation": "Время действия",
         "context": " -> tempban.description.field.time",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1938,7 +1938,7 @@
     {
         "identifier": "\"tempban.description.field.reason\"",
         "source_string": "Reason",
-        "translation": "Reason",
+        "translation": "Причина",
         "context": " -> tempban.description.field.reason",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1946,7 +1946,7 @@
     {
         "identifier": "\"tempban.list.nf\"",
         "source_string": "There are no registered temporary roles on this server",
-        "translation": "There are no registered temporary roles on this server",
+        "translation": "На этом сервере нет зарегистрированных временных ролей",
         "context": " -> tempban.list.nf",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1954,7 +1954,7 @@
     {
         "identifier": "\"tempban.list.title\"",
         "source_string": "Temp Bans",
-        "translation": "Temp Bans",
+        "translation": "Временные баны",
         "context": " -> tempban.list.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1962,7 +1962,7 @@
     {
         "identifier": "\"temprole.global.action\"",
         "source_string": "New time of action",
-        "translation": "New time of action",
+        "translation": "Новое время действия",
         "context": " -> temprole.global.action",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1970,7 +1970,7 @@
     {
         "identifier": "\"temprole.change.title\"",
         "source_string": "The duration of the role has been changed",
-        "translation": "The duration of the role has been changed",
+        "translation": "Продолжительность роли была изменена",
         "context": " -> temprole.change.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1978,7 +1978,7 @@
     {
         "identifier": "\"temprole.change.role\"",
         "source_string": "Role",
-        "translation": "Role",
+        "translation": "Роль",
         "context": " -> temprole.change.role",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1986,7 +1986,7 @@
     {
         "identifier": "\"temprole.created.title\"",
         "source_string": "Temporary role granted!",
-        "translation": "Temporary role granted!",
+        "translation": "Временная роль предоставлена!",
         "context": " -> temprole.created.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1994,7 +1994,7 @@
     {
         "identifier": "\"temprole.list.nf\"",
         "source_string": "There are no registered temporary roles on this server",
-        "translation": "There are no registered temporary roles on this server",
+        "translation": "На этом сервере нет зарегистрированных временных ролей",
         "context": " -> temprole.list.nf",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2002,7 +2002,7 @@
     {
         "identifier": "\"temprole.list.title\"",
         "source_string": "Temp Roles",
-        "translation": "Temp Roles",
+        "translation": "Временные роли",
         "context": " -> temprole.list.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2010,7 +2010,7 @@
     {
         "identifier": "\"clone-role.success\"",
         "source_string": "Successfully created a new role {role}",
-        "translation": "Successfully created a new role {role}",
+        "translation": "Успешно создана новая роль {role}",
         "context": " -> clone-role.success",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2018,7 +2018,7 @@
     {
         "identifier": "\"purge.error.limit\"",
         "source_string": "The maximum number of messages to delete is `250`",
-        "translation": "The maximum number of messages to delete is `250`",
+        "translation": "Максимальное количество удаляемых сообщений — `250`",
         "context": " -> purge.error.limit",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2026,7 +2026,7 @@
     {
         "identifier": "\"purge.error.channel\"",
         "source_string": "To take advantage of this, you need to select messages in one channel.",
-        "translation": "To take advantage of this, you need to select messages in one channel.",
+        "translation": "Чтобы воспользоваться этой командой, необходимо выбрать сообщения в одном канале.",
         "context": " -> purge.error.channel",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2034,7 +2034,7 @@
     {
         "identifier": "\"purge.success\"",
         "source_string": "Deleted {lenght} message(s)",
-        "translation": "Deleted {lenght} message(s)",
+        "translation": "Удалено {lenght} сообщений",
         "context": " -> purge.success",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2042,7 +2042,7 @@
     {
         "identifier": "\"basic.ping.description\"",
         "source_string": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
-        "translation": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
+        "translation": "Задержка Discord:  {discord_latency_ms}мс\nЗадержка базы данных: {databases_latency_ms}мс\nЗадержка обработки команды: {command_latency_ms}мс\nСегмент: {shard_id}",
         "context": " -> basic.ping.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2450,7 +2450,7 @@
     {
         "identifier": "\"economy.roulette.game.footer\"",
         "source_string": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
-        "translation": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
+        "translation": "Время осталось: 10 секунд после каждой ставки (макс. 1 минута)",
         "context": " -> economy.roulette.game.footer",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2458,7 +2458,7 @@
     {
         "identifier": "\"economy.roulette.game.goto\"",
         "source_string": "The game has already started, [go to the game]({url})",
-        "translation": "The game has already started, [go to the game]({url})",
+        "translation": "Игра уже началась, [перейти к игре]({url})",
         "context": " -> economy.roulette.game.goto",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2466,7 +2466,7 @@
     {
         "identifier": "\"economy.roulette.game.result.win\"",
         "source_string": "**{member}** won **{amount:,}**{emoji}",
-        "translation": "**{member}** won **{amount:,}**{emoji}",
+        "translation": "**{member}** выиграл **{amount:,}**{emoji}",
         "context": " -> economy.roulette.game.result.win",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2474,7 +2474,7 @@
     {
         "identifier": "\"economy.roulette.game.result.lost\"",
         "source_string": "**{member}** lost **{amount:,}**{emoji}",
-        "translation": "**{member}** lost **{amount:,}**{emoji}",
+        "translation": "**{member}** проиграл **{amount:,}**{emoji}",
         "context": " -> economy.roulette.game.result.lost",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2482,7 +2482,7 @@
     {
         "identifier": "\"economy.roulette.game.result.ball\"",
         "source_string": "The ball landed on **{win_color} {ran}**",
-        "translation": "The ball landed on **{win_color} {ran}**",
+        "translation": "Шар приземлился на **{win_color} {ran}**",
         "context": " -> economy.roulette.game.result.ball",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2490,7 +2490,7 @@
     {
         "identifier": "\"economy.roulette.game.result.wins.success\"",
         "source_string": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
-        "translation": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
+        "translation": "**{wins}** выиграли и их общий приз равняется **{amount:,}**{emoji}",
         "context": " -> economy.roulette.game.result.wins.success",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2498,7 +2498,7 @@
     {
         "identifier": "\"economy.roulette.game.result.wins.failed\"",
         "source_string": "Unfortunately, there are no winners",
-        "translation": "Unfortunately, there are no winners",
+        "translation": "К сожалению, победителей нет",
         "context": " -> economy.roulette.game.result.wins.failed",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2506,7 +2506,7 @@
     {
         "identifier": "\"music.player.out.previous\"",
         "source_string": "I'll get out of the voice <t:{time:.0f}:R>",
-        "translation": "I'll get out of the voice <t:{time:.0f}:R>",
+        "translation": "Я уйду из войса <t:{time:.0f}:R>",
         "context": " -> music.player.out.previous",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2514,7 +2514,7 @@
     {
         "identifier": "\"music.player.out.last\"",
         "source_string": "The music was over and I left the channel",
-        "translation": "The music was over and I left the channel",
+        "translation": "Музыка закончилась, и я вышел канал",
         "context": " -> music.player.out.last",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2522,7 +2522,7 @@
     {
         "identifier": "\"music.player.message.status\"",
         "source_string": "Status",
-        "translation": "Status",
+        "translation": "Статус",
         "context": " -> music.player.message.status",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2530,7 +2530,7 @@
     {
         "identifier": "\"music.player.message.listen\"",
         "source_string": "Listening for {passtime} / {fulltime}",
-        "translation": "Listening for {passtime} / {fulltime}",
+        "translation": "Прослушивание в течение {passtime} / {fulltime}",
         "context": " -> music.player.message.listen",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2538,15 +2538,15 @@
     {
         "identifier": "\"music.player.message.pause\"",
         "source_string": "Pause at {passtime} / {fulltime}",
-        "translation": "Pause at {passtime} / {fulltime}",
+        "translation": "Пауза на {passtime} / {fulltime}",
         "context": " -> music.player.message.pause",
         "labels": "temp_loc_en_2.json",
         "max_length": null
     },
     {
         "identifier": "\"music.player.message.volume\"",
-        "source_string": "Volume: {volume}",
-        "translation": "Volume: {volume}",
+        "source_string": "Volume",
+        "translation": "Громкость",
         "context": " -> music.player.message.volume",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2554,7 +2554,7 @@
     {
         "identifier": "\"music.player.loading\"",
         "source_string": "{Emoji.loading} Uploading a track",
-        "translation": "{Emoji.loading} Uploading a track",
+        "translation": "{Emoji.loading} Загрузка трека",
         "context": " -> music.player.loading",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2562,7 +2562,7 @@
     {
         "identifier": "\"music.player.placeholder\"",
         "source_string": "Select a track from the queue",
-        "translation": "Select a track from the queue",
+        "translation": "Выберите трек из очереди",
         "context": " -> music.player.placeholder",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2570,7 +2570,7 @@
     {
         "identifier": "\"music.player.select\"",
         "source_string": "{Emoji.yandex_music} We found {lenght} tracks according to your request",
-        "translation": "{Emoji.yandex_music} We found {lenght} tracks according to your request",
+        "translation": "{Emoji.yandex_music} Мы нашли треки {lenght} по вашему запросу",
         "context": " -> music.player.select",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2578,7 +2578,7 @@
     {
         "identifier": "\"music.player.added\"",
         "source_string": "The track has been added to the queue!",
-        "translation": "The track has been added to the queue!",
+        "translation": "Трек был добавлен в очередь!",
         "context": " -> music.player.added",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2586,7 +2586,7 @@
     {
         "identifier": "\"music.error.not_in_channel\"",
         "source_string": "{Emoji.cross} You are not in the voice channel",
-        "translation": "{Emoji.cross} You are not in the voice channel",
+        "translation": "{Emoji.cross} Вы не подключены к голосовому каналу",
         "context": " -> music.error.not_in_channel",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2594,7 +2594,7 @@
     {
         "identifier": "\"music.error.already\"",
         "source_string": "{Emoji.cross} The bot is already busy",
-        "translation": "{Emoji.cross} The bot is already busy",
+        "translation": "{Emoji.cross} Бот уже занят",
         "context": " -> music.error.already",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2602,7 +2602,7 @@
     {
         "identifier": "\"music.error.bot_not_in_channel\"",
         "source_string": "{Emoji.cross} The bot is not in the voice channel",
-        "translation": "{Emoji.cross} The bot is not in the voice channel",
+        "translation": "{Emoji.cross} Бот не подключен к голосовому каналу",
         "context": " -> music.error.bot_not_in_channel",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2610,7 +2610,7 @@
     {
         "identifier": "\"music.error.track_not_found\"",
         "source_string": "{Emoji.cross} No track number {index} found",
-        "translation": "{Emoji.cross} No track number {index} found",
+        "translation": "{Emoji.cross} Не найден трек-номер {index}",
         "context": " -> music.error.track_not_found",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2618,7 +2618,7 @@
     {
         "identifier": "\"music.error.current_track\"",
         "source_string": "{Emoji.cross} This track is already playing\nIf you want to start listening to a track from scratch, use the UI panel",
-        "translation": "{Emoji.cross} This track is already playing\nIf you want to start listening to a track from scratch, use the UI panel",
+        "translation": "{Emoji.cross} Этот трек уже проигрывается\nЕсли вы хотите начать прослушивание трека заново, воспользуйтесь панелью пользовательского интерфейса",
         "context": " -> music.error.current_track",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2626,7 +2626,7 @@
     {
         "identifier": "\"music.error.search\"",
         "source_string": "{Emoji.cross} No tracks were found for your query",
-        "translation": "{Emoji.cross} No tracks were found for your query",
+        "translation": "{Emoji.cross} По вашему запросу не найдено ни одного трека",
         "context": " -> music.error.search",
         "labels": "temp_loc_en_2.json",
         "max_length": null
