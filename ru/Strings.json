@@ -434,7 +434,7 @@
     {
         "identifier": "\"ideas.confirm-view.button.deny\"",
         "source_string": "Deny",
-        "translation": "Отрицать",
+        "translation": "Отказать",
         "context": " -> ideas.confirm-view.button.deny",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2770,7 +2770,7 @@
     {
         "identifier": "\"tempvoice.items.select.kick.placeholder\"",
         "source_string": "Select the participant you want to kick",
-        "translation": "Select the participant you want to kick",
+        "translation": "Выберите участника, которого вы хотите выгнать",
         "context": " -> tempvoice.items.select.kick.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2778,7 +2778,7 @@
     {
         "identifier": "\"tempvoice.items.select.kick.success\"",
         "source_string": "You have successfully bailed out a participant {mention}.",
-        "translation": "You have successfully bailed out a participant {mention}.",
+        "translation": "Вы успешно кикнули участника {mention}.",
         "context": " -> tempvoice.items.select.kick.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2786,7 +2786,7 @@
     {
         "identifier": "\"tempvoice.items.select.invite.placeholder\"",
         "source_string": "Select the participant you want to invite",
-        "translation": "Select the participant you want to invite",
+        "translation": "Выберите участника, которого вы хотите пригласить",
         "context": " -> tempvoice.items.select.invite.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2794,7 +2794,7 @@
     {
         "identifier": "\"tempvoice.items.select.invite.message\"",
         "source_string": "**{name}** has invited you to his temporary channel!\n{invite}",
-        "translation": "**{name}** has invited you to his temporary channel!\n{invite}",
+        "translation": "**{name}** пригласил вас в свой временный канал!\n{invite}",
         "context": " -> tempvoice.items.select.invite.message",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2802,7 +2802,7 @@
     {
         "identifier": "\"tempvoice.items.select.invite.success\"",
         "source_string": "You have successfully invited a participant {mention}",
-        "translation": "You have successfully invited a participant {mention}",
+        "translation": "Вы успешно пригласили участника {mention}",
         "context": " -> tempvoice.items.select.invite.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2810,7 +2810,7 @@
     {
         "identifier": "\"tempvoice.items.select.mute_univ.placeholder\"",
         "source_string": "Select the participant you want to turn off/on the microphone for",
-        "translation": "Select the participant you want to turn off/on the microphone for",
+        "translation": "Выберите участника, у которого вы хотите выключить/включить микрофон",
         "context": " -> tempvoice.items.select.mute_univ.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2818,7 +2818,7 @@
     {
         "identifier": "\"tempvoice.items.select.mute.placeholder\"",
         "source_string": "Select the participant you want to turn off the microphone for",
-        "translation": "Select the participant you want to turn off the microphone for",
+        "translation": "Выберите участника, у которого вы хотите выключить микрофон",
         "context": " -> tempvoice.items.select.mute.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2826,7 +2826,7 @@
     {
         "identifier": "\"tempvoice.items.select.mute.success\"",
         "source_string": "You have successfully turned on the microphone to the participant {mention}.",
-        "translation": "You have successfully turned on the microphone to the participant {mention}.",
+        "translation": "Вы успешно включили микрофон для участника {mention}.",
         "context": " -> tempvoice.items.select.mute.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2834,7 +2834,7 @@
     {
         "identifier": "\"tempvoice.items.select.unmute.placeholder\"",
         "source_string": "Select the participant you want to turn on the microphone for",
-        "translation": "Select the participant you want to turn on the microphone for",
+        "translation": "Выберите участника, у которого вы хотите включить микрофон",
         "context": " -> tempvoice.items.select.unmute.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2842,7 +2842,7 @@
     {
         "identifier": "\"tempvoice.items.select.unmute.success\"",
         "source_string": "You have successfully turned off the microphone to the participant {mention}.",
-        "translation": "You have successfully turned off the microphone to the participant {mention}.",
+        "translation": "Вы успешно выключили микрофон участнику {mention}.",
         "context": " -> tempvoice.items.select.unmute.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2850,7 +2850,7 @@
     {
         "identifier": "\"tempvoice.items.modal.limit.title\"",
         "source_string": "Channel limit",
-        "translation": "Channel limit",
+        "translation": "Лимит канала",
         "context": " -> tempvoice.items.modal.limit.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2858,7 +2858,7 @@
     {
         "identifier": "\"tempvoice.items.modal.limit.label\"",
         "source_string": "Limit",
-        "translation": "Limit",
+        "translation": "Лимит",
         "context": " -> tempvoice.items.modal.limit.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2866,7 +2866,7 @@
     {
         "identifier": "\"tempvoice.items.modal.limit.placeholder\"",
         "source_string": "Set the channel limit from 0 to 99. 0 is no limit.",
-        "translation": "Set the channel limit from 0 to 99. 0 is no limit.",
+        "translation": "Установка лимита канала от 0 до 99. 0 - нет ограничений.",
         "context": " -> tempvoice.items.modal.limit.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2874,7 +2874,7 @@
     {
         "identifier": "\"tempvoice.items.modal.limit.success\"",
         "source_string": "You have successfully set the channel limit.",
-        "translation": "You have successfully set the channel limit.",
+        "translation": "Вы успешно установили лимит на канал.",
         "context": " -> tempvoice.items.modal.limit.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2882,7 +2882,7 @@
     {
         "identifier": "\"tempvoice.items.modal.bitrate.title\"",
         "source_string": "Channel bitrate",
-        "translation": "Channel bitrate",
+        "translation": "Битрейт канала",
         "context": " -> tempvoice.items.modal.bitrate.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2890,7 +2890,7 @@
     {
         "identifier": "\"tempvoice.items.modal.bitrate.label\"",
         "source_string": "Bitrate",
-        "translation": "Bitrate",
+        "translation": "Битрейт",
         "context": " -> tempvoice.items.modal.bitrate.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2898,7 +2898,7 @@
     {
         "identifier": "\"tempvoice.items.modal.bitrate.placeholder\"",
         "source_string": "Set the channel bitrate from 8 to {bitrate_limit:.0f}.",
-        "translation": "Set the channel bitrate from 8 to {bitrate_limit:.0f}.",
+        "translation": "Установить битрейт канала от 8 до {bitrate_limit:.0f}.",
         "context": " -> tempvoice.items.modal.bitrate.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2906,7 +2906,7 @@
     {
         "identifier": "\"tempvoice.items.modal.bitrate.success\"",
         "source_string": "You have successfully set the channel bitrate.",
-        "translation": "You have successfully set the channel bitrate.",
+        "translation": "Вы успешно установили битрейт канала.",
         "context": " -> tempvoice.items.modal.bitrate.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2914,7 +2914,7 @@
     {
         "identifier": "\"tempvoice.items.modal.name.title\"",
         "source_string": "Channel name",
-        "translation": "Channel name",
+        "translation": "Название канала",
         "context": " -> tempvoice.items.modal.name.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2922,7 +2922,7 @@
     {
         "identifier": "\"tempvoice.items.modal.name.label\"",
         "source_string": "Name",
-        "translation": "Name",
+        "translation": "Название",
         "context": " -> tempvoice.items.modal.name.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2930,7 +2930,7 @@
     {
         "identifier": "\"tempvoice.items.modal.name.placeholder\"",
         "source_string": "Set the channel name.",
-        "translation": "Set the channel name.",
+        "translation": "Задайте название канала.",
         "context": " -> tempvoice.items.modal.name.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2938,7 +2938,7 @@
     {
         "identifier": "\"tempvoice.items.modal.name.success\"",
         "source_string": "You have successfully set the channel name.",
-        "translation": "You have successfully set the channel name.",
+        "translation": "Вы успешно изменили название канала.",
         "context": " -> tempvoice.items.modal.name.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2946,7 +2946,7 @@
     {
         "identifier": "\"tempvoice.items.func.ghost.success\"",
         "source_string": "The channel has been successfully hide to everyone.",
-        "translation": "The channel has been successfully hide to everyone.",
+        "translation": "Канал был успешно скрыт для всех.",
         "context": " -> tempvoice.items.func.ghost.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2954,7 +2954,7 @@
     {
         "identifier": "\"tempvoice.items.func.unghost.success\"",
         "source_string": "The channel has been successfully shown to everyone.",
-        "translation": "The channel has been successfully shown to everyone.",
+        "translation": "Канал был успешно показан для всех.",
         "context": " -> tempvoice.items.func.unghost.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2962,7 +2962,7 @@
     {
         "identifier": "\"tempvoice.items.func.lock.success\"",
         "source_string": "The channel has been successfully lock to everyone.",
-        "translation": "The channel has been successfully lock to everyone.",
+        "translation": "Канал был успешно заблокирован для всех.",
         "context": " -> tempvoice.items.func.lock.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2970,7 +2970,7 @@
     {
         "identifier": "\"tempvoice.items.func.unlock.success\"",
         "source_string": "The channel has been successfully unlock to everyone.",
-        "translation": "The channel has been successfully unlock to everyone.",
+        "translation": "Канал был успешно разблокирован для всех.",
         "context": " -> tempvoice.items.func.unlock.success",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2978,7 +2978,7 @@
     {
         "identifier": "\"tempvoice.panel.message.title\"",
         "source_string": "{emoji} Private rooms",
-        "translation": "{emoji} Private rooms",
+        "translation": "{emoji} Приватные комнаты",
         "context": " -> tempvoice.panel.message.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -2986,7 +2986,7 @@
     {
         "identifier": "\"tempvoice.panel.message.description\"",
         "source_string": "Change your private channel using the UI control panel.",
-        "translation": "Change your private channel using the UI control panel.",
+        "translation": "Изменить приватный канал с помощью панели управления UI.",
         "context": " -> tempvoice.panel.message.description",
         "labels": "temp_loc_en.json",
         "max_length": null
