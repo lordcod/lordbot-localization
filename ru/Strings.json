@@ -434,7 +434,7 @@
     {
         "identifier": "\"ideas.confirm-view.button.deny\"",
         "source_string": "Deny",
-        "translation": "Отрицать",
+        "translation": "Отказать",
         "context": " -> ideas.confirm-view.button.deny",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -2629,6 +2629,1886 @@
         "translation": "{Emoji.cross} По вашему запросу не найдено ни одного трека",
         "context": " -> music.error.search",
         "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.room_limit\"",
+        "source_string": "{Emoji.cross} {mention} You will be able to create a new temporary room only after <t:{limited_time:.0f}:R>",
+        "translation": "{Emoji.cross} {mention} Вы сможете создать временную комнату только через <t:{limited_time:.0f}:R>",
+        "context": " -> tempvoice.errors.room_limit",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.room_not_found\"",
+        "source_string": "{Emoji.cross} I didn't find the private room you opened.",
+        "translation": "{Emoji.cross} Я не обнаружил приватную комнату, которую вы открыли.",
+        "context": " -> tempvoice.errors.room_not_found",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.himself\"",
+        "source_string": "{Emoji.cross} You can't choose yourself.",
+        "translation": "{Emoji.cross} Вы не можете выбрать себя.",
+        "context": " -> tempvoice.errors.himself",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.not_user\"",
+        "source_string": "{Emoji.cross} I did not find this user in the voice.",
+        "translation": "{Emoji.cross} Этот пользователь не найден в голосовом канале.",
+        "context": " -> tempvoice.errors.not_user",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.found_user\"",
+        "source_string": "{Emoji.cross} The user is already in the voice",
+        "translation": "{Emoji.cross} Пользователь уже присутствует в голосовом канале",
+        "context": " -> tempvoice.errors.found_user",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.limit_incorrect\"",
+        "source_string": "{Emoji.cross} The limit format is incorrect.\nChoose a number from 0 to 99.",
+        "translation": "{Emoji.cross} Формат лимита неверен.\nВыберите число от 0 до 99.",
+        "context": " -> tempvoice.errors.limit_incorrect",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.errors.bitrate_incorrect\"",
+        "source_string": "{Emoji.cross} The bitrate format is incorrect.\nChoose a number from 8 to {bitrate_limit:.0f}.",
+        "translation": "{Emoji.cross} формат береста неверен.\nВыберите число от 8 до {bitrate_limit:.0f}.",
+        "context": " -> tempvoice.errors.bitrate_incorrect",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.dropdown.perm\"",
+        "source_string": "Channel Permisions",
+        "translation": "Разрешения канала",
+        "context": " -> tempvoice.dropdown.perm",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.dropdown.set\"",
+        "source_string": "Channel Settings",
+        "translation": "Параметры канала",
+        "context": " -> tempvoice.dropdown.set",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.user\"",
+        "source_string": "Select a user",
+        "translation": "Выберите пользователя",
+        "context": " -> tempvoice.items.select.user",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.owner.placeholder\"",
+        "source_string": "Select the participant to whom you want to transfer the channel.",
+        "translation": "Выберите участника, которому вы хотите передать канал.",
+        "context": " -> tempvoice.items.select.owner.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.owner.success\"",
+        "source_string": "You have successfully transferred the owner to the member {mention}.",
+        "translation": "Вы успешно передали владельца участнику {mention}.",
+        "context": " -> tempvoice.items.select.owner.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.perm.placeholder\"",
+        "source_string": "Select the user from whom you want to grant/take away access to the channel",
+        "translation": "Выберите пользователя, которому вы хотите предоставить/отозвать доступ к каналу",
+        "context": " -> tempvoice.items.select.perm.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.permit.placeholder\"",
+        "source_string": "Select the user from whom you want to grant away access to the channel.",
+        "translation": "Выберите пользователя, которому вы хотите предоставить доступ к каналу.",
+        "context": " -> tempvoice.items.select.permit.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.permit.success\"",
+        "source_string": "You have granted access to the channel to a member {mention}.",
+        "translation": "Вы предоставили доступ к каналу {mention} участнику.",
+        "context": " -> tempvoice.items.select.permit.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.reject.placeholder\"",
+        "source_string": "Select the user from whom you want to take away access to the channel.",
+        "translation": "Выберите пользователя, у которого вы хотите отнять доступ к каналу.",
+        "context": " -> tempvoice.items.select.reject.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.reject.success\"",
+        "source_string": "You have taked access to the channel to a member {mention}.",
+        "translation": "Вы передали доступ к каналу {mention} участнику.",
+        "context": " -> tempvoice.items.select.reject.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.kick.placeholder\"",
+        "source_string": "Select the participant you want to kick",
+        "translation": "Выберите участника, которого вы хотите выгнать",
+        "context": " -> tempvoice.items.select.kick.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.kick.success\"",
+        "source_string": "You have successfully bailed out a participant {mention}.",
+        "translation": "Вы успешно кикнули участника {mention}.",
+        "context": " -> tempvoice.items.select.kick.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.invite.placeholder\"",
+        "source_string": "Select the participant you want to invite",
+        "translation": "Выберите участника, которого вы хотите пригласить",
+        "context": " -> tempvoice.items.select.invite.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.invite.message\"",
+        "source_string": "**{name}** has invited you to his temporary channel!\n{invite}",
+        "translation": "**{name}** пригласил вас в свой временный канал!\n{invite}",
+        "context": " -> tempvoice.items.select.invite.message",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.invite.success\"",
+        "source_string": "You have successfully invited a participant {mention}",
+        "translation": "Вы успешно пригласили участника {mention}",
+        "context": " -> tempvoice.items.select.invite.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.mute_univ.placeholder\"",
+        "source_string": "Select the participant you want to turn off/on the microphone for",
+        "translation": "Выберите участника, у которого вы хотите выключить/включить микрофон",
+        "context": " -> tempvoice.items.select.mute_univ.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.mute.placeholder\"",
+        "source_string": "Select the participant you want to turn off the microphone for",
+        "translation": "Выберите участника, у которого вы хотите выключить микрофон",
+        "context": " -> tempvoice.items.select.mute.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.mute.success\"",
+        "source_string": "You have successfully turned on the microphone to the participant {mention}.",
+        "translation": "Вы успешно включили микрофон для участника {mention}.",
+        "context": " -> tempvoice.items.select.mute.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.unmute.placeholder\"",
+        "source_string": "Select the participant you want to turn on the microphone for",
+        "translation": "Выберите участника, у которого вы хотите включить микрофон",
+        "context": " -> tempvoice.items.select.unmute.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.select.unmute.success\"",
+        "source_string": "You have successfully turned off the microphone to the participant {mention}.",
+        "translation": "Вы успешно выключили микрофон участнику {mention}.",
+        "context": " -> tempvoice.items.select.unmute.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.limit.title\"",
+        "source_string": "Channel limit",
+        "translation": "Лимит канала",
+        "context": " -> tempvoice.items.modal.limit.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.limit.label\"",
+        "source_string": "Limit",
+        "translation": "Лимит",
+        "context": " -> tempvoice.items.modal.limit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.limit.placeholder\"",
+        "source_string": "Set the channel limit from 0 to 99. 0 is no limit.",
+        "translation": "Установка лимита канала от 0 до 99. 0 - нет ограничений.",
+        "context": " -> tempvoice.items.modal.limit.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.limit.success\"",
+        "source_string": "You have successfully set the channel limit.",
+        "translation": "Вы успешно установили лимит на канал.",
+        "context": " -> tempvoice.items.modal.limit.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.bitrate.title\"",
+        "source_string": "Channel bitrate",
+        "translation": "Битрейт канала",
+        "context": " -> tempvoice.items.modal.bitrate.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.bitrate.label\"",
+        "source_string": "Bitrate",
+        "translation": "Битрейт",
+        "context": " -> tempvoice.items.modal.bitrate.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.bitrate.placeholder\"",
+        "source_string": "Set the channel bitrate from 8 to {bitrate_limit:.0f}.",
+        "translation": "Установить битрейт канала от 8 до {bitrate_limit:.0f}.",
+        "context": " -> tempvoice.items.modal.bitrate.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.bitrate.success\"",
+        "source_string": "You have successfully set the channel bitrate.",
+        "translation": "Вы успешно установили битрейт канала.",
+        "context": " -> tempvoice.items.modal.bitrate.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.name.title\"",
+        "source_string": "Channel name",
+        "translation": "Название канала",
+        "context": " -> tempvoice.items.modal.name.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.name.label\"",
+        "source_string": "Name",
+        "translation": "Название",
+        "context": " -> tempvoice.items.modal.name.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.name.placeholder\"",
+        "source_string": "Set the channel name.",
+        "translation": "Задайте название канала.",
+        "context": " -> tempvoice.items.modal.name.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.modal.name.success\"",
+        "source_string": "You have successfully set the channel name.",
+        "translation": "Вы успешно изменили название канала.",
+        "context": " -> tempvoice.items.modal.name.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.func.ghost.success\"",
+        "source_string": "The channel has been successfully hide to everyone.",
+        "translation": "Канал был успешно скрыт для всех.",
+        "context": " -> tempvoice.items.func.ghost.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.func.unghost.success\"",
+        "source_string": "The channel has been successfully shown to everyone.",
+        "translation": "Канал был успешно показан для всех.",
+        "context": " -> tempvoice.items.func.unghost.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.func.lock.success\"",
+        "source_string": "The channel has been successfully lock to everyone.",
+        "translation": "Канал был успешно заблокирован для всех.",
+        "context": " -> tempvoice.items.func.lock.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.func.unlock.success\"",
+        "source_string": "The channel has been successfully unlock to everyone.",
+        "translation": "Канал был успешно разблокирован для всех.",
+        "context": " -> tempvoice.items.func.unlock.success",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.panel.message.title\"",
+        "source_string": "{emoji} Private rooms",
+        "translation": "{emoji} Приватные комнаты",
+        "context": " -> tempvoice.panel.message.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.panel.message.description\"",
+        "source_string": "Change your private channel using the UI control panel.",
+        "translation": "Изменить приватный канал с помощью панели управления UI.",
+        "context": " -> tempvoice.panel.message.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.notification\"",
+        "source_string": "Notification",
+        "translation": "Notification",
+        "context": " -> settings.module-name.notification",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.tempvoice\"",
+        "source_string": "Temp Voice",
+        "translation": "Temp Voice",
+        "context": " -> settings.module-name.tempvoice",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.tickets\"",
+        "source_string": "Tickets",
+        "translation": "Tickets",
+        "context": " -> settings.module-name.tickets",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.disabled\"",
+        "source_string": "{Emoji.cross} Theft is disabled on this server!",
+        "translation": "{Emoji.cross} Theft is disabled on this server!",
+        "context": " -> economy.rob.disabled",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.BotMissingPermissions\"",
+        "source_string": "The bot doesn't have enough rights",
+        "translation": "The bot doesn't have enough rights",
+        "context": " -> errors.BotMissingPermissions",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.disable\"",
+        "source_string": "Disable",
+        "translation": "Disable",
+        "context": " -> settings.button.disable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.enable\"",
+        "source_string": "Enable",
+        "translation": "Enable",
+        "context": " -> settings.button.enable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.set\"",
+        "source_string": "Set",
+        "translation": "Set",
+        "context": " -> settings.button.set",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.embed.title\"",
+        "source_string": "The economic system",
+        "translation": "The economic system",
+        "context": " -> settings.economy.init.embed.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.embed.description\"",
+        "source_string": "The economic system will allow your server to rise to a completely different level.\nGames, levels, promotions, contests and more.\nAll this is in our economic system.",
+        "translation": "The economic system will allow your server to rise to a completely different level.\nGames, levels, promotions, contests and more.\nAll this is in our economic system.",
+        "context": " -> settings.economy.init.embed.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.info.name\"",
+        "source_string": "Economy Information",
+        "translation": "Economy Information",
+        "context": " -> settings.economy.init.info.name",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.info.value\"",
+        "source_string": "・Daily reward: {daily}\n・Weekly reward: {weekly}\n・Monthly reward: {monthly}\n・Minimum bid: {bet_min}\n・Maximum bid: {bet_max}\n・Minimum payment for work: {work_min}\n・Maximum payment for work: {work_max}\n・Cooldown for work: {cooldown}",
+        "translation": "・Daily reward: {daily}\n・Weekly reward: {weekly}\n・Monthly reward: {monthly}\n・Minimum bid: {bet_min}\n・Maximum bid: {bet_max}\n・Minimum payment for work: {work_min}\n・Maximum payment for work: {work_max}\n・Cooldown for work: {cooldown}",
+        "context": " -> settings.economy.init.info.value",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.emoji\"",
+        "source_string": "Economy emoji",
+        "translation": "Economy emoji",
+        "context": " -> settings.economy.init.emoji",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.dropdown.placeholder\"",
+        "source_string": "Economy Settings:",
+        "translation": "Economy Settings:",
+        "context": " -> settings.economy.init.dropdown.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.dropdown.bonus\"",
+        "source_string": "Change the amount of bonuses",
+        "translation": "Change the amount of bonuses",
+        "context": " -> settings.economy.init.dropdown.bonus",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.dropdown.emoji\"",
+        "source_string": "Change the emoji",
+        "translation": "Change the emoji",
+        "context": " -> settings.economy.init.dropdown.emoji",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.dropdown.shop\"",
+        "source_string": "Change the shop roles",
+        "translation": "Change the shop roles",
+        "context": " -> settings.economy.init.dropdown.shop",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.init.dropdown.theft\"",
+        "source_string": "Change the settings theft",
+        "translation": "Change the settings theft",
+        "context": " -> settings.economy.init.dropdown.theft",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.daily\"",
+        "source_string": "Daily reward",
+        "translation": "Daily reward",
+        "context": " -> settings.economy.bonus.daily",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.weekly\"",
+        "source_string": "Weekly reward",
+        "translation": "Weekly reward",
+        "context": " -> settings.economy.bonus.weekly",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.monthly\"",
+        "source_string": "Monthly reward",
+        "translation": "Monthly reward",
+        "context": " -> settings.economy.bonus.monthly",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.work\"",
+        "source_string": "Work",
+        "translation": "Work",
+        "context": " -> settings.economy.bonus.work",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.bet\"",
+        "source_string": "Bet",
+        "translation": "Bet",
+        "context": " -> settings.economy.bonus.bet",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.min_work\"",
+        "source_string": "Minimum payment for work",
+        "translation": "Minimum payment for work",
+        "context": " -> settings.economy.bonus.min_work",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.max_work\"",
+        "source_string": "Maximum payment for work",
+        "translation": "Maximum payment for work",
+        "context": " -> settings.economy.bonus.max_work",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.cooldown\"",
+        "source_string": "Cooldown",
+        "translation": "Cooldown",
+        "context": " -> settings.economy.bonus.cooldown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.error.no_selected\"",
+        "source_string": "At least one value must be filled in",
+        "translation": "At least one value must be filled in",
+        "context": " -> settings.economy.error.no_selected",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.error.type\"",
+        "source_string": "The value must be an integer number",
+        "translation": "The value must be an integer number",
+        "context": " -> settings.economy.error.type",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.error.type_time\"",
+        "source_string": "Incorrect time format",
+        "translation": "Incorrect time format",
+        "context": " -> settings.economy.error.type_time",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.min_bet\"",
+        "source_string": "Minimum bid",
+        "translation": "Minimum bid",
+        "context": " -> settings.economy.bonus.min_bet",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.max_bet\"",
+        "source_string": "Minimum bid",
+        "translation": "Minimum bid",
+        "context": " -> settings.economy.bonus.max_bet",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.bonus.dropdown.placeholder\"",
+        "source_string": "Setting up bonus amounts",
+        "translation": "Setting up bonus amounts",
+        "context": " -> settings.economy.bonus.dropdown.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.emoji.dropdown\"",
+        "source_string": "The current emoji",
+        "translation": "The current emoji",
+        "context": " -> settings.economy.emoji.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.emoji.title\"",
+        "source_string": "Custom emoji",
+        "translation": "Custom emoji",
+        "context": " -> settings.economy.emoji.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.emoji.description\"",
+        "source_string": "You are on the way to creating a good economy.\nYou can set emojis for your economy",
+        "translation": "You are on the way to creating a good economy.\nYou can set emojis for your economy",
+        "context": " -> settings.economy.emoji.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.title\"",
+        "source_string": "Shop role",
+        "translation": "Shop role",
+        "context": " -> settings.economy.shop.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.amount\"",
+        "source_string": "Amount",
+        "translation": "Amount",
+        "context": " -> settings.economy.shop.amount",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.limit\"",
+        "source_string": "Limit",
+        "translation": "Limit",
+        "context": " -> settings.economy.shop.limit",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.name\"",
+        "source_string": "Name",
+        "translation": "Name",
+        "context": " -> settings.economy.shop.name",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.description\"",
+        "source_string": "Description",
+        "translation": "Описание",
+        "context": " -> settings.economy.shop.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.placeholder\"",
+        "source_string": "Setting up shop roles",
+        "translation": "Setting up shop roles",
+        "context": " -> settings.economy.shop.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.error.type.amount\"",
+        "source_string": "Amout is invalid format!",
+        "translation": "Amout is invalid format!",
+        "context": " -> settings.economy.shop.error.type.amount",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.error.type.limit\"",
+        "source_string": "Limit is invalid format!",
+        "translation": "Limit is invalid format!",
+        "context": " -> settings.economy.shop.error.type.limit",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.economy.shop.role_description\"",
+        "source_string": "{description}・Role: <@&{role_id}>\n・Amount: {amount}{emoji}\n・Purchase limit: {limit}",
+        "translation": "{description}・ Роль: <@&{role_id}>\n・Сумма: {amount}{emoji}\n・Предел покупок: {limit}",
+        "context": " -> settings.economy.shop.role_description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_ghost.label\"",
+        "source_string": "Ghost",
+        "translation": "Ghost",
+        "context": " -> tempvoice.items.description.change_ghost.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_ghost.description\"",
+        "source_string": "Hide/open the channel.",
+        "translation": "Hide/open the channel.",
+        "context": " -> tempvoice.items.description.change_ghost.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_locked.label\"",
+        "source_string": "Lock",
+        "translation": "Lock",
+        "context": " -> tempvoice.items.description.change_locked.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_locked.description\"",
+        "source_string": "Lock/unlock the channel.",
+        "translation": "Lock/unlock the channel.",
+        "context": " -> tempvoice.items.description.change_locked.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_name.label\"",
+        "source_string": "Name",
+        "translation": "Name",
+        "context": " -> tempvoice.items.description.change_name.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_name.description\"",
+        "source_string": "Change the channel name.",
+        "translation": "Change the channel name.",
+        "context": " -> tempvoice.items.description.change_name.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_owner.label\"",
+        "source_string": "Ownership",
+        "translation": "Ownership",
+        "context": " -> tempvoice.items.description.change_owner.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.change_owner.description\"",
+        "source_string": "Transfer ownership of the channel.",
+        "translation": "Transfer ownership of the channel.",
+        "context": " -> tempvoice.items.description.change_owner.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.ghost.label\"",
+        "source_string": "Ghost",
+        "translation": "Ghost",
+        "context": " -> tempvoice.items.description.ghost.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.ghost.description\"",
+        "source_string": "Hide the channel.",
+        "translation": "Hide the channel.",
+        "context": " -> tempvoice.items.description.ghost.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.give_access.label\"",
+        "source_string": "Permit",
+        "translation": "Permit",
+        "context": " -> tempvoice.items.description.give_access.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.give_access.description\"",
+        "source_string": "Grant/withdraw access rights to the channel.",
+        "translation": "Grant/withdraw access rights to the channel.",
+        "context": " -> tempvoice.items.description.give_access.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.invite.label\"",
+        "source_string": "Invite",
+        "translation": "Invite",
+        "context": " -> tempvoice.items.description.invite.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.invite.description\"",
+        "source_string": "Invite a participant to your voice.",
+        "translation": "Invite a participant to your voice.",
+        "context": " -> tempvoice.items.description.invite.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.kick_member.label\"",
+        "source_string": "Kick",
+        "translation": "Kick",
+        "context": " -> tempvoice.items.description.kick_member.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.kick_member.description\"",
+        "source_string": "Expel a participant from the voice.",
+        "translation": "Expel a participant from the voice.",
+        "context": " -> tempvoice.items.description.kick_member.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.lock.label\"",
+        "source_string": "Lock",
+        "translation": "Lock",
+        "context": " -> tempvoice.items.description.lock.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.lock.description\"",
+        "source_string": "Lock the channel.",
+        "translation": "Lock the channel.",
+        "context": " -> tempvoice.items.description.lock.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.mute_member.label\"",
+        "source_string": "Mute",
+        "translation": "Mute",
+        "context": " -> tempvoice.items.description.mute_member.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.mute_member.description\"",
+        "source_string": "Enable/disable the microphone for the participant..",
+        "translation": "Enable/disable the microphone for the participant..",
+        "context": " -> tempvoice.items.description.mute_member.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.mute_member_fd.label\"",
+        "source_string": "Mute",
+        "translation": "Mute",
+        "context": " -> tempvoice.items.description.mute_member_fd.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.mute_member_fd.description\"",
+        "source_string": "Disable the microphone for the participant..",
+        "translation": "Disable the microphone for the participant..",
+        "context": " -> tempvoice.items.description.mute_member_fd.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.permit.label\"",
+        "source_string": "Permit",
+        "translation": "Permit",
+        "context": " -> tempvoice.items.description.permit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.permit.description\"",
+        "source_string": "Grant access rights to the channel.",
+        "translation": "Grant access rights to the channel.",
+        "context": " -> tempvoice.items.description.permit.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.reject.label\"",
+        "source_string": "Reject",
+        "translation": "Reject",
+        "context": " -> tempvoice.items.description.reject.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.reject.description\"",
+        "source_string": "Withdraw access rights to the channel.",
+        "translation": "Withdraw access rights to the channel.",
+        "context": " -> tempvoice.items.description.reject.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.set_bitrate.label\"",
+        "source_string": "Bitrate",
+        "translation": "Bitrate",
+        "context": " -> tempvoice.items.description.set_bitrate.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.set_bitrate.description\"",
+        "source_string": "Change the channel bitrate.",
+        "translation": "Change the channel bitrate.",
+        "context": " -> tempvoice.items.description.set_bitrate.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.set_limit.label\"",
+        "source_string": "Limit",
+        "translation": "Limit",
+        "context": " -> tempvoice.items.description.set_limit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.set_limit.description\"",
+        "source_string": "Set a channel limit.",
+        "translation": "Set a channel limit.",
+        "context": " -> tempvoice.items.description.set_limit.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.unghost.label\"",
+        "source_string": "Unghost",
+        "translation": "Unghost",
+        "context": " -> tempvoice.items.description.unghost.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.unghost.description\"",
+        "source_string": "Open the channel.",
+        "translation": "Open the channel.",
+        "context": " -> tempvoice.items.description.unghost.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.unlock.label\"",
+        "source_string": "Unlock",
+        "translation": "Unlock",
+        "context": " -> tempvoice.items.description.unlock.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.unlock.description\"",
+        "source_string": "Unlock the channel.",
+        "translation": "Unlock the channel.",
+        "context": " -> tempvoice.items.description.unlock.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.unmute_member_fd.label\"",
+        "source_string": "Unmute",
+        "translation": "Unmute",
+        "context": " -> tempvoice.items.description.unmute_member_fd.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempvoice.items.description.unmute_member_fd.description\"",
+        "source_string": "Enable the microphone for the participant..",
+        "translation": "Enable the microphone for the participant..",
+        "context": " -> tempvoice.items.description.unmute_member_fd.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.preview_message\"",
+        "source_string": "Preview message",
+        "translation": "Preview message",
+        "context": " -> settings.button.preview_message",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.change_message\"",
+        "source_string": "Change message",
+        "translation": "Change message",
+        "context": " -> settings.button.change_message",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.change_username\"",
+        "source_string": "Change username",
+        "translation": "Change username",
+        "context": " -> settings.button.change_username",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.confirm\"",
+        "source_string": "Confirm",
+        "translation": "Confirm",
+        "context": " -> settings.button.confirm",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.select\"",
+        "source_string": "Select",
+        "translation": "Select",
+        "context": " -> settings.button.select",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.description\"",
+        "source_string": "The music module allows you to set the maximum queue length, control the volume, assign DJ roles and create playlists.",
+        "translation": "The music module allows you to set the maximum queue length, control the volume, assign DJ roles and create playlists.",
+        "context": " -> settings.music.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.djroles.select\"",
+        "source_string": "> Select the roles that will be able to add and change music",
+        "translation": "> Select the roles that will be able to add and change music",
+        "context": " -> settings.music.djroles.select",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max_size.select\"",
+        "source_string": "> Specify the maximum queue length",
+        "translation": "> Specify the maximum queue length",
+        "context": " -> settings.music.max_size.select",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.volume.select\"",
+        "source_string": "> Specify the default volume",
+        "translation": "> Specify the default volume",
+        "context": " -> settings.music.volume.select",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.delete_message.title\"",
+        "source_string": "Deleting a message",
+        "translation": "Удаление сообщения",
+        "context": " -> settings.logs.items.delete_message.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.delete_message.description\"",
+        "source_string": "The log contains information about all deleted messages in the system. It helps you keep track of who deleted a message and when, and provides transparency about deleted data.",
+        "translation": "Лог содержит информацию о всех удаленных сообщениях в системе. Он помогает отслеживать, кто и когда удалил сообщение, и обеспечивает прозрачность в отношении удаленных данных.",
+        "context": " -> settings.logs.items.delete_message.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.edit_message.title\"",
+        "source_string": "Editing a message",
+        "translation": "Редактирование сообщения",
+        "context": " -> settings.logs.items.edit_message.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.edit_message.description\"",
+        "source_string": "The log contains information about all messages that were changed after sending. It provides the ability to view the history of changes to messages, which is useful for monitoring the integrity of communication.",
+        "translation": "Лог содержит информацию о всех сообщениях, которые были изменены после отправки. Он предоставляет возможность просмотра истории изменений сообщений, что полезно для контроля целостности коммуникации.",
+        "context": " -> settings.logs.items.edit_message.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.punishment.title\"",
+        "source_string": "Violation of the rules and punishment",
+        "translation": "Нарушение правил и наказание",
+        "context": " -> settings.logs.items.punishment.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.punishment.description\"",
+        "source_string": "The log includes information about the penalties applied in response to violations of the rules. It helps to maintain order and discipline in the system, ensuring fairness and consistency in the application of disciplinary measures.",
+        "translation": "Лог включает информацию о примененных наказаниях в ответ на нарушения правил. Он помогает поддерживать порядок и дисциплину в системе, обеспечивая справедливость и последовательность в применении мер дисциплинарного воздействия.",
+        "context": " -> settings.logs.items.punishment.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.economy.title\"",
+        "source_string": "Transaction or changes in the economy",
+        "translation": "Транзакция или изменения в экономике",
+        "context": " -> settings.logs.items.economy.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.economy.description\"",
+        "source_string": "The log reflects all transactions and changes in the economy of the system. It provides information about all financial transactions that have occurred in the system and helps to track cash flows and changes in the economic situation.",
+        "translation": "Лог отражает все транзакции и изменения в экономике системы. Он предоставляет информацию о всех финансовых операциях, произошедших в системе, и помогает отслеживать денежные потоки и изменения в экономической ситуации.",
+        "context": " -> settings.logs.items.economy.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.ideas.title\"",
+        "source_string": "Suggestion or idea",
+        "translation": "Предложение или идея",
+        "context": " -> settings.logs.items.ideas.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.ideas.description\"",
+        "source_string": "The log contains information about all the proposed ideas and proposals that were considered in the system. It helps to track the process of developing ideas and making decisions based on suggestions from participants.",
+        "translation": "Лог содержит информацию о всех предложенных идеях и предложениях, которые были рассмотрены в системе. Он помогает отслеживать процесс развития идей и принятия решений на основе предложений от участников.",
+        "context": " -> settings.logs.items.ideas.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.title\"",
+        "source_string": "Ideas",
+        "translation": "Идея",
+        "context": " -> settings.ideas.init.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.description\"",
+        "source_string": "The ideas module allows you to collect, discuss and evaluate user suggestions. It organizes ideas in one place, allows you to vote for them and track their status.",
+        "translation": "The ideas module allows you to collect, discuss and evaluate user suggestions. It organizes ideas in one place, allows you to vote for them and track their status.",
+        "context": " -> settings.ideas.init.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.value.suggest\"",
+        "source_string": "Channel suggest: {channel}\n",
+        "translation": "Channel suggest: {channel}\n",
+        "context": " -> settings.ideas.init.value.suggest",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.value.offers\"",
+        "source_string": "Channel offers: {channel}\n",
+        "translation": "Channel offers: {channel}\n",
+        "context": " -> settings.ideas.init.value.offers",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.value.approved\"",
+        "source_string": "Channel approved: {channel}\n",
+        "translation": "Channel approved: {channel}\n",
+        "context": " -> settings.ideas.init.value.approved",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.value.cooldown\"",
+        "source_string": "Cooldown: {cooldown}\n",
+        "translation": "Cooldown: {cooldown}\n",
+        "context": " -> settings.ideas.init.value.cooldown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.value.mod_roles\"",
+        "source_string": "Moderation roles: {roles}\n",
+        "translation": "Moderation roles: {roles}\n",
+        "context": " -> settings.ideas.init.value.mod_roles",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.button.allow_image\"",
+        "source_string": "Allow image",
+        "translation": "Allow image",
+        "context": " -> settings.ideas.button.allow_image",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.button.thread_delete\"",
+        "source_string": "Thread delete",
+        "translation": "Thread delete",
+        "context": " -> settings.ideas.button.thread_delete",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.error.enable\"",
+        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
+        "translation": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
+        "context": " -> settings.ideas.init.error.enable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.unspecified\"",
+        "source_string": "unspecified",
+        "translation": "неуказанно",
+        "context": " -> settings.ideas.init.unspecified",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.placeholder\"",
+        "source_string": "Select the parameter you want to change",
+        "translation": "Select the parameter you want to change",
+        "context": " -> settings.ideas.init.dropdown.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.suggest.title\"",
+        "source_string": "Suggest",
+        "translation": "Suggest",
+        "context": " -> settings.ideas.init.dropdown.suggest.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.suggest.description\"",
+        "source_string": "Channel to suggest idea",
+        "translation": "Channel to suggest idea",
+        "context": " -> settings.ideas.init.dropdown.suggest.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.offers.title\"",
+        "source_string": "Offers",
+        "translation": "Offers",
+        "context": " -> settings.ideas.init.dropdown.offers.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.offers.description\"",
+        "source_string": "Channel of all ideas",
+        "translation": "Channel of all ideas",
+        "context": " -> settings.ideas.init.dropdown.offers.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.approved.title\"",
+        "source_string": "Approved",
+        "translation": "Approved",
+        "context": " -> settings.ideas.init.dropdown.approved.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.approved.description\"",
+        "source_string": "An approved ideas channel",
+        "translation": "An approved ideas channel",
+        "context": " -> settings.ideas.init.dropdown.approved.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.mod_roles.title\"",
+        "source_string": "Moderation roles",
+        "translation": "Moderation roles",
+        "context": " -> settings.ideas.init.dropdown.mod_roles.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.mod_roles.description\"",
+        "source_string": "Roles that can handle ideas (Default Administrators)",
+        "translation": "Roles that can handle ideas (Default Administrators)",
+        "context": " -> settings.ideas.init.dropdown.mod_roles.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.cooldown.title\"",
+        "source_string": "Cooldown",
+        "translation": "Cooldown",
+        "context": " -> settings.ideas.init.dropdown.cooldown.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.init.dropdown.cooldown.description\"",
+        "source_string": "The delay between ideas",
+        "translation": "The delay between ideas",
+        "context": " -> settings.ideas.init.dropdown.cooldown.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.approved\"",
+        "source_string": "> Choose a channel that will match the channel of approved ideas",
+        "translation": "> Choose a channel that will match the channel of approved ideas",
+        "context": " -> settings.ideas.approved",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.cooldown.field\"",
+        "source_string": "> Set the delay time between publishing ideas",
+        "translation": "> Set the delay time between publishing ideas",
+        "context": " -> settings.ideas.cooldown.field",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.cooldown.modal.title\"",
+        "source_string": "Enter the time to delay between ideas",
+        "translation": "Enter the time to delay between ideas",
+        "context": " -> settings.ideas.cooldown.modal.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.cooldown.modal.error\"",
+        "source_string": "It is necessary to write the time in the `1d2h10m` format",
+        "translation": "It is necessary to write the time in the `1d2h10m` format",
+        "context": " -> settings.ideas.cooldown.modal.error",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.mod_role.field\"",
+        "source_string": "> Choose roles that can approve/reject ideas",
+        "translation": "> Choose roles that can approve/reject ideas",
+        "context": " -> settings.ideas.mod_role.field",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.mod_role.dropdown\"",
+        "source_string": "Select roles",
+        "translation": "Select roles",
+        "context": " -> settings.ideas.mod_role.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.channel.dropdown\"",
+        "source_string": "Select a channel",
+        "translation": "Select a channel",
+        "context": " -> settings.ideas.channel.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.offers.field\"",
+        "source_string": "> Select the channel where all the ideas will come from",
+        "translation": "> Select the channel where all the ideas will come from",
+        "context": " -> settings.ideas.offers.field",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.ideas.suggest.field\"",
+        "source_string": "> Choose a channel where ideas will be offered",
+        "translation": "> Choose a channel where ideas will be offered",
+        "context": " -> settings.ideas.suggest.field",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.title\"",
+        "source_string": "Notification Control Panel",
+        "translation": "Notification Control Panel",
+        "context": " -> settings.notifi.init.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.description\"",
+        "source_string": "The notification module is designed for automatic integration with popular streaming platforms such as Twitch and YouTube, and is also equipped with greetings to new members and farewells.",
+        "translation": "The notification module is designed for automatic integration with popular streaming platforms such as Twitch and YouTube, and is also equipped with greetings to new members and farewells.",
+        "context": " -> settings.notifi.init.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.welcomer.title\"",
+        "source_string": "Welcomer",
+        "translation": "Welcomer",
+        "context": " -> settings.notifi.init.dropdown.welcomer.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.welcomer.description\"",
+        "source_string": null,
+        "translation": null,
+        "context": " -> settings.notifi.init.dropdown.welcomer.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.farewell.title\"",
+        "source_string": "Farewell",
+        "translation": "Farewell",
+        "context": " -> settings.notifi.init.dropdown.farewell.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.farewell.description\"",
+        "source_string": null,
+        "translation": null,
+        "context": " -> settings.notifi.init.dropdown.farewell.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.twitch.title\"",
+        "source_string": "Twitch",
+        "translation": "Twitch",
+        "context": " -> settings.notifi.init.dropdown.twitch.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.twitch.description\"",
+        "source_string": null,
+        "translation": null,
+        "context": " -> settings.notifi.init.dropdown.twitch.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.youtube.title\"",
+        "source_string": "Youtube",
+        "translation": "Youtube",
+        "context": " -> settings.notifi.init.dropdown.youtube.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.init.dropdown.youtube.description\"",
+        "source_string": null,
+        "translation": null,
+        "context": " -> settings.notifi.init.dropdown.youtube.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.message.title\"",
+        "source_string": "Message",
+        "translation": "Сообщение",
+        "context": " -> settings.notifi.message.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.message.placeholder\"",
+        "source_string": "You can use embed-builder to create a message.",
+        "translation": "You can use embed-builder to create a message.",
+        "context": " -> settings.notifi.message.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.dropdown.channel\"",
+        "source_string": "Select a channel for notifications",
+        "translation": "Select a channel for notifications",
+        "context": " -> settings.notifi.dropdown.channel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.dropdown.info_channel\"",
+        "source_string": "Channel: {channel}",
+        "translation": "Канал: {channel}",
+        "context": " -> settings.notifi.dropdown.info_channel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.unspecified\"",
+        "source_string": "unspecified",
+        "translation": "неуказанно",
+        "context": " -> settings.notifi.unspecified",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.farewell.title\"",
+        "source_string": "Farewell",
+        "translation": "Farewell",
+        "context": " -> settings.notifi.farewell.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.farewell.description\"",
+        "source_string": "Sends personalized goodbyes, acknowledges contributions, and provides reminders, enhancing user experience with a friendly touch.",
+        "translation": "Sends personalized goodbyes, acknowledges contributions, and provides reminders, enhancing user experience with a friendly touch.",
+        "context": " -> settings.notifi.farewell.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.title\"",
+        "source_string": "Twitch Notifications",
+        "translation": "Twitch Notifications",
+        "context": " -> settings.notifi.twitch.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.description\"",
+        "source_string": "Stay updated with real-time alerts for live streams and new content from your favorite Twitch channels.",
+        "translation": "Stay updated with real-time alerts for live streams and new content from your favorite Twitch channels.",
+        "context": " -> settings.notifi.twitch.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.field\"",
+        "source_string": "> Username: **{user}**\n> Channel: {channel}",
+        "translation": "> Username: **{user}**\n> Channel: {channel}",
+        "context": " -> settings.notifi.twitch.field",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.modal.label\"",
+        "source_string": "Name",
+        "translation": "Name",
+        "context": " -> settings.notifi.twitch.modal.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.modal.placeholder\"",
+        "source_string": "Enter the name or link of the streamer.",
+        "translation": "Enter the name or link of the streamer.",
+        "context": " -> settings.notifi.twitch.modal.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.modal.error\"",
+        "source_string": "The streamer was not found.",
+        "translation": "The streamer was not found.",
+        "context": " -> settings.notifi.twitch.modal.error",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.twitch.dropdown\"",
+        "source_string": "Select the notifications of the streamer you want to change",
+        "translation": "Select the notifications of the streamer you want to change",
+        "context": " -> settings.notifi.twitch.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.title\"",
+        "source_string": "YouTube Notifications",
+        "translation": "YouTube Notifications",
+        "context": " -> settings.notifi.youtube.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.description\"",
+        "source_string": "Get instant updates for new videos from your favorite YouTube channels.",
+        "translation": "Get instant updates for new videos from your favorite YouTube channels.",
+        "context": " -> settings.notifi.youtube.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.field\"",
+        "source_string": "> Username: **{user}**\n> Channel: {channel}",
+        "translation": "> Username: **{user}**\n> Channel: {channel}",
+        "context": " -> settings.notifi.youtube.field",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.choose.placeholder\"",
+        "source_string": "Choose a youtuber",
+        "translation": "Choose a youtuber",
+        "context": " -> settings.notifi.youtube.choose.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.modal.label\"",
+        "source_string": "Name",
+        "translation": "Name",
+        "context": " -> settings.notifi.youtube.modal.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.modal.placeholder\"",
+        "source_string": "Enter the username of the youtuber.",
+        "translation": "Enter the username of the youtuber.",
+        "context": " -> settings.notifi.youtube.modal.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.modal.error\"",
+        "source_string": "The channels was not found.",
+        "translation": "The channels was not found.",
+        "context": " -> settings.notifi.youtube.modal.error",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.notifi.youtube.dropdown\"",
+        "source_string": "Select the YouTuber notifications that you want to change",
+        "translation": "Select the YouTuber notifications that you want to change",
+        "context": " -> settings.notifi.youtube.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.init.title\"",
+        "source_string": "Temporary Private Channels",
+        "translation": "Temporary Private Channels",
+        "context": " -> settings.tempvoice.init.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.init.description\"",
+        "source_string": "Temporary channels are created automatically when entering the trigger channel and deleted when exiting the created channel.\nThe user who created the channel manages it, including changing settings and applying user fog inside this channel.",
+        "translation": "Temporary channels are created automatically when entering the trigger channel and deleted when exiting the created channel.\nThe user who created the channel manages it, including changing settings and applying user fog inside this channel.",
+        "context": " -> settings.tempvoice.init.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.init.create.name\"",
+        "source_string": "[+] Create channel",
+        "translation": "[+] Create channel",
+        "context": " -> settings.tempvoice.init.create.name",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.init.create.category\"",
+        "source_string": "Private Channels",
+        "translation": "Private Channels",
+        "context": " -> settings.tempvoice.init.create.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.init.create.panel\"",
+        "source_string": "Control panel",
+        "translation": "Control panel",
+        "context": " -> settings.tempvoice.init.create.panel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.select.channel\"",
+        "source_string": "Select the trigger channel",
+        "translation": "Select the trigger channel",
+        "context": " -> settings.tempvoice.select.channel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.select.category\"",
+        "source_string": "[OPTIONAL] Select the category where the created channels will be",
+        "translation": "[OPTIONAL] Select the category where the created channels will be",
+        "context": " -> settings.tempvoice.select.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.select.panel\"",
+        "source_string": "[OPTIONAL] Select a channel for the panel",
+        "translation": "[OPTIONAL] Select a channel for the panel",
+        "context": " -> settings.tempvoice.select.panel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.select.opts\"",
+        "source_string": "Select the parameter you want to change",
+        "translation": "Select the parameter you want to change",
+        "context": " -> settings.tempvoice.select.opts",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.label\"",
+        "source_string": "Panel Type",
+        "translation": "Panel Type",
+        "context": " -> settings.tempvoice.panel.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.description\"",
+        "source_string": "Open Panel Type Settings",
+        "translation": "Open Panel Type Settings",
+        "context": " -> settings.tempvoice.panel.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type.none.label\"",
+        "source_string": "None",
+        "translation": "None",
+        "context": " -> settings.tempvoice.panel.type.none.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type.none.description\"",
+        "source_string": "Disables the panel",
+        "translation": "Disables the panel",
+        "context": " -> settings.tempvoice.panel.type.none.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type.button.label\"",
+        "source_string": "Button",
+        "translation": "Button",
+        "context": " -> settings.tempvoice.panel.type.button.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type.button.description\"",
+        "source_string": "The panel will have buttons",
+        "translation": "The panel will have buttons",
+        "context": " -> settings.tempvoice.panel.type.button.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type.dropdown.label\"",
+        "source_string": "DropDown",
+        "translation": "DropDown",
+        "context": " -> settings.tempvoice.panel.type.dropdown.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type.dropdown.description\"",
+        "source_string": "The panel will have a dropdown menu",
+        "translation": "The panel will have a dropdown menu",
+        "context": " -> settings.tempvoice.panel.type.dropdown.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type_message.panel.label\"",
+        "source_string": "Control panel",
+        "translation": "Control panel",
+        "context": " -> settings.tempvoice.panel.type_message.panel.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type_message.panel.description\"",
+        "source_string": "Before that, select the channel panel",
+        "translation": "Before that, select the channel panel",
+        "context": " -> settings.tempvoice.panel.type_message.panel.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type_message.voice.label\"",
+        "source_string": "In voice",
+        "translation": "In voice",
+        "context": " -> settings.tempvoice.panel.type_message.voice.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type_message.voice.description\"",
+        "source_string": "Sends a panel to the voice when it is created",
+        "translation": "Sends a panel to the voice when it is created",
+        "context": " -> settings.tempvoice.panel.type_message.voice.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type_message.every.label\"",
+        "source_string": "Everywhere",
+        "translation": "Everywhere",
+        "context": " -> settings.tempvoice.panel.type_message.every.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.type_message.every.description\"",
+        "source_string": "Creates a panel in the voice and in the channel allocated for this purpose",
+        "translation": "Creates a panel in the voice and in the channel allocated for this purpose",
+        "context": " -> settings.tempvoice.panel.type_message.every.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.brief_title\"",
+        "source_string": "TempVoice",
+        "translation": "TempVoice",
+        "context": " -> settings.tempvoice.brief_title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.name.label\"",
+        "source_string": "Voice name",
+        "translation": "Voice name",
+        "context": " -> settings.tempvoice.name.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.name.description\"",
+        "source_string": "Change the default channel name",
+        "translation": "Change the default channel name",
+        "context": " -> settings.tempvoice.name.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.limit.label\"",
+        "source_string": "Voice limit",
+        "translation": "Voice limit",
+        "context": " -> settings.tempvoice.limit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.limit.description\"",
+        "source_string": "Change the default channel name",
+        "translation": "Change the default channel name",
+        "context": " -> settings.tempvoice.limit.description",
+        "labels": "temp_loc_en.json",
         "max_length": null
     }
 ]
