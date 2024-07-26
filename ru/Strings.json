@@ -18,7 +18,7 @@
     {
         "identifier": "\"bot-info.assembly\"",
         "source_string": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
-        "translation": "Версия: `{version}`\nХэш: `{hash}`\nДата создания: <t:{time}:D> (<t:{time}:R>)",
+        "translation": "Версия: `{version}`\nХеш: `{hash}`\nДата создания: <t:{time}:D> (<t:{time}:R>)",
         "context": " -> bot-info.assembly",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1321,7 +1321,7 @@
     },
     {
         "identifier": "\"ideas.mod.permission.unspecified\"",
-        "source_string": "unspecified",
+        "source_string": "Unspecified",
         "translation": "неуказанно",
         "context": " -> ideas.mod.permission.unspecified",
         "labels": "temp_loc_en_2.json",
@@ -3410,7 +3410,7 @@
     {
         "identifier": "\"tempvoice.items.description.ghost.label\"",
         "source_string": "Ghost",
-        "translation": "Ghost",
+        "translation": "Скрыть",
         "context": " -> tempvoice.items.description.ghost.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3418,7 +3418,7 @@
     {
         "identifier": "\"tempvoice.items.description.ghost.description\"",
         "source_string": "Hide the channel.",
-        "translation": "Hide the channel.",
+        "translation": "Скрыть канал.",
         "context": " -> tempvoice.items.description.ghost.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3426,7 +3426,7 @@
     {
         "identifier": "\"tempvoice.items.description.give_access.label\"",
         "source_string": "Permit",
-        "translation": "Permit",
+        "translation": "Выдать права",
         "context": " -> tempvoice.items.description.give_access.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3434,7 +3434,7 @@
     {
         "identifier": "\"tempvoice.items.description.give_access.description\"",
         "source_string": "Grant/withdraw access rights to the channel.",
-        "translation": "Grant/withdraw access rights to the channel.",
+        "translation": "Выдать/забрать разрешение на канал.",
         "context": " -> tempvoice.items.description.give_access.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3442,7 +3442,7 @@
     {
         "identifier": "\"tempvoice.items.description.invite.label\"",
         "source_string": "Invite",
-        "translation": "Invite",
+        "translation": "Пригласить",
         "context": " -> tempvoice.items.description.invite.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3450,7 +3450,7 @@
     {
         "identifier": "\"tempvoice.items.description.invite.description\"",
         "source_string": "Invite a participant to your voice.",
-        "translation": "Invite a participant to your voice.",
+        "translation": "Пригласите участника в ваш приватный канал.",
         "context": " -> tempvoice.items.description.invite.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3458,7 +3458,7 @@
     {
         "identifier": "\"tempvoice.items.description.kick_member.label\"",
         "source_string": "Kick",
-        "translation": "Kick",
+        "translation": "Выгнать",
         "context": " -> tempvoice.items.description.kick_member.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3466,7 +3466,7 @@
     {
         "identifier": "\"tempvoice.items.description.kick_member.description\"",
         "source_string": "Expel a participant from the voice.",
-        "translation": "Expel a participant from the voice.",
+        "translation": "Выгнать участника из канала.",
         "context": " -> tempvoice.items.description.kick_member.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3474,7 +3474,7 @@
     {
         "identifier": "\"tempvoice.items.description.lock.label\"",
         "source_string": "Lock",
-        "translation": "Lock",
+        "translation": "Заблокировать",
         "context": " -> tempvoice.items.description.lock.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3482,7 +3482,7 @@
     {
         "identifier": "\"tempvoice.items.description.lock.description\"",
         "source_string": "Lock the channel.",
-        "translation": "Lock the channel.",
+        "translation": "Заблокировать канал.",
         "context": " -> tempvoice.items.description.lock.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3490,15 +3490,15 @@
     {
         "identifier": "\"tempvoice.items.description.mute_member.label\"",
         "source_string": "Mute",
-        "translation": "Mute",
+        "translation": "Отключить звук",
         "context": " -> tempvoice.items.description.mute_member.label",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"tempvoice.items.description.mute_member.description\"",
-        "source_string": "Enable/disable the microphone for the participant..",
-        "translation": "Enable/disable the microphone for the participant..",
+        "source_string": "Enable/disable the microphone for the participant.",
+        "translation": "Включить/выключить микрофон для участника.",
         "context": " -> tempvoice.items.description.mute_member.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3506,15 +3506,15 @@
     {
         "identifier": "\"tempvoice.items.description.mute_member_fd.label\"",
         "source_string": "Mute",
-        "translation": "Mute",
+        "translation": "Отключить звук",
         "context": " -> tempvoice.items.description.mute_member_fd.label",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"tempvoice.items.description.mute_member_fd.description\"",
-        "source_string": "Disable the microphone for the participant..",
-        "translation": "Disable the microphone for the participant..",
+        "source_string": "Disable the microphone for the participant.",
+        "translation": "Выключить микрофон для участника.",
         "context": " -> tempvoice.items.description.mute_member_fd.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3522,7 +3522,7 @@
     {
         "identifier": "\"tempvoice.items.description.permit.label\"",
         "source_string": "Permit",
-        "translation": "Permit",
+        "translation": "Выдать права",
         "context": " -> tempvoice.items.description.permit.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3530,7 +3530,7 @@
     {
         "identifier": "\"tempvoice.items.description.permit.description\"",
         "source_string": "Grant access rights to the channel.",
-        "translation": "Grant access rights to the channel.",
+        "translation": "Предоставить права доступа к каналу.",
         "context": " -> tempvoice.items.description.permit.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3538,7 +3538,7 @@
     {
         "identifier": "\"tempvoice.items.description.reject.label\"",
         "source_string": "Reject",
-        "translation": "Reject",
+        "translation": "Забрать права",
         "context": " -> tempvoice.items.description.reject.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3546,7 +3546,7 @@
     {
         "identifier": "\"tempvoice.items.description.reject.description\"",
         "source_string": "Withdraw access rights to the channel.",
-        "translation": "Withdraw access rights to the channel.",
+        "translation": "Отозвать права доступа на канал.",
         "context": " -> tempvoice.items.description.reject.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3554,7 +3554,7 @@
     {
         "identifier": "\"tempvoice.items.description.set_bitrate.label\"",
         "source_string": "Bitrate",
-        "translation": "Bitrate",
+        "translation": "Битрейт",
         "context": " -> tempvoice.items.description.set_bitrate.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3562,7 +3562,7 @@
     {
         "identifier": "\"tempvoice.items.description.set_bitrate.description\"",
         "source_string": "Change the channel bitrate.",
-        "translation": "Change the channel bitrate.",
+        "translation": "Изменить битрейт канала.",
         "context": " -> tempvoice.items.description.set_bitrate.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3570,7 +3570,7 @@
     {
         "identifier": "\"tempvoice.items.description.set_limit.label\"",
         "source_string": "Limit",
-        "translation": "Limit",
+        "translation": "Лимит",
         "context": " -> tempvoice.items.description.set_limit.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3578,7 +3578,7 @@
     {
         "identifier": "\"tempvoice.items.description.set_limit.description\"",
         "source_string": "Set a channel limit.",
-        "translation": "Set a channel limit.",
+        "translation": "Установить лимит канала.",
         "context": " -> tempvoice.items.description.set_limit.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3586,7 +3586,7 @@
     {
         "identifier": "\"tempvoice.items.description.unghost.label\"",
         "source_string": "Unghost",
-        "translation": "Unghost",
+        "translation": "Показать",
         "context": " -> tempvoice.items.description.unghost.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3594,7 +3594,7 @@
     {
         "identifier": "\"tempvoice.items.description.unghost.description\"",
         "source_string": "Open the channel.",
-        "translation": "Open the channel.",
+        "translation": "Открыть канал.",
         "context": " -> tempvoice.items.description.unghost.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3602,7 +3602,7 @@
     {
         "identifier": "\"tempvoice.items.description.unlock.label\"",
         "source_string": "Unlock",
-        "translation": "Unlock",
+        "translation": "Открыть",
         "context": " -> tempvoice.items.description.unlock.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3610,7 +3610,7 @@
     {
         "identifier": "\"tempvoice.items.description.unlock.description\"",
         "source_string": "Unlock the channel.",
-        "translation": "Unlock the channel.",
+        "translation": "Открыть канал.",
         "context": " -> tempvoice.items.description.unlock.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3618,7 +3618,7 @@
     {
         "identifier": "\"tempvoice.items.description.unmute_member_fd.label\"",
         "source_string": "Unmute",
-        "translation": "Unmute",
+        "translation": "Включить звук",
         "context": " -> tempvoice.items.description.unmute_member_fd.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3626,7 +3626,7 @@
     {
         "identifier": "\"tempvoice.items.description.unmute_member_fd.description\"",
         "source_string": "Enable the microphone for the participant..",
-        "translation": "Enable the microphone for the participant..",
+        "translation": "Включить микрофон для участника.",
         "context": " -> tempvoice.items.description.unmute_member_fd.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3634,7 +3634,7 @@
     {
         "identifier": "\"settings.button.preview_message\"",
         "source_string": "Preview message",
-        "translation": "Preview message",
+        "translation": "Предпросмотр сообщения",
         "context": " -> settings.button.preview_message",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3642,7 +3642,7 @@
     {
         "identifier": "\"settings.button.change_message\"",
         "source_string": "Change message",
-        "translation": "Change message",
+        "translation": "Изменить сообщение",
         "context": " -> settings.button.change_message",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3650,7 +3650,7 @@
     {
         "identifier": "\"settings.button.change_username\"",
         "source_string": "Change username",
-        "translation": "Change username",
+        "translation": "Изменить имя пользователя",
         "context": " -> settings.button.change_username",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3658,7 +3658,7 @@
     {
         "identifier": "\"settings.button.confirm\"",
         "source_string": "Confirm",
-        "translation": "Confirm",
+        "translation": "Подтвердить",
         "context": " -> settings.button.confirm",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3666,7 +3666,7 @@
     {
         "identifier": "\"settings.button.select\"",
         "source_string": "Select",
-        "translation": "Select",
+        "translation": "Выбрать",
         "context": " -> settings.button.select",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3674,7 +3674,7 @@
     {
         "identifier": "\"settings.music.description\"",
         "source_string": "The music module allows you to set the maximum queue length, control the volume, assign DJ roles and create playlists.",
-        "translation": "The music module allows you to set the maximum queue length, control the volume, assign DJ roles and create playlists.",
+        "translation": "Модуль музыки позволяет задать максимальную длину очереди, контролировать громкость, назначить роли DJ и создавать плейлисты для воспроизведения.",
         "context": " -> settings.music.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3682,7 +3682,7 @@
     {
         "identifier": "\"settings.music.djroles.select\"",
         "source_string": "> Select the roles that will be able to add and change music",
-        "translation": "> Select the roles that will be able to add and change music",
+        "translation": "> Выберите роли, которые смогут добавлять и изменять музыку",
         "context": " -> settings.music.djroles.select",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3690,7 +3690,7 @@
     {
         "identifier": "\"settings.music.max_size.select\"",
         "source_string": "> Specify the maximum queue length",
-        "translation": "> Specify the maximum queue length",
+        "translation": "> Укажите максимальную длину очереди",
         "context": " -> settings.music.max_size.select",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3698,7 +3698,7 @@
     {
         "identifier": "\"settings.music.volume.select\"",
         "source_string": "> Specify the default volume",
-        "translation": "> Specify the default volume",
+        "translation": "> Укажите громкость по умолчанию",
         "context": " -> settings.music.volume.select",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3794,7 +3794,7 @@
     {
         "identifier": "\"settings.ideas.init.description\"",
         "source_string": "The ideas module allows you to collect, discuss and evaluate user suggestions. It organizes ideas in one place, allows you to vote for them and track their status.",
-        "translation": "The ideas module allows you to collect, discuss and evaluate user suggestions. It organizes ideas in one place, allows you to vote for them and track their status.",
+        "translation": "Модуль идей позволяет собирать, обсуждать и оценивать пользовательские предложения. Она организует идеи в одном месте, позволяет голосовать за них и отслеживать их статус.",
         "context": " -> settings.ideas.init.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3802,7 +3802,7 @@
     {
         "identifier": "\"settings.ideas.init.value.suggest\"",
         "source_string": "Channel suggest: {channel}\n",
-        "translation": "Channel suggest: {channel}\n",
+        "translation": "Канал где предлагают: {channel}\n",
         "context": " -> settings.ideas.init.value.suggest",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3810,7 +3810,7 @@
     {
         "identifier": "\"settings.ideas.init.value.offers\"",
         "source_string": "Channel offers: {channel}\n",
-        "translation": "Channel offers: {channel}\n",
+        "translation": "Канал всех идей: {channel}\n",
         "context": " -> settings.ideas.init.value.offers",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3818,7 +3818,7 @@
     {
         "identifier": "\"settings.ideas.init.value.approved\"",
         "source_string": "Channel approved: {channel}\n",
-        "translation": "Channel approved: {channel}\n",
+        "translation": "Канал одобренных идей: {channel}\n",
         "context": " -> settings.ideas.init.value.approved",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3826,7 +3826,7 @@
     {
         "identifier": "\"settings.ideas.init.value.cooldown\"",
         "source_string": "Cooldown: {cooldown}\n",
-        "translation": "Cooldown: {cooldown}\n",
+        "translation": "Перезарядка: {cooldown}\n",
         "context": " -> settings.ideas.init.value.cooldown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3834,7 +3834,7 @@
     {
         "identifier": "\"settings.ideas.init.value.mod_roles\"",
         "source_string": "Moderation roles: {roles}\n",
-        "translation": "Moderation roles: {roles}\n",
+        "translation": "Роли модерации: {roles}\n",
         "context": " -> settings.ideas.init.value.mod_roles",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3842,7 +3842,7 @@
     {
         "identifier": "\"settings.ideas.button.allow_image\"",
         "source_string": "Allow image",
-        "translation": "Allow image",
+        "translation": "Разрешить изображения",
         "context": " -> settings.ideas.button.allow_image",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3850,15 +3850,15 @@
     {
         "identifier": "\"settings.ideas.button.thread_delete\"",
         "source_string": "Thread delete",
-        "translation": "Thread delete",
+        "translation": "Удалить ветку",
         "context": " -> settings.ideas.button.thread_delete",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.ideas.init.error.enable\"",
-        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
-        "translation": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
+        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **suggestions** channel",
+        "translation": "Вы не все настроили, чтобы включить идеи.\nОбязательное значение: **предложить** и **предложения** канал",
         "context": " -> settings.ideas.init.error.enable",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3874,7 +3874,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.placeholder\"",
         "source_string": "Select the parameter you want to change",
-        "translation": "Select the parameter you want to change",
+        "translation": "Выберите канал, который вы хотите изменить",
         "context": " -> settings.ideas.init.dropdown.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3882,7 +3882,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.suggest.title\"",
         "source_string": "Suggest",
-        "translation": "Suggest",
+        "translation": "Предложить",
         "context": " -> settings.ideas.init.dropdown.suggest.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3890,15 +3890,15 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.suggest.description\"",
         "source_string": "Channel to suggest idea",
-        "translation": "Channel to suggest idea",
+        "translation": "Канал для предложения идеи",
         "context": " -> settings.ideas.init.dropdown.suggest.description",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.ideas.init.dropdown.offers.title\"",
-        "source_string": "Offers",
-        "translation": "Offers",
+        "source_string": "Suggestions",
+        "translation": "Предложения",
         "context": " -> settings.ideas.init.dropdown.offers.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4026,7 +4026,7 @@
     {
         "identifier": "\"settings.ideas.suggest.field\"",
         "source_string": "> Choose a channel where ideas will be offered",
-        "translation": "> Choose a channel where ideas will be offered",
+        "translation": "> Выберите канал, где будут кнопка предложить идею",
         "context": " -> settings.ideas.suggest.field",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4034,7 +4034,7 @@
     {
         "identifier": "\"settings.notifi.init.title\"",
         "source_string": "Notification Control Panel",
-        "translation": "Notification Control Panel",
+        "translation": "Панель управления уведомлениями",
         "context": " -> settings.notifi.init.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4042,7 +4042,7 @@
     {
         "identifier": "\"settings.notifi.init.description\"",
         "source_string": "The notification module is designed for automatic integration with popular streaming platforms such as Twitch and YouTube, and is also equipped with greetings to new members and farewells.",
-        "translation": "The notification module is designed for automatic integration with popular streaming platforms such as Twitch and YouTube, and is also equipped with greetings to new members and farewells.",
+        "translation": "Модуль уведомлений предназначен для автоматической интеграции с популярными платформами, такими как Twitch и YouTube, и также снабжен приветствием для новых членов и прощаний.",
         "context": " -> settings.notifi.init.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4050,7 +4050,7 @@
     {
         "identifier": "\"settings.notifi.init.dropdown.welcomer.title\"",
         "source_string": "Welcomer",
-        "translation": "Welcomer",
+        "translation": "Приветствие",
         "context": " -> settings.notifi.init.dropdown.welcomer.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4066,7 +4066,7 @@
     {
         "identifier": "\"settings.notifi.init.dropdown.farewell.title\"",
         "source_string": "Farewell",
-        "translation": "Farewell",
+        "translation": "Прощание",
         "context": " -> settings.notifi.init.dropdown.farewell.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4082,7 +4082,7 @@
     {
         "identifier": "\"settings.notifi.init.dropdown.twitch.title\"",
         "source_string": "Twitch",
-        "translation": "Twitch",
+        "translation": "Твитч",
         "context": " -> settings.notifi.init.dropdown.twitch.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4098,7 +4098,7 @@
     {
         "identifier": "\"settings.notifi.init.dropdown.youtube.title\"",
         "source_string": "Youtube",
-        "translation": "Youtube",
+        "translation": "Ютуб",
         "context": " -> settings.notifi.init.dropdown.youtube.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4122,7 +4122,7 @@
     {
         "identifier": "\"settings.notifi.message.placeholder\"",
         "source_string": "You can use embed-builder to create a message.",
-        "translation": "You can use embed-builder to create a message.",
+        "translation": "Вы можете использовать embed builder для создания сообщения.",
         "context": " -> settings.notifi.message.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4130,7 +4130,7 @@
     {
         "identifier": "\"settings.notifi.dropdown.channel\"",
         "source_string": "Select a channel for notifications",
-        "translation": "Select a channel for notifications",
+        "translation": "Выберите канал для уведомлений",
         "context": " -> settings.notifi.dropdown.channel",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4154,7 +4154,7 @@
     {
         "identifier": "\"settings.notifi.farewell.title\"",
         "source_string": "Farewell",
-        "translation": "Farewell",
+        "translation": "Прощание",
         "context": " -> settings.notifi.farewell.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4162,7 +4162,7 @@
     {
         "identifier": "\"settings.notifi.farewell.description\"",
         "source_string": "Sends personalized goodbyes, acknowledges contributions, and provides reminders, enhancing user experience with a friendly touch.",
-        "translation": "Sends personalized goodbyes, acknowledges contributions, and provides reminders, enhancing user experience with a friendly touch.",
+        "translation": "Отправляет персонализированные прощания, распознает вклады и обеспечивает напоминания, улучшая пользовательский опыт с помощью дружественного подхода.",
         "context": " -> settings.notifi.farewell.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4170,7 +4170,7 @@
     {
         "identifier": "\"settings.notifi.twitch.title\"",
         "source_string": "Twitch Notifications",
-        "translation": "Twitch Notifications",
+        "translation": "Уведомления на Твитч",
         "context": " -> settings.notifi.twitch.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4178,7 +4178,7 @@
     {
         "identifier": "\"settings.notifi.twitch.description\"",
         "source_string": "Stay updated with real-time alerts for live streams and new content from your favorite Twitch channels.",
-        "translation": "Stay updated with real-time alerts for live streams and new content from your favorite Twitch channels.",
+        "translation": "Следите за новым контентом с вашими любимыми каналами на твитче в режиме реального времени с помощью уведомлений.",
         "context": " -> settings.notifi.twitch.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4186,7 +4186,7 @@
     {
         "identifier": "\"settings.notifi.twitch.field\"",
         "source_string": "> Username: **{user}**\n> Channel: {channel}",
-        "translation": "> Username: **{user}**\n> Channel: {channel}",
+        "translation": "> Имя пользователя: **{user}**\n> Канал: {channel}",
         "context": " -> settings.notifi.twitch.field",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4194,7 +4194,7 @@
     {
         "identifier": "\"settings.notifi.twitch.modal.label\"",
         "source_string": "Name",
-        "translation": "Name",
+        "translation": "Название",
         "context": " -> settings.notifi.twitch.modal.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4202,7 +4202,7 @@
     {
         "identifier": "\"settings.notifi.twitch.modal.placeholder\"",
         "source_string": "Enter the name or link of the streamer.",
-        "translation": "Enter the name or link of the streamer.",
+        "translation": "Введите имя или ссылку стримера.",
         "context": " -> settings.notifi.twitch.modal.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4210,7 +4210,7 @@
     {
         "identifier": "\"settings.notifi.twitch.modal.error\"",
         "source_string": "The streamer was not found.",
-        "translation": "The streamer was not found.",
+        "translation": "Стример не найден.",
         "context": " -> settings.notifi.twitch.modal.error",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4218,7 +4218,7 @@
     {
         "identifier": "\"settings.notifi.twitch.dropdown\"",
         "source_string": "Select the notifications of the streamer you want to change",
-        "translation": "Select the notifications of the streamer you want to change",
+        "translation": "Выберите уведомления стримера, который вы хотите изменить",
         "context": " -> settings.notifi.twitch.dropdown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4226,7 +4226,7 @@
     {
         "identifier": "\"settings.notifi.youtube.title\"",
         "source_string": "YouTube Notifications",
-        "translation": "YouTube Notifications",
+        "translation": "Уведомления на YouTube",
         "context": " -> settings.notifi.youtube.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4234,7 +4234,7 @@
     {
         "identifier": "\"settings.notifi.youtube.description\"",
         "source_string": "Get instant updates for new videos from your favorite YouTube channels.",
-        "translation": "Get instant updates for new videos from your favorite YouTube channels.",
+        "translation": "Получайте мгновенные уведомления о новых видео с ваших любимых каналов YouTube.",
         "context": " -> settings.notifi.youtube.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4242,7 +4242,7 @@
     {
         "identifier": "\"settings.notifi.youtube.field\"",
         "source_string": "> Username: **{user}**\n> Channel: {channel}",
-        "translation": "> Username: **{user}**\n> Channel: {channel}",
+        "translation": "> Имя пользователя: **{user}**\n> Канал: {channel}",
         "context": " -> settings.notifi.youtube.field",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4250,7 +4250,7 @@
     {
         "identifier": "\"settings.notifi.youtube.choose.placeholder\"",
         "source_string": "Choose a youtuber",
-        "translation": "Choose a youtuber",
+        "translation": "Выберите ютубера",
         "context": " -> settings.notifi.youtube.choose.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4258,7 +4258,7 @@
     {
         "identifier": "\"settings.notifi.youtube.modal.label\"",
         "source_string": "Name",
-        "translation": "Name",
+        "translation": "Название",
         "context": " -> settings.notifi.youtube.modal.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4266,7 +4266,7 @@
     {
         "identifier": "\"settings.notifi.youtube.modal.placeholder\"",
         "source_string": "Enter the username of the youtuber.",
-        "translation": "Enter the username of the youtuber.",
+        "translation": "Введите имя пользователя ютубера.",
         "context": " -> settings.notifi.youtube.modal.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4274,7 +4274,7 @@
     {
         "identifier": "\"settings.notifi.youtube.modal.error\"",
         "source_string": "The channels was not found.",
-        "translation": "The channels was not found.",
+        "translation": "Каналы не найдены.",
         "context": " -> settings.notifi.youtube.modal.error",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4282,7 +4282,7 @@
     {
         "identifier": "\"settings.notifi.youtube.dropdown\"",
         "source_string": "Select the YouTuber notifications that you want to change",
-        "translation": "Select the YouTuber notifications that you want to change",
+        "translation": "Выберите уведомления ютубера, которые вы хотите изменить",
         "context": " -> settings.notifi.youtube.dropdown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4290,7 +4290,7 @@
     {
         "identifier": "\"settings.tempvoice.init.title\"",
         "source_string": "Temporary Private Channels",
-        "translation": "Temporary Private Channels",
+        "translation": "Временные приватные каналы",
         "context": " -> settings.tempvoice.init.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4298,7 +4298,7 @@
     {
         "identifier": "\"settings.tempvoice.init.description\"",
         "source_string": "Temporary channels are created automatically when entering the trigger channel and deleted when exiting the created channel.\nThe user who created the channel manages it, including changing settings and applying user fog inside this channel.",
-        "translation": "Temporary channels are created automatically when entering the trigger channel and deleted when exiting the created channel.\nThe user who created the channel manages it, including changing settings and applying user fog inside this channel.",
+        "translation": "Временные каналы создаются автоматически при входе в канал триггера и удаляются при выходе из созданного канала.\nПользователь, который создал канал, управляет им, включая изменение настроек и применение мута в сторону пользователя в этом канале.",
         "context": " -> settings.tempvoice.init.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4306,7 +4306,7 @@
     {
         "identifier": "\"settings.tempvoice.init.create.name\"",
         "source_string": "[+] Create channel",
-        "translation": "[+] Create channel",
+        "translation": "[+] Создать канал",
         "context": " -> settings.tempvoice.init.create.name",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4314,7 +4314,7 @@
     {
         "identifier": "\"settings.tempvoice.init.create.category\"",
         "source_string": "Private Channels",
-        "translation": "Private Channels",
+        "translation": "Приватные каналы",
         "context": " -> settings.tempvoice.init.create.category",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4322,7 +4322,7 @@
     {
         "identifier": "\"settings.tempvoice.init.create.panel\"",
         "source_string": "Control panel",
-        "translation": "Control panel",
+        "translation": "Панель управления",
         "context": " -> settings.tempvoice.init.create.panel",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4330,7 +4330,7 @@
     {
         "identifier": "\"settings.tempvoice.select.channel\"",
         "source_string": "Select the trigger channel",
-        "translation": "Select the trigger channel",
+        "translation": "Выберите триггер канал",
         "context": " -> settings.tempvoice.select.channel",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4338,7 +4338,7 @@
     {
         "identifier": "\"settings.tempvoice.select.category\"",
         "source_string": "[OPTIONAL] Select the category where the created channels will be",
-        "translation": "[OPTIONAL] Select the category where the created channels will be",
+        "translation": "[НЕОБЯЗАТЕЛЬНО] Выберите категорию, в которой будут создаваться каналы",
         "context": " -> settings.tempvoice.select.category",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4346,7 +4346,7 @@
     {
         "identifier": "\"settings.tempvoice.select.panel\"",
         "source_string": "[OPTIONAL] Select a channel for the panel",
-        "translation": "[OPTIONAL] Select a channel for the panel",
+        "translation": "[НЕОБЯЗАТЕЛЬНО] Выберите канал для панели",
         "context": " -> settings.tempvoice.select.panel",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4354,7 +4354,7 @@
     {
         "identifier": "\"settings.tempvoice.select.opts\"",
         "source_string": "Select the parameter you want to change",
-        "translation": "Select the parameter you want to change",
+        "translation": "Выберите параметр который вы хотите изменить",
         "context": " -> settings.tempvoice.select.opts",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4362,7 +4362,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.label\"",
         "source_string": "Panel Type",
-        "translation": "Panel Type",
+        "translation": "Тип панели",
         "context": " -> settings.tempvoice.panel.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4370,7 +4370,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.description\"",
         "source_string": "Open Panel Type Settings",
-        "translation": "Open Panel Type Settings",
+        "translation": "Открыть настройки типа панели",
         "context": " -> settings.tempvoice.panel.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4378,7 +4378,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.none.label\"",
         "source_string": "None",
-        "translation": "None",
+        "translation": "Ничего",
         "context": " -> settings.tempvoice.panel.type.none.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4386,7 +4386,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.none.description\"",
         "source_string": "Disables the panel",
-        "translation": "Disables the panel",
+        "translation": "Отключает панель",
         "context": " -> settings.tempvoice.panel.type.none.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4394,7 +4394,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.button.label\"",
         "source_string": "Button",
-        "translation": "Button",
+        "translation": "Кнока",
         "context": " -> settings.tempvoice.panel.type.button.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4402,7 +4402,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.button.description\"",
         "source_string": "The panel will have buttons",
-        "translation": "The panel will have buttons",
+        "translation": "Панель будет иметь кнопки",
         "context": " -> settings.tempvoice.panel.type.button.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4410,7 +4410,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.dropdown.label\"",
         "source_string": "DropDown",
-        "translation": "DropDown",
+        "translation": "Выпадающее меню",
         "context": " -> settings.tempvoice.panel.type.dropdown.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4418,7 +4418,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.dropdown.description\"",
         "source_string": "The panel will have a dropdown menu",
-        "translation": "The panel will have a dropdown menu",
+        "translation": "Панель будет иметь выпадающее меню",
         "context": " -> settings.tempvoice.panel.type.dropdown.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4426,7 +4426,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.panel.label\"",
         "source_string": "Control panel",
-        "translation": "Control panel",
+        "translation": "Панель управления",
         "context": " -> settings.tempvoice.panel.type_message.panel.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4434,7 +4434,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.panel.description\"",
         "source_string": "Before that, select the channel panel",
-        "translation": "Before that, select the channel panel",
+        "translation": "Перед этим, выберите панель канала",
         "context": " -> settings.tempvoice.panel.type_message.panel.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4442,7 +4442,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.voice.label\"",
         "source_string": "In voice",
-        "translation": "In voice",
+        "translation": "В голосовом канале",
         "context": " -> settings.tempvoice.panel.type_message.voice.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4450,7 +4450,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.voice.description\"",
         "source_string": "Sends a panel to the voice when it is created",
-        "translation": "Sends a panel to the voice when it is created",
+        "translation": "Отправлять панель управление в голосовой канал при создании",
         "context": " -> settings.tempvoice.panel.type_message.voice.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4458,7 +4458,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.every.label\"",
         "source_string": "Everywhere",
-        "translation": "Everywhere",
+        "translation": "Везде",
         "context": " -> settings.tempvoice.panel.type_message.every.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4466,7 +4466,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.every.description\"",
         "source_string": "Creates a panel in the voice and in the channel allocated for this purpose",
-        "translation": "Creates a panel in the voice and in the channel allocated for this purpose",
+        "translation": "Создает панель управления в голосовом канале и в выделенном для этого канале",
         "context": " -> settings.tempvoice.panel.type_message.every.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4474,7 +4474,7 @@
     {
         "identifier": "\"settings.tempvoice.brief_title\"",
         "source_string": "TempVoice",
-        "translation": "TempVoice",
+        "translation": "Временный голосовой канал",
         "context": " -> settings.tempvoice.brief_title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4482,7 +4482,7 @@
     {
         "identifier": "\"settings.tempvoice.name.label\"",
         "source_string": "Voice name",
-        "translation": "Voice name",
+        "translation": "Название голосового канала",
         "context": " -> settings.tempvoice.name.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4490,7 +4490,7 @@
     {
         "identifier": "\"settings.tempvoice.name.description\"",
         "source_string": "Change the default channel name",
-        "translation": "Change the default channel name",
+        "translation": "Изменить название канала по умолчанию",
         "context": " -> settings.tempvoice.name.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4498,7 +4498,7 @@
     {
         "identifier": "\"settings.tempvoice.limit.label\"",
         "source_string": "Voice limit",
-        "translation": "Voice limit",
+        "translation": "Лимит голосовых каналов",
         "context": " -> settings.tempvoice.limit.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4506,7 +4506,7 @@
     {
         "identifier": "\"settings.tempvoice.limit.description\"",
         "source_string": "Change the default channel name",
-        "translation": "Change the default channel name",
+        "translation": "Изменить название канала по умолчанию",
         "context": " -> settings.tempvoice.limit.description",
         "labels": "temp_loc_en.json",
         "max_length": null
