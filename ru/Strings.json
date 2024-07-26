@@ -2994,7 +2994,7 @@
     {
         "identifier": "\"settings.module-name.notification\"",
         "source_string": "Notification",
-        "translation": "Notification",
+        "translation": "Уведомления",
         "context": " -> settings.module-name.notification",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3002,7 +3002,7 @@
     {
         "identifier": "\"settings.module-name.tempvoice\"",
         "source_string": "Temp Voice",
-        "translation": "Temp Voice",
+        "translation": "Временные каналы",
         "context": " -> settings.module-name.tempvoice",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3010,7 +3010,7 @@
     {
         "identifier": "\"settings.module-name.tickets\"",
         "source_string": "Tickets",
-        "translation": "Tickets",
+        "translation": "Тикеты",
         "context": " -> settings.module-name.tickets",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3018,7 +3018,7 @@
     {
         "identifier": "\"economy.rob.disabled\"",
         "source_string": "{Emoji.cross} Theft is disabled on this server!",
-        "translation": "{Emoji.cross} Theft is disabled on this server!",
+        "translation": "{Emoji.cross} Тюрьма отключена на этом сервере!",
         "context": " -> economy.rob.disabled",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3026,7 +3026,7 @@
     {
         "identifier": "\"errors.BotMissingPermissions\"",
         "source_string": "The bot doesn't have enough rights",
-        "translation": "The bot doesn't have enough rights",
+        "translation": "У бота недостаточно прав",
         "context": " -> errors.BotMissingPermissions",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3034,7 +3034,7 @@
     {
         "identifier": "\"settings.button.disable\"",
         "source_string": "Disable",
-        "translation": "Disable",
+        "translation": "Выключить",
         "context": " -> settings.button.disable",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3042,7 +3042,7 @@
     {
         "identifier": "\"settings.button.enable\"",
         "source_string": "Enable",
-        "translation": "Enable",
+        "translation": "Включить",
         "context": " -> settings.button.enable",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3050,7 +3050,7 @@
     {
         "identifier": "\"settings.button.set\"",
         "source_string": "Set",
-        "translation": "Set",
+        "translation": "Назначить",
         "context": " -> settings.button.set",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3058,7 +3058,7 @@
     {
         "identifier": "\"settings.economy.init.embed.title\"",
         "source_string": "The economic system",
-        "translation": "The economic system",
+        "translation": "Экономическая система",
         "context": " -> settings.economy.init.embed.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3066,7 +3066,7 @@
     {
         "identifier": "\"settings.economy.init.embed.description\"",
         "source_string": "The economic system will allow your server to rise to a completely different level.\nGames, levels, promotions, contests and more.\nAll this is in our economic system.",
-        "translation": "The economic system will allow your server to rise to a completely different level.\nGames, levels, promotions, contests and more.\nAll this is in our economic system.",
+        "translation": "Экономическая система позволит вашему серверу подняться на совершенно другой уровень.\nИгры, уровни, рекламные акции, конкурсы и многое другое.\nВсе это есть в нашей экономической системе.",
         "context": " -> settings.economy.init.embed.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3074,7 +3074,7 @@
     {
         "identifier": "\"settings.economy.init.info.name\"",
         "source_string": "Economy Information",
-        "translation": "Economy Information",
+        "translation": "Информация об экономике",
         "context": " -> settings.economy.init.info.name",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3082,7 +3082,7 @@
     {
         "identifier": "\"settings.economy.init.info.value\"",
         "source_string": "・Daily reward: {daily}\n・Weekly reward: {weekly}\n・Monthly reward: {monthly}\n・Minimum bid: {bet_min}\n・Maximum bid: {bet_max}\n・Minimum payment for work: {work_min}\n・Maximum payment for work: {work_max}\n・Cooldown for work: {cooldown}",
-        "translation": "・Daily reward: {daily}\n・Weekly reward: {weekly}\n・Monthly reward: {monthly}\n・Minimum bid: {bet_min}\n・Maximum bid: {bet_max}\n・Minimum payment for work: {work_min}\n・Maximum payment for work: {work_max}\n・Cooldown for work: {cooldown}",
+        "translation": "・Ежедневная награда: {daily}\n・Еженедельная награда: {weekly}\n・Ежемесячная награда: {monthly}\n・Минимальная ставка: {bet_min}\n・Максимальная ставка: {bet_max}\n・Минимальная оплата за работу: {work_min}\n・Максимальная оплата за работу: {work_max}\n・Время ожидания после работы: {cooldown}",
         "context": " -> settings.economy.init.info.value",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3090,7 +3090,7 @@
     {
         "identifier": "\"settings.economy.init.emoji\"",
         "source_string": "Economy emoji",
-        "translation": "Economy emoji",
+        "translation": "Эмодзи экономики",
         "context": " -> settings.economy.init.emoji",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3098,7 +3098,7 @@
     {
         "identifier": "\"settings.economy.init.dropdown.placeholder\"",
         "source_string": "Economy Settings:",
-        "translation": "Economy Settings:",
+        "translation": "Настройки экономики:",
         "context": " -> settings.economy.init.dropdown.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3106,7 +3106,7 @@
     {
         "identifier": "\"settings.economy.init.dropdown.bonus\"",
         "source_string": "Change the amount of bonuses",
-        "translation": "Change the amount of bonuses",
+        "translation": "Изменить сумму бонусов",
         "context": " -> settings.economy.init.dropdown.bonus",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3114,7 +3114,7 @@
     {
         "identifier": "\"settings.economy.init.dropdown.emoji\"",
         "source_string": "Change the emoji",
-        "translation": "Change the emoji",
+        "translation": "Изменить эмодзи",
         "context": " -> settings.economy.init.dropdown.emoji",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3122,7 +3122,7 @@
     {
         "identifier": "\"settings.economy.init.dropdown.shop\"",
         "source_string": "Change the shop roles",
-        "translation": "Change the shop roles",
+        "translation": "Изменить роли магазина",
         "context": " -> settings.economy.init.dropdown.shop",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3130,7 +3130,7 @@
     {
         "identifier": "\"settings.economy.init.dropdown.theft\"",
         "source_string": "Change the settings theft",
-        "translation": "Change the settings theft",
+        "translation": "Изменить настройки краж",
         "context": " -> settings.economy.init.dropdown.theft",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3138,7 +3138,7 @@
     {
         "identifier": "\"settings.economy.bonus.daily\"",
         "source_string": "Daily reward",
-        "translation": "Daily reward",
+        "translation": "Ежедневная награда",
         "context": " -> settings.economy.bonus.daily",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3146,7 +3146,7 @@
     {
         "identifier": "\"settings.economy.bonus.weekly\"",
         "source_string": "Weekly reward",
-        "translation": "Weekly reward",
+        "translation": "Еженедельная награда",
         "context": " -> settings.economy.bonus.weekly",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3154,7 +3154,7 @@
     {
         "identifier": "\"settings.economy.bonus.monthly\"",
         "source_string": "Monthly reward",
-        "translation": "Monthly reward",
+        "translation": "Ежемесячная награда",
         "context": " -> settings.economy.bonus.monthly",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3162,7 +3162,7 @@
     {
         "identifier": "\"settings.economy.bonus.work\"",
         "source_string": "Work",
-        "translation": "Work",
+        "translation": "Работа",
         "context": " -> settings.economy.bonus.work",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3170,7 +3170,7 @@
     {
         "identifier": "\"settings.economy.bonus.bet\"",
         "source_string": "Bet",
-        "translation": "Bet",
+        "translation": "Ставка",
         "context": " -> settings.economy.bonus.bet",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3178,7 +3178,7 @@
     {
         "identifier": "\"settings.economy.bonus.min_work\"",
         "source_string": "Minimum payment for work",
-        "translation": "Minimum payment for work",
+        "translation": "Минимальная оплата работы",
         "context": " -> settings.economy.bonus.min_work",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3186,7 +3186,7 @@
     {
         "identifier": "\"settings.economy.bonus.max_work\"",
         "source_string": "Maximum payment for work",
-        "translation": "Maximum payment for work",
+        "translation": "Максимальная оплата за работу",
         "context": " -> settings.economy.bonus.max_work",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3194,7 +3194,7 @@
     {
         "identifier": "\"settings.economy.bonus.cooldown\"",
         "source_string": "Cooldown",
-        "translation": "Cooldown",
+        "translation": "Перезарядка",
         "context": " -> settings.economy.bonus.cooldown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3202,7 +3202,7 @@
     {
         "identifier": "\"settings.economy.error.no_selected\"",
         "source_string": "At least one value must be filled in",
-        "translation": "At least one value must be filled in",
+        "translation": "Как минимум одно значение должно быть указано",
         "context": " -> settings.economy.error.no_selected",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3210,7 +3210,7 @@
     {
         "identifier": "\"settings.economy.error.type\"",
         "source_string": "The value must be an integer number",
-        "translation": "The value must be an integer number",
+        "translation": "Значение должно быть целым числом",
         "context": " -> settings.economy.error.type",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3218,7 +3218,7 @@
     {
         "identifier": "\"settings.economy.error.type_time\"",
         "source_string": "Incorrect time format",
-        "translation": "Incorrect time format",
+        "translation": "Неправильный формат времени",
         "context": " -> settings.economy.error.type_time",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3226,7 +3226,7 @@
     {
         "identifier": "\"settings.economy.bonus.min_bet\"",
         "source_string": "Minimum bid",
-        "translation": "Minimum bid",
+        "translation": "Минимальная ставка",
         "context": " -> settings.economy.bonus.min_bet",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3234,7 +3234,7 @@
     {
         "identifier": "\"settings.economy.bonus.max_bet\"",
         "source_string": "Minimum bid",
-        "translation": "Minimum bid",
+        "translation": "Минимальная ставка",
         "context": " -> settings.economy.bonus.max_bet",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3242,7 +3242,7 @@
     {
         "identifier": "\"settings.economy.bonus.dropdown.placeholder\"",
         "source_string": "Setting up bonus amounts",
-        "translation": "Setting up bonus amounts",
+        "translation": "Настроить сумму бонусов",
         "context": " -> settings.economy.bonus.dropdown.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3250,7 +3250,7 @@
     {
         "identifier": "\"settings.economy.emoji.dropdown\"",
         "source_string": "The current emoji",
-        "translation": "The current emoji",
+        "translation": "Текущий эмодзи",
         "context": " -> settings.economy.emoji.dropdown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3258,7 +3258,7 @@
     {
         "identifier": "\"settings.economy.emoji.title\"",
         "source_string": "Custom emoji",
-        "translation": "Custom emoji",
+        "translation": "Пользовательские эмодзи",
         "context": " -> settings.economy.emoji.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3266,7 +3266,7 @@
     {
         "identifier": "\"settings.economy.emoji.description\"",
         "source_string": "You are on the way to creating a good economy.\nYou can set emojis for your economy",
-        "translation": "You are on the way to creating a good economy.\nYou can set emojis for your economy",
+        "translation": "Вы на пути к созданию хорошей экономики.\nВы можете установить эмодзи для своей экономики",
         "context": " -> settings.economy.emoji.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3274,7 +3274,7 @@
     {
         "identifier": "\"settings.economy.shop.title\"",
         "source_string": "Shop role",
-        "translation": "Shop role",
+        "translation": "Роль магазина",
         "context": " -> settings.economy.shop.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3282,7 +3282,7 @@
     {
         "identifier": "\"settings.economy.shop.amount\"",
         "source_string": "Amount",
-        "translation": "Amount",
+        "translation": "Сумма",
         "context": " -> settings.economy.shop.amount",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3290,7 +3290,7 @@
     {
         "identifier": "\"settings.economy.shop.limit\"",
         "source_string": "Limit",
-        "translation": "Limit",
+        "translation": "Лимит",
         "context": " -> settings.economy.shop.limit",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3298,7 +3298,7 @@
     {
         "identifier": "\"settings.economy.shop.name\"",
         "source_string": "Name",
-        "translation": "Name",
+        "translation": "Название",
         "context": " -> settings.economy.shop.name",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3314,7 +3314,7 @@
     {
         "identifier": "\"settings.economy.shop.placeholder\"",
         "source_string": "Setting up shop roles",
-        "translation": "Setting up shop roles",
+        "translation": "Настройка ролей магазина",
         "context": " -> settings.economy.shop.placeholder",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3322,7 +3322,7 @@
     {
         "identifier": "\"settings.economy.shop.error.type.amount\"",
         "source_string": "Amout is invalid format!",
-        "translation": "Amout is invalid format!",
+        "translation": "Неправильный формат аргумента сумма!",
         "context": " -> settings.economy.shop.error.type.amount",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3330,7 +3330,7 @@
     {
         "identifier": "\"settings.economy.shop.error.type.limit\"",
         "source_string": "Limit is invalid format!",
-        "translation": "Limit is invalid format!",
+        "translation": "Неправильный формат лимита!",
         "context": " -> settings.economy.shop.error.type.limit",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3346,7 +3346,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_ghost.label\"",
         "source_string": "Ghost",
-        "translation": "Ghost",
+        "translation": "Скрыть",
         "context": " -> tempvoice.items.description.change_ghost.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3354,7 +3354,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_ghost.description\"",
         "source_string": "Hide/open the channel.",
-        "translation": "Hide/open the channel.",
+        "translation": "Скрыть/открыть канал.",
         "context": " -> tempvoice.items.description.change_ghost.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3362,7 +3362,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_locked.label\"",
         "source_string": "Lock",
-        "translation": "Lock",
+        "translation": "Заблокировать",
         "context": " -> tempvoice.items.description.change_locked.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3370,7 +3370,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_locked.description\"",
         "source_string": "Lock/unlock the channel.",
-        "translation": "Lock/unlock the channel.",
+        "translation": "Заблокировать/разблокировать канал.",
         "context": " -> tempvoice.items.description.change_locked.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3378,7 +3378,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_name.label\"",
         "source_string": "Name",
-        "translation": "Name",
+        "translation": "Название",
         "context": " -> tempvoice.items.description.change_name.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3386,7 +3386,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_name.description\"",
         "source_string": "Change the channel name.",
-        "translation": "Change the channel name.",
+        "translation": "Изменить название канала.",
         "context": " -> tempvoice.items.description.change_name.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3394,7 +3394,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_owner.label\"",
         "source_string": "Ownership",
-        "translation": "Ownership",
+        "translation": "Права собственности",
         "context": " -> tempvoice.items.description.change_owner.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3402,7 +3402,7 @@
     {
         "identifier": "\"tempvoice.items.description.change_owner.description\"",
         "source_string": "Transfer ownership of the channel.",
-        "translation": "Transfer ownership of the channel.",
+        "translation": "Передать права собственности на канал.",
         "context": " -> tempvoice.items.description.change_owner.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3906,7 +3906,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.offers.description\"",
         "source_string": "Channel of all ideas",
-        "translation": "Channel of all ideas",
+        "translation": "Канал для всех идей",
         "context": " -> settings.ideas.init.dropdown.offers.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3914,7 +3914,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.approved.title\"",
         "source_string": "Approved",
-        "translation": "Approved",
+        "translation": "Утверждено",
         "context": " -> settings.ideas.init.dropdown.approved.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3922,7 +3922,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.approved.description\"",
         "source_string": "An approved ideas channel",
-        "translation": "An approved ideas channel",
+        "translation": "Канал утвержденных идей",
         "context": " -> settings.ideas.init.dropdown.approved.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3930,7 +3930,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.mod_roles.title\"",
         "source_string": "Moderation roles",
-        "translation": "Moderation roles",
+        "translation": "Роли модераторов",
         "context": " -> settings.ideas.init.dropdown.mod_roles.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3938,7 +3938,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.mod_roles.description\"",
         "source_string": "Roles that can handle ideas (Default Administrators)",
-        "translation": "Roles that can handle ideas (Default Administrators)",
+        "translation": "Роли, которые могут обрабатывать идеи (по умолчанию администраторы)",
         "context": " -> settings.ideas.init.dropdown.mod_roles.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3946,7 +3946,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.cooldown.title\"",
         "source_string": "Cooldown",
-        "translation": "Cooldown",
+        "translation": "Перезарядка",
         "context": " -> settings.ideas.init.dropdown.cooldown.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3954,7 +3954,7 @@
     {
         "identifier": "\"settings.ideas.init.dropdown.cooldown.description\"",
         "source_string": "The delay between ideas",
-        "translation": "The delay between ideas",
+        "translation": "Задержка между идеями",
         "context": " -> settings.ideas.init.dropdown.cooldown.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3962,7 +3962,7 @@
     {
         "identifier": "\"settings.ideas.approved\"",
         "source_string": "> Choose a channel that will match the channel of approved ideas",
-        "translation": "> Choose a channel that will match the channel of approved ideas",
+        "translation": "> Выберите канал, который будет соответствовать каналу одобренных идей",
         "context": " -> settings.ideas.approved",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3970,7 +3970,7 @@
     {
         "identifier": "\"settings.ideas.cooldown.field\"",
         "source_string": "> Set the delay time between publishing ideas",
-        "translation": "> Set the delay time between publishing ideas",
+        "translation": "> Установить задержку между публикацией идей",
         "context": " -> settings.ideas.cooldown.field",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3978,7 +3978,7 @@
     {
         "identifier": "\"settings.ideas.cooldown.modal.title\"",
         "source_string": "Enter the time to delay between ideas",
-        "translation": "Enter the time to delay between ideas",
+        "translation": "Введите время задержки между идеями",
         "context": " -> settings.ideas.cooldown.modal.title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3986,7 +3986,7 @@
     {
         "identifier": "\"settings.ideas.cooldown.modal.error\"",
         "source_string": "It is necessary to write the time in the `1d2h10m` format",
-        "translation": "It is necessary to write the time in the `1d2h10m` format",
+        "translation": "Необходимо написать время в формате `1d2h10m`",
         "context": " -> settings.ideas.cooldown.modal.error",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3994,7 +3994,7 @@
     {
         "identifier": "\"settings.ideas.mod_role.field\"",
         "source_string": "> Choose roles that can approve/reject ideas",
-        "translation": "> Choose roles that can approve/reject ideas",
+        "translation": "> Выберите роли, которые смогут утверждать/отклонять идеи",
         "context": " -> settings.ideas.mod_role.field",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4002,7 +4002,7 @@
     {
         "identifier": "\"settings.ideas.mod_role.dropdown\"",
         "source_string": "Select roles",
-        "translation": "Select roles",
+        "translation": "Выберите роли",
         "context": " -> settings.ideas.mod_role.dropdown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4010,7 +4010,7 @@
     {
         "identifier": "\"settings.ideas.channel.dropdown\"",
         "source_string": "Select a channel",
-        "translation": "Select a channel",
+        "translation": "Выберите канал",
         "context": " -> settings.ideas.channel.dropdown",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4018,7 +4018,7 @@
     {
         "identifier": "\"settings.ideas.offers.field\"",
         "source_string": "> Select the channel where all the ideas will come from",
-        "translation": "> Select the channel where all the ideas will come from",
+        "translation": "> Выберите канал, в который будут приходить все идеи",
         "context": " -> settings.ideas.offers.field",
         "labels": "temp_loc_en.json",
         "max_length": null
