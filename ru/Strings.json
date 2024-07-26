@@ -1322,7 +1322,7 @@
     {
         "identifier": "\"ideas.mod.permission.unspecified\"",
         "source_string": "Unspecified",
-        "translation": "неуказанно",
+        "translation": "Не указанно",
         "context": " -> ideas.mod.permission.unspecified",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -3866,7 +3866,7 @@
     {
         "identifier": "\"settings.ideas.init.unspecified\"",
         "source_string": "unspecified",
-        "translation": "неуказанно",
+        "translation": "не указанно",
         "context": " -> settings.ideas.init.unspecified",
         "labels": "temp_loc_en.json",
         "max_length": null
