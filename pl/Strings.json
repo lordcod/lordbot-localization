@@ -1321,8 +1321,8 @@
     },
     {
         "identifier": "\"ideas.mod.permission.unspecified\"",
-        "source_string": "unspecified",
-        "translation": "unspecified",
+        "source_string": "Unspecified",
+        "translation": "Unspecified",
         "context": " -> ideas.mod.permission.unspecified",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -3497,8 +3497,8 @@
     },
     {
         "identifier": "\"tempvoice.items.description.mute_member.description\"",
-        "source_string": "Enable/disable the microphone for the participant..",
-        "translation": "Enable/disable the microphone for the participant..",
+        "source_string": "Enable/disable the microphone for the participant.",
+        "translation": "Enable/disable the microphone for the participant.",
         "context": " -> tempvoice.items.description.mute_member.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3513,8 +3513,8 @@
     },
     {
         "identifier": "\"tempvoice.items.description.mute_member_fd.description\"",
-        "source_string": "Disable the microphone for the participant..",
-        "translation": "Disable the microphone for the participant..",
+        "source_string": "Disable the microphone for the participant.",
+        "translation": "Disable the microphone for the participant.",
         "context": " -> tempvoice.items.description.mute_member_fd.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3857,8 +3857,8 @@
     },
     {
         "identifier": "\"settings.ideas.init.error.enable\"",
-        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
-        "translation": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
+        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **suggestions** channel",
+        "translation": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **suggestions** channel",
         "context": " -> settings.ideas.init.error.enable",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3897,8 +3897,8 @@
     },
     {
         "identifier": "\"settings.ideas.init.dropdown.offers.title\"",
-        "source_string": "Offers",
-        "translation": "Offers",
+        "source_string": "Suggestions",
+        "translation": "Suggestions",
         "context": " -> settings.ideas.init.dropdown.offers.title",
         "labels": "temp_loc_en.json",
         "max_length": null

@@ -18,7 +18,7 @@
     {
         "identifier": "\"bot-info.assembly\"",
         "source_string": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
-        "translation": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
+        "translation": "Version: `{version}`\nHash: `{hash}`\nBild Date: <t:{time}:D> (<t:{time}:R>)",
         "context": " -> bot-info.assembly",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -138,7 +138,7 @@
     {
         "identifier": "\"help.command-embed.category\"",
         "source_string": "Category: `{category_emoji}{category_name}`\n",
-        "translation": "Category: `{category_emoji}{category_name}`\n",
+        "translation": "Kategori: `{category_emoji}{category_name}`\n",
         "context": " -> help.command-embed.category",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -178,7 +178,7 @@
     {
         "identifier": "\"help.command-embed.using_command\"",
         "source_string": "Using: `{using}`\n",
-        "translation": "Using: `{using}`\n",
+        "translation": "Brug: `{using}`\n",
         "context": " -> help.command-embed.using_command",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -690,7 +690,7 @@
     {
         "identifier": "\"settings.module-name.logs\"",
         "source_string": "Changelog",
-        "translation": "Changelog",
+        "translation": "Ændringslog",
         "context": " -> settings.module-name.logs",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1098,7 +1098,7 @@
     {
         "identifier": "\"settings.reactions.init.dddesc\"",
         "source_string": "Channel: {channel}\nEmoji: {emojis}",
-        "translation": "Channel: {channel}\nEmoji: {emojis}",
+        "translation": "Kanal: {channel}\nEmoji: {emojis}",
         "context": " -> settings.reactions.init.dddesc",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1321,8 +1321,8 @@
     },
     {
         "identifier": "\"ideas.mod.permission.unspecified\"",
-        "source_string": "unspecified",
-        "translation": "unspecified",
+        "source_string": "Unspecified",
+        "translation": "Unspecified",
         "context": " -> ideas.mod.permission.unspecified",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -3497,8 +3497,8 @@
     },
     {
         "identifier": "\"tempvoice.items.description.mute_member.description\"",
-        "source_string": "Enable/disable the microphone for the participant..",
-        "translation": "Enable/disable the microphone for the participant..",
+        "source_string": "Enable/disable the microphone for the participant.",
+        "translation": "Enable/disable the microphone for the participant.",
         "context": " -> tempvoice.items.description.mute_member.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3513,8 +3513,8 @@
     },
     {
         "identifier": "\"tempvoice.items.description.mute_member_fd.description\"",
-        "source_string": "Disable the microphone for the participant..",
-        "translation": "Disable the microphone for the participant..",
+        "source_string": "Disable the microphone for the participant.",
+        "translation": "Disable the microphone for the participant.",
         "context": " -> tempvoice.items.description.mute_member_fd.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3857,8 +3857,8 @@
     },
     {
         "identifier": "\"settings.ideas.init.error.enable\"",
-        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
-        "translation": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **offers** channel",
+        "source_string": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **suggestions** channel",
+        "translation": "You haven't set up everything to include ideas\nRequirement value: **suggest** and **suggestions** channel",
         "context": " -> settings.ideas.init.error.enable",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -3897,8 +3897,8 @@
     },
     {
         "identifier": "\"settings.ideas.init.dropdown.offers.title\"",
-        "source_string": "Offers",
-        "translation": "Offers",
+        "source_string": "Suggestions",
+        "translation": "Suggestions",
         "context": " -> settings.ideas.init.dropdown.offers.title",
         "labels": "temp_loc_en.json",
         "max_length": null
