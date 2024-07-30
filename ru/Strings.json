@@ -4510,5 +4510,1085 @@
         "context": " -> settings.tempvoice.limit.description",
         "labels": "temp_loc_en.json",
         "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.simple\"",
+        "source_string": "Enable simple panel",
+        "translation": "Включить простую панель",
+        "context": " -> settings.tempvoice.panel.simple",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tempvoice.panel.extend\"",
+        "source_string": "Enable extended panel",
+        "translation": "Включить расширенную панель",
+        "context": " -> settings.tempvoice.panel.extend",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.preview\"",
+        "source_string": "View",
+        "translation": "Показать",
+        "context": " -> settings.button.preview",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.remove\"",
+        "source_string": "Remove",
+        "translation": "Удалить",
+        "context": " -> settings.button.remove",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.clear\"",
+        "source_string": "Clear",
+        "translation": "Очистить",
+        "context": " -> settings.button.clear",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.init.title\"",
+        "source_string": "Tickets",
+        "translation": "Тикеты",
+        "context": " -> settings.tickets.init.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.init.description\"",
+        "source_string": "The tickets module allows you to create and manage support requests, helping participants to easily open tickets, and administrators to effectively track and solve them.",
+        "translation": "Модуль заявок позволяет создавать и управлять запросами поддержки, помогая участникам легко открывать заявки, а администраторам эффективно отслеживать и решать их.",
+        "context": " -> settings.tickets.init.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.init.ticket\"",
+        "source_string": "Ticket #{index}",
+        "translation": "Панель поддержки #{index}",
+        "context": " -> settings.tickets.init.ticket",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.init.dropdown\"",
+        "source_string": "Select the ticket to change",
+        "translation": "Выберите тикет для изменения",
+        "context": " -> settings.tickets.init.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.selector.channel\"",
+        "source_string": "Select the channel where the ticket will be",
+        "translation": "Выберите канал, где заявка будет находиться",
+        "context": " -> settings.tickets.selector.channel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.selector.category\"",
+        "source_string": "[OPTIONAL] Select the category where the created tickets will fall",
+        "translation": "[НЕОБЯЗАТЕЛЬНО] Выберите категорию, в которой будут попадать созданные заявки",
+        "context": " -> settings.tickets.selector.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.description\"",
+        "source_string": "The tickets module allows you to create and manage support requests, helping participants to easily open tickets, and administrators to effectively track and solve them.\n\n{info}",
+        "translation": "Модуль заявок позволяет создавать и управлять запросами поддержки, помогая участникам легко открывать заявки, а администраторам эффективно отслеживать и решать их.\n\n{info}",
+        "context": " -> settings.tickets.embeds.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.enabled\"",
+        "source_string": "— Enabled: ",
+        "translation": "— Включено: ",
+        "context": " -> settings.tickets.embeds.enabled",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.user_closed\"",
+        "source_string": "— Closing by user: ",
+        "translation": "— Закрытие пользователем: ",
+        "context": " -> settings.tickets.embeds.user_closed",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.ticket_type\"",
+        "source_string": "― Ticket type: ",
+        "translation": "― Тип заявки: ",
+        "context": " -> settings.tickets.embeds.ticket_type",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.global_limit\"",
+        "source_string": "― Global ticket limit: ",
+        "translation": "― Глобальное ограничение заявок: ",
+        "context": " -> settings.tickets.embeds.global_limit",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.category_limit\"",
+        "source_string": "— Category ticket limit: ",
+        "translation": "— Ограничение заявок по категориям: ",
+        "context": " -> settings.tickets.embeds.category_limit",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.description_info\"",
+        "source_string": "Linked Channel: {channel}\nLinked Message: {message}",
+        "translation": "Привязанный канал: {channel}\nПривязанное сообщение: {message}",
+        "context": " -> settings.tickets.embeds.description_info",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.agent_roles\"",
+        "source_string": "— Agent roles: ",
+        "translation": "— Роли Агента: ",
+        "context": " -> settings.tickets.embeds.agent_roles",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.allowed_roles.desc\"",
+        "source_string": "— Allowed roles: ",
+        "translation": "— Разрешенные роли: ",
+        "context": " -> settings.tickets.embeds.allowed_roles.desc",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.allowed_roles.nf\"",
+        "source_string": "There are no allowed",
+        "translation": "Нет разрешенных",
+        "context": " -> settings.tickets.embeds.allowed_roles.nf",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.category\"",
+        "source_string": "\nTicket Category: {category}",
+        "translation": "\nКатегория Заявок: {category}",
+        "context": " -> settings.tickets.embeds.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.closed_category\"",
+        "source_string": "\nTicket Closed Category: {category}",
+        "translation": "\nКатегория Закрытых Заявок: {category}",
+        "context": " -> settings.tickets.embeds.closed_category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.msg_type.channels\"",
+        "source_string": "Channels",
+        "translation": "Каналы",
+        "context": " -> settings.tickets.embeds.msg_type.channels",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.msg_type.threads\"",
+        "source_string": "Threads",
+        "translation": "Ветки",
+        "context": " -> settings.tickets.embeds.msg_type.threads",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.faq.info\"",
+        "source_string": "— FAQ: {Emoji.online} (Count: {count})",
+        "translation": "— FAQ: {Emoji.online} (Кол-во: {count})",
+        "context": " -> settings.tickets.embeds.faq.info",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.faq.woc\"",
+        "source_string": "— FAQ: {Emoji.offline}",
+        "translation": "— FAQ: {Emoji.offline}",
+        "context": " -> settings.tickets.embeds.faq.woc",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.category.info\"",
+        "source_string": "— Categories: {Emoji.online} (Count: {count})",
+        "translation": "— Категории: {Emoji.online} (Кол-во: {count})",
+        "context": " -> settings.tickets.embeds.category.info",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.category.woc\"",
+        "source_string": "— Categories: {Emoji.offline}",
+        "translation": "— Категории: {Emoji.offline}",
+        "context": " -> settings.tickets.embeds.category.woc",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.modals.info\"",
+        "source_string": "— Forms: {Emoji.online} (Count: {count})",
+        "translation": "— Формы: {Emoji.online} (Кол-во: {count})",
+        "context": " -> settings.tickets.embeds.modals.info",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.embeds.modals.woc\"",
+        "source_string": "— Forms: {Emoji.offline}",
+        "translation": "— Формы: {Emoji.offline}",
+        "context": " -> settings.tickets.embeds.modals.woc",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.allow_roles.label\"",
+        "source_string": "Ticket Allowed Roles",
+        "translation": "Разрешенные роли",
+        "context": " -> settings.tickets.allow_roles.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.allow_roles.description\"",
+        "source_string": "Specify the roles that will be able to create tickets.",
+        "translation": "Укажите роли, которые смогут создавать заявки.",
+        "context": " -> settings.tickets.allow_roles.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.allow_roles.dropdown.add\"",
+        "source_string": "Select the allowed roles to add",
+        "translation": "Выберите разрешенные роли для добавления",
+        "context": " -> settings.tickets.allow_roles.dropdown.add",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.allow_roles.dropdown.remove\"",
+        "source_string": "Select the allowed roles to delete",
+        "translation": "Выберите разрешенные роли для удаления",
+        "context": " -> settings.tickets.allow_roles.dropdown.remove",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.title\"",
+        "source_string": "Ticket Categories",
+        "translation": "Категории заявки",
+        "context": " -> settings.tickets.categories.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.description\"",
+        "source_string": "Select a category to edit or delete.",
+        "translation": "Выберите категорию для изменения или удаления.",
+        "context": " -> settings.tickets.categories.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.dropdown\"",
+        "source_string": "Select the category you want to change",
+        "translation": "Выберите категорию, которую вы хотите изменить",
+        "context": " -> settings.tickets.categories.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.modal.label\"",
+        "source_string": "Label",
+        "translation": "Название",
+        "context": " -> settings.tickets.categories.modal.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.modal.emoji\"",
+        "source_string": "Emoji",
+        "translation": "Эмодзи",
+        "context": " -> settings.tickets.categories.modal.emoji",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.modal.description\"",
+        "source_string": "Description",
+        "translation": "Описание",
+        "context": " -> settings.tickets.categories.modal.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.categories.modal.title\"",
+        "source_string": "Ticket Category Item",
+        "translation": "Элемент категории заявки",
+        "context": " -> settings.tickets.categories.modal.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.channels.title\"",
+        "source_string": "Channels and ticket categories",
+        "translation": "Каналы и категории заявок",
+        "context": " -> settings.tickets.channels.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.channels.description\"",
+        "source_string": "Change the categories or channels of the ticket where tickets will be created or transferred",
+        "translation": "Изменить категории или каналы тикета, где будут создаваться или передаваться заявки",
+        "context": " -> settings.tickets.channels.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.channels.dropdown.closed\"",
+        "source_string": "Select the closed category where the closed tickets will fall",
+        "translation": "Выберите категорию закрытых заявок, в которую будут приходить закрытые заявки",
+        "context": " -> settings.tickets.channels.dropdown.closed",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.channels.dropdown.category\"",
+        "source_string": "Select the category where the created tickets will fall",
+        "translation": "Выберите категорию, в которой будут попадать созданные заявки",
+        "context": " -> settings.tickets.channels.dropdown.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.channels.dropdown.channel\"",
+        "source_string": "Select the channel where the created tickets will fall",
+        "translation": "Выберите канал, в котором будут появляться созданные заявки",
+        "context": " -> settings.tickets.channels.dropdown.channel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.closed_user.label.disable\"",
+        "source_string": "Disable closing by user",
+        "translation": "Отключить закрытие пользователем",
+        "context": " -> settings.tickets.closed_user.label.disable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.closed_user.description.disable\"",
+        "source_string": "Click to prohibit users from closing the ticket.",
+        "translation": "Нажмите, чтобы запретить пользователям закрывать заявку.",
+        "context": " -> settings.tickets.closed_user.description.disable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.closed_user.label.enable\"",
+        "source_string": "Enable closing by user",
+        "translation": "Включить закрытие пользователем",
+        "context": " -> settings.tickets.closed_user.label.enable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.closed_user.description.enable\"",
+        "source_string": "Click to allow users to close the ticket.",
+        "translation": "Нажмите, чтобы разрешить пользователям закрыть заявку.",
+        "context": " -> settings.tickets.closed_user.description.enable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.title\"",
+        "source_string": "Ticket FAQ",
+        "translation": "ЧаВо Заявки",
+        "context": " -> settings.tickets.faq.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.description\"",
+        "source_string": "Set up the FAQ and its type.",
+        "translation": "Настройте ЧаВо и его тип.",
+        "context": " -> settings.tickets.faq.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.dropdown.items\"",
+        "source_string": "Select the faq you want to change",
+        "translation": "Выберите ЧаВо, который вы хотите изменить",
+        "context": " -> settings.tickets.faq.dropdown.items",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.dropdown.type\"",
+        "source_string": "Select the type of FAQ",
+        "translation": "Выберите тип ЧаВО",
+        "context": " -> settings.tickets.faq.dropdown.type",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.modal.label\"",
+        "source_string": "Label",
+        "translation": "Название",
+        "context": " -> settings.tickets.faq.modal.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.modal.emoji\"",
+        "source_string": "Emoji",
+        "translation": "Эмодзи",
+        "context": " -> settings.tickets.faq.modal.emoji",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.modal.description\"",
+        "source_string": "Description",
+        "translation": "Описание",
+        "context": " -> settings.tickets.faq.modal.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.modal.answer\"",
+        "source_string": "Answer",
+        "translation": "Ответ",
+        "context": " -> settings.tickets.faq.modal.answer",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.modal.item\"",
+        "source_string": "Ticket FAQ Item #{index}",
+        "translation": "Элемент ЧаВо тикета #{index}",
+        "context": " -> settings.tickets.faq.modal.item",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.modal.iwoi\"",
+        "source_string": "Ticket FAQ Item",
+        "translation": "Элемент ЧаВо тикета",
+        "context": " -> settings.tickets.faq.modal.iwoi",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.dropdown.button.label\"",
+        "source_string": "Button",
+        "translation": "Кнока",
+        "context": " -> settings.tickets.faq.dropdown.button.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.dropdown.button.description\"",
+        "source_string": "You will have 2 FAQ buttons and create ticket.",
+        "translation": "Вы будете иметь 2 кнопки: ЧаВо и Создать заявку.",
+        "context": " -> settings.tickets.faq.dropdown.button.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.dropdown.dropdown.label\"",
+        "source_string": "Dropdown",
+        "translation": "Выпадающее меню",
+        "context": " -> settings.tickets.faq.dropdown.dropdown.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.faq.dropdown.dropdown.description\"",
+        "source_string": "Create a ticket through the last item in the drop-down menu with FAQ.",
+        "translation": "Создайте заявку через последний пункт в раскрывающемся меню с ЧаВо.",
+        "context": " -> settings.tickets.faq.dropdown.dropdown.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.label\"",
+        "source_string": "Ticket limit",
+        "translation": "Лимит тикета",
+        "context": " -> settings.tickets.limit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.description\"",
+        "source_string": "Change the ticket limit for the user",
+        "translation": "Изменить лимит заявок для пользователя",
+        "context": " -> settings.tickets.limit.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.title\"",
+        "source_string": "Tickets Limit",
+        "translation": "Лимит заявок",
+        "context": " -> settings.tickets.limit.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.global_limit.label\"",
+        "source_string": "Global User Limit",
+        "translation": "Глобальный лимит пользователей",
+        "context": " -> settings.tickets.limit.global_limit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.global_limit.placeholder\"",
+        "source_string": "Counts the total number of tickets.",
+        "translation": "Подсчитывает общее количество заявок.",
+        "context": " -> settings.tickets.limit.global_limit.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.user_limit.label\"",
+        "source_string": "Category User Limit (Default for category)",
+        "translation": "Лимит пользователя категории (по умолчанию для категории)",
+        "context": " -> settings.tickets.limit.user_limit.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.user_limit.placeholder\"",
+        "source_string": "Counts the number of tickets per category.",
+        "translation": "Подсчитывает количество заявок в категории.",
+        "context": " -> settings.tickets.limit.user_limit.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.limit.invalid\"",
+        "source_string": "{Emoji.cross} The limit must be an integer number",
+        "translation": "{Emoji.cross} Лимит должен быть целым числом",
+        "context": " -> settings.tickets.limit.invalid",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.label\"",
+        "source_string": "Ticket Messages",
+        "translation": "Сообщения заявок",
+        "context": " -> settings.tickets.messages.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.description\"",
+        "source_string": "Change the standard messages to your own",
+        "translation": "Измените стандартные сообщения на собственные",
+        "context": " -> settings.tickets.messages.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.error.null\"",
+        "source_string": "{Emoji.cross} The message is not seated!",
+        "translation": "{Emoji.cross} Сообщение не установлено!",
+        "context": " -> settings.tickets.messages.error.null",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.dropdown\"",
+        "source_string": "Select the message you want to change",
+        "translation": "Выберите сообщение, которое вы хотите изменить",
+        "context": " -> settings.tickets.messages.dropdown",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.modal\"",
+        "source_string": "Tickets {label} Message",
+        "translation": "Сообщение Заявки {label}",
+        "context": " -> settings.tickets.messages.modal",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.panel\"",
+        "source_string": "Panel",
+        "translation": "Панель",
+        "context": " -> settings.tickets.messages.panel",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.open\"",
+        "source_string": "Open",
+        "translation": "Открыть",
+        "context": " -> settings.tickets.messages.open",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.messages.category\"",
+        "source_string": "Category",
+        "translation": "Категория",
+        "context": " -> settings.tickets.messages.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.mod_roles.label\"",
+        "source_string": "Ticket Moderation Roles",
+        "translation": "Роли модераторов заявки",
+        "context": " -> settings.tickets.mod_roles.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.mod_roles.description\"",
+        "source_string": "Assign moderators to automatically add to all applications.",
+        "translation": "Назначить модераторов для автоматического добавления во все тикеты.",
+        "context": " -> settings.tickets.mod_roles.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.mod_roles.dropdown.add\"",
+        "source_string": "Select moderator roles to add",
+        "translation": "Выберите роли модератора для добавления",
+        "context": " -> settings.tickets.mod_roles.dropdown.add",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.mod_roles.dropdown.remove\"",
+        "source_string": "Select the moderator roles to delete",
+        "translation": "Выберите роли модератора для удаления",
+        "context": " -> settings.tickets.mod_roles.dropdown.remove",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.name.label\"",
+        "source_string": "Ticket name",
+        "translation": "Название заявки",
+        "context": " -> settings.tickets.name.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.name.description\"",
+        "source_string": "Change the default ticket name when opening",
+        "translation": "Изменить название заявки по умолчанию при открытии",
+        "context": " -> settings.tickets.name.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.name.modal.title\"",
+        "source_string": "Tickets Name",
+        "translation": "Название тикета",
+        "context": " -> settings.tickets.name.modal.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.name.modal.label\"",
+        "source_string": "Name",
+        "translation": "Название",
+        "context": " -> settings.tickets.name.modal.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.type.label\"",
+        "source_string": "Ticket Type",
+        "translation": "Тип тикета",
+        "context": " -> settings.tickets.type.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.type.description\"",
+        "source_string": "Specifies the preferred way to create a request: through a channel or through a thread.",
+        "translation": "Определяет предпочтительный способ создания запроса: через канал или через ветку.",
+        "context": " -> settings.tickets.type.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.type.dropdown.channel.label\"",
+        "source_string": "Channels",
+        "translation": "Каналы",
+        "context": " -> settings.tickets.type.dropdown.channel.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.type.dropdown.channel.description\"",
+        "source_string": "A channel is created with access for the moderator and participant.",
+        "translation": "Канал создается с доступом для модераторов и участника.",
+        "context": " -> settings.tickets.type.dropdown.channel.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.type.dropdown.thread.label\"",
+        "source_string": "Threads",
+        "translation": "Ветки",
+        "context": " -> settings.tickets.type.dropdown.thread.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.type.dropdown.thread.description\"",
+        "source_string": "A thread is created, to which moderators and participants are added.",
+        "translation": "Создается ветка, к которой добавляются модераторы и участник.",
+        "context": " -> settings.tickets.type.dropdown.thread.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.label\"",
+        "source_string": "Ticket Forms",
+        "translation": "Формы заявки",
+        "context": " -> settings.tickets.modals.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.description\"",
+        "source_string": "Set up the forms and its type.",
+        "translation": "Настройте формы и их тип.",
+        "context": " -> settings.tickets.modals.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.embed.title\"",
+        "source_string": "Ticket #{index}",
+        "translation": "Панель поддержки #{index}",
+        "context": " -> settings.tickets.modals.embed.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.embed.description\"",
+        "source_string": "The tickets module allows you to create and manage support requests, helping participants to easily open tickets, and administrators to effectively track and solve them.",
+        "translation": "Модуль заявок позволяет создавать и управлять запросами поддержки, помогая участникам легко открывать заявки, а администраторам эффективно отслеживать и решать их.",
+        "context": " -> settings.tickets.modals.embed.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.button.create_embeds.disable\"",
+        "source_string": "Disable creating embed inputs",
+        "translation": "Отключить создание вставки с ответами",
+        "context": " -> settings.tickets.modals.button.create_embeds.disable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.button.create_embeds.enable\"",
+        "source_string": "Enable creating embed inputs",
+        "translation": "Включить создание вставки с ответами",
+        "context": " -> settings.tickets.modals.button.create_embeds.enable",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.style.paragraph.label\"",
+        "source_string": "Short",
+        "translation": "Короткий",
+        "context": " -> settings.tickets.modals.dropdown.style.paragraph.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.style.paragraph.description\"",
+        "source_string": "Indicates the short style of the form.",
+        "translation": "Указывает короткий стиль формы.",
+        "context": " -> settings.tickets.modals.dropdown.style.paragraph.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.style.short.label\"",
+        "source_string": "Paragraph",
+        "translation": "Параграф",
+        "context": " -> settings.tickets.modals.dropdown.style.short.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.style.short.description\"",
+        "source_string": "Displays the paragraph style of the form.",
+        "translation": "Отображает стиль параграфа формы.",
+        "context": " -> settings.tickets.modals.dropdown.style.short.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.style.placeholder\"",
+        "source_string": "Specify the short or paragraph form style",
+        "translation": "Укажите стиль формы короткий или абзац",
+        "context": " -> settings.tickets.modals.dropdown.style.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.required.required.label\"",
+        "source_string": "Required",
+        "translation": "Обязательный",
+        "context": " -> settings.tickets.modals.dropdown.required.required.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.required.required.description\"",
+        "source_string": "The user will need to enter the data in the field.",
+        "translation": "Пользователь должен будет ввести данные в поле.",
+        "context": " -> settings.tickets.modals.dropdown.required.required.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.required.optional.label\"",
+        "source_string": "Optional",
+        "translation": "Необязательный",
+        "context": " -> settings.tickets.modals.dropdown.required.optional.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.required.optional.description\"",
+        "source_string": "The user can optionally enter data in the field.",
+        "translation": "Пользователь может по желанию ввести данные в поле.",
+        "context": " -> settings.tickets.modals.dropdown.required.optional.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.required.placeholder\"",
+        "source_string": "Specify whether the data is required for the form.",
+        "translation": "Укажите, требуются ли данные для формы.",
+        "context": " -> settings.tickets.modals.dropdown.required.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.dropdown.forms\"",
+        "source_string": "Select the form to edit or delete.",
+        "translation": "Выберите форму для редактирования или удаления.",
+        "context": " -> settings.tickets.modals.dropdown.forms",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.modal.title.info\"",
+        "source_string": "Ticket Froms #{index}",
+        "translation": "Панель поддержки форма #{index}",
+        "context": " -> settings.tickets.modals.modal.title.info",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.modal.title.iwoi\"",
+        "source_string": "Ticket Froms",
+        "translation": "Панель поддержки форма",
+        "context": " -> settings.tickets.modals.modal.title.iwoi",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.modal.label\"",
+        "source_string": "Label",
+        "translation": "Название",
+        "context": " -> settings.tickets.modals.modal.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.modal.placeholder\"",
+        "source_string": "Placeholder",
+        "translation": "Пометка",
+        "context": " -> settings.tickets.modals.modal.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.modal.default\"",
+        "source_string": "Default value",
+        "translation": "Значение по умолчанию",
+        "context": " -> settings.tickets.modals.modal.default",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.style.short\"",
+        "source_string": "Short",
+        "translation": "Короткий",
+        "context": " -> settings.tickets.modals.style.short",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.style.long\"",
+        "source_string": "Long",
+        "translation": "Длинный",
+        "context": " -> settings.tickets.modals.style.long",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.info.embed\"",
+        "source_string": "— Creating embed inputs: ",
+        "translation": "— Создание вставки с ответами: ",
+        "context": " -> settings.tickets.modals.info.embed",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.info.label\"",
+        "source_string": "— Label: ",
+        "translation": "— Название: ",
+        "context": " -> settings.tickets.modals.info.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.info.placeholder\"",
+        "source_string": "— Placeholder: ",
+        "translation": "— Пометка: ",
+        "context": " -> settings.tickets.modals.info.placeholder",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.info.default\"",
+        "source_string": "— Default value: ",
+        "translation": "— Значение по умолчанию: ",
+        "context": " -> settings.tickets.modals.info.default",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.info.style\"",
+        "source_string": "— Style: ",
+        "translation": "— Стиль: ",
+        "context": " -> settings.tickets.modals.info.style",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.tickets.modals.info.required\"",
+        "source_string": "— Required: ",
+        "translation": "— Обязательный: ",
+        "context": " -> settings.tickets.modals.info.required",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.modal\"",
+        "source_string": "Modal Controller",
+        "translation": "Модальный контроллер",
+        "context": " -> tickets.modal",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.message.open\"",
+        "source_string": "The channel has been successfully created {channel}",
+        "translation": "Канал был успешно создан {channel}",
+        "context": " -> tickets.message.open",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.message.loading\"",
+        "source_string": "{Emoji.loading} Loading...",
+        "translation": "{Emoji.loading} Загрузка...",
+        "context": " -> tickets.message.loading",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.error.approved_roles\"",
+        "source_string": "In order to write a message, you need one of these roles: {roles}",
+        "translation": "Чтобы создать тикет, вам нужна одна из этих ролей: {roles}",
+        "context": " -> tickets.error.approved_roles",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.error.limit.category\"",
+        "source_string": "You have exceeded the number of possible tickets for the user in category {category} (maximum: {count})",
+        "translation": "Вы превысили количество возможных заявок для пользователя в категории {category} (максимум: {count})",
+        "context": " -> tickets.error.limit.category",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.error.limit.global\"",
+        "source_string": "You have exceeded the number of possible tickets for the user (maximum: {count})",
+        "translation": "Вы превысили количество возможных заявок для пользователя (максимум: {count})",
+        "context": " -> tickets.error.limit.global",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.error.disabled\"",
+        "source_string": "Tickets are disabled by the server administrators!",
+        "translation": "Тикеты отключены администраторами сервера!",
+        "context": " -> tickets.error.disabled",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.topic.open\"",
+        "source_string": "Ticket created by {member}",
+        "translation": "Заявка создана {member}",
+        "context": " -> tickets.topic.open",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.topic.close\"",
+        "source_string": " | the ticket is closing by {member}",
+        "translation": " | заявка закрывается {member}",
+        "context": " -> tickets.topic.close",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tickets.topic.reopen\"",
+        "source_string": " | the ticket reopened by {member}",
+        "translation": " | заявка открыта повторно {member}",
+        "context": " -> tickets.topic.reopen",
+        "labels": "temp_loc_en.json",
+        "max_length": null
     }
 ]
