@@ -4745,16 +4745,16 @@
     },
     {
         "identifier": "\"settings.tickets.embeds.modals.info\"",
-        "source_string": "— Froms: {Emoji.online} (Count: {count})",
-        "translation": "— Froms: {Emoji.online} (Count: {count})",
+        "source_string": "— Forms: {Emoji.online} (Count: {count})",
+        "translation": "— Forms: {Emoji.online} (Count: {count})",
         "context": " -> settings.tickets.embeds.modals.info",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.tickets.embeds.modals.woc\"",
-        "source_string": "— Froms: {Emoji.offline}",
-        "translation": "— Froms: {Emoji.offline}",
+        "source_string": "— Forms: {Emoji.offline}",
+        "translation": "— Forms: {Emoji.offline}",
         "context": " -> settings.tickets.embeds.modals.woc",
         "labels": "temp_loc_en.json",
         "max_length": null
