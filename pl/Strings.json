@@ -4450,7 +4450,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.voice.description\"",
         "source_string": "Sends a panel to the voice when it is created",
-        "translation": "Sends a panel to the voice when it is created",
+        "translation": "Wysyła panel do głosu po jego utworzeniu",
         "context": " -> settings.tempvoice.panel.type_message.voice.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4458,7 +4458,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.every.label\"",
         "source_string": "Everywhere",
-        "translation": "Everywhere",
+        "translation": "Wszędzie",
         "context": " -> settings.tempvoice.panel.type_message.every.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4466,7 +4466,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type_message.every.description\"",
         "source_string": "Creates a panel in the voice and in the channel allocated for this purpose",
-        "translation": "Creates a panel in the voice and in the channel allocated for this purpose",
+        "translation": "Tworzy panel w głosowym i w kanale przydzielonym w tym celu",
         "context": " -> settings.tempvoice.panel.type_message.every.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4474,7 +4474,7 @@
     {
         "identifier": "\"settings.tempvoice.brief_title\"",
         "source_string": "TempVoice",
-        "translation": "TempVoice",
+        "translation": "Głos tropikalny",
         "context": " -> settings.tempvoice.brief_title",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4482,7 +4482,7 @@
     {
         "identifier": "\"settings.tempvoice.name.label\"",
         "source_string": "Voice name",
-        "translation": "Voice name",
+        "translation": "Nazwa głosu",
         "context": " -> settings.tempvoice.name.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4490,7 +4490,7 @@
     {
         "identifier": "\"settings.tempvoice.name.description\"",
         "source_string": "Change the default channel name",
-        "translation": "Change the default channel name",
+        "translation": "Zmień domyślną nazwę kanału",
         "context": " -> settings.tempvoice.name.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4498,7 +4498,7 @@
     {
         "identifier": "\"settings.tempvoice.limit.label\"",
         "source_string": "Voice limit",
-        "translation": "Voice limit",
+        "translation": "Limit głosowy",
         "context": " -> settings.tempvoice.limit.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4506,7 +4506,7 @@
     {
         "identifier": "\"settings.tempvoice.limit.description\"",
         "source_string": "Change the default channel name",
-        "translation": "Change the default channel name",
+        "translation": "Zmień domyślną nazwę kanału",
         "context": " -> settings.tempvoice.limit.description",
         "labels": "temp_loc_en.json",
         "max_length": null
