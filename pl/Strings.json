@@ -18,7 +18,7 @@
     {
         "identifier": "\"bot-info.assembly\"",
         "source_string": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
-        "translation": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
+        "translation": "Wersja: `{version}`\nHash: `{hash}`\nData budowy: <t:{time}:D> (<t:{time}:R>)",
         "context": " -> bot-info.assembly",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -522,7 +522,7 @@
     {
         "identifier": "\"delcat.issue.title\"",
         "source_string": "Are you sure?",
-        "translation": "Are you sure?",
+        "translation": "Czy na pewno?",
         "context": " -> delcat.issue.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
