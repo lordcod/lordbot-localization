@@ -514,7 +514,7 @@
     {
         "identifier": "\"ideas.idea-view.timeout-message\"",
         "source_string": "You can only suggest an idea once every {every_time}\nThe next opportunity to submit an idea will be in:  <t:{time}:R>",
-        "translation": "Вы можете предлагать идею только раз в 30 минут\nСледующая возможность подать идею будет через: <t:{time}:R>",
+        "translation": "Вы можете предлагать идею только раз в {every_time}\nСледующая возможность подать идею будет через: <t:{time}:R>",
         "context": " -> ideas.idea-view.timeout-message",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -970,7 +970,7 @@
     {
         "identifier": "\"settings.thread.init.placeholder\"",
         "source_string": "Auto-message settings in branches/forums:",
-        "translation": "Настройки автосообщений в филиалах/форумах:",
+        "translation": "Настройки авто сообщений в ветках/форумах:",
         "context": " -> settings.thread.init.placeholder",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1386,7 +1386,7 @@
     {
         "identifier": "\"ideas.mod.mute.already.description\"",
         "source_string": "The {member.mention} ({member.id}) user is already muted\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
-        "translation": "Пользователь {member.mention} ({member.id}) уже замучен\nМодератором, который  замутил: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "translation": "Пользователь {member.mention} ({member.id}) уже заглушил\nМодератор, выпустивший мут: {moderator.mention} ({moderator.id})\nВремя действия: <t:{timestamp:.0f}:f> ({display_time})\nПричина: `{reason}`",
         "context": " -> ideas.mod.mute.already.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1394,7 +1394,7 @@
     {
         "identifier": "\"ideas.mod.mute.success.description\"",
         "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
-        "translation": "Пользователь {member.mention} ({member.id}) уже замучен\nМодератор, который замутил: {moderator.mention} ({moderator.id})\nПричина: `{reason}`",
+        "translation": "Заблокированный пользователь: {member.mention} ({member.id})\nМодератор выпустил мут: {moderator.mention} ({moderator.id})\nВремя действия: <t:{timestamp:.0f}:f> ({display_time})\nПричина: `{reason}`",
         "context": " -> ideas.mod.mute.success.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1690,7 +1690,7 @@
     {
         "identifier": "\"settings.set-reaction.modal.error\"",
         "source_string": "You have entered an incorrect emoji",
-        "translation": "Вы ввели некорректные эмоджи",
+        "translation": "Вы ввели некорректные эмодзи",
         "context": " -> settings.set-reaction.modal.error",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1698,7 +1698,7 @@
     {
         "identifier": "\"settings.set-reaction.button.use-modal\"",
         "source_string": "Use modal",
-        "translation": "Использовать модаль",
+        "translation": "Использовать модальное окно",
         "context": " -> settings.set-reaction.button.use-modal",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1714,7 +1714,7 @@
     {
         "identifier": "\"settings.set-reaction.error.timeout\"",
         "source_string": "You didn't have time to specify the emoji, use the interaction for",
-        "translation": "У вас нет времени указывать эмодзи, используйте взаимодействие заново.",
+        "translation": "У вас нет времени указывать эмодзи, используйте взаимодействие заново",
         "context": " -> settings.set-reaction.error.timeout",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1922,7 +1922,7 @@
     {
         "identifier": "\"tempban.description\"",
         "source_string": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
-        "translation": "Забанен: {member} ({member_id})\nМодератор: {author} ({author_id})",
+        "translation": "Бабанин: {member} ({member_id})\nМодератор: {author} ({author_id})",
         "context": " -> tempban.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -4394,7 +4394,7 @@
     {
         "identifier": "\"settings.tempvoice.panel.type.button.label\"",
         "source_string": "Button",
-        "translation": "Кнока",
+        "translation": "Кнопка",
         "context": " -> settings.tempvoice.panel.type.button.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4746,7 +4746,7 @@
     {
         "identifier": "\"settings.tickets.embeds.modals.info\"",
         "source_string": "— Forms: {Emoji.ticon} (Count: {count})",
-        "translation": "— Формы: {Emoji.online} (Кол-во: {count})",
+        "translation": "— Формы: {Emoji.ticon} (Кол-во: {count})",
         "context": " -> settings.tickets.embeds.modals.info",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4754,7 +4754,7 @@
     {
         "identifier": "\"settings.tickets.embeds.modals.woc\"",
         "source_string": "— Forms: {Emoji.ticoff}",
-        "translation": "— Формы: {Emoji.offline}",
+        "translation": "— Формы: {Emoji.ticoff}",
         "context": " -> settings.tickets.embeds.modals.woc",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -5002,7 +5002,7 @@
     {
         "identifier": "\"settings.tickets.faq.dropdown.button.label\"",
         "source_string": "Button",
-        "translation": "Кнока",
+        "translation": "Кнопка",
         "context": " -> settings.tickets.faq.dropdown.button.label",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -5010,7 +5010,7 @@
     {
         "identifier": "\"settings.tickets.faq.dropdown.button.description\"",
         "source_string": "You will have 2 FAQ buttons and create ticket.",
-        "translation": "Вы будете иметь 2 кнопки: ЧаВо и Создать заявку.",
+        "translation": "Вы будете иметь 2 кнопки: ЧаВо и создать заявку.",
         "context": " -> settings.tickets.faq.dropdown.button.description",
         "labels": "temp_loc_en.json",
         "max_length": null
