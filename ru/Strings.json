@@ -146,7 +146,7 @@
     {
         "identifier": "\"help.command-embed.aliases\"",
         "source_string": "Aliases: {aliases}\n",
-        "translation": "Псевдонимы: {псевдонимы}\n",
+        "translation": "Псевдонимы: {aliases}\n",
         "context": " -> help.command-embed.aliases",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -538,7 +538,7 @@
     {
         "identifier": "\"delcat.accept.title\"",
         "source_string": "#{category} Category Deleted",
-        "translation": "#{категория} Категория удалена",
+        "translation": "#{category} Категория удалена",
         "context": " -> delcat.accept.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
