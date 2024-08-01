@@ -4713,7 +4713,7 @@
     },
     {
         "identifier": "\"settings.tickets.embeds.faq.info\"",
-        "source_string": "— FAQ: {Emoji.online} (Count: {count})",
+        "source_string": "— FAQ: {Emoji.ticon} (Count: {count})",
         "translation": "— FAQ: {Emoji.online} (Кол-во: {count})",
         "context": " -> settings.tickets.embeds.faq.info",
         "labels": "temp_loc_en.json",
@@ -4721,7 +4721,7 @@
     },
     {
         "identifier": "\"settings.tickets.embeds.faq.woc\"",
-        "source_string": "— FAQ: {Emoji.offline}",
+        "source_string": "— FAQ: {Emoji.ticoff}",
         "translation": "— FAQ: {Emoji.offline}",
         "context": " -> settings.tickets.embeds.faq.woc",
         "labels": "temp_loc_en.json",
@@ -4729,15 +4729,15 @@
     },
     {
         "identifier": "\"settings.tickets.embeds.category.info\"",
-        "source_string": "— Categories: {Emoji.online} (Count: {count})",
-        "translation": "— Категории: {Emoji.online} (Кол-во: {count})",
+        "source_string": "— Categories: {Emoji.ticon} (Count: {count})",
+        "translation": "— Категории: {Emoji.ticon} (Кол-во: {count})",
         "context": " -> settings.tickets.embeds.category.info",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.tickets.embeds.category.woc\"",
-        "source_string": "— Categories: {Emoji.offline}",
+        "source_string": "— Categories: {Emoji.ticoff}",
         "translation": "— Категории: {Emoji.offline}",
         "context": " -> settings.tickets.embeds.category.woc",
         "labels": "temp_loc_en.json",
@@ -4745,7 +4745,7 @@
     },
     {
         "identifier": "\"settings.tickets.embeds.modals.info\"",
-        "source_string": "— Forms: {Emoji.online} (Count: {count})",
+        "source_string": "— Forms: {Emoji.ticon} (Count: {count})",
         "translation": "— Формы: {Emoji.online} (Кол-во: {count})",
         "context": " -> settings.tickets.embeds.modals.info",
         "labels": "temp_loc_en.json",
@@ -4753,7 +4753,7 @@
     },
     {
         "identifier": "\"settings.tickets.embeds.modals.woc\"",
-        "source_string": "— Forms: {Emoji.offline}",
+        "source_string": "— Forms: {Emoji.ticoff}",
         "translation": "— Формы: {Emoji.offline}",
         "context": " -> settings.tickets.embeds.modals.woc",
         "labels": "temp_loc_en.json",
@@ -5588,6 +5588,78 @@
         "source_string": " | the ticket reopened by {member}",
         "translation": " | заявка открыта повторно {member}",
         "context": " -> tickets.topic.reopen",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.out.not_user\"",
+        "source_string": "There are no users left in the channel and I put the music on pause!\nI'll get out of the channel <t:{time:.0f}:R>",
+        "translation": "На канале не осталось пользователей, и я ставлю музыку на паузу!\nЯ выйду из канала <t:{time:.0f}:R>",
+        "context": " -> music.player.out.not_user",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"interaction.error.command\"",
+        "source_string": "There's been some kind of mistake!\nCheck if the bot has the necessary permissions to execute this command!\nError ID (required for support): specify the name of the commands\nIf you couldn't figure out what's going on, contact the [support server]({DISCORD_SUPPORT_SERVER})!",
+        "translation": "Произошла какая-то ошибка!\nПроверьте, есть ли у бота необходимые разрешения для выполнения этой команды!\nИдентификатор ошибки (требуется для поддержки): укажите название команд\nЕсли вы не смогли понять, что происходит, обратитесь к [серверу поддержки]({DISCORD_SUPPORT_SERVER})!",
+        "context": " -> interaction.error.command",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"interaction.error.item\"",
+        "source_string": "There's been some kind of mistake!\nCheck if the bot has the necessary permissions to execute this command!\nError ID (required for support): {custom_id}\nIf you couldn't figure out what's going on, contact the [support server]({DISCORD_SUPPORT_SERVER})!",
+        "translation": "Произошла какая-то ошибка!\nПроверьте, есть ли у бота необходимые разрешения для выполнения этой команды!\nИдентификатор ошибки (требуется для поддержки): {custom_id}\nЕсли вы не смогли понять, что происходит, обратитесь к [серверу поддержки]({DISCORD_SUPPORT_SERVER})!",
+        "context": " -> interaction.error.item",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.voice_state.title\"",
+        "source_string": "Voice state",
+        "translation": "Голосовое состояние",
+        "context": " -> settings.logs.items.voice_state.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.voice_state.description\"",
+        "source_string": "The log contains information about the entry, exit, and movement of the user in the troops.",
+        "translation": "Журнал содержит информацию о входе, выходе и передвижении пользователя в войсках.",
+        "context": " -> settings.logs.items.voice_state.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.tickets.title\"",
+        "source_string": "Tickets",
+        "translation": "Тикеты",
+        "context": " -> settings.logs.items.tickets.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.tickets.description\"",
+        "source_string": "Creating, closing, deleting, reopen all this contains the ticket log",
+        "translation": "Создание, закрытие, удаление, повторное открытие - все это содержится в журнале регистрации заявок",
+        "context": " -> settings.logs.items.tickets.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.roles.title\"",
+        "source_string": "Roles",
+        "translation": "Роли",
+        "context": " -> settings.logs.items.roles.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.items.roles.description\"",
+        "source_string": "The issuance and withdrawal of roles is contained in the log",
+        "translation": "Информация о выдаче и отзыве ролей содержится в журнале",
+        "context": " -> settings.logs.items.roles.description",
         "labels": "temp_loc_en.json",
         "max_length": null
     }
