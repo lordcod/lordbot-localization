@@ -530,7 +530,7 @@
     {
         "identifier": "\"delcat.issue.description\"",
         "source_string": "This will permanently delete the {category} category and every channel inside of it.",
-        "translation": "This will permanently delete the {category} category and every channel inside of it.",
+        "translation": "Spowoduje to trwałe usunięcie kategorii {category} i każdego kanału wewnątrz niej.",
         "context": " -> delcat.issue.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -538,7 +538,7 @@
     {
         "identifier": "\"delcat.accept.title\"",
         "source_string": "#{category} Category Deleted",
-        "translation": "#{category} Category Deleted",
+        "translation": "Kategoria #{category} usunięta",
         "context": " -> delcat.accept.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -546,7 +546,7 @@
     {
         "identifier": "\"delcat.accept.description\"",
         "source_string": "And also remotely {count} channels that were in the category",
-        "translation": "And also remotely {count} channels that were in the category",
+        "translation": "A także zdalnie {count} kanałów, które należały do kategorii",
         "context": " -> delcat.accept.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -554,7 +554,7 @@
     {
         "identifier": "\"delcat.cancel.title\"",
         "source_string": "Category Deletion Canceled",
-        "translation": "Category Deletion Canceled",
+        "translation": "Usuwanie kategorii anulowane",
         "context": " -> delcat.cancel.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -682,7 +682,7 @@
     {
         "identifier": "\"settings.module-name.role-reactions\"",
         "source_string": "Reaction Roles",
-        "translation": "Reaction Roles",
+        "translation": "Role Reakcji",
         "context": " -> settings.module-name.role-reactions",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1098,7 +1098,7 @@
     {
         "identifier": "\"settings.reactions.init.dddesc\"",
         "source_string": "Channel: {channel}\nEmoji: {emojis}",
-        "translation": "Channel: {channel}\nEmoji: {emojis}",
+        "translation": "Kanał: {channel}\nEmoji: {emojis}",
         "context": " -> settings.reactions.init.dddesc",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1250,7 +1250,7 @@
     {
         "identifier": "\"settings.button.delete\"",
         "source_string": "Delete",
-        "translation": "Delete",
+        "translation": "Usuń",
         "context": " -> settings.button.delete",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1258,7 +1258,7 @@
     {
         "identifier": "\"settings.button.accept\"",
         "source_string": "Accept",
-        "translation": "Accept",
+        "translation": "Zaakceptuj",
         "context": " -> settings.button.accept",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1266,7 +1266,7 @@
     {
         "identifier": "\"settings.button.create\"",
         "source_string": "Create",
-        "translation": "Create",
+        "translation": "Utwórz",
         "context": " -> settings.button.create",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1274,7 +1274,7 @@
     {
         "identifier": "\"ideas.init.title\"",
         "source_string": "Ideas",
-        "translation": "Ideas",
+        "translation": "Pomysły",
         "context": " -> ideas.init.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1282,7 +1282,7 @@
     {
         "identifier": "\"ideas.init.description\"",
         "source_string": "Do you have a good idea?\nAnd you are sure that everyone will like it!\nBefore you write it, make sure that there have been no such ideas yet!",
-        "translation": "Do you have a good idea?\nAnd you are sure that everyone will like it!\nBefore you write it, make sure that there have been no such ideas yet!",
+        "translation": "Masz dobry pomysł?\nI jesteś pewien, że wszyscy go polubią!\nZanim je napisasz, upewnij się, że nie ma jeszcze takich pomysłów!",
         "context": " -> ideas.init.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1290,7 +1290,7 @@
     {
         "identifier": "\"ideas.idea-modal.image.label\"",
         "source_string": "Image url",
-        "translation": "Image url",
+        "translation": "Adres url obrazu",
         "context": " -> ideas.idea-modal.image.label",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1298,7 +1298,7 @@
     {
         "identifier": "\"ideas.idea-modal.image.placeholder\"",
         "source_string": "If you want, you can attach an image",
-        "translation": "If you want, you can attach an image",
+        "translation": "Jeśli chcesz, możesz dołączyć obrazek",
         "context": " -> ideas.idea-modal.image.placeholder",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1306,7 +1306,7 @@
     {
         "identifier": "\"ideas.mod.permission.ban\"",
         "source_string": "You have limited access to creating ideas!\nExit Time: Forever\nModerator: {moderator}\nReason: `{reason}`",
-        "translation": "You have limited access to creating ideas!\nExit Time: Forever\nModerator: {moderator}\nReason: `{reason}`",
+        "translation": "Masz ograniczony dostęp do tworzenia pomysłów!\nCzas wyjścia: Forever\nModerator: {moderator}\nPowód: `{reason}`",
         "context": " -> ideas.mod.permission.ban",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1314,7 +1314,7 @@
     {
         "identifier": "\"ideas.mod.permission.mute\"",
         "source_string": "You have limited access to creating ideas!\nExit Time:  <t:{time:.0f}:f> ({display_time})\nModerator: {moderator.mention}\nReason: `{reason}`",
-        "translation": "You have limited access to creating ideas!\nExit Time:  <t:{time:.0f}:f> ({display_time})\nModerator: {moderator.mention}\nReason: `{reason}`",
+        "translation": "Masz ograniczony dostęp do tworzenia pomysłów!\nCzas wyjścia:  <t:{time:.0f}:f> ({display_time})\nModerator: {moderator.mention}\nPowód: `{reason}`",
         "context": " -> ideas.mod.permission.mute",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1322,7 +1322,7 @@
     {
         "identifier": "\"ideas.mod.permission.unspecified\"",
         "source_string": "Unspecified",
-        "translation": "Unspecified",
+        "translation": "Nieokreślony",
         "context": " -> ideas.mod.permission.unspecified",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1330,7 +1330,7 @@
     {
         "identifier": "\"ideas.mod.ban.title\"",
         "source_string": "Ban in ideas",
-        "translation": "Ban in ideas",
+        "translation": "Zablokuj pomysły",
         "context": " -> ideas.mod.ban.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1338,7 +1338,7 @@
     {
         "identifier": "\"ideas.mod.ban.already.description\"",
         "source_string": "The {member.mention} ({member.id}) user is already banned\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
-        "translation": "The {member.mention} ({member.id}) user is already banned\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Użytkownik {member.mention} ({member.id}) jest już zbanowany\nModerator, który wydał ban: {moderator.mention} ({moderator.id})\nPowód: `{reason}`",
         "context": " -> ideas.mod.ban.already.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1346,7 +1346,7 @@
     {
         "identifier": "\"ideas.mod.ban.success.description\"",
         "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
-        "translation": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Użytkownik {member.mention} ({member.id}) jest już zbanowany\nModerator, który wydał ban: {moderator.mention} ({moderator.id})\nPowód: `{reason}`",
         "context": " -> ideas.mod.ban.success.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1354,7 +1354,7 @@
     {
         "identifier": "\"ideas.mod.unban.title\"",
         "source_string": "Unban in ideas",
-        "translation": "Unban in ideas",
+        "translation": "Zablokuj pomysły",
         "context": " -> ideas.mod.unban.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1362,7 +1362,7 @@
     {
         "identifier": "\"ideas.mod.unban.already.description\"",
         "source_string": "The {member} user is not blocked!",
-        "translation": "The {member} user is not blocked!",
+        "translation": "Użytkownik {member} nie jest zablokowany!",
         "context": " -> ideas.mod.unban.already.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1370,7 +1370,7 @@
     {
         "identifier": "\"ideas.mod.unban.success.description\"",
         "source_string": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
-        "translation": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Użytkownik {member.mention} ({member.id}) jest już zbanowany\nModerator, który wydał ban: {moderator.mention} ({moderator.id})\nPowód: `{reason}`",
         "context": " -> ideas.mod.unban.success.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1378,7 +1378,7 @@
     {
         "identifier": "\"ideas.mod.mute.title\"",
         "source_string": "Mute in ideas",
-        "translation": "Mute in ideas",
+        "translation": "Wycisz pomysły",
         "context": " -> ideas.mod.mute.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1386,7 +1386,7 @@
     {
         "identifier": "\"ideas.mod.mute.already.description\"",
         "source_string": "The {member.mention} ({member.id}) user is already muted\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
-        "translation": "The {member.mention} ({member.id}) user is already muted\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "translation": "Użytkownik {member.mention} ({member.id}) jest już wyciszony\nModerator, który wyciszył: {moderator.mention} ({moderator.id})\nCzas działania: <t:{timestamp:.0f}:f> ({display_time})\nPowód: `{reason}`",
         "context": " -> ideas.mod.mute.already.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1394,7 +1394,7 @@
     {
         "identifier": "\"ideas.mod.mute.success.description\"",
         "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
-        "translation": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "translation": "Użytkownik {member.mention} ({member.id}) jest już wyciszony\nModerator, który wyciszył: {moderator.mention} ({moderator.id})\nCzas działania: <t:{timestamp:.0f}:f> ({display_time})\nPowód: `{reason}`",
         "context": " -> ideas.mod.mute.success.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1402,7 +1402,7 @@
     {
         "identifier": "\"ideas.mod.unmute.title\"",
         "source_string": "Unmute in ideas",
-        "translation": "Unmute in ideas",
+        "translation": "Wycisz pomysły",
         "context": " -> ideas.mod.unmute.title",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1410,7 +1410,7 @@
     {
         "identifier": "\"ideas.mod.unmute.already.description\"",
         "source_string": "The {member} user is not mutes!",
-        "translation": "The {member} user is not mutes!",
+        "translation": "Użytkownik {member} nie jest zablokowany!",
         "context": " -> ideas.mod.unmute.already.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1418,7 +1418,7 @@
     {
         "identifier": "\"ideas.mod.unmute.success.description\"",
         "source_string": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unmute: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
-        "translation": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unmute: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "Użytkownik {member.mention} ({member.id}) jest już zbanowany\nModerator, który wydał ban: {moderator.mention} ({moderator.id})\nPowód: `{reason}`",
         "context": " -> ideas.mod.unmute.success.description",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1426,7 +1426,7 @@
     {
         "identifier": "\"giveaway.settings.sponsor\"",
         "source_string": "Choose a giveaway sponsor",
-        "translation": "Choose a giveaway sponsor",
+        "translation": "Wybierz sponsora prezentowego",
         "context": " -> giveaway.settings.sponsor",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1434,7 +1434,7 @@
     {
         "identifier": "\"giveaway.settings.channel\"",
         "source_string": "Choose a giveaway channel",
-        "translation": "Choose a giveaway channel",
+        "translation": "Wybierz sponsora prezentowego",
         "context": " -> giveaway.settings.channel",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1442,7 +1442,7 @@
     {
         "identifier": "\"giveaway.settings.prize.placeholder\"",
         "source_string": "Settings Giveaway Prize",
-        "translation": "Settings Giveaway Prize",
+        "translation": "Ustawienia Nagrody Giveaway",
         "context": " -> giveaway.settings.prize.placeholder",
         "labels": "temp_loc_en_2.json",
         "max_length": null
@@ -1450,7 +1450,7 @@
     {
         "identifier": "\"giveaway.settings.prize.label\"",
         "source_string": "Prize",
-        "translation": "Prize",
+        "translation": "Nagroda",
         "context": " -> giveaway.settings.prize.label",
         "labels": "temp_loc_en_2.json",
         "max_length": null
