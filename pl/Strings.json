@@ -5073,7 +5073,7 @@
     },
     {
         "identifier": "\"settings.tickets.limit.user_limit.label\"",
-        "source_string": "Category User Limit (Default for category)",
+        "source_string": "Category User Limit",
         "translation": "Limit użytkownika kategorii (domyślny dla kategorii)",
         "context": " -> settings.tickets.limit.user_limit.label",
         "labels": "temp_loc_en.json",
@@ -5081,7 +5081,7 @@
     },
     {
         "identifier": "\"settings.tickets.limit.user_limit.placeholder\"",
-        "source_string": "Counts the number of tickets per category.",
+        "source_string": "Counts the number of tickets per category (Default for category)",
         "translation": "Liczy liczbę ticketów w kategorii.",
         "context": " -> settings.tickets.limit.user_limit.placeholder",
         "labels": "temp_loc_en.json",
