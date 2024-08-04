@@ -4714,7 +4714,7 @@
     {
         "identifier": "\"settings.tickets.embeds.faq.info\"",
         "source_string": "— FAQ: {Emoji.ticon} (Count: {count})",
-        "translation": "— FAQ: {Emoji.online} (Кол-во: {count})",
+        "translation": "— FAQ: {Emoji.ticon} (Кол-во: {count})",
         "context": " -> settings.tickets.embeds.faq.info",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4722,7 +4722,7 @@
     {
         "identifier": "\"settings.tickets.embeds.faq.woc\"",
         "source_string": "— FAQ: {Emoji.ticoff}",
-        "translation": "— FAQ: {Emoji.offline}",
+        "translation": "— FAQ: {Emoji.ticoff}",
         "context": " -> settings.tickets.embeds.faq.woc",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -4738,7 +4738,7 @@
     {
         "identifier": "\"settings.tickets.embeds.category.woc\"",
         "source_string": "— Categories: {Emoji.ticoff}",
-        "translation": "— Категории: {Emoji.offline}",
+        "translation": "— Категории: {Emoji.ticoff}",
         "context": " -> settings.tickets.embeds.category.woc",
         "labels": "temp_loc_en.json",
         "max_length": null
