@@ -137,7 +137,7 @@
     },
     {
         "identifier": "\"help.command-embed.category\"",
-        "source_string": "Category: {category_emoji}`{category_name}`\n",
+        "source_string": "Category: {category_emoji} `{category_name}`\n",
         "translation": "Kategorie: `{category_emoji}{category_name}`.\n",
         "context": " -> help.command-embed.category",
         "labels": "temp_loc_en_2.json",
