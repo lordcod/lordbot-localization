@@ -1,4 +1,13 @@
 import orjson
+import sys
+import os
+
+try:
+    path = sys.argv[1]
+except IndexError:
+    path = os.getcwd()
+    print(path)
+
 languages = ['da', 'de', 'en', 'es', 'fr', 'pl', 'ru', 'tr']
 
 localization_data = {}
