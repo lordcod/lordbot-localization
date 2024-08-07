@@ -1,28 +1,21 @@
 import orjson
-import sys
 import os
+from pathlib import Path
 
-try:
-    path = sys.argv[1]
-except IndexError:
-    path = os.getcwd()
-    print(path)
+
+path = Path(__file__).parent.absolute()
+
 
 languages = ['da', 'de', 'en', 'es', 'fr', 'pl', 'ru', 'tr']
 
 localization_data = {}
 
 for lang in languages:
-    with open(f'{lang}/Strings.json', 'rb') as file:
-        print(f'{lang}/Strings.json', lang, file)
+    with open(os.path.join(path, lang, 'Strings.json'), 'rb') as file:
+        print('Process parsing', lang)
         for data in orjson.loads(file.read()):
             key = data['identifier'].strip('"')
             localization_data.setdefault(lang, {})
-            if key in localization_data[lang]:
-                print('1:', localization_data[lang][key])
-                print('2:', data['translation'])
-                if input('> ') == 1:
-                    continue
             localization_data[lang][key] = data['translation']
 
 open('any_localization.json', 'wb').write(orjson.dumps(localization_data))
