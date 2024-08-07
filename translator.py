@@ -18,6 +18,7 @@ for lang in languages:
             localization_data.setdefault(lang, {})
             localization_data[lang][key] = data['translation']
 
-with open(os.path.join(path,'any_localization.json'), 'wb') as file:
+with open(os.path.join(path, 'any_localization.json'), 'wb') as file:
     file.write(orjson.dumps(localization_data))
+
 print('Saved localization')
