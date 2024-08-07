@@ -19,3 +19,4 @@ for lang in languages:
             localization_data[lang][key] = data['translation']
 
 open('any_localization.json', 'wb').write(orjson.dumps(localization_data))
+print('Saved localization')
