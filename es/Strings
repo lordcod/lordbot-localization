@@ -1,0 +1,2634 @@
+[
+    {
+        "identifier": "\"bot-info.title\"",
+        "source_string": "{name} this is a multifunctional bot",
+        "translation": "{name} este es un bot multifuncional",
+        "context": " -> bot-info.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"bot-info.description\"",
+        "source_string": "The bot is designed to facilitate server management and is equipped with various automation tool\nServer prefix: `{prefix}`",
+        "translation": "El bot está diseñado para facilitar la gestión del servidor y está equipado con varias herramientas de automatización.",
+        "context": " -> bot-info.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"bot-info.assembly\"",
+        "source_string": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
+        "translation": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)",
+        "context": " -> bot-info.assembly",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"translate.placeholder\"",
+        "source_string": "Will choose the appropriate language:",
+        "translation": "Elegirá el idioma apropiado:",
+        "context": " -> translate.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"translate.failed\"",
+        "source_string": "This message has no content, so we will not be able to translate it.",
+        "translation": "Este mensaje no tiene contenido, por lo que no podremos traducirlo.",
+        "context": " -> translate.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"captcha.congratulation\"",
+        "source_string": "Congratulations you have passed the captcha!",
+        "translation": "¡Felicitaciones, has pasado el captcha!",
+        "context": " -> captcha.congratulation",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"captcha.enter\"",
+        "source_string": "You have 30 seconds to solve the captcha!",
+        "translation": "¡Tienes 30 segundos para resolver el captcha!",
+        "context": " -> captcha.enter",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"captcha.failed\"",
+        "source_string": "Captcha failed",
+        "translation": "Código de imagen erroneo",
+        "context": " -> captcha.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.failed\"",
+        "source_string": "This activity is unavailable or does not work",
+        "translation": "Esta actividad no está disponible o no funciona",
+        "context": " -> activiti.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.embed.title\"",
+        "source_string": "**The activity has been successfully created!**",
+        "translation": "¡La actividad ha sido creada exitosamente!",
+        "context": " -> activiti.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.embed.description\"",
+        "source_string": "However, some types of activities may not be available for your server if the boost level does not meet the activity requirements.",
+        "translation": "Sin embargo, es posible que algunos tipos de actividades no estén disponibles para su servidor si el nivel de impulso no cumple con los requisitos de actividad.",
+        "context": " -> activiti.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.fields.label\"",
+        "source_string": "Activity name",
+        "translation": "Nombre de la actividad",
+        "context": " -> activiti.fields.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"activiti.fields.max-user\"",
+        "source_string": "Maximum number of users",
+        "translation": "Número máximo de usuarios",
+        "context": " -> activiti.fields.max-user",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.title\"",
+        "source_string": "Help Book",
+        "translation": "Libro de ayuda",
+        "context": " -> help.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.arguments\"",
+        "source_string": "[Optional] | <Required>",
+        "translation": "[Opcional] | <Obligatorio>",
+        "context": " -> help.arguments",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.title\"",
+        "source_string": "Help on the `{name}` command.",
+        "translation": "Ayuda sobre el comando `{name}`.",
+        "context": " -> help.command-embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.info\"",
+        "source_string": "Information",
+        "translation": "Información",
+        "context": " -> help.command-embed.info",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.category\"",
+        "source_string": "Category: `{category_emoji}{category_name}`\n",
+        "translation": "Categoría: `{category_emoji}{category_name}`\n",
+        "context": " -> help.command-embed.category",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.aliases\"",
+        "source_string": "Aliases: {aliases}\n",
+        "translation": "Alias: {aliases}\n",
+        "context": " -> help.command-embed.aliases",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.disable_command\"",
+        "source_string": "Can I turn it off? **{value}**\n",
+        "translation": "¿Puedo apagarlo? **{value}**\n",
+        "context": " -> help.command-embed.disable_command",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.connection_disabled.0\"",
+        "source_string": "Nope",
+        "translation": "No",
+        "context": " -> help.command-embed.connection_disabled.0",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.connection_disabled.1\"",
+        "source_string": "Yeah",
+        "translation": "Sí",
+        "context": " -> help.command-embed.connection_disabled.1",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.using_command\"",
+        "source_string": "Using: `{using}`\n",
+        "translation": "Usando: `{using}`\n",
+        "context": " -> help.command-embed.using_command",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-embed.example\"",
+        "source_string": "Example №{number}",
+        "translation": "Ejemplo №{number}",
+        "context": " -> help.command-embed.example",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-notfound.title\"",
+        "source_string": "Command Not Found",
+        "translation": "Comando no encontrado",
+        "context": " -> help.command-notfound.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-notfound.description\"",
+        "source_string": "When searching for command, we did not find it, look at it again in the general list of commands",
+        "translation": "Al buscar comando no lo encontramos, búsquelo nuevamente en la lista general de comandos",
+        "context": " -> help.command-notfound.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-invalid.title\"",
+        "source_string": "The command is invalid",
+        "translation": "El comando no es válido",
+        "context": " -> help.command-invalid.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"help.command-invalid.description\"",
+        "source_string": "Most likely you entered the name of the team incorrectly, perhaps it contains some strange characters",
+        "translation": "Lo más probable es que hayas ingresado mal el nombre del equipo, quizás contenga algunos caracteres extraños.",
+        "context": " -> help.command-invalid.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingPermissions\"",
+        "source_string": "You don't have enough rights",
+        "translation": "No tienes suficientes derechos",
+        "context": " -> errors.MissingPermissions",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingRole\"",
+        "source_string": "You don't have a suitable role to execute the command",
+        "translation": "No tienes un rol adecuado para ejecutar el comando.",
+        "context": " -> errors.MissingRole",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingChannel\"",
+        "source_string": "You cannot execute this command in this channel",
+        "translation": "No puedes ejecutar este comando en este canal.",
+        "context": " -> errors.MissingChannel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.NotOwner\"",
+        "source_string": "This command is intended for the bot owner",
+        "translation": "Este comando está destinado al propietario del bot.",
+        "context": " -> errors.NotOwner",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CommandNotFound\"",
+        "source_string": "There is no such command",
+        "translation": "No existe tal comando",
+        "context": " -> errors.CommandNotFound",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CheckFailure\"",
+        "source_string": "You don't fulfill all the conditions",
+        "translation": "No cumples todas las condiciones",
+        "context": " -> errors.CheckFailure",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.BadArgument\"",
+        "source_string": "Invalid argument entered",
+        "translation": "Argumento no válido ingresado",
+        "context": " -> errors.BadArgument",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.DisabledCommand\"",
+        "source_string": "This command is disabled on the server",
+        "translation": "Este comando está deshabilitado en el servidor.",
+        "context": " -> errors.DisabledCommand",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MissingRequiredArgument\"",
+        "source_string": "You didn't enter a required argument",
+        "translation": "No ingresaste un argumento requerido",
+        "context": " -> errors.MissingRequiredArgument",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.InactiveEconomy\"",
+        "source_string": "The economy system is disabled on the server",
+        "translation": "El sistema económico está deshabilitado en el servidor.",
+        "context": " -> errors.InactiveEconomy",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.OnlyTeamError\"",
+        "source_string": "This command can only be used by the bot team",
+        "translation": "Este comando solo puede ser utilizado por el equipo bot.",
+        "context": " -> errors.OnlyTeamError",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.MemberNotFound\"",
+        "source_string": "The participant could not be found",
+        "translation": "No se pudo encontrar al participante.",
+        "context": " -> errors.MemberNotFound",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CommandOnCooldown.title\"",
+        "source_string": "The command is on hold",
+        "translation": "El comando está en espera",
+        "context": " -> errors.CommandOnCooldown.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.CommandOnCooldown.description\"",
+        "source_string": "Try again after {delay}.",
+        "translation": "Inténtalo de nuevo después de {delay}.",
+        "context": " -> errors.CommandOnCooldown.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"errors.DisabledEconomy\"",
+        "source_string": "The economy system is disabled on the server",
+        "translation": "El sistema económico está deshabilitado en el servidor.",
+        "context": " -> errors.DisabledEconomy",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music-selector.title\"",
+        "source_string": "Choose the track you are interested in!",
+        "translation": "¡Elige la pista que te interesa!",
+        "context": " -> music-selector.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music-selector.placeholder\"",
+        "source_string": "Select a track",
+        "translation": "Selecciona una pista",
+        "context": " -> music-selector.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.globals.title\"",
+        "source_string": "Suggested an idea",
+        "translation": "sugirió una idea",
+        "context": " -> ideas.globals.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.globals.ideas-disabled\"",
+        "source_string": "The **idea** module is disabled on this server",
+        "translation": "El módulo **idea** está deshabilitado en este servidor",
+        "context": " -> ideas.globals.ideas-disabled",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.globals.embed-title\"",
+        "source_string": "New idea!",
+        "translation": "¡Idea Nueva!",
+        "context": " -> ideas.globals.embed-title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.approve\"",
+        "source_string": "Approved | {name}",
+        "translation": "Aprobado | {name}",
+        "context": " -> ideas.confirm-modal.approve",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.title\"",
+        "source_string": "The idea is approved!",
+        "translation": "¡La idea está aprobada!",
+        "context": " -> ideas.confirm-modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.content\"",
+        "source_string": "{mention} Your idea is approved!",
+        "translation": "{mention} ¡Tu idea está aprobada!",
+        "context": " -> ideas.confirm-modal.content",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.essence\"",
+        "source_string": "The essence of the idea:",
+        "translation": "La esencia de la idea:",
+        "context": " -> ideas.confirm-modal.essence",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-modal.reason\"",
+        "source_string": "Confirmation argument:",
+        "translation": "Argumento de confirmación:",
+        "context": " -> ideas.confirm-modal.reason",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.button.approve\"",
+        "source_string": "Approve",
+        "translation": "Aprobar",
+        "context": " -> ideas.confirm-view.button.approve",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.button.deny\"",
+        "source_string": "Deny",
+        "translation": "Denegar",
+        "context": " -> ideas.confirm-view.button.deny",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.idea\"",
+        "source_string": "Idea:",
+        "translation": "Idea:",
+        "context": " -> ideas.confirm-view.idea",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.refused\"",
+        "source_string": "Refused | {name}",
+        "translation": "Rechazado | {name}",
+        "context": " -> ideas.confirm-view.refused",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.idea-content\"",
+        "source_string": "{mention} Your idea has been rejected!",
+        "translation": "{mention} ¡Tu idea ha sido rechazada!",
+        "context": " -> ideas.confirm-view.idea-content",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.confirm-view.title\"",
+        "source_string": "The idea is refused!",
+        "translation": "¡La idea es rechazada!",
+        "context": " -> ideas.confirm-view.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.label\"",
+        "source_string": "Tell us about your idea",
+        "translation": "Cuéntanos tu idea",
+        "context": " -> ideas.idea-modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.placeholder\"",
+        "source_string": "Describe your idea in as much detail as possible with usage examples.",
+        "translation": "Describe tu idea con el mayor detalle posible con ejemplos de uso.",
+        "context": " -> ideas.idea-modal.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.embed-description\"",
+        "source_string": "Whether the idea is approved or not depends on you!",
+        "translation": "¡Que la idea sea aprobada o no depende de ti!",
+        "context": " -> ideas.idea-modal.embed-description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.idea\"",
+        "source_string": "Idea:",
+        "translation": "Idea:",
+        "context": " -> ideas.idea-modal.idea",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.thread-name\"",
+        "source_string": "Discussion of the idea from {name}",
+        "translation": "Discusión de la idea de {nombre}",
+        "context": " -> ideas.idea-modal.thread-name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-view.timeout-message\"",
+        "source_string": "You can only suggest an idea once every {every_time}\nThe next opportunity to submit an idea will be in:  <t:{time}:R>",
+        "translation": "Sólo puedes proponer una idea una vez cada 30 minutos.\nLa próxima oportunidad para enviar una idea será a través de: <t:{time}:R>",
+        "context": " -> ideas.idea-view.timeout-message",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.issue.title\"",
+        "source_string": "Are you sure?",
+        "translation": "¿Está seguro?",
+        "context": " -> delcat.issue.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.issue.description\"",
+        "source_string": "This will permanently delete the {category} category and every channel inside of it.",
+        "translation": "Esto eliminará permanentemente la categoría {category} y cada canal dentro de ella.",
+        "context": " -> delcat.issue.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.accept.title\"",
+        "source_string": "#{category} Category Deleted",
+        "translation": "#{category} Categoría eliminada",
+        "context": " -> delcat.accept.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.accept.description\"",
+        "source_string": "And also remotely {count} channels that were in the category",
+        "translation": "Y también de forma remota {count} canales que estaban en la categoría",
+        "context": " -> delcat.accept.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"delcat.cancel.title\"",
+        "source_string": "Category Deletion Canceled",
+        "translation": "Eliminación de categoría cancelada",
+        "context": " -> delcat.cancel.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.title\"",
+        "source_string": "Configuring the bot modules.",
+        "translation": "Configurando los módulos del bot.",
+        "context": " -> settings.start.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.choose\"",
+        "source_string": "Choose settings...",
+        "translation": "Elige la configuración...",
+        "context": " -> settings.start.choose",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.description\"",
+        "source_string": "Interact with the selection drop-down menu to configure the server.",
+        "translation": "Interactúe con el menú desplegable de selección para configurar el servidor.",
+        "context": " -> settings.start.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.start.request\"",
+        "source_string": "Request from {name}",
+        "translation": "Solicitud de {name}",
+        "context": " -> settings.start.request",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.economy\"",
+        "source_string": "Economy",
+        "translation": "Economía",
+        "context": " -> settings.module-name.economy",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.languages\"",
+        "source_string": "Languages",
+        "translation": "Idiomas",
+        "context": " -> settings.module-name.languages",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.prefix\"",
+        "source_string": "Prefix",
+        "translation": "Prefijo",
+        "context": " -> settings.module-name.prefix",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.music\"",
+        "source_string": "Music",
+        "translation": "Música",
+        "context": " -> settings.module-name.music",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.color\"",
+        "source_string": "Color of system messages",
+        "translation": "Color de los mensajes del sistema.",
+        "context": " -> settings.module-name.color",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.reactions\"",
+        "source_string": "Auto Reactions",
+        "translation": "Reacciones automáticas",
+        "context": " -> settings.module-name.reactions",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.thread\"",
+        "source_string": "Auto message in a thread/post",
+        "translation": "Mensaje automático en un hilo/publicación",
+        "context": " -> settings.module-name.thread",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.command-permission\"",
+        "source_string": "Command Settings",
+        "translation": "Configuración de comando",
+        "context": " -> settings.module-name.command-permission",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.ideas\"",
+        "source_string": "Ideas",
+        "translation": "Ideas",
+        "context": " -> settings.module-name.ideas",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.welcomer\"",
+        "source_string": "Welcome new members",
+        "translation": "Bienvenidos nuevos miembros",
+        "context": " -> settings.module-name.welcomer",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.auto-roles\"",
+        "source_string": "Automatic roles",
+        "translation": "Roles automáticos",
+        "context": " -> settings.module-name.auto-roles",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.role-reactions\"",
+        "source_string": "Reaction Roles",
+        "translation": "Roles de reacción",
+        "context": " -> settings.module-name.role-reactions",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.module-name.logs\"",
+        "source_string": "Changelog",
+        "translation": "Changelog",
+        "context": " -> settings.module-name.logs",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.back\"",
+        "source_string": "Back",
+        "translation": "Atrás",
+        "context": " -> settings.button.back",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.edit\"",
+        "source_string": "Edit",
+        "translation": "Editar",
+        "context": " -> settings.button.edit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.reset\"",
+        "source_string": "Reset",
+        "translation": "Reiniciar",
+        "context": " -> settings.button.reset",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.add\"",
+        "source_string": "Add",
+        "translation": "Agregar",
+        "context": " -> settings.button.add",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.prefix.title\"",
+        "source_string": "Prefix",
+        "translation": "Prefijo",
+        "context": " -> settings.prefix.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.prefix.description\"",
+        "source_string": "Setting the prefix to which the bot will respond when calling the command.",
+        "translation": "Establecer el prefijo al que responderá el bot al llamar al comando.",
+        "context": " -> settings.prefix.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.prefix.current\"",
+        "source_string": "The current prefix is `{prefix}`",
+        "translation": "El prefijo actual es {prefix}",
+        "context": " -> settings.prefix.current",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.languages.title\"",
+        "source_string": "Languages",
+        "translation": "Idiomas",
+        "context": " -> settings.languages.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.languages.description\"",
+        "source_string": "This setting changes the language for working with the bot.",
+        "translation": "Esta configuración cambia el idioma para trabajar con el bot.",
+        "context": " -> settings.languages.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.languages.choose\"",
+        "source_string": "Select the language for the server:",
+        "translation": "Seleccione el idioma del servidor:",
+        "context": " -> settings.languages.choose",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.not-valid\"",
+        "source_string": "The hex code format is incorrect",
+        "translation": "El formato del código hexadecimal es incorrecto.",
+        "context": " -> settings.color.not-valid",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.title\"",
+        "source_string": "Color of system messages",
+        "translation": "Color de los mensajes del sistema.",
+        "context": " -> settings.color.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.description\"",
+        "source_string": "When you use commands, the bot displays inserts that have an invisible color by default.\n\nYou can set your color according to the theme of your community.",
+        "translation": "Cuando usas comandos, el bot muestra inserciones que tienen un color invisible de forma predeterminada.\n\nPuedes configurar tu color según el tema de tu comunidad.",
+        "context": " -> settings.color.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.color.current\"",
+        "source_string": "Current color: `{hex_color}`",
+        "translation": "Color actual",
+        "context": " -> settings.color.current",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.button.install\"",
+        "source_string": "Install roles",
+        "translation": "Instalar roles",
+        "context": " -> settings.auto-role.button.install",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.button.delete\"",
+        "source_string": "Delete roles",
+        "translation": "Eliminar roles",
+        "context": " -> settings.auto-role.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.placeholder\"",
+        "source_string": "Select automatically assigned roles for new members",
+        "translation": "Seleccionar roles asignados automáticamente para nuevos miembros",
+        "context": " -> settings.auto-role.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.embed.title\"",
+        "source_string": "Automatic roles",
+        "translation": "Roles automáticos",
+        "context": " -> settings.auto-role.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.embed.description\"",
+        "source_string": "The control panel for automatic roles.\nYou can install, edit, delete, and view such actions from the panel.\nIf you do not see the auto roles, then they are not selected!",
+        "translation": "El panel de control para roles automáticos.\nPuede instalar, editar, eliminar y ver dichas acciones desde el panel.\nSi no ve los roles automáticos, ¡no están seleccionados!",
+        "context": " -> settings.auto-role.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.embed.field\"",
+        "source_string": "Selected roles:",
+        "translation": "Roles seleccionados:",
+        "context": " -> settings.auto-role.embed.field",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.button.delete\"",
+        "source_string": "Delete message",
+        "translation": "Borrar mensaje",
+        "context": " -> settings.welcomer.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.button.view\"",
+        "source_string": "View message",
+        "translation": "Ver mensaje",
+        "context": " -> settings.welcomer.button.view",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.button.install\"",
+        "source_string": "Install message",
+        "translation": "Instalar mensaje",
+        "context": " -> settings.welcomer.button.install",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.title\"",
+        "source_string": "Message greeting",
+        "translation": "mensaje de saludo",
+        "context": " -> settings.welcomer.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.description\"",
+        "source_string": "Automatic sending of messages when a participant logs on to the server\n\nIf you want to change the channel, just select it again and set the message\n\nTo change a message, select the current channel and set a new message for it",
+        "translation": "Envío automático de mensajes cuando un participante inicia sesión en el servidor\n\nSi desea cambiar el canal, simplemente selecciónelo nuevamente y configure el mensaje\n\nPara cambiar un mensaje, seleccione el canal actual y establezca un nuevo mensaje para él",
+        "context": " -> settings.welcomer.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.field.selected\"",
+        "source_string": "Selected greeting channel: {channel}",
+        "translation": "Canal de saludo seleccionado: {channel}",
+        "context": " -> settings.welcomer.embed.field.selected",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.embed.field.failure\"",
+        "source_string": "Not all the data has been collected yet.",
+        "translation": "Aún no se han recopilado todos los datos.",
+        "context": " -> settings.welcomer.embed.field.failure",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.dropdown-placeholder\"",
+        "source_string": "Select the welcome channel",
+        "translation": "Selecciona el canal de bienvenida",
+        "context": " -> settings.welcomer.dropdown-placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.modal.title\"",
+        "source_string": "Message greeting",
+        "translation": "mensaje de saludo",
+        "context": " -> settings.welcomer.modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.modal.label\"",
+        "source_string": "Message",
+        "translation": "Mensaje",
+        "context": " -> settings.welcomer.modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.modal.placeholder\"",
+        "source_string": "You can also use embed builder",
+        "translation": "También puedes usar el generador de incrustaciones.",
+        "context": " -> settings.welcomer.modal.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.title\"",
+        "source_string": "Automatic messages in forums/threads",
+        "translation": "Mensajes automáticos en foros/hilos",
+        "context": " -> settings.thread.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.brief\"",
+        "source_string": "Auto-messages",
+        "translation": "Mensajes automáticos",
+        "context": " -> settings.thread.init.brief",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.description\"",
+        "source_string": "Add or change your automatic posts in forums/threads",
+        "translation": "Agregue o cambie sus publicaciones automáticas en foros/hilos",
+        "context": " -> settings.thread.init.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.placeholder\"",
+        "source_string": "Auto-message settings in branches/forums:",
+        "translation": "Configuración de mensajes automáticos en sucursales/foros:",
+        "context": " -> settings.thread.init.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.init.channel\"",
+        "source_string": "Channel: {channel}",
+        "translation": "Canal: {channel}",
+        "context": " -> settings.thread.init.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.addptional.button.install-mes\"",
+        "source_string": "Install message",
+        "translation": "Instalar mensaje",
+        "context": " -> settings.thread.addptional.button.install-mes",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.addptional.channel-error\"",
+        "source_string": "Auto-messages have already been installed on this channel",
+        "translation": "Los mensajes automáticos ya se han instalado en este canal.",
+        "context": " -> settings.thread.addptional.channel-error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.addptional.placeholder\"",
+        "source_string": "Select a channel for auto-messages",
+        "translation": "Seleccione un canal para mensajes automáticos",
+        "context": " -> settings.thread.addptional.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.mes-not-found\"",
+        "source_string": "No message found",
+        "translation": "No se encontró ningún mensaje",
+        "context": " -> settings.thread.thread.mes-not-found",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.button.view\"",
+        "source_string": "View the message",
+        "translation": "Ver el mensaje",
+        "context": " -> settings.thread.thread.button.view",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.button.edit\"",
+        "source_string": "Edit a message",
+        "translation": "Editar un mensaje",
+        "context": " -> settings.thread.thread.button.edit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.thread.button.delete\"",
+        "source_string": "Delete a message",
+        "translation": "Eliminar un mensaje",
+        "context": " -> settings.thread.thread.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.modal.label\"",
+        "source_string": "Message:",
+        "translation": "Mensaje:",
+        "context": " -> settings.thread.modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.modal.title\"",
+        "source_string": "Auto-messages",
+        "translation": "Mensajes automáticos",
+        "context": " -> settings.thread.modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.thread.modal.placeholder\"",
+        "source_string": "You can also use embed-builder",
+        "translation": "También puedes usar el constructor de incrustaciones.",
+        "context": " -> settings.thread.modal.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.title\"",
+        "source_string": "Automatic reactions",
+        "translation": "Reacciones automáticas",
+        "context": " -> settings.reactions.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.brief\"",
+        "source_string": "Auto-reactions",
+        "translation": "Reacciones automáticas",
+        "context": " -> settings.reactions.init.brief",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.description\"",
+        "source_string": "Control of automatic addition of reactions in channels",
+        "translation": "Control de adición automática de reacciones en canales.",
+        "context": " -> settings.reactions.init.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.placeholder\"",
+        "source_string": "Auto-reaction settings:",
+        "translation": "Configuración de reacción automática:",
+        "context": " -> settings.reactions.init.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.init.dddesc\"",
+        "source_string": "Channel: {channel}\nEmoji: {emojis}",
+        "translation": "Channel: {channel}\nEmoji: {emojis}",
+        "context": " -> settings.reactions.init.dddesc",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.addres.channel-error\"",
+        "source_string": "Auto-reactions have already been installed on this channel",
+        "translation": "Las reacciones automáticas ya se han instalado en este canal.",
+        "context": " -> settings.reactions.addres.channel-error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.addres.placeholder\"",
+        "source_string": "Select a channel for auto-reactions",
+        "translation": "Seleccione un canal para reacciones automáticas",
+        "context": " -> settings.reactions.addres.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.addres.install-emoji\"",
+        "source_string": "Install emoji",
+        "translation": "Install emoji",
+        "context": " -> settings.reactions.addres.install-emoji",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.modal.title\"",
+        "source_string": "Auto-reaction",
+        "translation": "Reacción automática",
+        "context": " -> settings.reactions.modal.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.modal.label\"",
+        "source_string": "Emoji:",
+        "translation": "emojis:",
+        "context": " -> settings.reactions.modal.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.button.delete\"",
+        "source_string": "Delete reaction",
+        "translation": "Eliminar reacción",
+        "context": " -> settings.reactions.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.reactions.button.edit\"",
+        "source_string": "Edit reaction",
+        "translation": "Editar reacción",
+        "context": " -> settings.reactions.button.edit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.title\"",
+        "source_string": "Music",
+        "translation": "Música",
+        "context": " -> settings.music.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max-queue-size.name\"",
+        "source_string": "Max size",
+        "translation": "tamaño máximo",
+        "context": " -> settings.music.max-queue-size.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max-queue-size.description\"",
+        "source_string": "Maximum track queue lenght.",
+        "translation": "Longitud máxima de la cola de pista.",
+        "context": " -> settings.music.max-queue-size.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.max-queue-size.value\"",
+        "source_string": "Maximum queue size: {size}\n",
+        "translation": "Tamaño máximo de la cola: {size}",
+        "context": " -> settings.music.max-queue-size.value",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.default-volume.name\"",
+        "source_string": "Default volume",
+        "translation": "Volumen predeterminado",
+        "context": " -> settings.music.default-volume.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.default-volume.description\"",
+        "source_string": "The default music volume.",
+        "translation": "El volumen de música predeterminado.",
+        "context": " -> settings.music.default-volume.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.default-volume.value\"",
+        "source_string": "Default volume music: {volume}\n",
+        "translation": "Música de volumen predeterminada: {volume}",
+        "context": " -> settings.music.default-volume.value",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.failed\"",
+        "source_string": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "translation": "El rol {role} no se puede asignar y se usa para la integración o por un bot.",
+        "context": " -> settings.music.dj-roles.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.name\"",
+        "source_string": "Dj-roles",
+        "translation": "Roles de DJ",
+        "context": " -> settings.music.dj-roles.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.description\"",
+        "source_string": "Roles that can control music.",
+        "translation": "Roles que pueden controlar la música.",
+        "context": " -> settings.music.dj-roles.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.music.dj-roles.value\"",
+        "source_string": "Dj-roles: {roles}",
+        "translation": "DJ-Roles: {roles}",
+        "context": " -> settings.music.dj-roles.value",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.delete\"",
+        "source_string": "Delete",
+        "translation": "Delete",
+        "context": " -> settings.button.delete",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.accept\"",
+        "source_string": "Accept",
+        "translation": "Accept",
+        "context": " -> settings.button.accept",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.create\"",
+        "source_string": "Create",
+        "translation": "Create",
+        "context": " -> settings.button.create",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.init.title\"",
+        "source_string": "Ideas",
+        "translation": "Ideas",
+        "context": " -> ideas.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.init.description\"",
+        "source_string": "Do you have a good idea?\nAnd you are sure that everyone will like it!\nBefore you write it, make sure that there have been no such ideas yet!",
+        "translation": "Do you have a good idea?\nAnd you are sure that everyone will like it!\nBefore you write it, make sure that there have been no such ideas yet!",
+        "context": " -> ideas.init.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.image.label\"",
+        "source_string": "Image url",
+        "translation": "Image url",
+        "context": " -> ideas.idea-modal.image.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.idea-modal.image.placeholder\"",
+        "source_string": "If you want, you can attach an image",
+        "translation": "If you want, you can attach an image",
+        "context": " -> ideas.idea-modal.image.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.permission.ban\"",
+        "source_string": "You have limited access to creating ideas!\nExit Time: Forever\nModerator: {moderator}\nReason: `{reason}`",
+        "translation": "You have limited access to creating ideas!\nExit Time: Forever\nModerator: {moderator}\nReason: `{reason}`",
+        "context": " -> ideas.mod.permission.ban",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.permission.mute\"",
+        "source_string": "You have limited access to creating ideas!\nExit Time:  <t:{time:.0f}:f> ({display_time})\nModerator: {moderator.mention}\nReason: `{reason}`",
+        "translation": "You have limited access to creating ideas!\nExit Time:  <t:{time:.0f}:f> ({display_time})\nModerator: {moderator.mention}\nReason: `{reason}`",
+        "context": " -> ideas.mod.permission.mute",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.permission.unspecified\"",
+        "source_string": "unspecified",
+        "translation": "unspecified",
+        "context": " -> ideas.mod.permission.unspecified",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.ban.title\"",
+        "source_string": "Ban in ideas",
+        "translation": "Ban in ideas",
+        "context": " -> ideas.mod.ban.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.ban.already.description\"",
+        "source_string": "The {member.mention} ({member.id}) user is already banned\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "The {member.mention} ({member.id}) user is already banned\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "context": " -> ideas.mod.ban.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.ban.success.description\"",
+        "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the ban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "context": " -> ideas.mod.ban.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unban.title\"",
+        "source_string": "Unban in ideas",
+        "translation": "Unban in ideas",
+        "context": " -> ideas.mod.unban.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unban.already.description\"",
+        "source_string": "The {member} user is not blocked!",
+        "translation": "The {member} user is not blocked!",
+        "context": " -> ideas.mod.unban.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unban.success.description\"",
+        "source_string": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unban: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "context": " -> ideas.mod.unban.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.mute.title\"",
+        "source_string": "Mute in ideas",
+        "translation": "Mute in ideas",
+        "context": " -> ideas.mod.mute.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.mute.already.description\"",
+        "source_string": "The {member.mention} ({member.id}) user is already muted\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "translation": "The {member.mention} ({member.id}) user is already muted\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "context": " -> ideas.mod.mute.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.mute.success.description\"",
+        "source_string": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "translation": "The blocked user: {member.mention} ({member.id})\nThe moderator who issued the mute: {moderator.mention} ({moderator.id})\nTime of action: <t:{timestamp:.0f}:f> ({display_time})\nReason: `{reason}`",
+        "context": " -> ideas.mod.mute.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unmute.title\"",
+        "source_string": "Unmute in ideas",
+        "translation": "Unmute in ideas",
+        "context": " -> ideas.mod.unmute.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unmute.already.description\"",
+        "source_string": "The {member} user is not mutes!",
+        "translation": "The {member} user is not mutes!",
+        "context": " -> ideas.mod.unmute.already.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"ideas.mod.unmute.success.description\"",
+        "source_string": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unmute: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "translation": "An unblocked user: {member.mention} ({member.id})\nThe moderator who issued the unmute: {moderator.mention} ({moderator.id})\nReason: `{reason}`",
+        "context": " -> ideas.mod.unmute.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.sponsor\"",
+        "source_string": "Choose a giveaway sponsor",
+        "translation": "Choose a giveaway sponsor",
+        "context": " -> giveaway.settings.sponsor",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.channel\"",
+        "source_string": "Choose a giveaway channel",
+        "translation": "Choose a giveaway channel",
+        "context": " -> giveaway.settings.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.placeholder\"",
+        "source_string": "Settings Giveaway Prize",
+        "translation": "Settings Giveaway Prize",
+        "context": " -> giveaway.settings.prize.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.label\"",
+        "source_string": "Prize",
+        "translation": "Prize",
+        "context": " -> giveaway.settings.prize.label",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.quantity\"",
+        "source_string": "Quantity",
+        "translation": "Quantity",
+        "context": " -> giveaway.settings.prize.quantity",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.prize.error\"",
+        "source_string": "Quantity format is invalid!",
+        "translation": "Quantity format is invalid!",
+        "context": " -> giveaway.settings.prize.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.description.placeholder\"",
+        "source_string": "Settings Giveaway Description",
+        "translation": "Settings Giveaway Description",
+        "context": " -> giveaway.settings.description.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.description.title\"",
+        "source_string": "Description",
+        "translation": "Description",
+        "context": " -> giveaway.settings.description.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.dateend.placeholder\"",
+        "source_string": "Settings Giveaway Dateend",
+        "translation": "Settings Giveaway Dateend",
+        "context": " -> giveaway.settings.dateend.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.dateend.title\"",
+        "source_string": "Date end",
+        "translation": "Date end",
+        "context": " -> giveaway.settings.dateend.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.dateend.error\"",
+        "source_string": "Date format is invalid!",
+        "translation": "Date format is invalid!",
+        "context": " -> giveaway.settings.dateend.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.title\"",
+        "source_string": "Giveaway",
+        "translation": "Giveaway",
+        "context": " -> giveaway.settings.init.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.info.title\"",
+        "source_string": "Information",
+        "translation": "Information",
+        "context": " -> giveaway.settings.init.info.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.info.decription\"",
+        "source_string": "Prize: {prize}\nQuantity: {quantity}\nChannel: {channel}\nSponsor: {sponsor}\nDate end: {date_end}",
+        "translation": "Prize: {prize}\nQuantity: {quantity}\nChannel: {channel}\nSponsor: {sponsor}\nDate end: {date_end}",
+        "context": " -> giveaway.settings.init.info.decription",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.info.dnr\"",
+        "source_string": "not registered",
+        "translation": "not registered",
+        "context": " -> giveaway.settings.init.info.dnr",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.create.title\"",
+        "source_string": "Create giveaway",
+        "translation": "Create giveaway",
+        "context": " -> giveaway.settings.init.create.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.settings.init.create.error\"",
+        "source_string": "You have filled in all required forms!",
+        "translation": "You have filled in all required forms!",
+        "context": " -> giveaway.settings.init.create.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.confirm.leave\"",
+        "source_string": "Leave giveaway",
+        "translation": "Leave giveaway",
+        "context": " -> giveaway.confirm.leave",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"giveaway.confirm.issue\"",
+        "source_string": "Are you sure you want to leave giveaway?",
+        "translation": "Are you sure you want to leave giveaway?",
+        "context": " -> giveaway.confirm.issue",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.accept.title\"",
+        "source_string": "Role #{number}",
+        "translation": "Role #{number}",
+        "context": " -> economy.shop.accept.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.accept.description\"",
+        "source_string": "{description}・Role: <@&{role_id}>\n・Amount: {amount}{emoji}\n・Purchase limit: {limit}",
+        "translation": "{description}・Role: <@&{role_id}>\n・Amount: {amount}{emoji}\n・Purchase limit: {limit}",
+        "context": " -> economy.shop.accept.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.accept.success\"",
+        "source_string": "You have completed the purchase of the role <@&{role_id}>",
+        "translation": "You have completed the purchase of the role <@&{role_id}>",
+        "context": " -> economy.shop.accept.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.error.already\"",
+        "source_string": "You already have this role!",
+        "translation": "You already have this role!",
+        "context": " -> economy.shop.error.already",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.error.limit\"",
+        "source_string": "The entire limit is exhausted!",
+        "translation": "The entire limit is exhausted!",
+        "context": " -> economy.shop.error.limit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.error.balance\"",
+        "source_string": "Your balance must be more than {amount}{emoji}!",
+        "translation": "Your balance must be more than {amount}{emoji}!",
+        "context": " -> economy.shop.error.balance",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.dropdown.placeholder\"",
+        "source_string": "Select an item",
+        "translation": "Select an item",
+        "context": " -> economy.shop.dropdown.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.embed.title\"",
+        "source_string": "The {name} Item Store",
+        "translation": "The {name} Item Store",
+        "context": " -> economy.shop.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.embed.description\"",
+        "source_string": "Select the item you want to buy.",
+        "translation": "Select the item you want to buy.",
+        "context": " -> economy.shop.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.shop.embed.footer\"",
+        "source_string": "Page {index}/{lenght}",
+        "translation": "Page {index}/{lenght}",
+        "context": " -> economy.shop.embed.footer",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.image.link\"",
+        "source_string": "Link",
+        "translation": "Link",
+        "context": " -> settings.welcomer.image.link",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.image.placeholder\"",
+        "source_string": "Enter a link",
+        "translation": "Enter a link",
+        "context": " -> settings.welcomer.image.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.welcomer.image.error\"",
+        "source_string": "The data does not match the links.",
+        "translation": "The data does not match the links.",
+        "context": " -> settings.welcomer.image.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.modal.emoji\"",
+        "source_string": "Emoji",
+        "translation": "Emoji",
+        "context": " -> settings.set-reaction.modal.emoji",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.modal.error\"",
+        "source_string": "You have entered an incorrect emoji",
+        "translation": "You have entered an incorrect emoji",
+        "context": " -> settings.set-reaction.modal.error",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.button.use-modal\"",
+        "source_string": "Use modal",
+        "translation": "Use modal",
+        "context": " -> settings.set-reaction.button.use-modal",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.content\"",
+        "source_string": "Set reaction!",
+        "translation": "Set reaction!",
+        "context": " -> settings.set-reaction.content",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.error.timeout\"",
+        "source_string": "You didn't have time to specify the emoji, use the interaction for",
+        "translation": "You didn't have time to specify the emoji, use the interaction for",
+        "context": " -> settings.set-reaction.error.timeout",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.set-reaction.error.located\"",
+        "source_string": "Unfortunately I can't use this emoji check that I am on the server where this emoji is located",
+        "translation": "Unfortunately I can't use this emoji check that I am on the server where this emoji is located",
+        "context": " -> settings.set-reaction.error.located",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.channel\"",
+        "source_string": "Select the channel to which the logs will be sent",
+        "translation": "Select the channel to which the logs will be sent",
+        "context": " -> settings.logs.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.set-channel\"",
+        "source_string": "Select the channel you want to change",
+        "translation": "Select the channel you want to change",
+        "context": " -> settings.logs.set-channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.type\"",
+        "source_string": "Select the type of logs",
+        "translation": "Select the type of logs",
+        "context": " -> settings.logs.type",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.embed.title\"",
+        "source_string": "System logs",
+        "translation": "System logs",
+        "context": " -> settings.logs.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.logs.embed.description\"",
+        "source_string": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+        "translation": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+        "context": " -> settings.logs.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.default\"",
+        "source_string": "The @everyone role is the default role for all users and can't be selected.",
+        "translation": "The @everyone role is the default role for all users and can't be selected.",
+        "context": " -> settings.roles.error.default",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.premium\"",
+        "source_string": "The {role} role is a role that is used by subscribers of your server.",
+        "translation": "The {role} role is a role that is used by subscribers of your server.",
+        "context": " -> settings.roles.error.premium",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.integration\"",
+        "source_string": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "translation": "The {role} role cannot be assigned and is used for integration or by a bot.",
+        "context": " -> settings.roles.error.integration",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.roles.error.assignable\"",
+        "source_string": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
+        "translation": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}.",
+        "context": " -> settings.roles.error.assignable",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.permission.denied\"",
+        "source_string": "You don't have the authority to use the settings",
+        "translation": "You don't have the authority to use the settings",
+        "context": " -> settings.permission.denied",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.global.title\"",
+        "source_string": "Roles for reactions",
+        "translation": "Roles for reactions",
+        "context": " -> settings.role-reaction.global.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.global.description\"",
+        "source_string": "This module will help you assign roles based on reactions",
+        "translation": "This module will help you assign roles based on reactions",
+        "context": " -> settings.role-reaction.global.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.role-view.select\"",
+        "source_string": "Select the reaction role you want to edit",
+        "translation": "Select the reaction role you want to edit",
+        "context": " -> settings.role-reaction.role-view.select",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.item.role-set-dropdown\"",
+        "source_string": "Select a role to delete or change",
+        "translation": "Select a role to delete or change",
+        "context": " -> settings.role-reaction.item.role-set-dropdown",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.item.role-dropdown\"",
+        "source_string": "Select the role that will be provided when you click on the reaction",
+        "translation": "Select the role that will be provided when you click on the reaction",
+        "context": " -> settings.role-reaction.item.role-dropdown",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.item.field\"",
+        "source_string": "Reactions",
+        "translation": "Reactions",
+        "context": " -> settings.role-reaction.item.field",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.selector.channel\"",
+        "source_string": "Find a channel to have the perfect way to use roles and reactions!",
+        "translation": "Find a channel to have the perfect way to use roles and reactions!",
+        "context": " -> settings.role-reaction.selector.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.role-reaction.selector.message\"",
+        "source_string": "Select the message that will display the reactions!",
+        "translation": "Select the message that will display the reactions!",
+        "context": " -> settings.role-reaction.selector.message",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.error.time\"",
+        "source_string": "You must specify a time that is later than the current time.",
+        "translation": "You must specify a time that is later than the current time.",
+        "context": " -> reminder.error.time",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.success\"",
+        "source_string": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
+        "translation": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
+        "context": " -> reminder.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.embed.title\"",
+        "source_string": "🛎️ Reminder",
+        "translation": "🛎️ Reminder",
+        "context": " -> reminder.embed.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.embed.description\"",
+        "source_string": "{time} ago you asked me to remind you",
+        "translation": "{time} ago you asked me to remind you",
+        "context": " -> reminder.embed.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"reminder.embed.field\"",
+        "source_string": "Remind",
+        "translation": "Remind",
+        "context": " -> reminder.embed.field",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.title\"",
+        "source_string": "Temporary ban granted!",
+        "translation": "Temporary ban granted!",
+        "context": " -> tempban.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.description\"",
+        "source_string": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
+        "translation": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
+        "context": " -> tempban.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.description.field.time\"",
+        "source_string": "Time of action",
+        "translation": "Time of action",
+        "context": " -> tempban.description.field.time",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.description.field.reason\"",
+        "source_string": "Reason",
+        "translation": "Reason",
+        "context": " -> tempban.description.field.reason",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.list.nf\"",
+        "source_string": "There are no registered temporary roles on this server",
+        "translation": "There are no registered temporary roles on this server",
+        "context": " -> tempban.list.nf",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"tempban.list.title\"",
+        "source_string": "Temp Bans",
+        "translation": "Temp Bans",
+        "context": " -> tempban.list.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.global.action\"",
+        "source_string": "New time of action",
+        "translation": "New time of action",
+        "context": " -> temprole.global.action",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.change.title\"",
+        "source_string": "The duration of the role has been changed",
+        "translation": "The duration of the role has been changed",
+        "context": " -> temprole.change.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.change.role\"",
+        "source_string": "Role",
+        "translation": "Role",
+        "context": " -> temprole.change.role",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.created.title\"",
+        "source_string": "Temporary role granted!",
+        "translation": "Temporary role granted!",
+        "context": " -> temprole.created.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.list.nf\"",
+        "source_string": "There are no registered temporary roles on this server",
+        "translation": "There are no registered temporary roles on this server",
+        "context": " -> temprole.list.nf",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"temprole.list.title\"",
+        "source_string": "Temp Roles",
+        "translation": "Temp Roles",
+        "context": " -> temprole.list.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"clone-role.success\"",
+        "source_string": "Successfully created a new role {role}",
+        "translation": "Successfully created a new role {role}",
+        "context": " -> clone-role.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"purge.error.limit\"",
+        "source_string": "The maximum number of messages to delete is `250`",
+        "translation": "The maximum number of messages to delete is `250`",
+        "context": " -> purge.error.limit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"purge.error.channel\"",
+        "source_string": "To take advantage of this, you need to select messages in one channel.",
+        "translation": "To take advantage of this, you need to select messages in one channel.",
+        "context": " -> purge.error.channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"purge.success\"",
+        "source_string": "Deleted {lenght} message(s)",
+        "translation": "Deleted {lenght} message(s)",
+        "context": " -> purge.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"basic.ping.description\"",
+        "source_string": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
+        "translation": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
+        "context": " -> basic.ping.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"basic.avatar.description\"",
+        "source_string": "Avatar of the {member} member",
+        "translation": "Avatar of the {member} member",
+        "context": " -> basic.avatar.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"basic.invite.description\"",
+        "source_string": "[**Click to add to your server**]({invite_link})",
+        "translation": "[**Click to add to your server**]({invite_link})",
+        "context": " -> basic.invite.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.permission.prison\"",
+        "source_string": "You are in prison, and you will be in it for another <t:{conclusion:.0f}:R>.",
+        "translation": "You are in prison, and you will be in it for another <t:{conclusion:.0f}:R>.",
+        "context": " -> economy.permission.prison",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.error.unspecified\"",
+        "source_string": "Unfortunately this reward is not available if you are the server administrator change the reward",
+        "translation": "Unfortunately this reward is not available if you are the server administrator change the reward",
+        "context": " -> economy.reward.error.unspecified",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.error.early.title\"",
+        "source_string": "The reward is not available",
+        "translation": "The reward is not available",
+        "context": " -> economy.reward.error.early.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.error.early.description\"",
+        "source_string": "Try again after <t:{reward_time:.0f}:R>",
+        "translation": "Try again after <t:{reward_time:.0f}:R>",
+        "context": " -> economy.reward.error.early.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.success.title\"",
+        "source_string": "You have received a gift",
+        "translation": "You have received a gift",
+        "context": " -> economy.reward.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.reward.success.description\"",
+        "source_string": "In size {award}{emoji} come through <t:{wait_long:.0f}:R>",
+        "translation": "In size {award}{emoji} come through <t:{wait_long:.0f}:R>",
+        "context": " -> economy.reward.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.success.title\"",
+        "source_string": "Time to work",
+        "translation": "Time to work",
+        "context": " -> economy.work.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.success.description\"",
+        "source_string": "Come to work through <t:{time:.0f}:R>",
+        "translation": "Come to work through <t:{time:.0f}:R>",
+        "context": " -> economy.work.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.error.early.title\"",
+        "source_string": "It's too early to work",
+        "translation": "It's too early to work",
+        "context": " -> economy.work.error.early.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.work.error.early.description\"",
+        "source_string": "Try again after <t:{time:.0f}:R>",
+        "translation": "Try again after <t:{time:.0f}:R>",
+        "context": " -> economy.work.error.early.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.daily\"",
+        "source_string": "— Daily Bonus ({prefix}daily)\n",
+        "translation": "— Daily Bonus ({prefix}daily)\n",
+        "context": " -> economy.balance.reward.daily",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.weekly\"",
+        "source_string": "— Weekly Bonus ({prefix}weekly)\n",
+        "translation": "— Weekly Bonus ({prefix}weekly)\n",
+        "context": " -> economy.balance.reward.weekly",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.monthly\"",
+        "source_string": "— Monthly Bonus ({prefix}monthly)\n",
+        "translation": "— Monthly Bonus ({prefix}monthly)\n",
+        "context": " -> economy.balance.reward.monthly",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.reward.available\"",
+        "source_string": "{Emoji.award} Available Rewards:\n{description}",
+        "translation": "{Emoji.award} Available Rewards:\n{description}",
+        "context": " -> economy.balance.reward.available",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.value.cash\"",
+        "source_string": "{Emoji.money} Cash:",
+        "translation": "{Emoji.money} Cash:",
+        "context": " -> economy.balance.value.cash",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.value.bank\"",
+        "source_string": "{Emoji.bank} In bank:",
+        "translation": "{Emoji.bank} In bank:",
+        "context": " -> economy.balance.value.bank",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.value.total\"",
+        "source_string": "{Emoji.bagmoney} Total balance:",
+        "translation": "{Emoji.bagmoney} Total balance:",
+        "context": " -> economy.balance.value.total",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.balance.name\"",
+        "source_string": "Balance",
+        "translation": "Balance",
+        "context": " -> economy.balance.name",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Specify the amount more **0**",
+        "context": " -> economy.pay.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.error.unenough\"",
+        "source_string": "Not enough funds to check your balance use `{prefix}balance`",
+        "translation": "Not enough funds to check your balance use `{prefix}balance`",
+        "context": " -> economy.pay.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.success.title\"",
+        "source_string": "Transfer of currency",
+        "translation": "Transfer of currency",
+        "context": " -> economy.pay.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.pay.success.description\"",
+        "source_string": "**{author}** transferred {amount}{emoji} to **{member}** account",
+        "translation": "**{author}** transferred {amount}{emoji} to **{member}** account",
+        "context": " -> economy.pay.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Specify the amount more **0**",
+        "context": " -> economy.deposit.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.error.unenough\"",
+        "source_string": "Not enough funds to check your balance use `{prefix}balance`",
+        "translation": "Not enough funds to check your balance use `{prefix}balance`",
+        "context": " -> economy.deposit.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.success.title\"",
+        "source_string": "Transfer of currency",
+        "translation": "Transfer of currency",
+        "context": " -> economy.deposit.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.deposit.success.description\"",
+        "source_string": "You have transferred **{amount:,}**{emoji} to the bank account",
+        "translation": "You have transferred **{amount:,}**{emoji} to the bank account",
+        "context": " -> economy.deposit.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Specify the amount more **0**",
+        "context": " -> economy.withdraw.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.error.unenough\"",
+        "source_string": "Not enough funds to check your bank balance use `{prefix}balance`",
+        "translation": "Not enough funds to check your bank balance use `{prefix}balance`",
+        "context": " -> economy.withdraw.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.success.title\"",
+        "source_string": "Transfer of currency",
+        "translation": "Transfer of currency",
+        "context": " -> economy.withdraw.success.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.withdraw.success.description\"",
+        "source_string": "You have transferred **{amount:,}**{emoji}  to the account",
+        "translation": "You have transferred **{amount:,}**{emoji}  to the account",
+        "context": " -> economy.withdraw.success.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.gift.error.negative\"",
+        "source_string": "The amount must be positive",
+        "translation": "The amount must be positive",
+        "context": " -> economy.gift.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.gift.success.member\"",
+        "source_string": "You have transferred the amount of **{amount:,}**{emoji} to **{member}**",
+        "translation": "You have transferred the amount of **{amount:,}**{emoji} to **{member}**",
+        "context": " -> economy.gift.success.member",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.gift.success.role\"",
+        "source_string": "You have transferred an amount of **{amount:,}**{emoji} to the account of the players with the role **@{role}**",
+        "translation": "You have transferred an amount of **{amount:,}**{emoji} to the account of the players with the role **@{role}**",
+        "context": " -> economy.gift.success.role",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.error.negative\"",
+        "source_string": "The amount must be positive",
+        "translation": "The amount must be positive",
+        "context": " -> economy.take.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.error.bank.unenough\"",
+        "source_string": "The operation cannot be performed because the bank balance will become negative during it, if you want to write off the entire currency, pass the value `all` to the account",
+        "translation": "The operation cannot be performed because the bank balance will become negative during it, if you want to write off the entire currency, pass the value `all` to the account",
+        "context": " -> economy.take.error.bank.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.error.balance.unenough\"",
+        "source_string": "The operation cannot be performed because the balance will become negative during it. If you want to debit the entire currency, transfer the value `all` to the account.",
+        "translation": "The operation cannot be performed because the balance will become negative during it. If you want to debit the entire currency, transfer the value `all` to the account.",
+        "context": " -> economy.take.error.balance.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.take.success\"",
+        "source_string": "You have withdrawn an amount of **{amount:,}**{emoji} from **{member}**",
+        "translation": "You have withdrawn an amount of **{amount:,}**{emoji} from **{member}**",
+        "context": " -> economy.take.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.title\"",
+        "source_string": "Robbery",
+        "translation": "Robbery",
+        "context": " -> economy.rob.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.error.early\"",
+        "source_string": "{member}, You can rob now, come through <t:{time:.0f}:R>.",
+        "translation": "{member}, You can rob now, come through <t:{time:.0f}:R>.",
+        "context": " -> economy.rob.error.early",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.success.mini\"",
+        "source_string": "**{author}**, you were able to steal from **{member}** an {calculated_debt:,.0f}{emoji}, but the victim lost the {debt:,.0f}{emoji}.",
+        "translation": "**{author}**, you were able to steal from **{member}** an {calculated_debt:,.0f}{emoji}, but the victim lost the {debt:,.0f}{emoji}.",
+        "context": " -> economy.rob.success.mini",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.success.full\"",
+        "source_string": "**{author}**, you were able to steal from **{member}** an {debt:,.0f}{emoji}.",
+        "translation": "**{author}**, you were able to steal from **{member}** an {debt:,.0f}{emoji}.",
+        "context": " -> economy.rob.success.full",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.rob.success.failure\"",
+        "source_string": "**{author}**, you couldn't steal from **{member}** anything during the robbery, but you lost {debt:,.0f}{emoji}.\nAnd you were also put in jail for a <t:{conclusion:.0f}:R>.",
+        "translation": "**{author}**, you couldn't steal from **{member}** anything during the robbery, but you lost {debt:,.0f}{emoji}.\nAnd you were also put in jail for a <t:{conclusion:.0f}:R>.",
+        "context": " -> economy.rob.success.failure",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.invalid\"",
+        "source_string": "An incorrect value has been entered for the roulette game, use the command `{prefix}help roulette` to find out the arguments",
+        "translation": "An incorrect value has been entered for the roulette game, use the command `{prefix}help roulette` to find out the arguments",
+        "context": " -> economy.roulette.error.invalid",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.negative\"",
+        "source_string": "Specify the amount more **0**",
+        "translation": "Specify the amount more **0**",
+        "context": " -> economy.roulette.error.negative",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.unenough\"",
+        "source_string": "Not enough funds to check your bank balance use `{prefix}balance`",
+        "translation": "Not enough funds to check your bank balance use `{prefix}balance`",
+        "context": " -> economy.roulette.error.unenough",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.error.limit\"",
+        "source_string": "Your bet is not included in the limits\nThe maximum bid: {max_bet}{emoji}\nThe minimum bid: {min_bet}{emoji}\nYour bid: {amount}{emoji}",
+        "translation": "Your bet is not included in the limits\nThe maximum bid: {max_bet}{emoji}\nThe minimum bid: {min_bet}{emoji}\nYour bid: {amount}{emoji}",
+        "context": " -> economy.roulette.error.limit",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.title\"",
+        "source_string": "New roulette game started!",
+        "translation": "New roulette game started!",
+        "context": " -> economy.roulette.game.title",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.description\"",
+        "source_string": "**{member}** have placed a bet of **{amount}**{emoji} on **{value}**",
+        "translation": "**{member}** have placed a bet of **{amount}**{emoji} on **{value}**",
+        "context": " -> economy.roulette.game.description",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.footer\"",
+        "source_string": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
+        "translation": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
+        "context": " -> economy.roulette.game.footer",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.goto\"",
+        "source_string": "The game has already started, [go to the game]({url})",
+        "translation": "The game has already started, [go to the game]({url})",
+        "context": " -> economy.roulette.game.goto",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.win\"",
+        "source_string": "**{member}** won **{amount:,}**{emoji}",
+        "translation": "**{member}** won **{amount:,}**{emoji}",
+        "context": " -> economy.roulette.game.result.win",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.lost\"",
+        "source_string": "**{member}** lost **{amount:,}**{emoji}",
+        "translation": "**{member}** lost **{amount:,}**{emoji}",
+        "context": " -> economy.roulette.game.result.lost",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.ball\"",
+        "source_string": "The ball landed on **{win_color} {ran}**",
+        "translation": "The ball landed on **{win_color} {ran}**",
+        "context": " -> economy.roulette.game.result.ball",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.wins.success\"",
+        "source_string": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
+        "translation": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
+        "context": " -> economy.roulette.game.result.wins.success",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"economy.roulette.game.result.wins.failed\"",
+        "source_string": "Unfortunately, there are no winners",
+        "translation": "Unfortunately, there are no winners",
+        "context": " -> economy.roulette.game.result.wins.failed",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.out.previous\"",
+        "source_string": "I'll get out of the voice <t:{time:.0f}:R>",
+        "translation": "I'll get out of the voice <t:{time:.0f}:R>",
+        "context": " -> music.player.out.previous",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.out.last\"",
+        "source_string": "The music was over and I left the channel",
+        "translation": "The music was over and I left the channel",
+        "context": " -> music.player.out.last",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.status\"",
+        "source_string": "Status",
+        "translation": "Status",
+        "context": " -> music.player.message.status",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.listen\"",
+        "source_string": "Listening for {passtime} / {fulltime}",
+        "translation": "Listening for {passtime} / {fulltime}",
+        "context": " -> music.player.message.listen",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.pause\"",
+        "source_string": "Pause at {passtime} / {fulltime}",
+        "translation": "Pause at {passtime} / {fulltime}",
+        "context": " -> music.player.message.pause",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.message.volume\"",
+        "source_string": "Volume: {volume}",
+        "translation": "Volume: {volume}",
+        "context": " -> music.player.message.volume",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.loading\"",
+        "source_string": "{Emoji.loading} Uploading a track",
+        "translation": "{Emoji.loading} Uploading a track",
+        "context": " -> music.player.loading",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.placeholder\"",
+        "source_string": "Select a track from the queue",
+        "translation": "Select a track from the queue",
+        "context": " -> music.player.placeholder",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.select\"",
+        "source_string": "{Emoji.yandex_music} We found {lenght} tracks according to your request",
+        "translation": "{Emoji.yandex_music} We found {lenght} tracks according to your request",
+        "context": " -> music.player.select",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.player.added\"",
+        "source_string": "The track has been added to the queue!",
+        "translation": "The track has been added to the queue!",
+        "context": " -> music.player.added",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.not_in_channel\"",
+        "source_string": "{Emoji.cross} You are not in the voice channel",
+        "translation": "{Emoji.cross} You are not in the voice channel",
+        "context": " -> music.error.not_in_channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.already\"",
+        "source_string": "{Emoji.cross} The bot is already busy",
+        "translation": "{Emoji.cross} The bot is already busy",
+        "context": " -> music.error.already",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.bot_not_in_channel\"",
+        "source_string": "{Emoji.cross} The bot is not in the voice channel",
+        "translation": "{Emoji.cross} The bot is not in the voice channel",
+        "context": " -> music.error.bot_not_in_channel",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.track_not_found\"",
+        "source_string": "{Emoji.cross} No track number {index} found",
+        "translation": "{Emoji.cross} No track number {index} found",
+        "context": " -> music.error.track_not_found",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.current_track\"",
+        "source_string": "{Emoji.cross} This track is already playing\nIf you want to start listening to a track from scratch, use the UI panel",
+        "translation": "{Emoji.cross} This track is already playing\nIf you want to start listening to a track from scratch, use the UI panel",
+        "context": " -> music.error.current_track",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"music.error.search\"",
+        "source_string": "{Emoji.cross} No tracks were found for your query",
+        "translation": "{Emoji.cross} No tracks were found for your query",
+        "context": " -> music.error.search",
+        "labels": "temp_loc_en_2.json",
+        "max_length": null
+    }
+]
