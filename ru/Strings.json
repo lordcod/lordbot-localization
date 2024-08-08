@@ -817,7 +817,7 @@
     },
     {
         "identifier": "\"settings.auto-role.button.delete\"",
-        "source_string": "Delete roles",
+        "source_string": "Clear roles",
         "translation": "Удаление ролей",
         "context": " -> settings.auto-role.button.delete",
         "labels": "temp_loc_en_2.json",
@@ -5321,32 +5321,32 @@
     },
     {
         "identifier": "\"settings.tickets.modals.dropdown.style.paragraph.label\"",
-        "source_string": "Short",
-        "translation": "Короткий",
+        "source_string": "Paragraph",
+        "translation": "Параграф",
         "context": " -> settings.tickets.modals.dropdown.style.paragraph.label",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.tickets.modals.dropdown.style.paragraph.description\"",
-        "source_string": "Indicates the short style of the form.",
-        "translation": "Указывает короткий стиль формы.",
+        "source_string": "Displays the paragraph style of the form.",
+        "translation": "Отображает стиль параграфа формы.",
         "context": " -> settings.tickets.modals.dropdown.style.paragraph.description",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.tickets.modals.dropdown.style.short.label\"",
-        "source_string": "Paragraph",
-        "translation": "Параграф",
+        "source_string": "Short",
+        "translation": "Короткий",
         "context": " -> settings.tickets.modals.dropdown.style.short.label",
         "labels": "temp_loc_en.json",
         "max_length": null
     },
     {
         "identifier": "\"settings.tickets.modals.dropdown.style.short.description\"",
-        "source_string": "Displays the paragraph style of the form.",
-        "translation": "Отображает стиль параграфа формы.",
+        "source_string": "Indicates the short style of the form.",
+        "translation": "Указывает короткий стиль формы.",
         "context": " -> settings.tickets.modals.dropdown.style.short.description",
         "labels": "temp_loc_en.json",
         "max_length": null
@@ -5660,6 +5660,110 @@
         "source_string": "The issuance and withdrawal of roles is contained in the log",
         "translation": "Информация о выдаче и отзыве ролей содержится в журнале",
         "context": " -> settings.logs.items.roles.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.button.delete_with_chls\"",
+        "source_string": "Delete with channels",
+        "translation": "Удалить c каналами",
+        "context": " -> settings.button.delete_with_chls",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"interaction.error.expired.title\"",
+        "source_string": "The interaction time has expired",
+        "translation": "Время взаимодействия истекло",
+        "context": " -> interaction.error.expired.title",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"interaction.error.expired.description\"",
+        "source_string": "If you need to use the interaction, call the associated command",
+        "translation": "Если вам нужно использовать взаимодействия, вызовите связанную команду",
+        "context": " -> interaction.error.expired.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"interaction.error.expired.support\"",
+        "source_string": "If necessary, contact [support]({DISCORD_SUPPORT_SERVER})",
+        "translation": "При необходимости свяжитесь с [поддержкой]({DISCORD_SUPPORT_SERVER})",
+        "context": " -> interaction.error.expired.support",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.button.delete_every\"",
+        "source_string": "Clear all roles",
+        "translation": "Очистить все роли",
+        "context": " -> settings.auto-role.button.delete_every",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.placeholder.select\"",
+        "source_string": "Select the roles to add",
+        "translation": "Выберите роли для добавления",
+        "context": " -> settings.auto-role.placeholder.select",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.placeholder.remove\"",
+        "source_string": "Select the roles to delete",
+        "translation": "Выберите роли для удаления",
+        "context": " -> settings.auto-role.placeholder.remove",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.mods.every.label\"",
+        "source_string": "Everybody",
+        "translation": "Все",
+        "context": " -> settings.auto-role.mods.every.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.mods.every.description\"",
+        "source_string": "Everyone will get roles",
+        "translation": "Все будут получать роли",
+        "context": " -> settings.auto-role.mods.every.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.mods.human.label\"",
+        "source_string": "Members",
+        "translation": "Участники",
+        "context": " -> settings.auto-role.mods.human.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.mods.human.description\"",
+        "source_string": "Everyone will get roles except for apps",
+        "translation": "Все будут получать роли, кроме приложений",
+        "context": " -> settings.auto-role.mods.human.description",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.mods.bot.label\"",
+        "source_string": "Apps",
+        "translation": "Приложения",
+        "context": " -> settings.auto-role.mods.bot.label",
+        "labels": "temp_loc_en.json",
+        "max_length": null
+    },
+    {
+        "identifier": "\"settings.auto-role.mods.bot.description\"",
+        "source_string": "Only apps will receive roles",
+        "translation": "Только приложения будут получать роли",
+        "context": " -> settings.auto-role.mods.bot.description",
         "labels": "temp_loc_en.json",
         "max_length": null
     }
