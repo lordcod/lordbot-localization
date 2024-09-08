@@ -1,0 +1,5 @@
+{
+    "commands.command.roulette.description": "A team for playing roulette.Players put their chips on numbers or colors and expect where the ball will stop.",
+    "commands.command.roulette.brief": "A team for playing roulette.Players put their chips on numbers or colors and expect where the ball will stop.",
+    "commands.command.roulette.arguments.0": "<amount>"
+}
