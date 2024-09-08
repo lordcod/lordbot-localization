@@ -1,0 +1,10 @@
+{
+    "commands.command.purge between.description": "Clears the chat between messages",
+    "commands.command.purge between.brief": "Clears the chat between messages",
+    "commands.command.purge between.arguments.0": "<message_start>",
+    "commands.command.purge between.arguments.1": "[message_stop]",
+    "commands.command.purge between.examples.0.use": "purge between 1214583337776320524 1214584228889497610",
+    "commands.command.purge between.examples.0.desc": "Clears the chat between message 1214583337776320524 and 1214584228889497610",
+    "commands.command.purge between.examples.1.use": "purge between 1214583337776320524",
+    "commands.command.purge between.examples.1.desc": "Clears the chat from message 1214583337776320524 to the current one"
+}
