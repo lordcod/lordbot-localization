@@ -1,0 +1,11 @@
+{
+    "commands.command.interactions.description": "The 'reactions' command allows you to use various reactions to express emotions and character responses. Here you will find a wide range of actions, from simple smiles and hugs to more expressive reactions such as shouting, biting, or even a funny sneeze. Use these reactions to add depth and liveliness to your role-playing scenes or communication with other chat participants. Immerse yourself in the world of emotions and expressions available through the 'reactions' command.",
+    "commands.command.interactions.brief": "The 'reactions' command offers a wide range of emotional reactions to enrich your communication. Express your feelings from joy to anger with various gestures and facial expressions.",
+    "commands.command.interactions.arguments.0": "<reaction_type>",
+    "commands.command.interactions.arguments.1": "[user]",
+    "commands.command.interactions.arguments.2": "[comment]",
+    "commands.command.interactions.examples.0.use": "reactions kiss @lordcode",
+    "commands.command.interactions.examples.0.desc": "Sends a message about the kisses of the participant @lordcode",
+    "commands.command.interactions.examples.1.use": "reactions blush",
+    "commands.command.interactions.examples.1.desc": "It will show that you are blushing"
+}
