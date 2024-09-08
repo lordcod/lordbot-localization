@@ -1,0 +1,6 @@
+{
+    "economy.work.success.title": "Time to work",
+    "economy.work.success.description": "Come to work through <t:{time:.0f}:R>",
+    "economy.work.error.early.title": "It's too early to work",
+    "economy.work.error.early.description": "Try again after <t:{time:.0f}:R>"
+}
