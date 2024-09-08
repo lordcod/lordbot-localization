@@ -1,0 +1,5 @@
+{
+    "commands.reactions.sip.description": "Sip.",
+    "commands.reactions.sip.user": "{author} takes a sip of a drink with {user}, enjoying the taste.",
+    "commands.reactions.sip.not_user": "{author} takes a sip of a drink."
+}
