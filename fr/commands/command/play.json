@@ -1,0 +1,9 @@
+{
+    "commands.command.play.description": "Démarre la lecture de la musique définie par l'utilisateur\nComme un nuage avec de la musique est [**Yandex Music**](<https://music.yandex.ru>)",
+    "commands.command.play.brief": "Commence à jouer de la musique",
+    "commands.command.play.arguments.0": "<title/url>",
+    "commands.command.play.examples.0.use": "play A Sky Full of Stars",
+    "commands.command.play.examples.0.desc": "Lancez une recherche sur la chanson « A Sky Full of Stars » et il vous sera demandé de choisir l'auteur souhaité.",
+    "commands.command.play.examples.1.use": "play https://music.yandex.ru/album/2207193/track/17646450",
+    "commands.command.play.examples.1.desc": "Lancez la chanson à partir du lien spécifié."
+}

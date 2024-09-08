@@ -1,0 +1,4 @@
+{
+    "commands.command.ping.description": "Zeigt die Leistung und den aktuellen Status des Bots an",
+    "commands.command.ping.brief": "Aktuelle Bot-Verzögerung"
+}

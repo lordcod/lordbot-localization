@@ -1,0 +1,6 @@
+{
+    "settings.roles.error.default": "El rol @everyone es el rol predeterminado para todos los usuarios y no puede ser seleccionado.",
+    "settings.roles.error.premium": "El rol {role} es un rol que es usado por los suscriptores de tu servidor.",
+    "settings.roles.error.integration": "El rol {role} no se puede asignar y se usa para la integración o por un bot.",
+    "settings.roles.error.assignable": "El bot no podrá asignar el rol {role}, ya que ese rol es menor que el del bot. Para resolver este problema, por favor mueva el rol {bot_role} a una posición más alta que {role}."
+}

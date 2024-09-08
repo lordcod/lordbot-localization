@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "Holdet begynder at spille blackjack.Spillere skal sætte væddemål og forsøge at score 21 point og spille forhandleren.",
+    "commands.command.blackjack.brief": "Holdet begynder at spille blackjack.Spillere skal sætte væddemål og forsøge at score 21 point og spille forhandleren.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

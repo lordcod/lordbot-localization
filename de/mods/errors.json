@@ -1,0 +1,18 @@
+{
+    "errors.MissingPermissions": "Sie haben nicht genügend Rechte",
+    "errors.MissingRole": "Sie haben keine geeignete Rolle, um den Befehl auszuführen",
+    "errors.MissingChannel": "Sie können diesen Befehl in diesem Kanal nicht ausführen",
+    "errors.NotOwner": "Dieser Befehl ist für den Bot-Besitzer gedacht",
+    "errors.CommandNotFound": "Einen solchen Befehl gibt es nicht",
+    "errors.CheckFailure": "Sie erfüllen nicht alle Bedingungen",
+    "errors.BadArgument": "Ungültiges Argument eingegeben",
+    "errors.DisabledCommand": "Dieser Befehl ist auf dem Server deaktiviert",
+    "errors.MissingRequiredArgument": "Sie haben kein erforderliches Argument eingegeben",
+    "errors.InactiveEconomy": "Das Sparsystem ist auf dem Server deaktiviert",
+    "errors.OnlyTeamError": "Dieser Befehl kann nur vom Bot-Team verwendet werden",
+    "errors.MemberNotFound": "Der Teilnehmer konnte nicht gefunden werden",
+    "errors.CommandOnCooldown.title": "Der Befehl liegt in der Warteschleife",
+    "errors.CommandOnCooldown.description": "Versuchen Sie es nach {delay} erneut.",
+    "errors.DisabledEconomy": "Das Sparsystem ist auf dem Server deaktiviert",
+    "errors.BotMissingPermissions": "The bot doesn't have enough rights"
+}

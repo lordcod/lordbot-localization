@@ -1,0 +1,9 @@
+{
+    "commands.command.withdraw.description": "Przekierowuje środki z banku z powrotem na twoje konto\n\nPamiętaj, że jeśli stracisz środki, nie możesz ich zwrócić",
+    "commands.command.withdraw.brief": "Tutarı hesaba geri aktarır",
+    "commands.command.withdraw.arguments.0": "<amount>",
+    "commands.command.withdraw.examples.0.use": "withdraw 100",
+    "commands.command.withdraw.examples.0.desc": "100 jetonu bankadan hesabınıza geri aktarır",
+    "commands.command.withdraw.examples.1.use": "withdraw all",
+    "commands.command.withdraw.examples.1.desc": "Bankadaki tüm paraları hesabınıza geri aktarır"
+}

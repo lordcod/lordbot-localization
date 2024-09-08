@@ -1,0 +1,10 @@
+{
+    "commands.command.take.description": "Seçilen katılımcıya belirli bir miktar alır\nKatılımcı seçilmezse, bunun yerine takım oyuncusu hareket eder",
+    "commands.command.take.brief": "Tutarı katılımcıya alır",
+    "commands.command.take.arguments.0": "[member]",
+    "commands.command.take.arguments.1": "<amount>",
+    "commands.command.take.examples.0.use": "take 100",
+    "commands.command.take.examples.0.desc": "100 jeton alır.",
+    "commands.command.take.examples.1.use": "take @lordcode 100",
+    "commands.command.take.examples.1.desc": "Üye lord kodunu 100 jeton alır."
+}

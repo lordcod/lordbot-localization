@@ -1,0 +1,12 @@
+{
+    "economy.shop.accept.title": "Роль #{number}",
+    "economy.shop.accept.description": "{description}・ Роль: <@&{role_id}>\n・Сумма: {amount}{emoji}\n・Предел покупок: {limit}",
+    "economy.shop.accept.success": "Вы завершили покупку роли <@&{role_id}>",
+    "economy.shop.error.already": "У вас уже есть эта роль!",
+    "economy.shop.error.limit": "Весь лимит исчерпан!",
+    "economy.shop.error.balance": "Ваш баланс должен быть больше чем {amount}{emoji}!",
+    "economy.shop.dropdown.placeholder": "Выберите элемент",
+    "economy.shop.embed.title": "Магазин предметов {name}",
+    "economy.shop.embed.description": "Выберите товар, который вы хотите купить.",
+    "economy.shop.embed.footer": "Страница {index}/{lenght}"
+}

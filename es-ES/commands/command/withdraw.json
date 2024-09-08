@@ -1,0 +1,9 @@
+{
+    "commands.command.withdraw.description": "Redirige sus fondos del banco a su cuenta\n\nTenga en cuenta que si pierde sus fondos, no es posible devolverlos",
+    "commands.command.withdraw.brief": "Transfiere el importe de vuelta a la cuenta",
+    "commands.command.withdraw.arguments.0": "<amount>",
+    "commands.command.withdraw.examples.0.use": "withdraw 100",
+    "commands.command.withdraw.examples.0.desc": "Transfiere 100 monedas del banco a su cuenta",
+    "commands.command.withdraw.examples.1.use": "withdraw all",
+    "commands.command.withdraw.examples.1.desc": "Transfiere todas las monedas del banco a su cuenta"
+}

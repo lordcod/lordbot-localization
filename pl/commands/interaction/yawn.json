@@ -1,0 +1,5 @@
+{
+    "commands.reactions.yawn.description": "Ziewać.",
+    "commands.reactions.yawn.user": "{author} yawns next to {user}, feeling sleepy or tired.",
+    "commands.reactions.yawn.not_user": "{author} yawns."
+}

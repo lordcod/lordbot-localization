@@ -1,0 +1,9 @@
+{
+    "commands.command.withdraw.description": "Перенаправляет ваши средства из банка обратно на ваш счет\n\nПожалуйста, обратите внимание, что если вы потеряете свои средства, вернуть их будет невозможно",
+    "commands.command.withdraw.brief": "Переводит сумму обратно на счет",
+    "commands.command.withdraw.arguments.0": "<сумма>",
+    "commands.command.withdraw.examples.0.use": "withdraw 100",
+    "commands.command.withdraw.examples.0.desc": "Переводит 100 монет из банка обратно на ваш счет",
+    "commands.command.withdraw.examples.1.use": "withdraw all",
+    "commands.command.withdraw.examples.1.desc": "Переводит все монеты из банка обратно на ваш счет"
+}

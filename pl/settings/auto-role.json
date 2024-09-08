@@ -1,0 +1,17 @@
+{
+    "settings.auto-role.button.install": "Zainstaluj role",
+    "settings.auto-role.button.delete": "Usuń role",
+    "settings.auto-role.placeholder": "Wybierz automatycznie przypisane role nowym członkom",
+    "settings.auto-role.embed.title": "Role automatyczne",
+    "settings.auto-role.embed.description": "Panel sterowania dla ról automatycznych.\nZ poziomu panelu możesz instalować, edytować, usuwać i przeglądać takie akcje.\nJeśli nie widzisz ról automatycznych, oznacza to, że nie zostały one wybrane!",
+    "settings.auto-role.embed.field": "Wybrane role:",
+    "settings.auto-role.button.delete_every": "Clear all roles",
+    "settings.auto-role.placeholder.select": "Select the roles to add",
+    "settings.auto-role.placeholder.remove": "Select the roles to delete",
+    "settings.auto-role.mods.every.label": "Everybody",
+    "settings.auto-role.mods.every.description": "Everyone will get roles",
+    "settings.auto-role.mods.human.label": "Members",
+    "settings.auto-role.mods.human.description": "Everyone will get roles except for apps",
+    "settings.auto-role.mods.bot.label": "Apps",
+    "settings.auto-role.mods.bot.description": "Only apps will receive roles"
+}

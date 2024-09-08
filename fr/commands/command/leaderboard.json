@@ -1,0 +1,4 @@
+{
+    "commands.command.leaderboard.description": "Affiche les statistiques des 10 meilleurs participants au serveur par solde",
+    "commands.command.leaderboard.brief": "Principaux participants au serveur par solde"
+}

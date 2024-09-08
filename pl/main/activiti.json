@@ -1,0 +1,7 @@
+{
+    "activiti.failed": "To działanie jest niedostępne lub nie działa",
+    "activiti.embed.title": "Działanie zostało pomyślnie utworzone!",
+    "activiti.embed.description": "Jednakże niektóre typy działań mogą nie być dostępne dla Twojego serwera, jeśli poziom wzmocnienia nie spełnia wymagań dotyczących aktywności.",
+    "activiti.fields.label": "Nazwa działania",
+    "activiti.fields.max-user": "Maksymalna liczba użytkowników"
+}

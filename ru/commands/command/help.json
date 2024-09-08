@@ -1,0 +1,7 @@
+{
+    "commands.command.help.description": "Команда, описывающая функции бота",
+    "commands.command.help.brief": "Текущая команда",
+    "commands.command.help.arguments.0": "[команда]",
+    "commands.command.help.examples.0.use": "help ping",
+    "commands.command.help.examples.0.desc": "Показывает справку о команде ping."
+}

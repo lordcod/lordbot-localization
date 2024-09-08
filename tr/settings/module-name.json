@@ -1,0 +1,18 @@
+{
+    "settings.module-name.economy": "Ekonomi",
+    "settings.module-name.languages": "Diller",
+    "settings.module-name.prefix": "Önek",
+    "settings.module-name.music": "Müzik",
+    "settings.module-name.color": "Sistem mesajlarının rengi",
+    "settings.module-name.reactions": "Otomatik Reaksiyonlar",
+    "settings.module-name.thread": "Bir başlıkta/gönderide otomatik mesaj",
+    "settings.module-name.command-permission": "Komut Ayarları",
+    "settings.module-name.ideas": "Fikirler",
+    "settings.module-name.welcomer": "Yeni üyelere hoş geldiniz",
+    "settings.module-name.auto-roles": "Otomatik roller",
+    "settings.module-name.role-reactions": "Reaksiyon Rolleri",
+    "settings.module-name.logs": "Changelog",
+    "settings.module-name.notification": "Notification",
+    "settings.module-name.tempvoice": "Temp Voice",
+    "settings.module-name.tickets": "Tickets"
+}

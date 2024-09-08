@@ -1,0 +1,4 @@
+{
+    "commands.command.ban list.description": "Udsender et ark med alle midlertidige forbud, der blev udstedt af botten",
+    "commands.command.ban list.brief": "Udsender et ark med alle midlertidige forbud, der blev udstedt af botten"
+}

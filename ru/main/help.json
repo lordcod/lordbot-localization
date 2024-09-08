@@ -1,0 +1,17 @@
+{
+    "help.title": "Справочная книга",
+    "help.arguments": "[Необязательно] | <Требуется>",
+    "help.command-embed.title": "Справка по команде `{name}`.",
+    "help.command-embed.info": "Информация",
+    "help.command-embed.category": "Категория: {category_emoji} `{category_name}`\n",
+    "help.command-embed.aliases": "Псевдонимы: {aliases}\n",
+    "help.command-embed.disable_command": "Могу ли я отключить это? **{value}**\n",
+    "help.command-embed.connection_disabled.0": "Нет",
+    "help.command-embed.connection_disabled.1": "Да",
+    "help.command-embed.using_command": "Используя: `{using}`\n",
+    "help.command-embed.example": "Пример №{number}",
+    "help.command-notfound.title": "Команда не найдена",
+    "help.command-notfound.description": "При поиске команды мы ее не нашли, посмотрите на нее еще раз в общем списке команд",
+    "help.command-invalid.title": "Команда недействительна",
+    "help.command-invalid.description": "Скорее всего, вы неправильно ввели название команды, возможно, оно содержит какие-то странные символы"
+}

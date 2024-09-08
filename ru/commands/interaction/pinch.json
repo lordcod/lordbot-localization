@@ -1,0 +1,4 @@
+{
+    "commands.reactions.pinch.description": "Щипать.",
+    "commands.reactions.pinch.user": "{author} остро пожимает {user}, выражая свое раздражение или недовольство."
+}

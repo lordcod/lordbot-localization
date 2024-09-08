@@ -1,0 +1,5 @@
+{
+    "basic.ping.description": "Opóźnienie Discorda: {discord_latency_ms}ms\nBazy Danych opóźnień: {databases_latency_ms}ms\nPrzetwarzanie poleceń: {command_latency_ms}ms\nid: {shard_id}",
+    "basic.avatar.description": "Awatar członka {member}",
+    "basic.invite.description": "[**Kliknij aby dodać do swojego serwera**]({invite_link})"
+}

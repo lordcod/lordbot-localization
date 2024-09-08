@@ -1,0 +1,5 @@
+{
+    "commands.reactions.smile.description": "Uśmiech.",
+    "commands.reactions.smile.user": "{author} friendly smiles at {user}, expressing joy and goodwill.",
+    "commands.reactions.smile.not_user": "{author} smiles."
+}

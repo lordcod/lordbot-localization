@@ -1,0 +1,12 @@
+{
+    "economy.shop.accept.title": "Rola #{number}",
+    "economy.shop.accept.description": "{description}・rola: <@&{role_id}>\n・wysokość: {amount}{emoji}\n・limit zakupów: {limit}",
+    "economy.shop.accept.success": "Zakup roli <@&{role_id}>",
+    "economy.shop.error.already": "Masz już tę rolę!",
+    "economy.shop.error.limit": "Cały limit jest wyczerpany!",
+    "economy.shop.error.balance": "Twoje saldo musi być większe niż {amount}{emoji}!",
+    "economy.shop.dropdown.placeholder": "Wybierz element",
+    "economy.shop.embed.title": "Sklep {name}",
+    "economy.shop.embed.description": "Wybierz produkt, który chcesz kupić.",
+    "economy.shop.embed.footer": "Strona {index}/{lenght}"
+}

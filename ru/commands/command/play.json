@@ -1,0 +1,9 @@
+{
+    "commands.command.play.description": "Начинает воспроизводиться музыка, установленная пользователем\nВ качестве облака с музыкой используется [**Яндекс Музыка**](<https://music.yandex.ru>)",
+    "commands.command.play.brief": "Начинает воспроизводиться музыка",
+    "commands.command.play.arguments.0": "<название/ссылка>",
+    "commands.command.play.examples.0.use": "play A Sky Full of Stars",
+    "commands.command.play.examples.0.desc": "Запустите поиск по песне `A Sky Full of Stars` и он предложит вам выбрать нужного автора.",
+    "commands.command.play.examples.1.use": "play https://music.yandex.ru/album/2207193/track/17646450",
+    "commands.command.play.examples.1.desc": "Запустите песню по указанной ссылке."
+}

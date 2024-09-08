@@ -1,0 +1,9 @@
+{
+    "commands.command.temp-role list.description": "Sunucu veya üye için geçici rollerin bir listesini sağlar.\n`member` belirtilmemişse, sunucudaki tüm geçici rollerin bir listesini gösterir.\nBelirtilirse, yalnızca katılımcıya ait olan rolleri gösterir.\nAtanan roller her zaman listede gösterilmez.",
+    "commands.command.temp-role list.brief": "Sunucu veya üye için geçici rollerin bir listesini sağlar",
+    "commands.command.temp-role list.arguments.0": "[member]",
+    "commands.command.temp-role list.examples.0.use": "temp-role list",
+    "commands.command.temp-role list.examples.0.desc": "Tüm geçici rolleri gösterir",
+    "commands.command.temp-role list.examples.1.use": "temp-role list @lordcode",
+    "commands.command.temp-role list.examples.1.desc": "Lordcode üyesine atanan tüm geçici rolleri gösterir"
+}

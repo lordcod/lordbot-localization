@@ -1,0 +1,5 @@
+{
+    "commands.reactions.nervous.description": "Нервничает.",
+    "commands.reactions.nervous.user": "{author} нервно ковыряет пальцы вместе с {user}, испытывая беспокойство.",
+    "commands.reactions.nervous.not_user": "{author} нервничает."
+}

@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "Das Team, um Blackjack zu spielen.Die Spieler sollten Wetten setzen und versuchen, 21 Punkte zu erzielen und den Händler auszuspielen.",
+    "commands.command.blackjack.brief": "Das Team, um Blackjack zu spielen.Die Spieler sollten Wetten setzen und versuchen, 21 Punkte zu erzielen und den Händler auszuspielen.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

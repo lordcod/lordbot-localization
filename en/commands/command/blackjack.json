@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "The team to start playing Blackjack.Players should put bets and try to score 21 points, playing out the dealer.",
+    "commands.command.blackjack.brief": "The team to start playing Blackjack.Players should put bets and try to score 21 points, playing out the dealer.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

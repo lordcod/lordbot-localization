@@ -1,0 +1,11 @@
+{
+    "commands.command.balance.description": "Muestra el saldo del participante, así como las posibles recompensas que se pueden cobrar\n\nSi no se especifica ningún participante, el valor lo toma quien inició el comando",
+    "commands.command.balance.brief": "Saldo del participante",
+    "commands.command.balance.arguments.0": "[member]",
+    "commands.command.balance.examples.0.use": "balance",
+    "commands.command.balance.examples.0.desc": "Muestra tu saldo",
+    "commands.command.balance.examples.1.use": "balance @lordcode",
+    "commands.command.balance.examples.1.desc": "Muestra el saldo del participante de Lordcode.",
+    "commands.command.balance.examples.2.use": "balance 636824998123798531",
+    "commands.command.balance.examples.2.desc": "Muestra el saldo del participante con id 636824998123798531"
+}

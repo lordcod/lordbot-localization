@@ -1,0 +1,5 @@
+{
+    "commands.reactions.blush.description": "Erröten.",
+    "commands.reactions.blush.user": "{author} blushes while looking at {user}, feeling tender emotions.",
+    "commands.reactions.blush.not_user": "{author} blushes."
+}

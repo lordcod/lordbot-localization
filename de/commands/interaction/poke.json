@@ -1,0 +1,4 @@
+{
+    "commands.reactions.poke.description": "Stupsen.",
+    "commands.reactions.poke.user": "{author} lightly pokes {user}, attracting attention."
+}

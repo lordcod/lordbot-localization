@@ -1,0 +1,8 @@
+{
+    "commands.command.purge user.description": "Rydder chatten et angivet antal gange, efter at den angivne bruger har sendt en besked.",
+    "commands.command.purge user.brief": "Rydder chatten et angivet antal gange, efter at den angivne bruger har sendt en besked.",
+    "commands.command.purge user.arguments.0": "<member>",
+    "commands.command.purge user.arguments.1": "<limit>",
+    "commands.command.purge user.examples.0.use": "purge user @lordcode 10",
+    "commands.command.purge user.examples.0.desc": "Ryd de sidste 10 beskeder sendt af lordcode-medlemmet i kanalen"
+}

@@ -1,0 +1,4 @@
+{
+    "commands.reactions.punch.description": "Schlagen.",
+    "commands.reactions.punch.user": "{author} strongly punches {user}, expressing rage or aggression."
+}

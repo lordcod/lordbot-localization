@@ -1,0 +1,5 @@
+{
+    "commands.reactions.surprised.description": "Şaşırmış.",
+    "commands.reactions.surprised.user": "{author} looks at {user} in surprise, feeling shock or amazement.",
+    "commands.reactions.surprised.not_user": "{author} is surprised."
+}

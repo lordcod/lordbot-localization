@@ -1,0 +1,5 @@
+{
+    "commands.reactions.cheers.description": "На здоровье.",
+    "commands.reactions.cheers.user": "{author} поднимает бокал в честь {user}, знаком приветствия и уважения.",
+    "commands.reactions.cheers.not_user": "{author} поднимает бокал."
+}

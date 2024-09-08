@@ -1,0 +1,6 @@
+{
+    "economy.pay.error.negative": "Укажите сумму больше **0**",
+    "economy.pay.error.unenough": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+    "economy.pay.success.title": "Перевод валюты",
+    "economy.pay.success.description": "**{author}** перевел {amount}{emoji} аккаунту **{member}**"
+}

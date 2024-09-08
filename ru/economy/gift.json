@@ -1,0 +1,5 @@
+{
+    "economy.gift.error.negative": "Сумма должна быть положительной",
+    "economy.gift.success.member": "Вы перевели сумму **{amount:,}**{emoji} **{member}**",
+    "economy.gift.success.role": "Вы перевели сумму **{amount:,}**{emoji} на счет игроков с ролью **@{role}**"
+}

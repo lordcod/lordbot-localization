@@ -1,0 +1,9 @@
+{
+    "commands.command.temp-role list.description": "Stellt eine Liste temporärer Rollen für den Server oder das Mitglied bereit.\nWenn `member` nicht angegeben ist, wird eine Liste aller temporären Rollen auf dem Server angezeigt.\nWenn angegeben, werden nur die Rollen angezeigt, die dem Teilnehmer gehören.\nDie zugewiesenen Rollen werden immer nicht in der Liste angezeigt.",
+    "commands.command.temp-role list.brief": "Stellt eine Liste temporärer Rollen für den Server oder das Mitglied bereit",
+    "commands.command.temp-role list.arguments.0": "[member]",
+    "commands.command.temp-role list.examples.0.use": "temp-role list",
+    "commands.command.temp-role list.examples.0.desc": "Zeigt alle temporären Rollen an",
+    "commands.command.temp-role list.examples.1.use": "temp-role list @lordcode",
+    "commands.command.temp-role list.examples.1.desc": "Zeigt alle temporären Rollen an, die dem Lordcode-Mitglied zugewiesen sind"
+}

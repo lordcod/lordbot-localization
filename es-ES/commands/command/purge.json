@@ -1,0 +1,7 @@
+{
+    "commands.command.purge.description": "Borra el chat el número especificado de veces",
+    "commands.command.purge.brief": "Borra el chat el número especificado de veces",
+    "commands.command.purge.arguments.0": "<limit>",
+    "commands.command.purge.examples.0.use": "purge 10",
+    "commands.command.purge.examples.0.desc": "Borrar los últimos 10 mensajes del canal."
+}

@@ -1,0 +1,9 @@
+{
+    "commands.command.temp-role list.description": "Proporciona una lista de roles temporales para el servidor o miembro .\nSi no se especifica `member`, muestra una lista de todos los roles temporales en el servidor.\nSi se especifica, muestra solo los roles que pertenecen al participante.\nLos roles asignados no siempre se muestran en la lista.",
+    "commands.command.temp-role list.brief": "Proporciona una lista de roles temporales para el servidor o miembro",
+    "commands.command.temp-role list.arguments.0": "[member]",
+    "commands.command.temp-role list.examples.0.use": "temp-role list",
+    "commands.command.temp-role list.examples.0.desc": "Muestra todos los roles temporales",
+    "commands.command.temp-role list.examples.1.use": "temp-role list @lordcode",
+    "commands.command.temp-role list.examples.1.desc": "Muestra todos los roles temporales asignados al miembro de Lordcode"
+}

@@ -1,0 +1,6 @@
+{
+    "settings.color.not-valid": "Onaltılı kod formatı yanlış",
+    "settings.color.title": "Sistem mesajlarının rengi",
+    "settings.color.description": "Komutları kullandığınızda bot, varsayılan olarak görünmez bir renge sahip ekleri görüntüler.\n\nRenginizi topluluğunuzun temasına göre ayarlayabilirsiniz.",
+    "settings.color.current": "Mevcut renk"
+}

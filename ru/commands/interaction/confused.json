@@ -1,0 +1,5 @@
+{
+    "commands.reactions.confused.description": "Смущенный.",
+    "commands.reactions.confused.user": "{author} с удивлением смотрит на {user}, не понимая что происходит.",
+    "commands.reactions.confused.not_user": "{author} озадачен."
+}

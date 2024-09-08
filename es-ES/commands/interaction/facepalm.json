@@ -1,0 +1,5 @@
+{
+    "commands.reactions.facepalm.description": "Palmada en la cara.",
+    "commands.reactions.facepalm.user": "{author} facepalms because of {user}, expressing disappointment or surprise.",
+    "commands.reactions.facepalm.not_user": "{author} facepalms."
+}

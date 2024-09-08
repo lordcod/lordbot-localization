@@ -1,0 +1,18 @@
+{
+    "settings.module-name.economy": "Økonomi",
+    "settings.module-name.languages": "Sprog",
+    "settings.module-name.prefix": "Præfiks",
+    "settings.module-name.music": "musik",
+    "settings.module-name.color": "Farve på systemmeddelelser",
+    "settings.module-name.reactions": "Auto reaktioner",
+    "settings.module-name.thread": "Automatisk besked i en tråd/indlæg",
+    "settings.module-name.command-permission": "Kommandoindstillinger",
+    "settings.module-name.ideas": "Ideer",
+    "settings.module-name.welcomer": "Velkommen til nye medlemmer",
+    "settings.module-name.auto-roles": "Automatiske roller",
+    "settings.module-name.role-reactions": "Reaktionsroller",
+    "settings.module-name.logs": "Ændringslog",
+    "settings.module-name.notification": "Notification",
+    "settings.module-name.tempvoice": "Temp Voice",
+    "settings.module-name.tickets": "Tickets"
+}

@@ -1,0 +1,8 @@
+{
+    "settings.set-reaction.modal.emoji": "Emoji",
+    "settings.set-reaction.modal.error": "You have entered an incorrect emoji",
+    "settings.set-reaction.button.use-modal": "Use modal",
+    "settings.set-reaction.content": "Set reaction!",
+    "settings.set-reaction.error.timeout": "You didn't have time to specify the emoji, use the interaction for",
+    "settings.set-reaction.error.located": "Unfortunately I can't use this emoji check that I am on the server where this emoji is located"
+}

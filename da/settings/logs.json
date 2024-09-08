@@ -1,0 +1,23 @@
+{
+    "settings.logs.channel": "Select the channel to which the logs will be sent",
+    "settings.logs.set-channel": "Select the channel you want to change",
+    "settings.logs.type": "Select the type of logs",
+    "settings.logs.embed.title": "System logs",
+    "settings.logs.embed.description": "Depending on the system settings, system logs may contain different levels of information detail. This allows administrators to customize the level of log detail in accordance with security and audit requirements.",
+    "settings.logs.items.delete_message.title": "Deleting a message",
+    "settings.logs.items.delete_message.description": "The log contains information about all deleted messages in the system. It helps you keep track of who deleted a message and when, and provides transparency about deleted data.",
+    "settings.logs.items.edit_message.title": "Editing a message",
+    "settings.logs.items.edit_message.description": "The log contains information about all messages that were changed after sending. It provides the ability to view the history of changes to messages, which is useful for monitoring the integrity of communication.",
+    "settings.logs.items.punishment.title": "Violation of the rules and punishment",
+    "settings.logs.items.punishment.description": "The log includes information about the penalties applied in response to violations of the rules. It helps to maintain order and discipline in the system, ensuring fairness and consistency in the application of disciplinary measures.",
+    "settings.logs.items.economy.title": "Transaction or changes in the economy",
+    "settings.logs.items.economy.description": "The log reflects all transactions and changes in the economy of the system. It provides information about all financial transactions that have occurred in the system and helps to track cash flows and changes in the economic situation.",
+    "settings.logs.items.ideas.title": "Suggestion or idea",
+    "settings.logs.items.ideas.description": "The log contains information about all the proposed ideas and proposals that were considered in the system. It helps to track the process of developing ideas and making decisions based on suggestions from participants.",
+    "settings.logs.items.voice_state.title": "Voice state",
+    "settings.logs.items.voice_state.description": "The log contains information about the entry, exit, and movement of the user in the troops.",
+    "settings.logs.items.tickets.title": "Tickets",
+    "settings.logs.items.tickets.description": "Creating, closing, deleting, reopen all this contains the ticket log",
+    "settings.logs.items.roles.title": "Roles",
+    "settings.logs.items.roles.description": "The issuance and withdrawal of roles is contained in the log"
+}

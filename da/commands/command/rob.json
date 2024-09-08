@@ -1,0 +1,5 @@
+{
+    "commands.command.rob.description": "Et hold til at udføre tyveri af penge fra en anden spillers balance, med risikoen for at få bøder eller gå i fængsel.",
+    "commands.command.rob.brief": "Et hold til at udføre tyveri af penge fra en anden spillers balance, med risikoen for at få bøder eller gå i fængsel.",
+    "commands.command.rob.arguments.0": "<member>"
+}

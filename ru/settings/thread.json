@@ -1,0 +1,17 @@
+{
+    "settings.thread.init.title": "Автоматические сообщения в форумах/темах",
+    "settings.thread.init.brief": "Автоматические сообщения",
+    "settings.thread.init.description": "Добавляйте или изменяйте свои автоматические сообщения в форумах /темах",
+    "settings.thread.init.placeholder": "Настройки авто сообщений в ветках/форумах:",
+    "settings.thread.init.channel": "Канал: {channel}",
+    "settings.thread.addptional.button.install-mes": "Сообщение об установке",
+    "settings.thread.addptional.channel-error": "На этом канале уже установлены автоматические сообщения",
+    "settings.thread.addptional.placeholder": "Выберите канал для автоматической рассылки сообщений",
+    "settings.thread.thread.mes-not-found": "Сообщение не найдено",
+    "settings.thread.thread.button.view": "Просмотреть сообщение",
+    "settings.thread.thread.button.edit": "Редактировать сообщение",
+    "settings.thread.thread.button.delete": "Удалить сообщение",
+    "settings.thread.modal.label": "Сообщение:",
+    "settings.thread.modal.title": "Автоматические сообщения",
+    "settings.thread.modal.placeholder": "Вы также можете использовать embedded-builder"
+}

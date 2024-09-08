@@ -1,0 +1,17 @@
+{
+    "settings.thread.init.title": "Forumlarda/konularda otomatik mesajlar",
+    "settings.thread.init.brief": "Otomatik mesajlar",
+    "settings.thread.init.description": "Forumlara/konulara otomatik gönderilerinizi ekleyin veya değiştirin",
+    "settings.thread.init.placeholder": "Şubelerde/forumlarda otomatik mesaj ayarları:",
+    "settings.thread.init.channel": "Kanal: {channel}",
+    "settings.thread.addptional.button.install-mes": "Mesajı yükle",
+    "settings.thread.addptional.channel-error": "Bu kanala otomatik mesajlar zaten yüklendi",
+    "settings.thread.addptional.placeholder": "Otomatik mesajlar için bir kanal seçin",
+    "settings.thread.thread.mes-not-found": "Mesaj bulunamadı",
+    "settings.thread.thread.button.view": "Mesajı görüntüle",
+    "settings.thread.thread.button.edit": "Mesajı düzenleme",
+    "settings.thread.thread.button.delete": "Mesajı silme",
+    "settings.thread.modal.label": "İleti:",
+    "settings.thread.modal.title": "Otomatik mesajlar",
+    "settings.thread.modal.placeholder": "Embed-builder'ı da kullanabilirsiniz"
+}

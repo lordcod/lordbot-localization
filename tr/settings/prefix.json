@@ -1,0 +1,5 @@
+{
+    "settings.prefix.title": "Önek",
+    "settings.prefix.description": "Komutu çağırırken botun yanıt vereceği öneki ayarlama.",
+    "settings.prefix.current": "Geçerli önek: {prefix}"
+}

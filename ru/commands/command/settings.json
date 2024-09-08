@@ -1,0 +1,4 @@
+{
+    "commands.command.settings.description": "Открывает специальные настройки управления ботом, а также его расширения",
+    "commands.command.settings.brief": "Открывает настройки бота"
+}

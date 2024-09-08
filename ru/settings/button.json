@@ -1,0 +1,21 @@
+{
+    "settings.button.back": "Назад",
+    "settings.button.edit": "Редактировать",
+    "settings.button.reset": "Сброс",
+    "settings.button.add": "Добавь",
+    "settings.button.delete": "Удалить",
+    "settings.button.accept": "Принять",
+    "settings.button.create": "Создать",
+    "settings.button.disable": "Выключить",
+    "settings.button.enable": "Включить",
+    "settings.button.set": "Назначить",
+    "settings.button.preview_message": "Предпросмотр сообщения",
+    "settings.button.change_message": "Изменить сообщение",
+    "settings.button.change_username": "Изменить имя пользователя",
+    "settings.button.confirm": "Подтвердить",
+    "settings.button.select": "Выбрать",
+    "settings.button.preview": "Показать",
+    "settings.button.remove": "Удалить",
+    "settings.button.clear": "Очистить",
+    "settings.button.delete_with_chls": "Удалить c каналами"
+}

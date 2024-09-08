@@ -1,0 +1,5 @@
+{
+    "commands.reactions.laugh.description": "Смех.",
+    "commands.reactions.laugh.user": "{author} смеется с {user}, испытывая радость и веселье.",
+    "commands.reactions.laugh.not_user": "{author} смеется."
+}

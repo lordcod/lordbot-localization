@@ -1,0 +1,17 @@
+{
+    "settings.music.title": "Muzyka",
+    "settings.music.max-queue-size.name": "największy rozmiar",
+    "settings.music.max-queue-size.description": "Maksymalna długość kolejki toru.",
+    "settings.music.max-queue-size.value": "Maksymalny rozmiar kolejki: {size}",
+    "settings.music.default-volume.name": "Domyślna objętość",
+    "settings.music.default-volume.description": "Domyślny tom muzyczny.",
+    "settings.music.default-volume.value": "Domyślna muzyka woluminów: {volume}",
+    "settings.music.dj-roles.failed": "Rola {role} nie można przypisać i służy do integracji lub przez bot.",
+    "settings.music.dj-roles.name": "Role DJ-a",
+    "settings.music.dj-roles.description": "Role, które mogą kontrolować muzykę.",
+    "settings.music.dj-roles.value": "Role DJ: {roles}",
+    "settings.music.description": "Moduł muzyczny umożliwia ustawienie maksymalnej długości kolejki, kontrolowanie głośności, przypisywanie ról DJ i tworzenie list odtwarzania.",
+    "settings.music.djroles.select": "> Wybierz role, które będą mogły dodawać i zmieniać muzykę",
+    "settings.music.max_size.select": "> Określ maksymalną długość kolejki",
+    "settings.music.volume.select": "> Określ domyślną głośność"
+}

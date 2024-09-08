@@ -1,0 +1,17 @@
+{
+    "settings.auto-role.button.install": "Rolleri yükle",
+    "settings.auto-role.button.delete": "Rolleri sil",
+    "settings.auto-role.placeholder": "Yeni üyeler için otomatik olarak atanan rolleri seçin",
+    "settings.auto-role.embed.title": "Otomatik roller",
+    "settings.auto-role.embed.description": "Otomatik roller için kontrol paneli.\nBu tür eylemleri panelden kurabilir, düzenleyebilir, silebilir ve görüntüleyebilirsiniz.\nOtomatik rolleri görmüyorsanız seçilmemişlerdir!",
+    "settings.auto-role.embed.field": "Seçilen roller:",
+    "settings.auto-role.button.delete_every": "Clear all roles",
+    "settings.auto-role.placeholder.select": "Select the roles to add",
+    "settings.auto-role.placeholder.remove": "Select the roles to delete",
+    "settings.auto-role.mods.every.label": "Everybody",
+    "settings.auto-role.mods.every.description": "Everyone will get roles",
+    "settings.auto-role.mods.human.label": "Members",
+    "settings.auto-role.mods.human.description": "Everyone will get roles except for apps",
+    "settings.auto-role.mods.bot.label": "Apps",
+    "settings.auto-role.mods.bot.description": "Only apps will receive roles"
+}

@@ -1,0 +1,11 @@
+{
+    "commands.command.balance.description": "Affiche le solde du participant ainsi que les éventuelles récompenses pouvant être collectées\n\nSi aucun participant n'est spécifié, la valeur est prise par celui qui a lancé la commande",
+    "commands.command.balance.brief": "Solde du participant",
+    "commands.command.balance.arguments.0": "[member]",
+    "commands.command.balance.examples.0.use": "balance",
+    "commands.command.balance.examples.0.desc": "Affiche votre solde",
+    "commands.command.balance.examples.1.use": "balance @lordcode",
+    "commands.command.balance.examples.1.desc": "Affiche le solde du participant Lordcode",
+    "commands.command.balance.examples.2.use": "balance 636824998123798531",
+    "commands.command.balance.examples.2.desc": "Affiche le solde du participant avec l'identifiant 636824998123798531"
+}

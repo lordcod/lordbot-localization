@@ -1,0 +1,7 @@
+{
+    "delcat.issue.title": "Es-tu sûr?",
+    "delcat.issue.description": "Cela supprimera en permanence la catégorie {category} et chaque canal à l'intérieur.",
+    "delcat.accept.title": "#{category} catégorie supprimée",
+    "delcat.accept.description": "Et aussi des canaux à distance {count} qui étaient dans la catégorie",
+    "delcat.cancel.title": "Suppression de catégorie annulée"
+}

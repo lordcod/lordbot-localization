@@ -1,0 +1,17 @@
+{
+    "help.title": "Książka pomocy",
+    "help.arguments": "[Opcjonalnie] | <Wymagane>",
+    "help.command-embed.title": "Pomoc dotycząca polecenia `{name}`.",
+    "help.command-embed.info": "Informacje",
+    "help.command-embed.category": "Kategoria: `category_emoji}{category_name}`\n",
+    "help.command-embed.aliases": "Aliasy: {aliases}\n",
+    "help.command-embed.disable_command": "Czy mogę to wyłączyć? **{value}**\n",
+    "help.command-embed.connection_disabled.0": "Nie",
+    "help.command-embed.connection_disabled.1": "Tak",
+    "help.command-embed.using_command": "Używanie: `{using}`\n",
+    "help.command-embed.example": "Przykład №{number}",
+    "help.command-notfound.title": "Nie znaleziono polecenia",
+    "help.command-notfound.description": "Szukając polecenia, nie znaleźliśmy go, spójrz na to ponownie na ogólnej liście poleceń",
+    "help.command-invalid.title": "Polecenie jest nieprawidłowe",
+    "help.command-invalid.description": "Najprawdopodobniej błędnie wpisałeś nazwę zespołu, być może zawiera ona jakieś dziwne znaki"
+}

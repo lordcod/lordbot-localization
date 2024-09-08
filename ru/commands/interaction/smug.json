@@ -1,0 +1,5 @@
+{
+    "commands.reactions.smug.description": "Заносчивый.",
+    "commands.reactions.smug.user": "{author} выглядит довольным рядом с {user}, испытывая гордость или удовлетворение.",
+    "commands.reactions.smug.not_user": "{author} выглядит довольным."
+}

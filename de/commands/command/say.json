@@ -1,0 +1,9 @@
+{
+    "commands.command.say.description": "Sendet eine Nachricht im Namen des Bots mit einem eindeutigen [**Einbettungsersteller *](<https://lordcord.fun/embed-builder>) oder Klartext",
+    "commands.command.say.brief": "Sendet eine Nachricht",
+    "commands.command.say.arguments.0": "<text/json>",
+    "commands.command.say.examples.0.use": "say Hello",
+    "commands.command.say.examples.0.desc": "Senden Sie „Hallo“ an den aktuellen Chat.",
+    "commands.command.say.examples.1.use": "say {\"title\": \"Hello\"}",
+    "commands.command.say.examples.1.desc": "Einbettung mit dem Titel „Hallo“ an den aktuellen Chat senden."
+}

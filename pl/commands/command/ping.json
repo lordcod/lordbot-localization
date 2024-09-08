@@ -1,0 +1,4 @@
+{
+    "commands.command.ping.description": "Pokazuje wydajność i aktualny stan bota",
+    "commands.command.ping.brief": "Aktualne opóźnienie bota"
+}

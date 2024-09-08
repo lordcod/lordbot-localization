@@ -1,0 +1,8 @@
+{
+    "tempban.title": "Temporary ban granted!",
+    "tempban.description": "Banned: {member} ({member_id})\nModerator: {author} ({author_id})",
+    "tempban.description.field.time": "Time of action",
+    "tempban.description.field.reason": "Reason",
+    "tempban.list.nf": "There are no registered temporary roles on this server",
+    "tempban.list.title": "Temp Bans"
+}

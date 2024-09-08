@@ -1,0 +1,4 @@
+{
+    "commands.reactions.handhold.description": "Взятие за руку.",
+    "commands.reactions.handhold.user": "{author} берет руку {user}, демонстрируя свою поддержку и привязанность."
+}

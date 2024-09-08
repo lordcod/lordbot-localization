@@ -1,0 +1,5 @@
+{
+    "commands.command.seek.description": "Con este comando, puede recuperar la pista hasta el tiempo que necesita en segundos, lo que le permite navegar con precisión hasta los momentos que le interesa. Especifique el número deseado de segundos que desea retroceder y disfrutar del momento seleccionado.",
+    "commands.command.seek.brief": "Con este comando, puede recuperar la pista hasta el tiempo que necesita en segundos, lo que le permite navegar con precisión hasta los momentos que le interesa. Especifique el número deseado de segundos que desea retroceder y disfrutar del momento seleccionado.",
+    "commands.command.seek.arguments.0": "<seconds>"
+}

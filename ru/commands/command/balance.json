@@ -1,0 +1,11 @@
+{
+    "commands.command.balance.description": "Отображает баланс участника, а также возможные вознаграждения, которые можно получить\n\nЕсли участник не указан, значение принимает тот, кто запустил команду",
+    "commands.command.balance.brief": "Баланс участника",
+    "commands.command.balance.arguments.0": "[участник]",
+    "commands.command.balance.examples.0.use": "balance",
+    "commands.command.balance.examples.0.desc": "Отображает ваш баланс",
+    "commands.command.balance.examples.1.use": "balance @lordcode",
+    "commands.command.balance.examples.1.desc": "Отображает баланс участника лордкода",
+    "commands.command.balance.examples.2.use": "balance 636824998123798531",
+    "commands.command.balance.examples.2.desc": "Отображает баланс участника с id 636824998123798531"
+}

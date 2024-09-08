@@ -1,0 +1,4 @@
+{
+    "commands.command.ban list.description": "Bot tarafından verilen tüm geçici yasakları içeren bir sayfa düzenler",
+    "commands.command.ban list.brief": "Bot tarafından verilen tüm geçici yasakları içeren bir sayfa düzenler"
+}

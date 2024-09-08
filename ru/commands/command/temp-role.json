@@ -1,0 +1,9 @@
+{
+    "commands.command.temp-role.description": "Добавляет роли определенному участнику на некоторое время или навсегда\nВы можете суммировать роли\nВремя указано в формате `1d1h1m1s` значения могут комбинироваться, а также дублироваться, например `1d2h1d`",
+    "commands.command.temp-role.brief": "Добавляет роли определенному участнику на некоторое время или навсегда",
+    "commands.command.temp-role.arguments.0": "<участник>",
+    "commands.command.temp-role.arguments.1": "<роль>",
+    "commands.command.temp-role.arguments.2": "<время>",
+    "commands.command.temp-role.examples.0.use": "temp-role @lordcode @role 12h",
+    "commands.command.temp-role.examples.0.desc": "Выдает участнику лордкод роль на 12 часов."
+}

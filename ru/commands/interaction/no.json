@@ -1,0 +1,5 @@
+{
+    "commands.reactions.no.description": "Нет.",
+    "commands.reactions.no.user": "{author} решительно отрицает {user}, выражая свое недовольство или несогласие.",
+    "commands.reactions.no.not_user": "{author} решительно отрицает."
+}

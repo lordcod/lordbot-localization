@@ -1,0 +1,14 @@
+{
+    "settings.reactions.init.title": "Автоматические реакции",
+    "settings.reactions.init.brief": "Автоматические реакции",
+    "settings.reactions.init.description": "Управление автоматическим добавлением реакций в каналы",
+    "settings.reactions.init.placeholder": "Настройки автоматической реакции:",
+    "settings.reactions.init.dddesc": "Канал: {channel}\nЭмодзи: {emojis}",
+    "settings.reactions.addres.channel-error": "На этом канале уже установлены автоматические реакции",
+    "settings.reactions.addres.placeholder": "Выберите канал для автоматической реакции",
+    "settings.reactions.addres.install-emoji": "Установите эмодзи",
+    "settings.reactions.modal.title": "Автоматическая реакция",
+    "settings.reactions.modal.label": "Эмодзи:",
+    "settings.reactions.button.delete": "Удалить реакцию",
+    "settings.reactions.button.edit": "Редактировать реакцию"
+}

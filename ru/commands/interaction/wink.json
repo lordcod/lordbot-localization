@@ -1,0 +1,4 @@
+{
+    "commands.reactions.wink.description": "Подмигивать.",
+    "commands.reactions.wink.user": "{author} подмигивает {user}, выражая свое одобрение или заинтересованность."
+}

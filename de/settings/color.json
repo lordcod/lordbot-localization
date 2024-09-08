@@ -1,0 +1,6 @@
+{
+    "settings.color.not-valid": "Das Hex-Code-Format ist falsch",
+    "settings.color.title": "Farbe der Systemmeldungen",
+    "settings.color.description": "Wenn Sie Befehle verwenden, zeigt der Bot standardmäßig Einfügungen mit einer unsichtbaren Farbe an.\n\nSie können Ihre Farbe entsprechend dem Thema Ihrer Community festlegen.",
+    "settings.color.current": "Aktuelle Farbe"
+}

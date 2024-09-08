@@ -1,0 +1,5 @@
+{
+    "basic.ping.description": "Задержка Discord:  {discord_latency_ms}мс\nЗадержка базы данных: {databases_latency_ms}мс\nЗадержка обработки команды: {command_latency_ms}мс\nСегмент: {shard_id}",
+    "basic.avatar.description": "Аватар участника {member}",
+    "basic.invite.description": "[**Нажмите, чтобы добавить на ваш сервер**]({invite_link})"
+}

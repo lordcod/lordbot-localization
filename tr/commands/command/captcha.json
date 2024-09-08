@@ -1,0 +1,4 @@
+{
+    "commands.command.captcha.description": "Kullanıcının captcha'yı çözmesi gereken metnin 30 saniye içinde şifrelendiği bir resmi gösterir",
+    "commands.command.captcha.brief": "Test komutu"
+}

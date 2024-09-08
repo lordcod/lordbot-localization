@@ -1,0 +1,11 @@
+{
+    "commands.command.balance.description": "Viser deltagerens balance samt mulige belønninger, der kan indsamles\n\nHvis der ikke er angivet nogen deltager, tages værdien af den, der startede kommandoen",
+    "commands.command.balance.brief": "Deltagerens balance",
+    "commands.command.balance.arguments.0": "[member]",
+    "commands.command.balance.examples.0.use": "balance",
+    "commands.command.balance.examples.0.desc": "Viser din balance",
+    "commands.command.balance.examples.1.use": "balance @lordcode",
+    "commands.command.balance.examples.1.desc": "Viser saldoen for lordcode-deltageren",
+    "commands.command.balance.examples.2.use": "balance 636824998123798531",
+    "commands.command.balance.examples.2.desc": "Viser saldoen for deltageren med id 636824998123798531"
+}

@@ -1,0 +1,17 @@
+{
+    "settings.auto-role.button.install": "Установка ролей",
+    "settings.auto-role.button.delete": "Удаление ролей",
+    "settings.auto-role.placeholder": "Выберите автоматически назначаемые роли для новых участников",
+    "settings.auto-role.embed.title": "Автоматические роли",
+    "settings.auto-role.embed.description": "Панель управления автоматическими ролями.\nВы можете устанавливать, редактировать, удалять и просматривать такие действия с панели.\nЕсли вы не видите автоматические роли, значит, они не выбраны!",
+    "settings.auto-role.embed.field": "Выбранные роли:",
+    "settings.auto-role.button.delete_every": "Очистить все роли",
+    "settings.auto-role.placeholder.select": "Выберите роли для добавления",
+    "settings.auto-role.placeholder.remove": "Выберите роли для удаления",
+    "settings.auto-role.mods.every.label": "Все",
+    "settings.auto-role.mods.every.description": "Все будут получать роли",
+    "settings.auto-role.mods.human.label": "Участники",
+    "settings.auto-role.mods.human.description": "Все будут получать роли, кроме приложений",
+    "settings.auto-role.mods.bot.label": "Приложения",
+    "settings.auto-role.mods.bot.description": "Только приложения будут получать роли"
+}

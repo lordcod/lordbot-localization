@@ -1,0 +1,5 @@
+{
+    "commands.reactions.facepalm.description": "Ладонь лица.",
+    "commands.reactions.facepalm.user": "{author} делает facepalm из-за {user}, выражая свое разочарование или удивление.",
+    "commands.reactions.facepalm.not_user": "{author} делает facepalm."
+}

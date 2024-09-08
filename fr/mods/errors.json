@@ -1,0 +1,18 @@
+{
+    "errors.MissingPermissions": "Vous n'avez pas assez de droits",
+    "errors.MissingRole": "Vous n'avez pas de rôle approprié pour exécuter la commande",
+    "errors.MissingChannel": "Vous ne pouvez pas exécuter cette commande dans ce canal",
+    "errors.NotOwner": "Cette commande est destinée au propriétaire du bot",
+    "errors.CommandNotFound": "Il n'existe pas une telle commande",
+    "errors.CheckFailure": "Vous ne remplissez pas toutes les conditions",
+    "errors.BadArgument": "Argument entré non valide",
+    "errors.DisabledCommand": "Cette commande est désactivée sur le serveur",
+    "errors.MissingRequiredArgument": "Vous n'avez pas saisi un argument obligatoire",
+    "errors.InactiveEconomy": "Le système d'économie est désactivé sur le serveur",
+    "errors.OnlyTeamError": "Cette commande ne peut être utilisée que par l'équipe du bot",
+    "errors.MemberNotFound": "Le participant n'a pas pu être trouvé",
+    "errors.CommandOnCooldown.title": "La commande est en attente",
+    "errors.CommandOnCooldown.description": "Réessayez après {delay}.",
+    "errors.DisabledEconomy": "Le système d'économie est désactivé sur le serveur",
+    "errors.BotMissingPermissions": "The bot doesn't have enough rights"
+}

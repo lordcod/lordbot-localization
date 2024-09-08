@@ -1,0 +1,7 @@
+{
+    "commands.command.help.description": "Ein Befehl, der die Funktionen des Bots beschreibt",
+    "commands.command.help.brief": "Aktueller Befehl",
+    "commands.command.help.arguments.0": "[command]",
+    "commands.command.help.examples.0.use": "help ping",
+    "commands.command.help.examples.0.desc": "Zeigt Hilfe zum Befehl „ping“."
+}

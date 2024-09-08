@@ -1,0 +1,21 @@
+{
+    "settings.button.back": "Atrás",
+    "settings.button.edit": "Editar",
+    "settings.button.reset": "Reiniciar",
+    "settings.button.add": "Agregar",
+    "settings.button.delete": "Eliminar",
+    "settings.button.accept": "Aceptar",
+    "settings.button.create": "Crear",
+    "settings.button.disable": "Desactivar",
+    "settings.button.enable": "Activar",
+    "settings.button.set": "Fijar",
+    "settings.button.preview_message": "Ver mensaje",
+    "settings.button.change_message": "Cambiar mensaje",
+    "settings.button.change_username": "Cambiar nombre de usuario",
+    "settings.button.confirm": "Confirmar",
+    "settings.button.select": "Seleccionar",
+    "settings.button.preview": "View",
+    "settings.button.remove": "Remove",
+    "settings.button.clear": "Clear",
+    "settings.button.delete_with_chls": "Delete with channels"
+}

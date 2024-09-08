@@ -1,0 +1,5 @@
+{
+    "commands.command.seek.description": "Dzięki temu poleceniu możesz przewijać utwór do czasu potrzebnego w sekundach, co pozwala dokładnie przejść do momentów, które Cię interesuje. Podaj pożądaną liczbę sekund, które chcesz przewidzieć i cieszyć się wybraną chwilą.",
+    "commands.command.seek.brief": "Dzięki temu poleceniu możesz przewijać utwór do czasu potrzebnego w sekundach, co pozwala dokładnie przejść do momentów, które Cię interesuje. Podaj pożądaną liczbę sekund, które chcesz przewidzieć i cieszyć się wybraną chwilą.",
+    "commands.command.seek.arguments.0": "<seconds>"
+}

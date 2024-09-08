@@ -1,0 +1,5 @@
+{
+    "commands.command.roulette.description": "Et hold til at spille roulette.Spillere lægger deres chips på tal eller farver og forventer, hvor bolden stopper.",
+    "commands.command.roulette.brief": "Et hold til at spille roulette.Spillere lægger deres chips på tal eller farver og forventer, hvor bolden stopper.",
+    "commands.command.roulette.arguments.0": "<amount>"
+}

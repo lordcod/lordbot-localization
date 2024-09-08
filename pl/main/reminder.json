@@ -1,0 +1,7 @@
+{
+    "reminder.error.time": "Musisz określić czas, który jest późniejszy niż aktualny czas.",
+    "reminder.success": "🛎️ OK, wspomnę cię tutaj na <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
+    "reminder.embed.title": "🛎️ Przypomnienie",
+    "reminder.embed.description": "{time} temu poprosiłeś mnie o przypomnienie",
+    "reminder.embed.field": "Przypomnienie"
+}

@@ -1,0 +1,5 @@
+{
+    "commands.reactions.shy.description": "Nieśmiały.",
+    "commands.reactions.shy.user": "{author} shyly smiles at {user}, feeling embarrassed.",
+    "commands.reactions.shy.not_user": "{author} is shy."
+}

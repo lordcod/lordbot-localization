@@ -1,0 +1,15 @@
+{
+    "economy.roulette.error.invalid": "Wprowadzono nieprawidłową wartość dla gry roulette, użyj polecenia `{prefix}help roulette` aby dowiedzieć się o argumentach",
+    "economy.roulette.error.negative": "Określ kwotę więcej **0**",
+    "economy.roulette.error.unenough": "Zbyt mało środków, aby sprawdzić swoje saldo 'Saldo{prefix}'",
+    "economy.roulette.error.limit": "Twój zakład nie jest uwzględniony w limitach\nMaksymalna oferta: {max_bet}{emoji}\nMinimalna oferta: {min_bet}{emoji}\nTwoja oferta: {amount}{emoji}",
+    "economy.roulette.game.title": "Rozpoczęto nową grę ruletta!",
+    "economy.roulette.game.description": "**{member}** złożył zakład **{amount}**{emoji} na **{value}**",
+    "economy.roulette.game.footer": "Pozostały czas: 10 sekund po każdym kupiecie (maksymalnie 1 minuta)",
+    "economy.roulette.game.goto": "Gra już się rozpoczęła, [idź do gry]({url})",
+    "economy.roulette.game.result.win": "**{member}** wygrała **{amount:,}**{emoji}",
+    "economy.roulette.game.result.lost": "**{member}** wygrała **{amount:,}**{emoji}",
+    "economy.roulette.game.result.ball": "Piłka wylądowała na **{win_color} {ran}**",
+    "economy.roulette.game.result.wins.success": "** Wygrane{wins}** a ich całkowita nagroda to **{ilość:{\\\\,}**{emoji}",
+    "economy.roulette.game.result.wins.failed": "Niestety nie ma zwycięzców"
+}

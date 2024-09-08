@@ -1,0 +1,5 @@
+{
+    "bot-info.title": "{name} this is a multifunctional bot",
+    "bot-info.description": "The bot is designed to facilitate server management and is equipped with various automation tool\nServer prefix: `{prefix}`",
+    "bot-info.assembly": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)"
+}

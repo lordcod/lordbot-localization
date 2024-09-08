@@ -1,0 +1,5 @@
+{
+    "commands.reactions.yawn.description": "Зевота.",
+    "commands.reactions.yawn.user": "{author} зевает рядом с {user}, испытывая сонливость или усталость.",
+    "commands.reactions.yawn.not_user": "{author} зевает."
+}

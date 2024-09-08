@@ -1,0 +1,4 @@
+{
+    "commands.reactions.bite.description": "Beißen.",
+    "commands.reactions.bite.user": "{author} gently bit {user}, showing their affection."
+}

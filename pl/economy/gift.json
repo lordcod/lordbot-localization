@@ -1,0 +1,5 @@
+{
+    "economy.gift.error.negative": "Kwota musi być dodatnia",
+    "economy.gift.success.member": "Przeniosłeś kwotę **{amount:{\\\\,}**{emoji} na **{member}**",
+    "economy.gift.success.role": "Przeniosłeś kwotę **{amount:,}**{emoji} na konto graczy z rolą **@{role}**"
+}

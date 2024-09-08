@@ -1,0 +1,9 @@
+{
+    "commands.command.deposit.description": "Переводит введенную сумму денег в банк, защищая ваши средства от ограбления",
+    "commands.command.deposit.brief": "Переводит введенную сумму денег в банк",
+    "commands.command.deposit.arguments.0": "<сумма>",
+    "commands.command.deposit.examples.0.use": "deposit 100",
+    "commands.command.deposit.examples.0.desc": "Переводит 100 монет в банк",
+    "commands.command.deposit.examples.1.use": "deposit all",
+    "commands.command.deposit.examples.1.desc": "Переносит все монеты в банк"
+}

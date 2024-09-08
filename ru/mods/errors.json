@@ -1,0 +1,18 @@
+{
+    "errors.MissingPermissions": "У тебя недостаточно прав",
+    "errors.MissingRole": "У вас нет подходящей роли для выполнения команды",
+    "errors.MissingChannel": "Вы не можете выполнить эту команду в этом канале",
+    "errors.NotOwner": "Эта команда предназначена для владельца бота",
+    "errors.CommandNotFound": "Такой команды не существует",
+    "errors.CheckFailure": "Вы не выполняете всех условий",
+    "errors.BadArgument": "Введен недопустимый аргумент",
+    "errors.DisabledCommand": "Эта команда отключена на сервере",
+    "errors.MissingRequiredArgument": "Вы не ввели обязательный аргумент",
+    "errors.InactiveEconomy": "Система экономии на сервере отключена",
+    "errors.OnlyTeamError": "Эта команда может быть использована только командой бота",
+    "errors.MemberNotFound": "Не удалось найти участника",
+    "errors.CommandOnCooldown.title": "Команда находится в режиме ожидания",
+    "errors.CommandOnCooldown.description": "Повторите попытку после {delay}.",
+    "errors.DisabledEconomy": "Система экономии на сервере отключена",
+    "errors.BotMissingPermissions": "У бота недостаточно прав"
+}

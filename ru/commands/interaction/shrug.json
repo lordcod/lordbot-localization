@@ -1,0 +1,5 @@
+{
+    "commands.reactions.shrug.description": "Пожимать плечами.",
+    "commands.reactions.shrug.user": "{author} пожимает плечами в ответ на {user}, выражая свое непонимание или безразличие.",
+    "commands.reactions.shrug.not_user": "{author} пожимает плечами."
+}

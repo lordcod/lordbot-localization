@@ -1,0 +1,8 @@
+{
+    "commands.command.reminder.description": "Det minder dig om den specificerede tekst på et bestemt tidspunkt",
+    "commands.command.reminder.brief": "Det minder dig om den specificerede tekst på et bestemt tidspunkt",
+    "commands.command.reminder.arguments.0": "<tid>",
+    "commands.command.reminder.arguments.1": "<tekst>",
+    "commands.command.reminder.examples.0.use": "reminder 14d daily reward",
+    "commands.command.reminder.examples.0.desc": "At minde dig efter 14 dage om den daglige belønning"
+}

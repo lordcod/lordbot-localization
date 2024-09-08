@@ -1,0 +1,10 @@
+{
+    "commands.command.pay.description": "Belirtilen tutarı seçilen katılımcıya aktarır",
+    "commands.command.pay.brief": "Para transferi",
+    "commands.command.pay.arguments.0": "<member>",
+    "commands.command.pay.arguments.1": "<amount>",
+    "commands.command.pay.examples.0.use": "pay @lordcode 100",
+    "commands.command.pay.examples.0.desc": "Lordcode katılımcısının hesabına 100 jeton aktarır",
+    "commands.command.pay.examples.1.use": "pay 636824998123798531 100",
+    "commands.command.pay.examples.1.desc": "636824998123798531 numaralı kimlikten katılımcının hesabına 100 jeton aktarılır"
+}

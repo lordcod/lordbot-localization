@@ -1,0 +1,6 @@
+{
+    "settings.start.title": "Konfiguracja modułów bota.",
+    "settings.start.choose": "Wybierz ustawienia...",
+    "settings.start.description": "Skorzystaj z rozwijanego menu wyboru, aby skonfigurować serwer.",
+    "settings.start.request": "Prośba od: {name}"
+}

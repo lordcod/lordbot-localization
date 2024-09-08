@@ -1,0 +1,7 @@
+{
+    "delcat.issue.title": "Bist du sicher?",
+    "delcat.issue.description": "Dadurch wird die Kategorie {category} und jeden Kanal darin dauerhaft gelöscht.",
+    "delcat.accept.title": "#{category} Kategorie gelöscht",
+    "delcat.accept.description": "Und auch remote {count} -Kanäle, die in der Kategorie waren",
+    "delcat.cancel.title": "Kategorie Deletion Storniert"
+}

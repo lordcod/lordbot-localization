@@ -1,0 +1,4 @@
+{
+    "commands.command.ban list.description": "Emite una hoja con todas las prohibiciones temporales emitidas por el bot.",
+    "commands.command.ban list.brief": "Emite una hoja con todas las prohibiciones temporales emitidas por el bot."
+}

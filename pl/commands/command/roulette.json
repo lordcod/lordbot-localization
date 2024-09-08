@@ -1,0 +1,5 @@
+{
+    "commands.command.roulette.description": "Drużyna do gry w ruletkę.Gracze umieszczają układy na liczbach lub kolorach i oczekują, gdzie piłka się zatrzyma.",
+    "commands.command.roulette.brief": "Drużyna do gry w ruletkę.Gracze umieszczają układy na liczbach lub kolorach i oczekują, gdzie piłka się zatrzyma.",
+    "commands.command.roulette.arguments.0": "<amount>"
+}

@@ -1,0 +1,5 @@
+{
+    "commands.reactions.yay.description": "Ура.",
+    "commands.reactions.yay.user": "{author} восклицает 'Ура!' вместе с {user}, выражая свою радость и веселье.",
+    "commands.reactions.yay.not_user": "{author} восклицает 'Ура!'"
+}

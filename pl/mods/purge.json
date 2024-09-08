@@ -1,0 +1,5 @@
+{
+    "purge.error.limit": "Maksymalna liczba wiadomości do usunięcia to `250`",
+    "purge.error.channel": "Aby skorzystać z tego, musisz wybrać wiadomości w jednym kanale.",
+    "purge.success": "Usunięto wiadomo(-y) {lenght}"
+}

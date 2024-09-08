@@ -1,0 +1,5 @@
+{
+    "commands.reactions.sad.description": "Traurig.",
+    "commands.reactions.sad.user": "{author} looks sadly at {user}, expressing sadness or longing.",
+    "commands.reactions.sad.not_user": "{author} is sad."
+}

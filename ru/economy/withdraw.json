@@ -1,0 +1,6 @@
+{
+    "economy.withdraw.error.negative": "Укажите сумму больше **0**",
+    "economy.withdraw.error.unenough": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+    "economy.withdraw.success.title": "Перевод валюты",
+    "economy.withdraw.success.description": "Вы перевели **{amount:,}**{emoji}  на свой счет"
+}

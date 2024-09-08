@@ -1,0 +1,11 @@
+{
+    "commands.command.interactions.description": "El comando 'reactions' te permite usar varias reacciones para expresar emociones y respuestas de personajes. Aquí encontrarás una amplia gama de acciones, desde simples sonrisas y abrazos hasta reacciones más expresivas como gritar, morder o incluso un gracioso estornudo. Usa estas reacciones para agregar profundidad y vivacidad a tus escenas de juego de roles o comunicación con otros participantes en el chat. Sumérgete en el mundo de emociones y expresiones disponibles a través del comando 'reactions'.",
+    "commands.command.interactions.brief": "El comando 'reactions' ofrece una amplia gama de reacciones emocionales para enriquecer su comunicación. Expresa tus sentimientos desde la alegría hasta la ira con diversos gestos y expresiones faciales.",
+    "commands.command.interactions.arguments.0": "<tipo_de_reacción>",
+    "commands.command.interactions.arguments.1": "[usuario]",
+    "commands.command.interactions.arguments.2": "[comentario]",
+    "commands.command.interactions.examples.0.use": "reactions kiss @lordcode",
+    "commands.command.interactions.examples.0.desc": "Envía un mensaje sobre los besos del participante @lordcode",
+    "commands.command.interactions.examples.1.use": "reactions blush",
+    "commands.command.interactions.examples.1.desc": "Mostrará que estás sonrojando"
+}

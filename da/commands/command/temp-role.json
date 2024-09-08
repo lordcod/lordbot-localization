@@ -1,0 +1,9 @@
+{
+    "commands.command.temp-role.description": "Tilføjer roller til en bestemt deltager i et stykke tid eller for evigt\nDu kan opsummere rollerne\nTiden er angivet i formatet '1d1h1m1s' værdierne kan kombineres og også duplikeres, for eksempel `1d2h1d`",
+    "commands.command.temp-role.brief": "Tilføjer roller til en bestemt deltager i et stykke tid eller for evigt",
+    "commands.command.temp-role.arguments.0": "<member>",
+    "commands.command.temp-role.arguments.1": "<role>",
+    "commands.command.temp-role.arguments.2": "<time>",
+    "commands.command.temp-role.examples.0.use": "temp-role @lordcode @role 12h",
+    "commands.command.temp-role.examples.0.desc": "Uddeler rollen som rolle i 12 timer til deltagerens herrekode."
+}

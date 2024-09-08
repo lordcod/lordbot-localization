@@ -1,0 +1,11 @@
+{
+    "commands.command.balance.description": "Katılımcının bakiyesini ve toplanabilecek olası ödülleri görüntüler\n\nKatılımcı belirtilmezse, değer komutu başlatan kişi tarafından alınır",
+    "commands.command.balance.brief": "Katılımcının bakiyesi",
+    "commands.command.balance.arguments.0": "[member]",
+    "commands.command.balance.examples.0.use": "balance",
+    "commands.command.balance.examples.0.desc": "Bakiyenizi görüntüler",
+    "commands.command.balance.examples.1.use": "balance @lordcode",
+    "commands.command.balance.examples.1.desc": "Lordcode katılımcısının bakiyesini görüntüler",
+    "commands.command.balance.examples.2.use": "balance 636824998123798531",
+    "commands.command.balance.examples.2.desc": "636824998123798531 kimliğine sahip katılımcının bakiyesini görüntüler"
+}

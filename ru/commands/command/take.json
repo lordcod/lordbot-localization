@@ -1,0 +1,10 @@
+{
+    "commands.command.take.description": "Выплачивает определенную сумму выбранному участнику\nЕсли участник не выбран, вместо него действует исполнитель команды",
+    "commands.command.take.brief": "Забирает сумму у участнику",
+    "commands.command.take.arguments.0": "[участник]",
+    "commands.command.take.arguments.1": "<сумма>",
+    "commands.command.take.examples.0.use": "take 100",
+    "commands.command.take.examples.0.desc": "Берет с вас 100 монет.",
+    "commands.command.take.examples.1.use": "take @lordcode 100",
+    "commands.command.take.examples.1.desc": "Берет члена лорд-кода 100 монет."
+}

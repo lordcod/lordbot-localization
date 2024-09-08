@@ -1,0 +1,5 @@
+{
+    "commands.reactions.stare.description": "Посмотреть.",
+    "commands.reactions.stare.user": "{author} смотрит на {user} с вниманием и интересом, ожидая ответа.",
+    "commands.reactions.stare.not_user": "{author} смотрит внимательно."
+}

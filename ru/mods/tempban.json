@@ -1,0 +1,8 @@
+{
+    "tempban.title": "Временный бан предоставлен!",
+    "tempban.description": "Бабанин: {member} ({member_id})\nМодератор: {author} ({author_id})",
+    "tempban.description.field.time": "Время действия",
+    "tempban.description.field.reason": "Причина",
+    "tempban.list.nf": "На этом сервере нет зарегистрированных временных ролей",
+    "tempban.list.title": "Временные баны"
+}

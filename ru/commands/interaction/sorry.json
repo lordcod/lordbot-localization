@@ -1,0 +1,4 @@
+{
+    "commands.reactions.sorry.description": "Прости.",
+    "commands.reactions.sorry.user": "{author} извиняется перед {user}, выражая свое сожаление и раскаяние."
+}

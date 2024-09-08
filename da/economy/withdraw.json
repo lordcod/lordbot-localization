@@ -1,0 +1,6 @@
+{
+    "economy.withdraw.error.negative": "Specify the amount more **0**",
+    "economy.withdraw.error.unenough": "Not enough funds to check your bank balance use `{prefix}balance`",
+    "economy.withdraw.success.title": "Transfer of currency",
+    "economy.withdraw.success.description": "You have transferred **{amount:,}**{emoji}  to the account"
+}

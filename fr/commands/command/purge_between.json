@@ -1,0 +1,10 @@
+{
+    "commands.command.purge between.description": "Efface le chat entre les messages",
+    "commands.command.purge between.brief": "Efface le chat entre les messages",
+    "commands.command.purge between.arguments.0": "<message_start>",
+    "commands.command.purge between.arguments.1": "[message_stop]",
+    "commands.command.purge between.examples.0.use": "purge between 1214583337776320524 1214584228889497610",
+    "commands.command.purge between.examples.0.desc": "Efface le chat entre le message 12145833337776320524 et 1214584228889497610",
+    "commands.command.purge between.examples.1.use": "purge between 1214583337776320524",
+    "commands.command.purge between.examples.1.desc": "Efface le chat du message 1214583337776320524 au message actuel"
+}

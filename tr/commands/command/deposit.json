@@ -1,0 +1,9 @@
+{
+    "commands.command.deposit.description": "Girilen para miktarını, paranızı soygundan koruyan bankaya aktarır",
+    "commands.command.deposit.brief": "Girilen para miktarını bankaya aktarır",
+    "commands.command.deposit.arguments.0": "<amount>",
+    "commands.command.deposit.examples.0.use": "deposit 100",
+    "commands.command.deposit.examples.0.desc": "Bankaya 100 jeton aktarır",
+    "commands.command.deposit.examples.1.use": "deposit all",
+    "commands.command.deposit.examples.1.desc": "Tüm paraları bankaya aktarır"
+}

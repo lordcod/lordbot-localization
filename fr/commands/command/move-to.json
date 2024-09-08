@@ -1,0 +1,7 @@
+{
+    "commands.command.move-to.description": "Passera à la piste dans la file d'attente",
+    "commands.command.move-to.brief": "Passera à la piste dans la file d'attente",
+    "commands.command.move-to.arguments.0": "<indice>",
+    "commands.command.move-to.examples.0.use": "move 5",
+    "commands.command.move-to.examples.0.desc": "Commencera à produire 5 pistes dans la file d'attente"
+}

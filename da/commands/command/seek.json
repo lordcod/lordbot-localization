@@ -1,0 +1,5 @@
+{
+    "commands.command.seek.description": "Med denne kommando kan du spole sporet tilbage til det tidspunkt, du har brug for på få sekunder, hvilket giver dig mulighed for nøjagtigt at navigere til de øjeblikke, du er interesseret i. Angiv det ønskede antal sekunder, du vil spole tilbage og nyde det valgte øjeblik.",
+    "commands.command.seek.brief": "Med denne kommando kan du spole sporet tilbage til det tidspunkt, du har brug for på få sekunder, hvilket giver dig mulighed for nøjagtigt at navigere til de øjeblikke, du er interesseret i. Angiv det ønskede antal sekunder, du vil spole tilbage og nyde det valgte øjeblik.",
+    "commands.command.seek.arguments.0": "<seconds>"
+}

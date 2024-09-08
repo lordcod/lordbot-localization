@@ -1,0 +1,4 @@
+{
+    "commands.reactions.tickle.description": "Ласкать.",
+    "commands.reactions.tickle.user": "{author} щекочет {user}, вызывая смех и веселье."
+}

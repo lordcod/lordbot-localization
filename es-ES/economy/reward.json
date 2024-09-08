@@ -1,0 +1,7 @@
+{
+    "economy.reward.error.unspecified": "Desafortunadamente, esta recompensa no está disponible si usted es el administrador del servidor cambia la recompensa",
+    "economy.reward.error.early.title": "La recompensa no está disponible",
+    "economy.reward.error.early.description": "Inténtalo de nuevo después de <t:{reward_time:.0f}:R>",
+    "economy.reward.success.title": "Ha recibido un regalo",
+    "economy.reward.success.description": "En tamaño {award}{emoji} atraviesa <t:{wait_long:.0f}:R>"
+}

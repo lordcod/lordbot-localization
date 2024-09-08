@@ -1,0 +1,8 @@
+{
+    "commands.command.purge user.description": "Efface le chat un nombre de fois spécifié après que l'utilisateur spécifié a envoyé un message.",
+    "commands.command.purge user.brief": "Efface le chat un nombre de fois spécifié après que l'utilisateur spécifié a envoyé un message.",
+    "commands.command.purge user.arguments.0": "<member>",
+    "commands.command.purge user.arguments.1": "<limit>",
+    "commands.command.purge user.examples.0.use": "purge user @lordcode 10",
+    "commands.command.purge user.examples.0.desc": "Effacez les 10 derniers messages envoyés par le membre Lordcode dans la chaîne"
+}

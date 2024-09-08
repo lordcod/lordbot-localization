@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "El equipo comenzará a jugar Blackjack.Los jugadores deben poner apuestas e intentar anotar 21 puntos, jugando al concesionario.",
+    "commands.command.blackjack.brief": "El equipo comenzará a jugar Blackjack.Los jugadores deben poner apuestas e intentar anotar 21 puntos, jugando al concesionario.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

@@ -1,0 +1,5 @@
+{
+    "settings.prefix.title": "Präfix",
+    "settings.prefix.description": "Festlegen des Präfixes, auf das der Bot beim Aufrufen des Befehls antwortet.",
+    "settings.prefix.current": "Das aktuelle Präfix ist {prefix}"
+}

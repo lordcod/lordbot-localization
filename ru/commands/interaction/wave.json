@@ -1,0 +1,4 @@
+{
+    "commands.reactions.wave.description": "Волна.",
+    "commands.reactions.wave.user": "{author} машет рукой {user}, прощаясь или приветствуя."
+}

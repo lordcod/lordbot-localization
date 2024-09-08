@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "Blackjack oynamaya başlayacak ekip.Oyuncular bahis koymalı ve satıcıyı oynayarak 21 puan almaya çalışmalıdır.",
+    "commands.command.blackjack.brief": "Blackjack oynamaya başlayacak ekip.Oyuncular bahis koymalı ve satıcıyı oynayarak 21 puan almaya çalışmalıdır.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

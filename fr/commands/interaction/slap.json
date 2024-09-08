@@ -1,0 +1,5 @@
+{
+    "commands.reactions.slap.description": "Gifle.",
+    "commands.reactions.slap.user": "{author} slaps {user} hard, expressing displeasure or irritation.",
+    "commands.reactions.slap.not_user": "{author} slaps hard."
+}

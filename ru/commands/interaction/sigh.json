@@ -1,0 +1,5 @@
+{
+    "commands.reactions.sigh.description": "Вздох.",
+    "commands.reactions.sigh.user": "{author} вздыхает в ответ на {user}, выражая свое разочарование или усталость.",
+    "commands.reactions.sigh.not_user": "{author} вздыхает."
+}

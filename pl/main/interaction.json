@@ -1,0 +1,7 @@
+{
+    "interaction.error.command": "Wystąpił jakiś błąd!\nSprawdź, czy bot ma niezbędne uprawnienia do wykonania tej komendy!\nID błędu (wymagane do wsparcia): podaj nazwę polecenia\nJeśli nie możesz dowiedzieć się, co się dzieje, skontaktuj się z [serwerem pomocy technicznej]({DISCORD_SUPPORT_SERVER})!",
+    "interaction.error.item": "Wystąpił jakiś błąd!\nSprawdź, czy bot ma niezbędne uprawnienia do wykonania tej komendy!\nID błędu (wymagane do wsparcia): {custom_id}\nJeśli nie możesz dowiedzieć się, co się dzieje, skontaktuj się z [serwerem pomocy technicznej]({DISCORD_SUPPORT_SERVER})!",
+    "interaction.error.expired.title": "The interaction time has expired",
+    "interaction.error.expired.description": "If you need to use the interaction, call the associated command",
+    "interaction.error.expired.support": "If necessary, contact [support]({DISCORD_SUPPORT_SERVER})"
+}

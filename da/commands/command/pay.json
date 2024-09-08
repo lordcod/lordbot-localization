@@ -1,0 +1,10 @@
+{
+    "commands.command.pay.description": "Overfører det angivne beløb til den valgte deltager",
+    "commands.command.pay.brief": "Overfører penge",
+    "commands.command.pay.arguments.0": "<member>",
+    "commands.command.pay.arguments.1": "<amount>",
+    "commands.command.pay.examples.0.use": "pay @lordcode 100",
+    "commands.command.pay.examples.0.desc": "Overfører 100 mønter til lordcode-deltagerens konto",
+    "commands.command.pay.examples.1.use": "pay 636824998123798531 100",
+    "commands.command.pay.examples.1.desc": "Overfører 100 mønter til deltagerens konto fra ID 636824998123798531"
+}

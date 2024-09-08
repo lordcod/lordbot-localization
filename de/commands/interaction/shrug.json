@@ -1,0 +1,5 @@
+{
+    "commands.reactions.shrug.description": "Achselzucken.",
+    "commands.reactions.shrug.user": "{author} shrugs in response to {user}, expressing confusion or indifference.",
+    "commands.reactions.shrug.not_user": "{author} shrugs."
+}

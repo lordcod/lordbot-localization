@@ -1,0 +1,12 @@
+{
+    "tickets.modal": "Kontroler modalny",
+    "tickets.message.open": "Kanał został pomyślnie utworzony {channel}",
+    "tickets.message.loading": "{Emoji.loading} ładowanie...",
+    "tickets.error.approved_roles": "Aby napisać wiadomość, potrzebujesz jednej z tych rol: {roles}",
+    "tickets.error.limit.category": "Przekroczyłeś liczbę możliwych zgłoszeń dla użytkownika w kategorii {category} (maksymalnie: {count})",
+    "tickets.error.limit.global": "Przekroczyłeś liczbę możliwych zgłoszeń dla użytkownika (maksymalnie: {count})",
+    "tickets.error.disabled": "Bilety są wyłączone przez administratorów serwerów!",
+    "tickets.topic.open": "Kategoria zgłoszenia: {member}",
+    "tickets.topic.close": " | Bilet jest zamykany przez {member}",
+    "tickets.topic.reopen": " | Bilet jest zamykany przez {member}"
+}

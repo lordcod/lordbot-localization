@@ -1,0 +1,11 @@
+{
+    "commands.command.interactions.description": "Der Befehl 'reactions' ermöglicht es Ihnen, verschiedene Reaktionen zu verwenden, um Emotionen und Charakterantworten auszudrücken. Hier finden Sie eine breite Palette von Handlungen, von einfachen lächeln und umarmen bis hin zu expressiveren Reaktionen wie Schreien, Beißen oder sogar einem lustigen Niesen. Verwenden Sie diese Reaktionen, um Tiefe und Lebendigkeit in Ihre Rollenspielszenen oder Kommunikation mit anderen Chat-Teilnehmern zu bringen. Tauchen Sie ein in die Welt der Emotionen und Ausdrücke, die durch den Befehl 'reactions' verfügbar sind.",
+    "commands.command.interactions.brief": "Der Befehl 'reactions' bietet eine breite Palette emotionaler Reaktionen, um Ihre Kommunikation zu bereichern. Drücken Sie Ihre Gefühle von Freude bis Ärger mit verschiedenen Gesten und Gesichtsausdrücken aus.",
+    "commands.command.interactions.arguments.0": "<Reaktionstyp>",
+    "commands.command.interactions.arguments.1": "[Benutzer]",
+    "commands.command.interactions.arguments.2": "[Kommentar]",
+    "commands.command.interactions.examples.0.use": "reactions kiss @lordcode",
+    "commands.command.interactions.examples.0.desc": "Sendet eine Nachricht über die Küsse des Teilnehmers @lordcode",
+    "commands.command.interactions.examples.1.use": "reactions blush",
+    "commands.command.interactions.examples.1.desc": "Es wird zeigen, dass Sie rot werden"
+}

@@ -1,0 +1,5 @@
+{
+    "commands.reactions.headbang.description": "Cabecear.",
+    "commands.reactions.headbang.user": "{author} headbangs to the rhythm of the music with {user}.",
+    "commands.reactions.headbang.not_user": "{author} headbangs."
+}

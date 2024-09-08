@@ -1,0 +1,5 @@
+{
+    "commands.reactions.yay.description": "¡Hurra!",
+    "commands.reactions.yay.user": "{author} exclaims 'Yay!' with {user}, expressing joy and fun.",
+    "commands.reactions.yay.not_user": "{author} exclaims 'Yay!'"
+}

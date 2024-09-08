@@ -1,0 +1,6 @@
+{
+    "settings.start.title": "Configurando los módulos del bot.",
+    "settings.start.choose": "Elige la configuración...",
+    "settings.start.description": "Interactúe con el menú desplegable de selección para configurar el servidor.",
+    "settings.start.request": "Solicitud de {name}"
+}

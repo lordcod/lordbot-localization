@@ -1,0 +1,18 @@
+{
+    "errors.MissingPermissions": "Du har ikke nok rettigheder",
+    "errors.MissingRole": "Du har ikke en passende rolle til at udføre kommandoen",
+    "errors.MissingChannel": "Du kan ikke udføre denne kommando i denne kanal",
+    "errors.NotOwner": "Denne kommando er beregnet til bot-ejeren",
+    "errors.CommandNotFound": "Der er ingen sådan kommando",
+    "errors.CheckFailure": "Du opfylder ikke alle betingelserne",
+    "errors.BadArgument": "Ugyldigt argument indtastet",
+    "errors.DisabledCommand": "Denne kommando er deaktiveret på serveren",
+    "errors.MissingRequiredArgument": "Du har ikke indtastet et påkrævet argument",
+    "errors.InactiveEconomy": "Økonomisystemet er deaktiveret på serveren",
+    "errors.OnlyTeamError": "Denne kommando kan kun bruges af bot-teamet",
+    "errors.MemberNotFound": "Deltageren kunne ikke findes",
+    "errors.CommandOnCooldown.title": "Kommandoen er i venteposition",
+    "errors.CommandOnCooldown.description": "Prøv igen efter {delay}.",
+    "errors.DisabledEconomy": "Økonomisystemet er deaktiveret på serveren",
+    "errors.BotMissingPermissions": "The bot doesn't have enough rights"
+}

@@ -1,0 +1,12 @@
+{
+    "tickets.modal": "Модальный контроллер",
+    "tickets.message.open": "Канал был успешно создан {channel}",
+    "tickets.message.loading": "{Emoji.loading} Загрузка...",
+    "tickets.error.approved_roles": "Чтобы создать тикет, вам нужна одна из этих ролей: {roles}",
+    "tickets.error.limit.category": "Вы превысили количество возможных заявок для пользователя в категории {category} (максимум: {count})",
+    "tickets.error.limit.global": "Вы превысили количество возможных заявок для пользователя (максимум: {count})",
+    "tickets.error.disabled": "Тикеты отключены администраторами сервера!",
+    "tickets.topic.open": "Заявка создана {member}",
+    "tickets.topic.close": " | заявка закрывается {member}",
+    "tickets.topic.reopen": " | заявка открыта повторно {member}"
+}

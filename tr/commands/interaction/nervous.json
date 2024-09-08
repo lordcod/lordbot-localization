@@ -1,0 +1,5 @@
+{
+    "commands.reactions.nervous.description": "Sinirli.",
+    "commands.reactions.nervous.user": "{author} nervously picks their fingers with {user}, feeling anxious.",
+    "commands.reactions.nervous.not_user": "{author} is nervous."
+}

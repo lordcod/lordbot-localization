@@ -1,0 +1,10 @@
+{
+    "settings.role-reaction.global.title": "Rola reakcji",
+    "settings.role-reaction.global.description": "Ten moduł pomoże Ci przypisać role na podstawie reakcji",
+    "settings.role-reaction.role-view.select": "Wybierz rolę reakcji, którą chcesz edytować",
+    "settings.role-reaction.item.role-set-dropdown": "Wybierz rolę do usunięcia lub zmiany",
+    "settings.role-reaction.item.role-dropdown": "Wybierz rolę, która zostanie dostarczona po kliknięciu na reakcję",
+    "settings.role-reaction.item.field": "Reakcje",
+    "settings.role-reaction.selector.channel": "Znajdź kanał, aby mieć idealny sposób na korzystanie z ról i reakcji!",
+    "settings.role-reaction.selector.message": "Wybierz wiadomość, która wyświetli reakcje!"
+}

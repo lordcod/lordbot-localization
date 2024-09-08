@@ -1,0 +1,4 @@
+{
+    "commands.reactions.handhold.description": "Maintien de main.",
+    "commands.reactions.handhold.user": "{author} holds {user}'s hand, showing support and affection."
+}

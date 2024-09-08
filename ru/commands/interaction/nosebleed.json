@@ -1,0 +1,5 @@
+{
+    "commands.reactions.nosebleed.description": "Кровь из носа.",
+    "commands.reactions.nosebleed.user": "{author} замечает {user} и начинает кровоточить из носа, испытывая возбуждение.",
+    "commands.reactions.nosebleed.not_user": "{author} начинает кровоточить из носа."
+}

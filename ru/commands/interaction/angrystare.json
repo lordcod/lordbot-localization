@@ -1,0 +1,5 @@
+{
+    "commands.reactions.angrystare.description": "Злой взгляд.",
+    "commands.reactions.angrystare.user": "{author} сердито посмотрел на {user}, выражая свое недовольство.",
+    "commands.reactions.angrystare.not_user": "{author} сердито смотрит куда-то."
+}

@@ -1,0 +1,4 @@
+{
+    "commands.reactions.tickle.description": "Chatouiller.",
+    "commands.reactions.tickle.user": "{author} tickles {user}, causing laughter and fun."
+}

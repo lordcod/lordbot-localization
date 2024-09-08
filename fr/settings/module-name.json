@@ -1,0 +1,18 @@
+{
+    "settings.module-name.economy": "Économie",
+    "settings.module-name.languages": "Langues",
+    "settings.module-name.prefix": "Préfixe",
+    "settings.module-name.music": "Musique",
+    "settings.module-name.color": "Couleur des messages système",
+    "settings.module-name.reactions": "Réactions automatiques",
+    "settings.module-name.thread": "Message automatique dans un fil de discussion/une publication",
+    "settings.module-name.command-permission": "Paramètres de commande",
+    "settings.module-name.ideas": "Idées",
+    "settings.module-name.welcomer": "Bienvenue aux nouveaux membres",
+    "settings.module-name.auto-roles": "Rôles automatiques",
+    "settings.module-name.role-reactions": "Rôles de réaction",
+    "settings.module-name.logs": "Changelog",
+    "settings.module-name.notification": "Notification",
+    "settings.module-name.tempvoice": "Temp Voice",
+    "settings.module-name.tickets": "Tickets"
+}

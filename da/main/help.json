@@ -1,0 +1,17 @@
+{
+    "help.title": "Hjælpebog",
+    "help.arguments": "[Valgfrit] / < påkrævet>",
+    "help.command-embed.title": "hjælp på kommandoen `{name}`.",
+    "help.command-embed.info": "Oplysninger",
+    "help.command-embed.category": "Kategori: `{category_emoji}{category_name}`\n",
+    "help.command-embed.aliases": "Kaldenavn: {aliases}\n",
+    "help.command-embed.disable_command": "kan jeg slå den fra? **{value}**\n",
+    "help.command-embed.connection_disabled.0": "Nej",
+    "help.command-embed.connection_disabled.1": "Ja",
+    "help.command-embed.using_command": "Brug: `{using}`\n",
+    "help.command-embed.example": "eksempel, der viser{nummer}",
+    "help.command-notfound.title": "kommando ikke fundet",
+    "help.command-notfound.description": "når vi søgte efter kommando, fandt vi det ikke, se på det igen i den generelle liste over kommandoer",
+    "help.command-invalid.title": "kommandoen er ugyldig",
+    "help.command-invalid.description": "sandsynligvis indtastede du navnet på holdet forkert, måske indeholder det nogle mærkelige tegn"
+}

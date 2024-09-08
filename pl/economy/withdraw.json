@@ -1,0 +1,6 @@
+{
+    "economy.withdraw.error.negative": "Określ kwotę więcej **0**",
+    "economy.withdraw.error.unenough": "Zbyt mało środków, aby sprawdzić swoje saldo 'Saldo{prefix}'",
+    "economy.withdraw.success.title": "Przekazywanie waluty",
+    "economy.withdraw.success.description": "Przetransferowałeś **{amount:,}**{emoji} na konto bankowe"
+}

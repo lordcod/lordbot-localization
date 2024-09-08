@@ -1,0 +1,5 @@
+{
+    "commands.reactions.cry.description": "Плакать.",
+    "commands.reactions.cry.user": "{author} плачет с {user}, выражая свою поддержку и сочувствие.",
+    "commands.reactions.cry.not_user": "{author} горько плачет."
+}

@@ -1,0 +1,17 @@
+{
+    "settings.thread.init.title": "Messages automatiques dans les forums/threads",
+    "settings.thread.init.brief": "Messages automatiques",
+    "settings.thread.init.description": "Ajoutez ou modifiez vos publications automatiques dans les forums/threads",
+    "settings.thread.init.placeholder": "Paramètres de message automatique dans les branches/forums:",
+    "settings.thread.init.channel": "Canal: {channel}",
+    "settings.thread.addptional.button.install-mes": "Message d'installation",
+    "settings.thread.addptional.channel-error": "Des messages automatiques ont déjà été installés sur cette chaîne",
+    "settings.thread.addptional.placeholder": "Sélectionnez un canal pour les messages automatiques",
+    "settings.thread.thread.mes-not-found": "Aucun message trouvé",
+    "settings.thread.thread.button.view": "Afficher le message",
+    "settings.thread.thread.button.edit": "Modifier un message",
+    "settings.thread.thread.button.delete": "Supprimer un message",
+    "settings.thread.modal.label": "Message:",
+    "settings.thread.modal.title": "Messages automatiques",
+    "settings.thread.modal.placeholder": "Vous pouvez également utiliser le constructeur intégré"
+}

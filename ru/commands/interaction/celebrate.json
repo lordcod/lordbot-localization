@@ -1,0 +1,5 @@
+{
+    "commands.reactions.celebrate.description": "Праздновать.",
+    "commands.reactions.celebrate.user": "{author} радостно празднует с {user}, выражая свою радость.",
+    "commands.reactions.celebrate.not_user": "{author} радостно празднует."
+}

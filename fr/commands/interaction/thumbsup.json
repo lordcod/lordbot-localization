@@ -1,0 +1,5 @@
+{
+    "commands.reactions.thumbsup.description": "Pouce en l'air.",
+    "commands.reactions.thumbsup.user": "{author} gives a thumbs-up to {user}, showing approval.",
+    "commands.reactions.thumbsup.not_user": "{author} gives a thumbs-up."
+}

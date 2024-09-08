@@ -1,0 +1,5 @@
+{
+    "commands.reactions.yes.description": "Да.",
+    "commands.reactions.yes.user": "{author} утвердительно кивает головой перед {user}, выражая свое согласие или одобрение.",
+    "commands.reactions.yes.not_user": "{author} утвердительно кивает головой."
+}

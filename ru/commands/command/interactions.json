@@ -1,0 +1,11 @@
+{
+    "commands.command.interactions.description": "Команда 'reactions' позволяет использовать разнообразные реакции для выражения эмоций и реакций персонажей. Здесь вы найдете широкий спектр действий, от обычных улыбок и обнимашек до более экспрессивных реакций, таких как крик, укус или даже смешной чих. Используйте эти реакции, чтобы добавить глубину и живость в ваши ролевые сцены или общение с другими участниками чата. Погрузитесь в мир эмоций и выражений, доступных с помощью команды 'reactions'.",
+    "commands.command.interactions.brief": "Команда 'reactions' - широкий выбор эмоциональных реакций для обогащения вашего общения. Выразите свои чувства от радости до гнева с помощью разнообразных жестов и выражений лица.",
+    "commands.command.interactions.arguments.0": "<тип_реакции>",
+    "commands.command.interactions.arguments.1": "[пользователь]",
+    "commands.command.interactions.arguments.2": "[комментарий]",
+    "commands.command.interactions.examples.0.use": "reactions kiss @lordcode",
+    "commands.command.interactions.examples.0.desc": "Отправляет сообщение о поцелуях участника @lordcode",
+    "commands.command.interactions.examples.1.use": "reactions blush",
+    "commands.command.interactions.examples.1.desc": "Это покажет, что вы краснеете"
+}

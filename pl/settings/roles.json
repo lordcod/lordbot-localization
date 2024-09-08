@@ -1,0 +1,6 @@
+{
+    "settings.roles.error.default": "Rola @all jest domyślną rolą dla wszystkich użytkowników i nie może być wybrana.",
+    "settings.roles.error.premium": "Rola {role} jest rolą używaną przez subskrybentów Twojego serwera.",
+    "settings.roles.error.integration": "Rola {role} nie można przypisać i służy do integracji lub przez bot.",
+    "settings.roles.error.assignable": "Bot nie będzie w stanie przypisać roli {role}, ponieważ ta rola jest mniejsza niż bot. Aby rozwiązać ten problem, przenieś rolę {bot_role} na pozycję wyższą niż {role}."
+}

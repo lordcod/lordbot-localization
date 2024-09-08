@@ -1,0 +1,7 @@
+{
+    "delcat.issue.title": "Emin misin?",
+    "delcat.issue.description": "Bu, {category} kategorisini ve içindeki her kanalı kalıcı olarak silecektir.",
+    "delcat.accept.title": "#{category} kategori silindi",
+    "delcat.accept.description": "Ve ayrıca kategorideki uzaktan {count} kanalları",
+    "delcat.cancel.title": "Kategori silme iptal edildi"
+}

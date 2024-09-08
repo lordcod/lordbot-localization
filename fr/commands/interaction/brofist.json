@@ -1,0 +1,5 @@
+{
+    "commands.reactions.brofist.description": "Poing de frère.",
+    "commands.reactions.brofist.user": "{author} sympathetically gives a fist bump to {user}, expressing friendly support.",
+    "commands.reactions.brofist.not_user": "{author} offers a fist bump."
+}

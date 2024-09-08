@@ -1,0 +1,6 @@
+{
+    "economy.deposit.error.negative": "Укажите сумму больше **0**",
+    "economy.deposit.error.unenough": "Недостаточно средств, чтобы проверить ваш баланс используя `{prefix}balance`",
+    "economy.deposit.success.title": "Перевод валюты",
+    "economy.deposit.success.description": "Вы перевели **{amount:,}**{emoji} на банковский счет"
+}

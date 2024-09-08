@@ -1,0 +1,10 @@
+{
+    "commands.command.pay.description": "Переводит указанную сумму выбранному участнику",
+    "commands.command.pay.brief": "Переводит деньги",
+    "commands.command.pay.arguments.0": "<участник>",
+    "commands.command.pay.arguments.1": "<сумма>",
+    "commands.command.pay.examples.0.use": "pay @lordcode 100",
+    "commands.command.pay.examples.0.desc": "Переводит 100 монет на счет участника лордкода",
+    "commands.command.pay.examples.1.use": "pay 636824998123798531 100",
+    "commands.command.pay.examples.1.desc": "Переводит 100 монет на счет участника с ID 636824998123798531"
+}

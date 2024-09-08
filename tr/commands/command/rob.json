@@ -1,0 +1,5 @@
+{
+    "commands.command.rob.description": "Para hırsızlığı, para cezası alma veya hapse girme riski altında para hırsızlığı gerçekleştirecek bir ekip.",
+    "commands.command.rob.brief": "Para hırsızlığı, para cezası alma veya hapse girme riski altında para hırsızlığı gerçekleştirecek bir ekip.",
+    "commands.command.rob.arguments.0": "<member>"
+}

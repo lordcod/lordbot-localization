@@ -1,0 +1,8 @@
+{
+    "temprole.global.action": "Czas działania",
+    "temprole.change.title": "Czas trwania roli został zmieniony",
+    "temprole.change.role": "Rola",
+    "temprole.created.title": "Tymczasowy zakaz przyznany!",
+    "temprole.list.nf": "Brak zarejestrowanych ról tymczasowych na tym serwerze",
+    "temprole.list.title": "Role tymczasowe"
+}

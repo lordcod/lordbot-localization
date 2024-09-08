@@ -1,0 +1,8 @@
+{
+    "commands.command.purge user.description": "Löscht den Chat eine bestimmte Anzahl von Malen, nachdem der angegebene Benutzer eine Nachricht gesendet hat.",
+    "commands.command.purge user.brief": "Löscht den Chat eine bestimmte Anzahl von Malen, nachdem der angegebene Benutzer eine Nachricht gesendet hat.",
+    "commands.command.purge user.arguments.0": "<member>",
+    "commands.command.purge user.arguments.1": "<limit>",
+    "commands.command.purge user.examples.0.use": "purge user @lordcode 10",
+    "commands.command.purge user.examples.0.desc": "Löschen Sie die letzten 10 Nachrichten, die vom Lordcode-Mitglied im Kanal gesendet wurden"
+}

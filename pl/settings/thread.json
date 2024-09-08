@@ -1,0 +1,17 @@
+{
+    "settings.thread.init.title": "Automatyczne wiadomości na forach/wątkach",
+    "settings.thread.init.brief": "Automatyczne wiadomości",
+    "settings.thread.init.description": "Dodaj lub zmień swoje automatyczne posty na forach/wątkach",
+    "settings.thread.init.placeholder": "Ustawienia automatycznych wiadomości w oddziałach/forach:",
+    "settings.thread.init.channel": "Kanał: {channel}",
+    "settings.thread.addptional.button.install-mes": "Zainstaluj wiadomość",
+    "settings.thread.addptional.channel-error": "Automatyczne wiadomości zostały już zainstalowane na tym kanale",
+    "settings.thread.addptional.placeholder": "Wybierz kanał dla automatycznych wiadomości",
+    "settings.thread.thread.mes-not-found": "Nie znaleziono wiadomości",
+    "settings.thread.thread.button.view": "Wyświetl wiadomość",
+    "settings.thread.thread.button.edit": "Edytuj wiadomość",
+    "settings.thread.thread.button.delete": "Usuń wiadomość",
+    "settings.thread.modal.label": "Wiadomość:",
+    "settings.thread.modal.title": "Automatyczne wiadomości",
+    "settings.thread.modal.placeholder": "Możesz także użyć narzędzia embed-builder"
+}

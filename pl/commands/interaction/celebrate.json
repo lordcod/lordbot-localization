@@ -1,0 +1,5 @@
+{
+    "commands.reactions.celebrate.description": "Obchodzić.",
+    "commands.reactions.celebrate.user": "{author} joyfully celebrates with {user}, expressing their happiness.",
+    "commands.reactions.celebrate.not_user": "{author} joyfully celebrates."
+}

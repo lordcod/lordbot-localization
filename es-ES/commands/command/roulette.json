@@ -1,0 +1,5 @@
+{
+    "commands.command.roulette.description": "Un equipo para jugar a la ruleta.Los jugadores ponen sus fichas en números o colores y esperan dónde se detendrá la pelota.",
+    "commands.command.roulette.brief": "Un equipo para jugar a la ruleta.Los jugadores ponen sus fichas en números o colores y esperan dónde se detendrá la pelota.",
+    "commands.command.roulette.arguments.0": "<amount>"
+}

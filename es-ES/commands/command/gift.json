@@ -1,0 +1,10 @@
+{
+    "commands.command.gift.description": "Agrega una cierta cantidad al participante seleccionado\nSi el participante no es seleccionado, el ejecutante del equipo actúa en su lugar",
+    "commands.command.gift.brief": "Agrega la cantidad al participante",
+    "commands.command.gift.arguments.0": "[member]",
+    "commands.command.gift.arguments.1": "<amount>",
+    "commands.command.gift.examples.0.use": "gift 100",
+    "commands.command.gift.examples.0.desc": "Te da 100 monedas.",
+    "commands.command.gift.examples.1.use": "gift @lordcode 100",
+    "commands.command.gift.examples.1.desc": "Le da al miembro Lordcode 100 monedas."
+}

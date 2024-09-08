@@ -1,0 +1,9 @@
+{
+    "commands.command.temp-role.description": "Belirli bir katılımcıya bir süre veya sonsuza kadar roller ekler\nZaman '1d1h1m1s' biçiminde gösterilir değerler birleştirilebilir ve ayrıca çoğaltılabilir, örneğin '1d2h1d`",
+    "commands.command.temp-role.brief": "Belirli bir katılımcıya bir süre veya sonsuza kadar roller ekler",
+    "commands.command.temp-role.arguments.0": "<member>",
+    "commands.command.temp-role.arguments.1": "<role>",
+    "commands.command.temp-role.arguments.2": "<time>",
+    "commands.command.temp-role.examples.0.use": "temp-role @lordcode @role 12h",
+    "commands.command.temp-role.examples.0.desc": "Katılımcı lord koduna 12 saatlik rol rolünü verir."
+}

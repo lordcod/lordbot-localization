@@ -1,0 +1,8 @@
+{
+    "commands.command.purge user.description": "Очищает чат указанное количество раз после того, как указанный пользователь отправит сообщение.",
+    "commands.command.purge user.brief": "Очищает чат указанное количество раз после того, как указанный пользователь отправит сообщение.",
+    "commands.command.purge user.arguments.0": "<участник>",
+    "commands.command.purge user.arguments.1": "<лимит>",
+    "commands.command.purge user.examples.0.use": "purge user @lordcode 10",
+    "commands.command.purge user.examples.0.desc": "Очистить последние 10 сообщений, отправленных участником лордкода на канале."
+}

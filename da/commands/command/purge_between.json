@@ -1,0 +1,10 @@
+{
+    "commands.command.purge between.description": "Rydder chatten mellem beskeder",
+    "commands.command.purge between.brief": "Rydder chatten mellem beskeder",
+    "commands.command.purge between.arguments.0": "<message_start>",
+    "commands.command.purge between.arguments.1": "[message_stop]",
+    "commands.command.purge between.examples.0.use": "purge between 1214583337776320524 1214584228889497610",
+    "commands.command.purge between.examples.0.desc": "Rydder chatten mellem besked 12145833337776320524 og 1214584228889497610",
+    "commands.command.purge between.examples.1.use": "purge between 1214583337776320524",
+    "commands.command.purge between.examples.1.desc": "Rydder chatten fra besked 12145833337776320524 til den nuværende"
+}

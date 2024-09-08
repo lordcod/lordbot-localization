@@ -1,0 +1,6 @@
+{
+    "settings.color.not-valid": "Hexkodeformatet er forkert",
+    "settings.color.title": "Farve på systemmeddelelser",
+    "settings.color.description": "Når du bruger kommandoer, viser botten indsæt, der har en usynlig farve som standard.\n\nDu kan indstille din farve i henhold til temaet for dit fællesskab.",
+    "settings.color.current": "Nuværende farve"
+}

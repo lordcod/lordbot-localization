@@ -1,0 +1,7 @@
+{
+    "commands.command.move-to.description": "Cambiará a la pista en la cola",
+    "commands.command.move-to.brief": "Cambiará a la pista en la cola",
+    "commands.command.move-to.arguments.0": "<índice>",
+    "commands.command.move-to.examples.0.use": "move 5",
+    "commands.command.move-to.examples.0.desc": "Comenzará a producir 5 pistas en la cola"
+}

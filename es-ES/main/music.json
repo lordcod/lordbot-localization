@@ -1,0 +1,20 @@
+{
+    "music.player.out.previous": "Saldré de la voz <t:{time:.0f}:R>",
+    "music.player.out.last": "La música terminó y salí del canal",
+    "music.player.message.status": "Estado",
+    "music.player.message.listen": "Escuchando {passtime} / {fulltime}",
+    "music.player.message.pause": "Escuchando {passtime} / {fulltime}",
+    "music.player.message.volume": "Volumen",
+    "music.player.loading": "{Emoji.loading} cargando una pista",
+    "music.player.placeholder": "Selecciona un track de la cola",
+    "music.player.select": "{Emoji.yandex_music} Hemos encontrado pistas {lenght} de acuerdo a tu solicitud",
+    "music.player.added": "¡La pista ha sido añadida a la cola!",
+    "music.error.not_in_channel": "{Emoji.cross} No estás en el canal de voz",
+    "music.error.already": "{Emoji.cross} El bot ya está ocupado",
+    "music.error.bot_not_in_channel": "{Emoji.cross} No estás en el canal de voz",
+    "music.error.track_not_found": "{Emoji.cross} No se ha encontrado ningún número de pista {index}",
+    "music.error.current_track": "{Emoji.cross} Esta pista ya está reproduciendo\nSi quieres empezar a escuchar una canción desde cero, usa el panel de interfaz de usuario",
+    "music.error.search": "{Emoji.cross} No se han encontrado pistas para tu consulta",
+    "music.player.out.not_user": "There are no users left in the channel and I put the music on pause!\nI'll get out of the channel <t:{time:.0f}:R>",
+    "music.selector.placeholder": "Selecciona una pista"
+}

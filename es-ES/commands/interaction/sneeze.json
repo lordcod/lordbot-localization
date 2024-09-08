@@ -1,0 +1,5 @@
+{
+    "commands.reactions.sneeze.description": "Estornudo.",
+    "commands.reactions.sneeze.user": "{author} sneezes with {user}, feeling slightly unwell.",
+    "commands.reactions.sneeze.not_user": "{author} sneezes."
+}

@@ -1,0 +1,10 @@
+{
+    "commands.command.gift.description": "Добавляет определенную сумму выбранному участнику\nЕсли участник не выбран, вместо него действует исполнитель команды",
+    "commands.command.gift.brief": "Добавляет сумму участнику",
+    "commands.command.gift.arguments.0": "[участник]",
+    "commands.command.gift.arguments.1": "<сумма>",
+    "commands.command.gift.examples.0.use": "gift 100",
+    "commands.command.gift.examples.0.desc": "Дает вам 100 монет.",
+    "commands.command.gift.examples.1.use": "gift @lordcode 100",
+    "commands.command.gift.examples.1.desc": "Дает участнику лорд-код 100 монет."
+}

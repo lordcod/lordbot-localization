@@ -1,0 +1,18 @@
+{
+    "settings.module-name.economy": "Gospodarka",
+    "settings.module-name.languages": "Języki",
+    "settings.module-name.prefix": "Prefiks",
+    "settings.module-name.music": "Muzyka",
+    "settings.module-name.color": "Kolor komunikatów systemowych",
+    "settings.module-name.reactions": "Reakcje automatyczne",
+    "settings.module-name.thread": "Automatyczna wiadomość w wątku/poście",
+    "settings.module-name.command-permission": "Ustawienia poleceń",
+    "settings.module-name.ideas": "Pomysły",
+    "settings.module-name.welcomer": "Witamy nowych członków",
+    "settings.module-name.auto-roles": "Role automatyczne",
+    "settings.module-name.role-reactions": "Role Reakcji",
+    "settings.module-name.logs": "Dzienniki",
+    "settings.module-name.notification": "Powiadomienie",
+    "settings.module-name.tempvoice": "Głos tymczasowy",
+    "settings.module-name.tickets": "Bilety"
+}

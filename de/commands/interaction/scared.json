@@ -1,0 +1,5 @@
+{
+    "commands.reactions.scared.description": "Ängstlich.",
+    "commands.reactions.scared.user": "{author} looks scared at {user}, feeling fear or anxiety.",
+    "commands.reactions.scared.not_user": "{author} is scared."
+}

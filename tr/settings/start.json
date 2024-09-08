@@ -1,0 +1,6 @@
+{
+    "settings.start.title": "Bot modüllerini yapılandırma.",
+    "settings.start.choose": "Ayarları seçin...",
+    "settings.start.description": "Sunucuyu yapılandırmak için seçim açılır menüsüyle etkileşim kurun.",
+    "settings.start.request": "{name} tarafından talep edildi"
+}

@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "L'équipe pour commencer à jouer au blackjack.Les joueurs doivent mettre des paris et essayer de marquer 21 points, jouant le concessionnaire.",
+    "commands.command.blackjack.brief": "L'équipe pour commencer à jouer au blackjack.Les joueurs doivent mettre des paris et essayer de marquer 21 points, jouant le concessionnaire.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

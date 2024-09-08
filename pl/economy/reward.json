@@ -1,0 +1,7 @@
+{
+    "economy.reward.error.unspecified": "Niestety ta nagroda nie jest dostępna, jeśli jesteś administratorem serwera zmienił nagrodę",
+    "economy.reward.error.early.title": "Nagroda nie jest dostępna",
+    "economy.reward.error.early.description": "Spróbuj ponownie po <t:{reward_time:.0f}:R>",
+    "economy.reward.success.title": "Otrzymałeś prezent",
+    "economy.reward.success.description": "W rozmiarze {award}{emoji} trafia przez <t:{wait_long:.0f}:R>"
+}

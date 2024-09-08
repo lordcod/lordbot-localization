@@ -1,0 +1,9 @@
+{
+    "commands.command.avatar.description": "Katılımcının avatarını gösterir!",
+    "commands.command.avatar.brief": "Katılımcının avatarını gösterir!",
+    "commands.command.avatar.arguments.0": "[üye]",
+    "commands.command.avatar.examples.0.use": "avatar @lordcode",
+    "commands.command.avatar.examples.0.desc": "Lordcode kullanıcı adı ile katılımcının avatarını gösterecek",
+    "commands.command.avatar.examples.1.use": "avatar 636824998123798531",
+    "commands.command.avatar.examples.1.desc": "636824998123798531 ile katılımcının avatarını gösterecek"
+}

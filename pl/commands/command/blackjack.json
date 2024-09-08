@@ -1,0 +1,5 @@
+{
+    "commands.command.blackjack.description": "Drużyna zaczęła grać w Blackjacka.Gracze powinni postawić zakłady i spróbować zdobyć 21 punktów, grając w dealera.",
+    "commands.command.blackjack.brief": "Drużyna zaczęła grać w Blackjacka.Gracze powinni postawić zakłady i spróbować zdobyć 21 punktów, grając w dealera.",
+    "commands.command.blackjack.arguments.0": "<amount>"
+}

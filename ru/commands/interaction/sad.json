@@ -1,0 +1,5 @@
+{
+    "commands.reactions.sad.description": "Грустный.",
+    "commands.reactions.sad.user": "{author} грустно смотрит на {user}, выражая свою печаль или тоску.",
+    "commands.reactions.sad.not_user": "{author} грустит."
+}

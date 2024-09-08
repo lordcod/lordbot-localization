@@ -1,0 +1,7 @@
+{
+    "delcat.issue.title": "Вы уверены?",
+    "delcat.issue.description": "Это приведет к необратимому удалению категории {category} и всех каналов внутри нее.",
+    "delcat.accept.title": "#{category} Категория удалена",
+    "delcat.accept.description": "А также удаленно {count} каналы, которые были в этой категории",
+    "delcat.cancel.title": "Удаление категории отменено"
+}

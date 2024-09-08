@@ -1,0 +1,23 @@
+{
+    "settings.logs.channel": "Wybierz kanał, do którego będą wysyłane dzienniki",
+    "settings.logs.set-channel": "Wybierz kanał, który chcesz zmienić",
+    "settings.logs.type": "Wybierz typ logów",
+    "settings.logs.embed.title": "Logi systemowe",
+    "settings.logs.embed.description": "W zależności od ustawień systemu dzienniki systemowe mogą zawierać różne poziomy szczegółowości informacji. Pozwala to administratorom dostosować poziom szczegółowości dziennika zgodnie z wymogami bezpieczeństwa i audytu.",
+    "settings.logs.items.delete_message.title": "Usuń wiadomość",
+    "settings.logs.items.delete_message.description": "Dziennik zawiera informacje o wszystkich usuniętych wiadomościach w systemie. Pomaga Ci śledzić kto usunął wiadomość i kiedy i zapewnia przejrzystość usuniętych danych.",
+    "settings.logs.items.edit_message.title": "Edytuj wiadomość",
+    "settings.logs.items.edit_message.description": "Dziennik zawiera informacje o wszystkich wiadomościach, które zostały zmienione po wysłaniu. Zapewnia on możliwość oglądania historii zmian w wiadomościach, co jest przydatne do monitorowania integralności komunikacji.",
+    "settings.logs.items.punishment.title": "Naruszenie przepisów i karanie",
+    "settings.logs.items.punishment.description": "Rejestr zawiera informacje o sankcjach stosowanych w odpowiedzi na naruszenie przepisów. Pomaga on utrzymać porządek i dyscyplinę w systemie, zapewniając sprawiedliwość i spójność w stosowaniu środków dyscyplinarnych.",
+    "settings.logs.items.economy.title": "Transakcje lub zmiany w gospodarce",
+    "settings.logs.items.economy.description": "Dziennik odzwierciedla wszystkie transakcje i zmiany w gospodarce systemu. Dostarcza informacji o wszystkich transakcjach finansowych, które miały miejsce w systemie, oraz pomaga śledzić przepływy pieniężne i zmiany sytuacji gospodarczej.",
+    "settings.logs.items.ideas.title": "Zasugerował pomysł",
+    "settings.logs.items.ideas.description": "Dziennik zawiera informacje o wszystkich proponowanych pomysłach i propozycjach, które zostały uwzględnione w systemie. Pomaga on śledzić proces opracowywania pomysłów i podejmowania decyzji w oparciu o sugestie uczestników.",
+    "settings.logs.items.voice_state.title": "Nazwa głosu",
+    "settings.logs.items.voice_state.description": "Dziennik zawiera informacje o wpisie, wyjściu i ruchu użytkownika w jednostkach.",
+    "settings.logs.items.tickets.title": "Bilety",
+    "settings.logs.items.tickets.description": "Tworzenie, zamykanie, usuwanie, ponowne otwarcie wszystkich zgłoszeń zawiera dziennik zgłoszeń",
+    "settings.logs.items.roles.title": "Rola",
+    "settings.logs.items.roles.description": "Wydanie i wycofanie ról jest zawarte w dzienniku"
+}

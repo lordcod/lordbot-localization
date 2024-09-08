@@ -1,0 +1,7 @@
+{
+    "commands.command.purge.description": "Efface le chat le nombre de fois spécifié",
+    "commands.command.purge.brief": "Efface le chat le nombre de fois spécifié",
+    "commands.command.purge.arguments.0": "<limit>",
+    "commands.command.purge.examples.0.use": "purge 10",
+    "commands.command.purge.examples.0.desc": "Effacer les 10 derniers messages de la chaîne"
+}

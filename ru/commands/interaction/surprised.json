@@ -1,0 +1,5 @@
+{
+    "commands.reactions.surprised.description": "Удивленный.",
+    "commands.reactions.surprised.user": "{author} удивленно смотрит на {user}, испытывая шок или удивление.",
+    "commands.reactions.surprised.not_user": "{author} удивлен."
+}

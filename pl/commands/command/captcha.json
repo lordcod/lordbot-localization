@@ -1,0 +1,4 @@
+{
+    "commands.command.captcha.description": "Pokazuje obraz, na którym tekst jest szyfrowany w ciągu 30 sekund użytkownik musi rozwiązać captcha",
+    "commands.command.captcha.brief": "Polecenie testowe"
+}

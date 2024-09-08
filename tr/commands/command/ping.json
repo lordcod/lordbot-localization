@@ -1,0 +1,4 @@
+{
+    "commands.command.ping.description": "Botun performansını ve mevcut durumunu gösterir",
+    "commands.command.ping.brief": "Geçerli bot gecikmesi"
+}

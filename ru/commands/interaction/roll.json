@@ -1,0 +1,5 @@
+{
+    "commands.reactions.roll.description": "Катить.",
+    "commands.reactions.roll.user": "{author} крутит глазами в ответ на {user}, выражая свое недовольство или усталость.",
+    "commands.reactions.roll.not_user": "{author} крутит глазами."
+}

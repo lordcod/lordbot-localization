@@ -1,0 +1,6 @@
+{
+    "economy.take.error.negative": "Kwota musi być dodatnia",
+    "economy.take.error.bank.unenough": "Operacja nie może zostać wykonana, ponieważ saldo banku stanie się w tym czasie ujemne, jeśli chcesz odpisać całą walutę, podaj wartość `all` na konto",
+    "economy.take.error.balance.unenough": "Operacja nie może być wykonana, ponieważ saldo stanie się ujemne w trakcie jej trwania. Jeśli chcesz obciążyć całą walutę, przenieś wartość `all` na konto.",
+    "economy.take.success": "Wypłaciłeś kwotę **{amount:{\\\\,}**{emoji} z **{member}**"
+}

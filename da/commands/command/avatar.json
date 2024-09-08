@@ -1,0 +1,9 @@
+{
+    "commands.command.avatar.description": "Viser deltagerens avatar!",
+    "commands.command.avatar.brief": "Viser deltagerens avatar!",
+    "commands.command.avatar.arguments.0": "[medlem]",
+    "commands.command.avatar.examples.0.use": "avatar @lordcode",
+    "commands.command.avatar.examples.0.desc": "Det viser deltagerens avatar med brugernavnet Lordcode",
+    "commands.command.avatar.examples.1.use": "avatar 636824998123798531",
+    "commands.command.avatar.examples.1.desc": "Det viser deltagerens avatar med ID 636824998123798531"
+}

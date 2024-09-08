@@ -1,0 +1,7 @@
+{
+    "commands.command.move-to.description": "Kuyrukta piste geçecek",
+    "commands.command.move-to.brief": "Kuyrukta piste geçecek",
+    "commands.command.move-to.arguments.0": "<indeks>",
+    "commands.command.move-to.examples.0.use": "move 5",
+    "commands.command.move-to.examples.0.desc": "Kuyrukta 5 parça üretmeye başlayacak"
+}

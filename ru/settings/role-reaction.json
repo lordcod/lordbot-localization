@@ -1,0 +1,10 @@
+{
+    "settings.role-reaction.global.title": "Роли по реакциям",
+    "settings.role-reaction.global.description": "Этот модуль поможет вам назначить роли, основанные на реакциях",
+    "settings.role-reaction.role-view.select": "Выберите роль реакции, которую вы хотите изменить",
+    "settings.role-reaction.item.role-set-dropdown": "Выберите роль для удаления или изменения",
+    "settings.role-reaction.item.role-dropdown": "Выберите роль, которая будет предоставлена при клике на реакцию",
+    "settings.role-reaction.item.field": "Реакции",
+    "settings.role-reaction.selector.channel": "Найдите канал, чтобы иметь отличный способ использовать роли и реакции!",
+    "settings.role-reaction.selector.message": "Выберите сообщение, на котором будут отображаться реакции!"
+}

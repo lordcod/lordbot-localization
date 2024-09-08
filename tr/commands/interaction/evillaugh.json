@@ -1,0 +1,5 @@
+{
+    "commands.reactions.evillaugh.description": "Kötü gülmek.",
+    "commands.reactions.evillaugh.user": "{author} laughs evilly at {user}, expressing anger and mockery.",
+    "commands.reactions.evillaugh.not_user": "{author} laughs evilly."
+}
