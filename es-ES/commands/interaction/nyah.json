@@ -1,0 +1,5 @@
+{
+    "commands.reactions.nyah.description": "Nyah.",
+    "commands.reactions.nyah.user": "{author} cutely purrs in response to {user}, expressing agreement or approval.",
+    "commands.reactions.nyah.not_user": "{author} purrs."
+}
