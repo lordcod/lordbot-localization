@@ -1,0 +1,5 @@
+{
+    "commands.reactions.sigh.description": "Sigh.",
+    "commands.reactions.sigh.user": "{author} sighs in response to {user}, expressing disappointment or fatigue.",
+    "commands.reactions.sigh.not_user": "{author} sighs."
+}
