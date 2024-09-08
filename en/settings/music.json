@@ -1,0 +1,17 @@
+{
+    "settings.music.title": "Music",
+    "settings.music.max-queue-size.name": "Max size",
+    "settings.music.max-queue-size.description": "Maximum track queue lenght.",
+    "settings.music.max-queue-size.value": "Maximum queue size: {size}\n",
+    "settings.music.default-volume.name": "Default volume",
+    "settings.music.default-volume.description": "The default music volume.",
+    "settings.music.default-volume.value": "Default volume music: {volume}\n",
+    "settings.music.dj-roles.failed": "The {role} role cannot be assigned and is used for integration or by a bot.",
+    "settings.music.dj-roles.name": "Dj-roles",
+    "settings.music.dj-roles.description": "Roles that can control music.",
+    "settings.music.dj-roles.value": "Dj-roles: {roles}",
+    "settings.music.description": "The music module allows you to set the maximum queue length, control the volume, assign DJ roles and create playlists.",
+    "settings.music.djroles.select": "> Select the roles that will be able to add and change music",
+    "settings.music.max_size.select": "> Specify the maximum queue length",
+    "settings.music.volume.select": "> Specify the default volume"
+}
