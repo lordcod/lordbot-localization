@@ -1,0 +1,10 @@
+{
+    "economy.balance.reward.daily": "— Daily Bonus ({prefix}daily)\n",
+    "economy.balance.reward.weekly": "— Weekly Bonus ({prefix}weekly)\n",
+    "economy.balance.reward.monthly": "— Monthly Bonus ({prefix}monthly)\n",
+    "economy.balance.reward.available": "{Emoji.award} Available Rewards:\n{description}",
+    "economy.balance.value.cash": "{Emoji.money} Cash:",
+    "economy.balance.value.bank": "{Emoji.bank} In bank:",
+    "economy.balance.value.total": "{Emoji.bagmoney} Total balance:",
+    "economy.balance.name": "Balance"
+}
