@@ -1,0 +1,4 @@
+{
+    "commands.command.captcha.description": "Shows a picture on which the text is encrypted within 30 seconds the user must solve the captcha",
+    "commands.command.captcha.brief": "Test command"
+}
