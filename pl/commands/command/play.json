@@ -1,0 +1,9 @@
+{
+    "commands.command.play.description": "Starts playing the music set by the user\nAs a cloud with music is [**Yandex Music**](<https://music.yandex.ru>)",
+    "commands.command.play.brief": "Starts playing music",
+    "commands.command.play.arguments.0": "<title/url>",
+    "commands.command.play.examples.0.use": "play A Sky Full of Stars",
+    "commands.command.play.examples.0.desc": "Run a search for the song `A Sky Full of Stars` and it will prompt you to choose the desired author.",
+    "commands.command.play.examples.1.use": "play https://music.yandex.ru/album/2207193/track/17646450",
+    "commands.command.play.examples.1.desc": "Launch the song from the specified link."
+}
