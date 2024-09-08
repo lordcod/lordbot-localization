@@ -1,0 +1,4 @@
+{
+    "commands.command.ping.description": "Shows the performance and current status of the bot",
+    "commands.command.ping.brief": "Current bot delay"
+}
