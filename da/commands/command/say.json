@@ -1,0 +1,9 @@
+{
+    "commands.command.say.description": "Sends a message on behalf of the bot using a unique [**embed builder**](<https://lordcord.fun/embed-builder>) or plain text",
+    "commands.command.say.brief": "Sends a message",
+    "commands.command.say.arguments.0": "<text/json>",
+    "commands.command.say.examples.0.use": "say Hello",
+    "commands.command.say.examples.0.desc": "Send `Hello` to the current chat.",
+    "commands.command.say.examples.1.use": "say {\"title\": \"Hello\"}",
+    "commands.command.say.examples.1.desc": "Send embed with title `Hello` to the current chat."
+}
