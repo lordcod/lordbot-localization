@@ -1,0 +1,5 @@
+{
+    "commands.reactions.confused.description": "Confused.",
+    "commands.reactions.confused.user": "{author} looks at {user} with surprise, not understanding what's going on.",
+    "commands.reactions.confused.not_user": "{author} is confused."
+}
