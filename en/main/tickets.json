@@ -1,0 +1,12 @@
+{
+    "tickets.modal": "Modal Controller",
+    "tickets.message.open": "The channel has been successfully created {channel}",
+    "tickets.message.loading": "{Emoji.loading} Loading...",
+    "tickets.error.approved_roles": "In order to write a message, you need one of these roles: {roles}",
+    "tickets.error.limit.category": "You have exceeded the number of possible tickets for the user in category {category} (maximum: {count})",
+    "tickets.error.limit.global": "You have exceeded the number of possible tickets for the user (maximum: {count})",
+    "tickets.error.disabled": "Tickets are disabled by the server administrators!",
+    "tickets.topic.open": "Ticket created by {member}",
+    "tickets.topic.close": " | the ticket is closing by {member}",
+    "tickets.topic.reopen": " | the ticket reopened by {member}"
+}
