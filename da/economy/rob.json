@@ -1,0 +1,8 @@
+{
+    "economy.rob.title": "Robbery",
+    "economy.rob.error.early": "{member}, You can rob now, come through <t:{time:.0f}:R>.",
+    "economy.rob.success.mini": "**{author}**, you were able to steal from **{member}** an {calculated_debt:,.0f}{emoji}, but the victim lost the {debt:,.0f}{emoji}.",
+    "economy.rob.success.full": "**{author}**, you were able to steal from **{member}** an {debt:,.0f}{emoji}.",
+    "economy.rob.success.failure": "**{author}**, you couldn't steal from **{member}** anything during the robbery, but you lost {debt:,.0f}{emoji}.\nAnd you were also put in jail for a <t:{conclusion:.0f}:R>.",
+    "economy.rob.disabled": "{Emoji.cross} Theft is disabled on this server!"
+}
