@@ -1,0 +1,4 @@
+{
+    "commands.reactions.love.description": "Love.",
+    "commands.reactions.love.user": "{author} deeply loves {user}, expressing sincere feelings."
+}

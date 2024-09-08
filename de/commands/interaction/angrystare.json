@@ -1,0 +1,5 @@
+{
+    "commands.reactions.angrystare.description": "Angry stare.",
+    "commands.reactions.angrystare.user": "{author} angrily stared at {user}, expressing their displeasure.",
+    "commands.reactions.angrystare.not_user": "{author} angrily stares somewhere."
+}

@@ -1,0 +1,6 @@
+{
+    "economy.pay.error.negative": "Specify the amount more **0**",
+    "economy.pay.error.unenough": "Not enough funds to check your balance use `{prefix}balance`",
+    "economy.pay.success.title": "Transfer of currency",
+    "economy.pay.success.description": "**{author}** transferred {amount}{emoji} to **{member}** account"
+}

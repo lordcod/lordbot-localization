@@ -1,0 +1,5 @@
+{
+    "settings.languages.title": "Languages",
+    "settings.languages.description": "This setting changes the language for working with the bot.",
+    "settings.languages.choose": "Select the language for the server:"
+}

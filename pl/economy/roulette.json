@@ -1,0 +1,15 @@
+{
+    "economy.roulette.error.invalid": "An incorrect value has been entered for the roulette game, use the command `{prefix}help roulette` to find out the arguments",
+    "economy.roulette.error.negative": "Specify the amount more **0**",
+    "economy.roulette.error.unenough": "Not enough funds to check your bank balance use `{prefix}balance`",
+    "economy.roulette.error.limit": "Your bet is not included in the limits\nThe maximum bid: {max_bet}{emoji}\nThe minimum bid: {min_bet}{emoji}\nYour bid: {amount}{emoji}",
+    "economy.roulette.game.title": "New roulette game started!",
+    "economy.roulette.game.description": "**{member}** have placed a bet of **{amount}**{emoji} on **{value}**",
+    "economy.roulette.game.footer": "Time remaining: 10 seconds after each bet (maximum 1 minute)",
+    "economy.roulette.game.goto": "The game has already started, [go to the game]({url})",
+    "economy.roulette.game.result.win": "**{member}** won **{amount:,}**{emoji}",
+    "economy.roulette.game.result.lost": "**{member}** lost **{amount:,}**{emoji}",
+    "economy.roulette.game.result.ball": "The ball landed on **{win_color} {ran}**",
+    "economy.roulette.game.result.wins.success": "**{wins}** won and their total prize is **{amount:,}**{emoji}",
+    "economy.roulette.game.result.wins.failed": "Unfortunately, there are no winners"
+}

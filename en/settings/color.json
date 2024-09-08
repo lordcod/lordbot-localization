@@ -1,0 +1,6 @@
+{
+    "settings.color.not-valid": "The hex code format is incorrect",
+    "settings.color.title": "Color of system messages",
+    "settings.color.description": "When you use commands, the bot displays inserts that have an invisible color by default.\n\nYou can set your color according to the theme of your community.",
+    "settings.color.current": "Current color: `{hex_color}`"
+}

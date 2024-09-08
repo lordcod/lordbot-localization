@@ -1,0 +1,4 @@
+{
+    "commands.command.leaderboard.description": "Shows statistics of the top 10 server participants by balance",
+    "commands.command.leaderboard.brief": "Top server participants by balance"
+}

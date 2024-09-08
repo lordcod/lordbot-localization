@@ -1,0 +1,17 @@
+{
+    "help.title": "Help Book",
+    "help.arguments": "[Optional] | <Required>",
+    "help.command-embed.title": "Help on the `{name}` command.",
+    "help.command-embed.info": "Information",
+    "help.command-embed.category": "Category: {category_emoji} `{category_name}`\n",
+    "help.command-embed.aliases": "Aliases: {aliases}\n",
+    "help.command-embed.disable_command": "Can I turn it off? **{value}**\n",
+    "help.command-embed.connection_disabled.0": "Nope",
+    "help.command-embed.connection_disabled.1": "Yeah",
+    "help.command-embed.using_command": "Using: `{using}`\n",
+    "help.command-embed.example": "Example №{number}",
+    "help.command-notfound.title": "Command Not Found",
+    "help.command-notfound.description": "When searching for command, we did not find it, look at it again in the general list of commands",
+    "help.command-invalid.title": "The command is invalid",
+    "help.command-invalid.description": "Most likely you entered the name of the team incorrectly, perhaps it contains some strange characters"
+}

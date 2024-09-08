@@ -1,0 +1,7 @@
+{
+    "activiti.failed": "This activity is unavailable or does not work",
+    "activiti.embed.title": "**The activity has been successfully created!**",
+    "activiti.embed.description": "However, some types of activities may not be available for your server if the boost level does not meet the activity requirements.",
+    "activiti.fields.label": "Activity name",
+    "activiti.fields.max-user": "Maximum number of users"
+}

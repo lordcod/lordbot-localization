@@ -1,0 +1,8 @@
+{
+    "commands.command.purge user.description": "Clears the chat a specified number of times after the specified user sends a message.",
+    "commands.command.purge user.brief": "Clears the chat a specified number of times after the specified user sends a message.",
+    "commands.command.purge user.arguments.0": "<member>",
+    "commands.command.purge user.arguments.1": "<limit>",
+    "commands.command.purge user.examples.0.use": "purge user @lordcode 10",
+    "commands.command.purge user.examples.0.desc": "Clear the last 10 messages sent by the lordcode member in the channel"
+}

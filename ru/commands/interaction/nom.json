@@ -1,0 +1,5 @@
+{
+    "commands.reactions.nom.description": "Nom.",
+    "commands.reactions.nom.user": "{author} contentedly chews with {user}, enjoying the taste.",
+    "commands.reactions.nom.not_user": "{author} contentedly chews."
+}

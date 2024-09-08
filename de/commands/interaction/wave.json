@@ -1,0 +1,4 @@
+{
+    "commands.reactions.wave.description": "Wave.",
+    "commands.reactions.wave.user": "{author} waves at {user}, saying goodbye or greeting."
+}

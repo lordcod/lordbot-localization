@@ -1,0 +1,10 @@
+{
+    "settings.role-reaction.global.title": "Roles for reactions",
+    "settings.role-reaction.global.description": "This module will help you assign roles based on reactions",
+    "settings.role-reaction.role-view.select": "Select the reaction role you want to edit",
+    "settings.role-reaction.item.role-set-dropdown": "Select a role to delete or change",
+    "settings.role-reaction.item.role-dropdown": "Select the role that will be provided when you click on the reaction",
+    "settings.role-reaction.item.field": "Reactions",
+    "settings.role-reaction.selector.channel": "Find a channel to have the perfect way to use roles and reactions!",
+    "settings.role-reaction.selector.message": "Select the message that will display the reactions!"
+}

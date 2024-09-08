@@ -1,0 +1,5 @@
+{
+    "commands.command.rob.description": "A team to carry out the theft of money from another player's balance, at the risk of getting fines or going to jail.",
+    "commands.command.rob.brief": "A team to carry out the theft of money from another player's balance, at the risk of getting fines or going to jail.",
+    "commands.command.rob.arguments.0": "<member>"
+}

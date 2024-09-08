@@ -1,0 +1,10 @@
+{
+    "commands.command.pay.description": "Transfers the specified amount to the selected participant",
+    "commands.command.pay.brief": "Transfers money",
+    "commands.command.pay.arguments.0": "<member>",
+    "commands.command.pay.arguments.1": "<amount>",
+    "commands.command.pay.examples.0.use": "pay @lordcode 100",
+    "commands.command.pay.examples.0.desc": "Transfers 100 coins to the account of the lordcode participant",
+    "commands.command.pay.examples.1.use": "pay 636824998123798531 100",
+    "commands.command.pay.examples.1.desc": "Transfers 100 coins to the participant's account from ID 636824998123798531"
+}

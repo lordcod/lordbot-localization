@@ -1,0 +1,6 @@
+{
+    "economy.take.error.negative": "The amount must be positive",
+    "economy.take.error.bank.unenough": "The operation cannot be performed because the bank balance will become negative during it, if you want to write off the entire currency, pass the value `all` to the account",
+    "economy.take.error.balance.unenough": "The operation cannot be performed because the balance will become negative during it. If you want to debit the entire currency, transfer the value `all` to the account.",
+    "economy.take.success": "You have withdrawn an amount of **{amount:,}**{emoji} from **{member}**"
+}

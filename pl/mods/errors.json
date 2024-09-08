@@ -1,0 +1,18 @@
+{
+    "errors.MissingPermissions": "You don't have enough rights",
+    "errors.MissingRole": "You don't have a suitable role to execute the command",
+    "errors.MissingChannel": "You cannot execute this command in this channel",
+    "errors.NotOwner": "This command is intended for the bot owner",
+    "errors.CommandNotFound": "There is no such command",
+    "errors.CheckFailure": "You don't fulfill all the conditions",
+    "errors.BadArgument": "Invalid argument entered",
+    "errors.DisabledCommand": "This command is disabled on the server",
+    "errors.MissingRequiredArgument": "You didn't enter a required argument",
+    "errors.InactiveEconomy": "The economy system is disabled on the server",
+    "errors.OnlyTeamError": "This command can only be used by the bot team",
+    "errors.MemberNotFound": "The participant could not be found",
+    "errors.CommandOnCooldown.title": "The command is on hold",
+    "errors.CommandOnCooldown.description": "Try again after {delay}.",
+    "errors.DisabledEconomy": "The economy system is disabled on the server",
+    "errors.BotMissingPermissions": "The bot doesn't have enough rights"
+}

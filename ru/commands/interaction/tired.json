@@ -1,0 +1,5 @@
+{
+    "commands.reactions.tired.description": "Tired.",
+    "commands.reactions.tired.user": "{author} tiredly blinks in response to {user}, feeling exhausted.",
+    "commands.reactions.tired.not_user": "{author} is tired."
+}
