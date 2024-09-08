@@ -1,8 +1,0 @@
-{
-    "commands.command.purge user.description": "Borra el chat una cantidad específica de veces después de que el usuario especificado envía un mensaje.",
-    "commands.command.purge user.brief": "Borra el chat una cantidad específica de veces después de que el usuario especificado envía un mensaje.",
-    "commands.command.purge user.arguments.0": "<member>",
-    "commands.command.purge user.arguments.1": "<limit>",
-    "commands.command.purge user.examples.0.use": "purge user @lordcode 10",
-    "commands.command.purge user.examples.0.desc": "Borra los últimos 10 mensajes enviados por el miembro de Lordcode en el canal."
-}

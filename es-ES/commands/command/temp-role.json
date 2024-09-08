@@ -1,9 +1,0 @@
-{
-    "commands.command.temp-role.description": "Agrega roles a un determinado participante por un tiempo o para siempre\nPuedes resumir los roles\nLa hora se indica en el formato` 1d1h1m1s' los valores se pueden combinar y también duplicar, por ejemplo `1d2h1d`\n\nEjemplo:",
-    "commands.command.temp-role.brief": "Agrega roles a un determinado participante por un tiempo o para siempre",
-    "commands.command.temp-role.arguments.0": "<member>",
-    "commands.command.temp-role.arguments.1": "<role>",
-    "commands.command.temp-role.arguments.2": "<time>",
-    "commands.command.temp-role.examples.0.use": "temp-role @lordcode @role 12h",
-    "commands.command.temp-role.examples.0.desc": "Emite el rol de rol durante 12 horas al participante lordcode."
-}

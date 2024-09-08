@@ -1,5 +1,0 @@
-{
-    "commands.reactions.stare.description": "Mirada fija.",
-    "commands.reactions.stare.user": "{author} looks at {user} attentively and with interest, waiting for a response.",
-    "commands.reactions.stare.not_user": "{author} looks attentively."
-}

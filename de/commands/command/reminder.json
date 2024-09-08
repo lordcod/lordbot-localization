@@ -1,8 +1,0 @@
-{
-    "commands.command.reminder.description": "Es erinnert Sie zu einem bestimmten Zeitpunkt an den angegebenen Text",
-    "commands.command.reminder.brief": "Es erinnert Sie zu einem bestimmten Zeitpunkt an den angegebenen Text",
-    "commands.command.reminder.arguments.0": "<Time>",
-    "commands.command.reminder.arguments.1": "<text>",
-    "commands.command.reminder.examples.0.use": "reminder 14d daily reward",
-    "commands.command.reminder.examples.0.desc": "Um Sie nach 14 Tagen an die tägliche Belohnung zu erinnern"
-}

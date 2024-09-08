@@ -1,5 +1,0 @@
-{
-    "commands.reactions.pout.description": "Надувать губы.",
-    "commands.reactions.pout.user": "{author} грустно губами тянет к {user}, выражая свое разочарование.",
-    "commands.reactions.pout.not_user": "{author} хмурится."
-}

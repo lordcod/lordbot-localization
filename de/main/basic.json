@@ -1,5 +1,0 @@
-{
-    "basic.ping.description": "Discord latency: {discord_latency_ms}ms\nDatabases latency: {databases_latency_ms}ms\nCommand processing latency: {command_latency_ms}ms\nShard id: {shard_id}",
-    "basic.avatar.description": "Avatar of the {member} member",
-    "basic.invite.description": "[**Click to add to your server**]({invite_link})"
-}

@@ -1,5 +1,0 @@
-{
-    "settings.prefix.title": "Préfixe",
-    "settings.prefix.description": "Définition du préfixe auquel le bot répondra lors de l'appel de la commande.",
-    "settings.prefix.current": "Le préfixe actuel est {prefix}"
-}

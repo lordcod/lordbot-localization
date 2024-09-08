@@ -1,5 +1,0 @@
-{
-    "commands.reactions.mad.description": "Loco.",
-    "commands.reactions.mad.user": "{author} angrily looks at {user}, expressing irritation.",
-    "commands.reactions.mad.not_user": "{author} is angry."
-}

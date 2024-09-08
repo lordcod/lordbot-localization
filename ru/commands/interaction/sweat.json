@@ -1,5 +1,0 @@
-{
-    "commands.reactions.sweat.description": "Пот.",
-    "commands.reactions.sweat.user": "{author} потеет, глядя на {user}, испытывая стресс или тревогу.",
-    "commands.reactions.sweat.not_user": "{author} потеет."
-}

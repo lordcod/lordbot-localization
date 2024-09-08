@@ -1,7 +1,0 @@
-{
-    "interaction.error.command": "There's been some kind of mistake!\nCheck if the bot has the necessary permissions to execute this command!\nError ID (required for support): specify the name of the commands\nIf you couldn't figure out what's going on, contact the [support server]({DISCORD_SUPPORT_SERVER})!",
-    "interaction.error.item": "There's been some kind of mistake!\nCheck if the bot has the necessary permissions to execute this command!\nError ID (required for support): {custom_id}\nIf you couldn't figure out what's going on, contact the [support server]({DISCORD_SUPPORT_SERVER})!",
-    "interaction.error.expired.title": "The interaction time has expired",
-    "interaction.error.expired.description": "If you need to use the interaction, call the associated command",
-    "interaction.error.expired.support": "If necessary, contact [support]({DISCORD_SUPPORT_SERVER})"
-}

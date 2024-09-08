@@ -1,5 +1,0 @@
-{
-    "commands.reactions.shy.description": "Скромный.",
-    "commands.reactions.shy.user": "{author} стеснительно улыбается {user}, испытывая смущение.",
-    "commands.reactions.shy.not_user": "{author} стесняется."
-}

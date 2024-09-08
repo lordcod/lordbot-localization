@@ -1,5 +1,0 @@
-{
-    "commands.reactions.sneeze.description": "Чих.",
-    "commands.reactions.sneeze.user": "{author} чихает вместе с {user}, испытывая небольшое недомогание.",
-    "commands.reactions.sneeze.not_user": "{author} чихает."
-}

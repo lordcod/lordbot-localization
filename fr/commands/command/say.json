@@ -1,9 +1,0 @@
-{
-    "commands.command.say.description": "Envoie un message au nom du bot en utilisant un unique [**constructeur d'intégration**](<https://lordcord.fun/embed-builder>) ou texte brut",
-    "commands.command.say.brief": "Envoie un message",
-    "commands.command.say.arguments.0": "<text/json>",
-    "commands.command.say.examples.0.use": "say Hello",
-    "commands.command.say.examples.0.desc": "Envoyez « Bonjour » au chat en cours.",
-    "commands.command.say.examples.1.use": "say {\"title\": \"Hello\"}",
-    "commands.command.say.examples.1.desc": "Envoyez l'intégration avec le titre « Bonjour » au chat actuel."
-}

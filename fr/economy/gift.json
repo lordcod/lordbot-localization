@@ -1,5 +1,0 @@
-{
-    "economy.gift.error.negative": "The amount must be positive",
-    "economy.gift.success.member": "You have transferred the amount of **{amount:,}**{emoji} to **{member}**",
-    "economy.gift.success.role": "You have transferred an amount of **{amount:,}**{emoji} to the account of the players with the role **@{role}**"
-}

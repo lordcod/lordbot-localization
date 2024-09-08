@@ -1,5 +1,0 @@
-{
-    "commands.reactions.tired.description": "Усталый.",
-    "commands.reactions.tired.user": "{author} уставленно моргает в ответ на {user}, испытывая усталость.",
-    "commands.reactions.tired.not_user": "{author} уставший."
-}

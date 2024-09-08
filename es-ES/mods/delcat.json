@@ -1,7 +1,0 @@
-{
-    "delcat.issue.title": "¿Está seguro?",
-    "delcat.issue.description": "Esto eliminará permanentemente la categoría {category} y cada canal dentro de ella.",
-    "delcat.accept.title": "#{category} Categoría eliminada",
-    "delcat.accept.description": "Y también de forma remota {count} canales que estaban en la categoría",
-    "delcat.cancel.title": "Eliminación de categoría cancelada"
-}

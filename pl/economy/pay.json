@@ -1,6 +1,0 @@
-{
-    "economy.pay.error.negative": "Określ kwotę więcej **0**",
-    "economy.pay.error.unenough": "Zbyt mało środków, aby sprawdzić swoje saldo 'Saldo{prefix}'",
-    "economy.pay.success.title": "Przekazywanie waluty",
-    "economy.pay.success.description": "**{author}** przeniósł {amount}{emoji} na **{member}** konto"
-}

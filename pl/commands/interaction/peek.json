@@ -1,5 +1,0 @@
-{
-    "commands.reactions.peek.description": "Zajrzeć.",
-    "commands.reactions.peek.user": "{author} quickly peeks along with {user}, hiding from someone or something.",
-    "commands.reactions.peek.not_user": "{author} peeks."
-}

@@ -1,5 +1,0 @@
-{
-    "commands.command.roulette.description": "Ein Team zum Spielen von Roulette.Die Spieler setzen ihre Chips auf Zahlen oder Farben und erwarten, wo der Ball aufhört.",
-    "commands.command.roulette.brief": "Ein Team zum Spielen von Roulette.Die Spieler setzen ihre Chips auf Zahlen oder Farben und erwarten, wo der Ball aufhört.",
-    "commands.command.roulette.arguments.0": "<amount>"
-}

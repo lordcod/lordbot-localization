@@ -1,5 +1,0 @@
-{
-    "commands.command.seek.description": "Avec cette commande, vous pouvez rembobiner la piste jusqu'au temps dont vous avez besoin en quelques secondes, ce qui vous permet de naviguer avec précision aux moments qui vous intéressent. Spécifiez le nombre souhaité de secondes que vous souhaitez rembobiner et profiter du moment sélectionné.",
-    "commands.command.seek.brief": "Avec cette commande, vous pouvez rembobiner la piste jusqu'au temps dont vous avez besoin en quelques secondes, ce qui vous permet de naviguer avec précision aux moments qui vous intéressent. Spécifiez le nombre souhaité de secondes que vous souhaitez rembobiner et profiter du moment sélectionné.",
-    "commands.command.seek.arguments.0": "<seconds>"
-}

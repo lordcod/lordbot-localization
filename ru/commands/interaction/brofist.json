@@ -1,5 +1,0 @@
-{
-    "commands.reactions.brofist.description": "Кулак брата.",
-    "commands.reactions.brofist.user": "{author} сочувственно дает кулаком по кулаку {user}, выражая дружескую поддержку.",
-    "commands.reactions.brofist.not_user": "{author} подает кулак."
-}

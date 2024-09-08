@@ -1,5 +1,0 @@
-{
-    "commands.command.rob.description": "Une équipe pour réaliser le vol d'argent du solde d'un autre joueur, au risque d'obtenir des amendes ou d'aller en prison.",
-    "commands.command.rob.brief": "Une équipe pour réaliser le vol d'argent du solde d'un autre joueur, au risque d'obtenir des amendes ou d'aller en prison.",
-    "commands.command.rob.arguments.0": "<member>"
-}

@@ -1,4 +1,0 @@
-{
-    "commands.command.ping.description": "Показывает производительность и текущее состояние бота",
-    "commands.command.ping.brief": "Текущая задержка бота"
-}

@@ -1,5 +1,0 @@
-{
-    "commands.command.roulette.description": "Rulet oynamak için bir ekip.Oyuncular cipslerini sayılara veya renklere koyar ve topun nerede duracağını beklerler.",
-    "commands.command.roulette.brief": "Rulet oynamak için bir ekip.Oyuncular cipslerini sayılara veya renklere koyar ve topun nerede duracağını beklerler.",
-    "commands.command.roulette.arguments.0": "<amount>"
-}

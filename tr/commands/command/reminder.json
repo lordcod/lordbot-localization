@@ -1,8 +1,0 @@
-{
-    "commands.command.reminder.description": "Belirli bir zamanda belirtilen metni hatırlatır",
-    "commands.command.reminder.brief": "Belirli bir zamanda belirtilen metni hatırlatır",
-    "commands.command.reminder.arguments.0": "<Time>",
-    "commands.command.reminder.arguments.1": "<Text>",
-    "commands.command.reminder.examples.0.use": "reminder 14d daily reward",
-    "commands.command.reminder.examples.0.desc": "14 gün sonra günlük ödül hakkında hatırlatmak için"
-}

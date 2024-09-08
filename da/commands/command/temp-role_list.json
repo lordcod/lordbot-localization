@@ -1,9 +1,0 @@
-{
-    "commands.command.temp-role list.description": "Indeholder en liste over midlertidige roller for serveren eller medlemmet.\nHvis `member` ikke er angivet, viser den en liste over alle midlertidige roller på serveren.\nHvis det er angivet, viser det kun de roller, der tilhører deltageren.\nDe roller, der er tildelt, vises altid ikke på listen.",
-    "commands.command.temp-role list.brief": "Indeholder en liste over midlertidige roller for serveren eller medlemmet",
-    "commands.command.temp-role list.arguments.0": "[member]",
-    "commands.command.temp-role list.examples.0.use": "temp-role list",
-    "commands.command.temp-role list.examples.0.desc": "Viser alle midlertidige roller",
-    "commands.command.temp-role list.examples.1.use": "temp-role list @lordcode",
-    "commands.command.temp-role list.examples.1.desc": "Viser alle midlertidige roller, der er tildelt lordcode-medlemmet"
-}

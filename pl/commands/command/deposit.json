@@ -1,9 +1,0 @@
-{
-    "commands.command.deposit.description": "Przekazuje wprowadzoną kwotę pieniędzy do banku chroniącego twoje środki przed rabunkiem",
-    "commands.command.deposit.brief": "Przekazuje wprowadzoną kwotę pieniędzy do banku",
-    "commands.command.deposit.arguments.0": "<amount>",
-    "commands.command.deposit.examples.0.use": "deposit 100",
-    "commands.command.deposit.examples.0.desc": "Przekazuje 100 monet do banku",
-    "commands.command.deposit.examples.1.use": "deposit all",
-    "commands.command.deposit.examples.1.desc": "Przekazuje wszystkie monety do banku"
-}

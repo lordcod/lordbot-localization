@@ -1,5 +1,0 @@
-{
-    "commands.reactions.shout.description": "Кричать.",
-    "commands.reactions.shout.user": "{author} кричит на {user}, выражая свою ярость или недовольство.",
-    "commands.reactions.shout.not_user": "{author} кричит."
-}

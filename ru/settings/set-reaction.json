@@ -1,8 +1,0 @@
-{
-    "settings.set-reaction.modal.emoji": "Эмодзи",
-    "settings.set-reaction.modal.error": "Вы ввели некорректные эмодзи",
-    "settings.set-reaction.button.use-modal": "Использовать модальное окно",
-    "settings.set-reaction.content": "Установить реакцию!",
-    "settings.set-reaction.error.timeout": "У вас нет времени указывать эмодзи, используйте взаимодействие заново",
-    "settings.set-reaction.error.located": "К сожалению, я не могу использовать этот эмодзи, проверьте что я есть на сервере, где расположены эти эмодзи"
-}

@@ -1,7 +1,0 @@
-{
-    "activiti.failed": "Cette activité n'est pas disponible ou ne fonctionne pas",
-    "activiti.embed.title": "L'activité a été créée avec succès !",
-    "activiti.embed.description": "Cependant, certains types d'activités peuvent ne pas être disponibles pour votre serveur si le niveau de boost ne répond pas aux exigences d'activité.",
-    "activiti.fields.label": "Nom de l'activité",
-    "activiti.fields.max-user": "Nombre maximum d'utilisateurs"
-}

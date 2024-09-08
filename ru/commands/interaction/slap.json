@@ -1,5 +1,0 @@
-{
-    "commands.reactions.slap.description": "Пощечина.",
-    "commands.reactions.slap.user": "{author} жестко хлопает {user}, выражая свое недовольство или раздражение.",
-    "commands.reactions.slap.not_user": "{author} жестко хлопает."
-}

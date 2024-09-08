@@ -1,5 +1,0 @@
-{
-    "commands.reactions.peek.description": "Подглядывать.",
-    "commands.reactions.peek.user": "{author} быстро заглядывает взглядом вместе с {user}, прятаясь от кого-то или что-то.",
-    "commands.reactions.peek.not_user": "{author} заглядывает."
-}

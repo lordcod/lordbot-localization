@@ -1,5 +1,0 @@
-{
-    "commands.reactions.nosebleed.description": "Krwawienie z nosa.",
-    "commands.reactions.nosebleed.user": "{author} notices {user} and starts nosebleeding, feeling excitement.",
-    "commands.reactions.nosebleed.not_user": "{author} starts nosebleeding."
-}

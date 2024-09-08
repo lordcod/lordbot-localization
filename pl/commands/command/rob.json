@@ -1,5 +1,0 @@
-{
-    "commands.command.rob.description": "Zespół, który wykonuje kradzież pieniędzy z salda innego gracza, ryzykując grzywną lub pójściem do więzienia.",
-    "commands.command.rob.brief": "Zespół, który wykonuje kradzież pieniędzy z salda innego gracza, ryzykując grzywną lub pójściem do więzienia.",
-    "commands.command.rob.arguments.0": "<member>"
-}

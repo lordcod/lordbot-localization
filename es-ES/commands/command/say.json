@@ -1,9 +1,0 @@
-{
-    "commands.command.say.description": "Envía un mensaje en nombre del bot usando un único [**constructor de incrustaciones**](<https://lordcord.fun/embed-builder>) o texto sin formato",
-    "commands.command.say.brief": "Envía un mensaje",
-    "commands.command.say.arguments.0": "<text/json>",
-    "commands.command.say.examples.0.use": "say Hello",
-    "commands.command.say.examples.0.desc": "Envía \"Hola\" al chat actual.",
-    "commands.command.say.examples.1.use": "say {\"title\": \"Hello\"}",
-    "commands.command.say.examples.1.desc": "Enviar inserción con el título \"Hola\" al chat actual."
-}

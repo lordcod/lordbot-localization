@@ -1,9 +1,0 @@
-{
-    "commands.command.deposit.description": "Überweist den eingegebenen Geldbetrag an die Bank, um Ihr Geld vor Raub zu schützen",
-    "commands.command.deposit.brief": "Überweist den eingegebenen Geldbetrag an die Bank",
-    "commands.command.deposit.arguments.0": "<amount>",
-    "commands.command.deposit.examples.0.use": "deposit 100",
-    "commands.command.deposit.examples.0.desc": "Überweist 100 Münzen an die Bank",
-    "commands.command.deposit.examples.1.use": "deposit all",
-    "commands.command.deposit.examples.1.desc": "Überträgt alle Münzen an die Bank"
-}

@@ -1,7 +1,0 @@
-{
-    "reminder.error.time": "Debe especificar una hora que sea posterior a la hora actual.",
-    "reminder.success": "🛎️ Vale, te mencionaré aquí en <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
-    "reminder.embed.title": "🛎️ Recordatorio",
-    "reminder.embed.description": "Hace {time} me pediste que te lo recordara",
-    "reminder.embed.field": "Recordatorio"
-}

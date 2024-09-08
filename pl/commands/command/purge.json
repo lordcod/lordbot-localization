@@ -1,7 +1,0 @@
-{
-    "commands.command.purge.description": "Czyści czat określoną liczbę razy",
-    "commands.command.purge.brief": "Czyści czat określoną liczbę razy",
-    "commands.command.purge.arguments.0": "<limit>",
-    "commands.command.purge.examples.0.use": "purge 10",
-    "commands.command.purge.examples.0.desc": "Wyczyść ostatnie 10 wiadomości na kanale"
-}

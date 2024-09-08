@@ -1,4 +1,0 @@
-{
-    "commands.command.ping.description": "Affiche les performances et l'état actuel du bot",
-    "commands.command.ping.brief": "Délai actuel du bot"
-}

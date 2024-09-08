@@ -1,9 +1,0 @@
-{
-    "commands.command.temp-role list.description": "Предоставляет список временных ролей для сервера или участника.\nЕсли `member` не указан, то отображается список всех временных ролей на сервере.\nЕсли указано, то отображаются только те роли, которые принадлежат участнику.\nРоли назначенные на всегда не отображаются в списке.",
-    "commands.command.temp-role list.brief": "Предоставляет список временных ролей для сервера или участника",
-    "commands.command.temp-role list.arguments.0": "[участник]",
-    "commands.command.temp-role list.examples.0.use": "temp-role list",
-    "commands.command.temp-role list.examples.0.desc": "Показывает все временные роли",
-    "commands.command.temp-role list.examples.1.use": "temp-role list @lordcode",
-    "commands.command.temp-role list.examples.1.desc": "Показывает все временные роли, назначенные участнику лордкода."
-}

@@ -1,5 +1,0 @@
-{
-    "commands.reactions.mad.description": "Сердитый.",
-    "commands.reactions.mad.user": "{author} сердито смотрит на {user}, выражая свое раздражение.",
-    "commands.reactions.mad.not_user": "{author} сердится."
-}

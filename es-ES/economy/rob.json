@@ -1,8 +1,0 @@
-{
-    "economy.rob.title": "Robo",
-    "economy.rob.error.early": "{member} puedes robar ahora pasa por <t:{time:.0f}:R>.",
-    "economy.rob.success.mini": "**{author}**, pudiste robar de **{member}** una {calculated_debt:,.0f}{emoji}, pero la víctima perdió la {debt:,.0f}{emoji}.",
-    "economy.rob.success.full": "**{author}**, pudiste robar de **{member}** una {debt:,.0f}{emoji}.",
-    "economy.rob.success.failure": "**{author}**, no pudiste robarle nada a **{member}** durante el robo, pero perdiste {debt:,.0f}{emoji}.\nY también te metieron en la cárcel por <t:{conclusion:.0f}:R>.",
-    "economy.rob.disabled": "¡El robo {Emoji.cross} está deshabilitado en este servidor!"
-}

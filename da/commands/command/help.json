@@ -1,7 +1,0 @@
-{
-    "commands.command.help.description": "En kommando, der beskriver botens funktioner",
-    "commands.command.help.brief": "Det nuværende hold",
-    "commands.command.help.arguments.0": "[command]",
-    "commands.command.help.examples.0.use": "help ping",
-    "commands.command.help.examples.0.desc": "Viser hjælp om kommandoen `ping`"
-}

@@ -1,6 +1,0 @@
-{
-    "economy.work.success.title": "Tiempo para trabajar",
-    "economy.work.success.description": "Ven a trabajar a través de <t:{time:.0f}:R>",
-    "economy.work.error.early.title": "Es demasiado pronto para trabajar",
-    "economy.work.error.early.description": "Inténtalo de nuevo después de <t:{time:.0f}:R>"
-}

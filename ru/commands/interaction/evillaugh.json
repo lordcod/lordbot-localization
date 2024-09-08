@@ -1,5 +1,0 @@
-{
-    "commands.reactions.evillaugh.description": "Злобный смех.",
-    "commands.reactions.evillaugh.user": "{author} злобно смеется над {user}, выражая свою злость и насмешку.",
-    "commands.reactions.evillaugh.not_user": "{author} злобно смеется."
-}

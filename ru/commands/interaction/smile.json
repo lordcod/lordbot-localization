@@ -1,5 +1,0 @@
-{
-    "commands.reactions.smile.description": "Улыбка.",
-    "commands.reactions.smile.user": "{author} дружелюбно улыбается {user}, выражая свою радость и доброжелательность.",
-    "commands.reactions.smile.not_user": "{author} улыбается."
-}

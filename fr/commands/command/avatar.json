@@ -1,9 +1,0 @@
-{
-    "commands.command.avatar.description": "Montre l'avatar du participant!",
-    "commands.command.avatar.brief": "Montre l'avatar du participant!",
-    "commands.command.avatar.arguments.0": "[membre]",
-    "commands.command.avatar.examples.0.use": "avatar @lordcode",
-    "commands.command.avatar.examples.0.desc": "Il montrera l'avatar du participant avec le nom d'utilisateur Lordcode",
-    "commands.command.avatar.examples.1.use": "avatar 636824998123798531",
-    "commands.command.avatar.examples.1.desc": "Il montrera l'avatar du participant avec l'ID 636824998123798531"
-}

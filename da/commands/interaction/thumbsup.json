@@ -1,5 +1,0 @@
-{
-    "commands.reactions.thumbsup.description": "Tomme op.",
-    "commands.reactions.thumbsup.user": "{author} gives a thumbs-up to {user}, showing approval.",
-    "commands.reactions.thumbsup.not_user": "{author} gives a thumbs-up."
-}

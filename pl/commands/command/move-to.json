@@ -1,7 +1,0 @@
-{
-    "commands.command.move-to.description": "Przełączy się na tor w kolejce",
-    "commands.command.move-to.brief": "Przełączy się na tor w kolejce",
-    "commands.command.move-to.arguments.0": "<indeks>",
-    "commands.command.move-to.examples.0.use": "move 5",
-    "commands.command.move-to.examples.0.desc": "Zacznie produkować 5 utworów w kolejce"
-}

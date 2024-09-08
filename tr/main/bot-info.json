@@ -1,5 +1,0 @@
-{
-    "bot-info.title": "{name} bu çok işlevli bir bottur",
-    "bot-info.description": "Bot, sunucu yönetimini kolaylaştırmak için tasarlanmıştır ve çeşitli otomasyon araçlarıyla donatılmıştır.",
-    "bot-info.assembly": "Version: `{version}`\nHash: `{hash}`\nBuild Date: <t:{time}:D> (<t:{time}:R>)"
-}

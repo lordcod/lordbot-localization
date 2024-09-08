@@ -1,5 +1,0 @@
-{
-    "purge.error.limit": "El número máximo de mensajes a borrar es `250`",
-    "purge.error.channel": "Para aprovechar esto, necesita seleccionar mensajes en un canal.",
-    "purge.success": "Eliminado {lenght} mensaje(s)"
-}

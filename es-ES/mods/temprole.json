@@ -1,8 +1,0 @@
-{
-    "temprole.global.action": "Tiempo de acción",
-    "temprole.change.title": "La duración del rol ha sido cambiada",
-    "temprole.change.role": "Rol",
-    "temprole.created.title": "¡Bloqueo temporal concedido!",
-    "temprole.list.nf": "No hay roles temporales registrados en este servidor",
-    "temprole.list.title": "Rol temporal"
-}

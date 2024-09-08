@@ -1,7 +1,0 @@
-{
-    "commands.command.purge.description": "Löscht den Chat die angegebene Anzahl von Malen",
-    "commands.command.purge.brief": "Löscht den Chat die angegebene Anzahl von Malen",
-    "commands.command.purge.arguments.0": "<limit>",
-    "commands.command.purge.examples.0.use": "purge 10",
-    "commands.command.purge.examples.0.desc": "Löschen Sie die letzten 10 Nachrichten im Kanal"
-}

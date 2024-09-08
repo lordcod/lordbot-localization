@@ -1,7 +1,0 @@
-{
-    "reminder.error.time": "You must specify a time that is later than the current time.",
-    "reminder.success": "🛎️ OK, I'll mention you here on <t:{time_now:.0f}:f> (<t:{time_now:.0f}:R>)",
-    "reminder.embed.title": "🛎️ Reminder",
-    "reminder.embed.description": "{time} ago you asked me to remind you",
-    "reminder.embed.field": "Remind"
-}

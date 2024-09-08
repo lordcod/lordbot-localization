@@ -1,5 +1,0 @@
-{
-    "commands.reactions.thumbsup.description": "Pulgar arriba.",
-    "commands.reactions.thumbsup.user": "{author} gives a thumbs-up to {user}, showing approval.",
-    "commands.reactions.thumbsup.not_user": "{author} gives a thumbs-up."
-}

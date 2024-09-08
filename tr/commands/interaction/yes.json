@@ -1,5 +1,0 @@
-{
-    "commands.reactions.yes.description": "Evet.",
-    "commands.reactions.yes.user": "{author} nods affirmatively at {user}, expressing agreement or approval.",
-    "commands.reactions.yes.not_user": "{author} nods affirmatively."
-}

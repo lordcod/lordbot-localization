@@ -1,6 +1,0 @@
-{
-    "settings.start.title": "Konfigurieren der Bot-Module.",
-    "settings.start.choose": "Wählen Sie Einstellungen...",
-    "settings.start.description": "Interagieren Sie mit dem Auswahl-Dropdown-Menü, um den Server zu konfigurieren.",
-    "settings.start.request": "Anfrage von {name}"
-}

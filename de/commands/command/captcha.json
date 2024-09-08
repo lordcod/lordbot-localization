@@ -1,4 +1,0 @@
-{
-    "commands.command.captcha.description": "Zeigt ein Bild an, auf dem der Text verschlüsselt ist Innerhalb von 30 Sekunden muss der Benutzer das Captcha lösen",
-    "commands.command.captcha.brief": "Befehl testen"
-}

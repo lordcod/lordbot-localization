@@ -1,6 +1,0 @@
-{
-    "settings.color.not-valid": "Format kodu szesnastkowego jest nieprawidłowy",
-    "settings.color.title": "Kolor komunikatów systemowych",
-    "settings.color.description": "Podczas korzystania z poleceń bot domyślnie wyświetla wstawki, które mają niewidoczny kolor.\n\nMożesz ustawić kolor zgodnie z tematyką swojej społeczności.",
-    "settings.color.current": "Aktualny kolor"
-}

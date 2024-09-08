@@ -1,5 +1,0 @@
-{
-    "commands.command.rob.description": "Ein Team, um den Diebstahl von Geld aus dem Gleichgewicht eines anderen Spielers auszuführen, auf das Risiko, Geldstrafen zu bekommen oder ins Gefängnis zu gehen.",
-    "commands.command.rob.brief": "Ein Team, um den Diebstahl von Geld aus dem Gleichgewicht eines anderen Spielers auszuführen, auf das Risiko, Geldstrafen zu bekommen oder ins Gefängnis zu gehen.",
-    "commands.command.rob.arguments.0": "<member>"
-}

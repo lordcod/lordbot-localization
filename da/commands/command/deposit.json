@@ -1,9 +1,0 @@
-{
-    "commands.command.deposit.description": "Overfører det indtastede beløb til banken, der beskytter dine midler mod røveri",
-    "commands.command.deposit.brief": "Overfører det indtastede beløb til banken",
-    "commands.command.deposit.arguments.0": "<amount>",
-    "commands.command.deposit.examples.0.use": "deposit 100",
-    "commands.command.deposit.examples.0.desc": "Overfører 100 mønter til banken",
-    "commands.command.deposit.examples.1.use": "deposit all",
-    "commands.command.deposit.examples.1.desc": "Overfører alle mønter til banken"
-}

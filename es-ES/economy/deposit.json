@@ -1,6 +1,0 @@
-{
-    "economy.deposit.error.negative": "Especifique la cantidad más **0**",
-    "economy.deposit.error.unenough": "No hay suficientes fondos para verificar tu saldo usando ` balance{prefix}`",
-    "economy.deposit.success.title": "Transferencia de moneda",
-    "economy.deposit.success.description": "Has transferido **{monto:,}**{emoji} a la cuenta bancaria"
-}

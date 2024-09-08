@@ -1,5 +1,0 @@
-{
-    "commands.reactions.thumbsup.description": "Большой палец вверх.",
-    "commands.reactions.thumbsup.user": "{author} поднимает большой палец вверх перед {user}, показывая свое одобрение.",
-    "commands.reactions.thumbsup.not_user": "{author} поднимает большой палец вверх."
-}

@@ -1,5 +1,0 @@
-{
-    "commands.reactions.bleh.description": "Бле.",
-    "commands.reactions.bleh.user": "{author} отвратительно коснулся {user}, выражая свое неприятие.",
-    "commands.reactions.bleh.not_user": "{author} выражает отвращение."
-}

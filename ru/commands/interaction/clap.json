@@ -1,5 +1,0 @@
-{
-    "commands.reactions.clap.description": "Хлопать.",
-    "commands.reactions.clap.user": "{author} аплодирует {user}, выражая свою признательность.",
-    "commands.reactions.clap.not_user": "{author} аплодирует."
-}

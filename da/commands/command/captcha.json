@@ -1,4 +1,0 @@
-{
-    "commands.command.captcha.description": "Viser et billede, hvor teksten er krypteret inden for 30 sekunder brugeren skal løse captcha",
-    "commands.command.captcha.brief": "Testkommando"
-}

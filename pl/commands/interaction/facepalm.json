@@ -1,5 +1,0 @@
-{
-    "commands.reactions.facepalm.description": "Uderzenie w twarz.",
-    "commands.reactions.facepalm.user": "{author} facepalms because of {user}, expressing disappointment or surprise.",
-    "commands.reactions.facepalm.not_user": "{author} facepalms."
-}

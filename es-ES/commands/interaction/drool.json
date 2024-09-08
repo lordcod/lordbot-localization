@@ -1,5 +1,0 @@
-{
-    "commands.reactions.drool.description": "Babar.",
-    "commands.reactions.drool.user": "{author} drools while looking at {user}, feeling hungry.",
-    "commands.reactions.drool.not_user": "{author} drools."
-}

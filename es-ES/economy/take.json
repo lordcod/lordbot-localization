@@ -1,6 +1,0 @@
-{
-    "economy.take.error.negative": "La cantidad debe ser positiva",
-    "economy.take.error.bank.unenough": "La operación no se puede realizar porque el saldo bancario se tornará negativo durante la operación si quieres anular toda la moneda, pasar el valor `todo` a la cuenta",
-    "economy.take.error.balance.unenough": "La operación no se puede realizar porque el saldo bancario se tornará negativo durante la operación si quieres anular toda la moneda, pasar el valor `todo` a la cuenta.",
-    "economy.take.success": "Has transferido la cantidad de **{amount:,}**{emoji} a **{member}**"
-}

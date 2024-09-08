@@ -1,6 +1,0 @@
-{
-    "settings.color.not-valid": "Le format du code hexadécimal est incorrect",
-    "settings.color.title": "Couleur des messages système",
-    "settings.color.description": "Lorsque vous utilisez des commandes, le bot affiche les inserts qui ont une couleur invisible par défaut.\n\nVous pouvez définir votre couleur en fonction du thème de votre communauté.",
-    "settings.color.current": "Couleur actuelle"
-}

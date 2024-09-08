@@ -1,5 +1,0 @@
-{
-    "commands.reactions.bleh.description": "Bleh.",
-    "commands.reactions.bleh.user": "{author} disgustingly touched {user}, expressing their displeasure.",
-    "commands.reactions.bleh.not_user": "{author} expresses disgust."
-}

@@ -1,9 +1,0 @@
-{
-    "commands.command.say.description": "Wysyła wiadomość w imieniu bota za pomocą unikalnego [**embed builder**](<https://lordcord.fun/embed-builder>) lub zwykły tekst",
-    "commands.command.say.brief": "Wysyła wiadomość",
-    "commands.command.say.arguments.0": "<text/json>",
-    "commands.command.say.examples.0.use": "say Hello",
-    "commands.command.say.examples.0.desc": "Wyślij „Witam” do bieżącego czatu.",
-    "commands.command.say.examples.1.use": "say {\"title\": \"Hello\"}",
-    "commands.command.say.examples.1.desc": "Wyślij osadzenie z tytułem „Witam” do bieżącego czatu."
-}

@@ -1,5 +1,0 @@
-{
-    "commands.reactions.woah.description": "Woah.",
-    "commands.reactions.woah.user": "{author} exclaims 'Wow!' in response to {user}, expressing surprise or admiration.",
-    "commands.reactions.woah.not_user": "{author} exclaims 'Wow!'"
-}

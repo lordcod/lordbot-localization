@@ -1,5 +1,0 @@
-{
-    "commands.reactions.roll.description": "Rodar.",
-    "commands.reactions.roll.user": "{author} rolls their eyes in response to {user}, expressing displeasure or fatigue.",
-    "commands.reactions.roll.not_user": "{author} rolls their eyes."
-}

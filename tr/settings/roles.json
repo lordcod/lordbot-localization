@@ -1,6 +1,0 @@
-{
-    "settings.roles.error.default": "The @everyone role is the default role for all users and can't be selected.",
-    "settings.roles.error.premium": "The {role} role is a role that is used by subscribers of your server.",
-    "settings.roles.error.integration": "The {role} role cannot be assigned and is used for integration or by a bot.",
-    "settings.roles.error.assignable": "The bot will not be able to assign the role {role}, as that role is lower than the bot's. To resolve this issue, please move the role {bot_role} to a higher position than {role}."
-}

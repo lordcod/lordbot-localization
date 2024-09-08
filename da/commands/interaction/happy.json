@@ -1,5 +1,0 @@
-{
-    "commands.reactions.happy.description": "Lykkelig.",
-    "commands.reactions.happy.user": "{author} smiles happily at {user}, showing their happiness.",
-    "commands.reactions.happy.not_user": "{author} smiles happily."
-}

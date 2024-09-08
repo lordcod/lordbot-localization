@@ -1,5 +1,0 @@
-{
-    "commands.reactions.pout.description": "Pout.",
-    "commands.reactions.pout.user": "{author} sadly pouts at {user}, expressing disappointment.",
-    "commands.reactions.pout.not_user": "{author} pouts."
-}

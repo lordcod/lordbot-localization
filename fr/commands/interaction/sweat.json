@@ -1,5 +1,0 @@
-{
-    "commands.reactions.sweat.description": "Transpiration.",
-    "commands.reactions.sweat.user": "{author} sweats while looking at {user}, feeling stress or anxiety.",
-    "commands.reactions.sweat.not_user": "{author} sweats."
-}

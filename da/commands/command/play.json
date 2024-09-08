@@ -1,9 +1,0 @@
-{
-    "commands.command.play.description": "Begynder at afspille musik indstillet af brugeren\nSom en sky med musik er [**Yandeks Musik**](<https://music.yandex.ru>)",
-    "commands.command.play.brief": "Begynder at spille musik",
-    "commands.command.play.arguments.0": "<title/url>",
-    "commands.command.play.examples.0.use": "play A Sky Full of Stars",
-    "commands.command.play.examples.0.desc": "Kør en søgning efter sangen \"A Sky Full of Stars\", og den vil bede dig om at vælge den ønskede forfatter.",
-    "commands.command.play.examples.1.use": "play https://music.yandex.ru/album/2207193/track/17646450",
-    "commands.command.play.examples.1.desc": "Start sangen fra det angivne link."
-}

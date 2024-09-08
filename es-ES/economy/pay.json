@@ -1,6 +1,0 @@
-{
-    "economy.pay.error.negative": "Especifique la cantidad más **0**",
-    "economy.pay.error.unenough": "No hay suficientes fondos para verificar tu saldo usando ` balance{prefix}`",
-    "economy.pay.success.title": "Transferencia de moneda",
-    "economy.pay.success.description": "**{author}** transfirió {amount}{emoji} a la cuenta **{member}**"
-}

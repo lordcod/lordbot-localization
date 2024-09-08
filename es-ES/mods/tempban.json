@@ -1,8 +1,0 @@
-{
-    "tempban.title": "¡Bloqueo temporal concedido!",
-    "tempban.description": "Baneado: {member} ({member_id})\nModerador: {author} ({author_id})",
-    "tempban.description.field.time": "Tiempo de acción",
-    "tempban.description.field.reason": "Razón",
-    "tempban.list.nf": "No hay roles temporales registrados en este servidor",
-    "tempban.list.title": "Baneos temporales"
-}

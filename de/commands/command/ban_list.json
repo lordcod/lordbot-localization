@@ -1,4 +1,0 @@
-{
-    "commands.command.ban list.description": "Gibt ein Blatt mit allen vorübergehenden Sperren aus, die vom Bot ausgesprochen wurden",
-    "commands.command.ban list.brief": "Gibt ein Blatt mit allen vorübergehenden Sperren aus, die vom Bot ausgesprochen wurden"
-}

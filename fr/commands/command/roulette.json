@@ -1,5 +1,0 @@
-{
-    "commands.command.roulette.description": "Une équipe pour jouer à la roulette.Les joueurs mettent leurs jetons sur des chiffres ou des couleurs et s'attendent à ce que le ballon s'arrête.",
-    "commands.command.roulette.brief": "Une équipe pour jouer à la roulette.Les joueurs mettent leurs jetons sur des chiffres ou des couleurs et s'attendent à ce que le ballon s'arrête.",
-    "commands.command.roulette.arguments.0": "<amount>"
-}

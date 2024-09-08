@@ -1,7 +1,0 @@
-{
-    "commands.command.help.description": "Botun işlevlerini açıklayan bir komut",
-    "commands.command.help.brief": "Mevcut takım",
-    "commands.command.help.arguments.0": "[command]",
-    "commands.command.help.examples.0.use": "help ping",
-    "commands.command.help.examples.0.desc": "'ping' komutuyla ilgili yardımı gösterir"
-}

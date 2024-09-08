@@ -1,5 +1,0 @@
-{
-    "commands.command.seek.description": "Bu komutla, parçayı saniyeler içinde ihtiyacınız olan zamana geri sarabilirsiniz, bu da ilgilendiğiniz anlarda doğru bir şekilde gezinmenizi sağlar. Seçilen anın tadını çıkarmak ve tadını çıkarmak istediğiniz istenen saniye sayısını belirtin.",
-    "commands.command.seek.brief": "Bu komutla, parçayı saniyeler içinde ihtiyacınız olan zamana geri sarabilirsiniz, bu da ilgilendiğiniz anlarda doğru bir şekilde gezinmenizi sağlar. Seçilen anın tadını çıkarmak ve tadını çıkarmak istediğiniz istenen saniye sayısını belirtin.",
-    "commands.command.seek.arguments.0": "<seconds>"
-}

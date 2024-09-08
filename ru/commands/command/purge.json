@@ -1,7 +1,0 @@
-{
-    "commands.command.purge.description": "Очищает чат указанное количество раз",
-    "commands.command.purge.brief": "Очищает чат указанное количество раз",
-    "commands.command.purge.arguments.0": "<лимит>",
-    "commands.command.purge.examples.0.use": "purge 10",
-    "commands.command.purge.examples.0.desc": "Очистить последние 10 сообщений в канале"
-}

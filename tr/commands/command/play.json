@@ -1,9 +1,0 @@
-{
-    "commands.command.play.description": "Kullanıcı tarafından ayarlanan müziği çalmaya başlar\nMüzikli bir bulut gibi [**Yandex Müzik**](<https://music.yandex.ru>)",
-    "commands.command.play.brief": "Müzik çalmaya başlar",
-    "commands.command.play.arguments.0": "<title/url>",
-    "commands.command.play.examples.0.use": "play A Sky Full of Stars",
-    "commands.command.play.examples.0.desc": "'A Sky Full of Stars' şarkısını arayın ve istediğiniz yazarı seçmenizi isteyecektir.",
-    "commands.command.play.examples.1.use": "play https://music.yandex.ru/album/2207193/track/17646450",
-    "commands.command.play.examples.1.desc": "Şarkıyı belirtilen bağlantıdan başlatın."
-}

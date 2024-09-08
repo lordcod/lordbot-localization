@@ -1,5 +1,0 @@
-{
-    "commands.reactions.blush.description": "Краснеть.",
-    "commands.reactions.blush.user": "{author} краснеет, глядя на {user}, ощущая нежные чувства.",
-    "commands.reactions.blush.not_user": "{author} краснеет."
-}

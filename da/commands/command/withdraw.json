@@ -1,9 +1,0 @@
-{
-    "commands.command.withdraw.description": "Omdirigerer dine penge fra banken tilbage til din konto\n\nBemærk, at hvis du mister dine penge, er det ikke muligt at returnere dem",
-    "commands.command.withdraw.brief": "Overfører beløbet tilbage til kontoen",
-    "commands.command.withdraw.arguments.0": "<amount>",
-    "commands.command.withdraw.examples.0.use": "withdraw 100",
-    "commands.command.withdraw.examples.0.desc": "Overfører 100 mønter fra banken tilbage til din konto",
-    "commands.command.withdraw.examples.1.use": "withdraw all",
-    "commands.command.withdraw.examples.1.desc": "Overfører alle mønter fra banken tilbage til din konto"
-}

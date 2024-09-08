@@ -1,5 +1,0 @@
-{
-    "commands.reactions.sip.description": "Глоток.",
-    "commands.reactions.sip.user": "{author} с удовольствием глотает напиток вместе с {user}, наслаждаясь вкусом.",
-    "commands.reactions.sip.not_user": "{author} глотает напиток."
-}

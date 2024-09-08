@@ -1,9 +1,0 @@
-{
-    "commands.command.say.description": "Bot adına benzersiz bir mesaj gönderir [**gömme oluşturucu**](<https://lordcord.fun/embed-builder>) veya düz metin",
-    "commands.command.say.brief": "Bir mesaj gönderir",
-    "commands.command.say.arguments.0": "<text/json>",
-    "commands.command.say.examples.0.use": "say Hello",
-    "commands.command.say.examples.0.desc": "Mevcut sohbete 'Merhaba' gönderin.",
-    "commands.command.say.examples.1.use": "say {\"title\": \"Hello\"}",
-    "commands.command.say.examples.1.desc": "Mevcut sohbete 'Merhaba' başlığını içeren yerleştirmeyi gönderin."
-}

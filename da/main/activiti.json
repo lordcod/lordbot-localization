@@ -1,7 +1,0 @@
-{
-    "activiti.failed": "Denne aktivitet er ikke tilgængelig eller virker ikke",
-    "activiti.embed.title": "Aktiviteten er blevet oprettet!",
-    "activiti.embed.description": "Nogle typer aktiviteter er dog muligvis ikke tilgængelige for din server, hvis boostniveauet ikke opfylder aktivitetskravene.",
-    "activiti.fields.label": "Aktivitetsnavn",
-    "activiti.fields.max-user": "Maksimalt antal brugere"
-}

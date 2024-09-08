@@ -1,7 +1,0 @@
-{
-    "commands.command.move-to.description": "Wechselt zur Spur in der Warteschlange",
-    "commands.command.move-to.brief": "Wechselt zur Spur in der Warteschlange",
-    "commands.command.move-to.arguments.0": "<Index>",
-    "commands.command.move-to.examples.0.use": "move 5",
-    "commands.command.move-to.examples.0.desc": "Werde 5 Tracks in der Warteschlange produzieren"
-}

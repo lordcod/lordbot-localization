@@ -1,7 +1,0 @@
-{
-    "economy.reward.error.unspecified": "К сожалению, эта награда недоступна, если вы администратор сервера измените награду",
-    "economy.reward.error.early.title": "Награда недоступна",
-    "economy.reward.error.early.description": "Попробуйте еще раз <t:{reward_time:.0f}:R>",
-    "economy.reward.success.title": "Вы получили подарок",
-    "economy.reward.success.description": "В размере {award}{emoji}, проходите через <t:{wait_long:.0f}:R>"
-}

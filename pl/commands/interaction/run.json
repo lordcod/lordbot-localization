@@ -1,5 +1,0 @@
-{
-    "commands.reactions.run.description": "Biegać.",
-    "commands.reactions.run.user": "{author} runs around {user}, feeling joy and fun.",
-    "commands.reactions.run.not_user": "{author} runs around."
-}

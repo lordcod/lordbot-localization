@@ -1,5 +1,0 @@
-{
-    "commands.command.seek.description": "Mit diesem Befehl können Sie den Track auf die Zeit, die Sie in Sekunden benötigen, zurückspulen, sodass Sie genau zu den Momenten navigieren können, an denen Sie interessiert sind. Geben Sie die gewünschte Anzahl von Sekunden an, die Sie zurückspulen und den ausgewählten Moment genießen möchten.",
-    "commands.command.seek.brief": "Mit diesem Befehl können Sie den Track auf die Zeit, die Sie in Sekunden benötigen, zurückspulen, sodass Sie genau zu den Momenten navigieren können, an denen Sie interessiert sind. Geben Sie die gewünschte Anzahl von Sekunden an, die Sie zurückspulen und den ausgewählten Moment genießen möchten.",
-    "commands.command.seek.arguments.0": "<seconds>"
-}

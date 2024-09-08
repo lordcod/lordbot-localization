@@ -1,7 +1,0 @@
-{
-    "commands.command.purge.description": "Sohbeti belirtilen sayıda temizler",
-    "commands.command.purge.brief": "Sohbeti belirtilen sayıda temizler",
-    "commands.command.purge.arguments.0": "<limit>",
-    "commands.command.purge.examples.0.use": "purge 10",
-    "commands.command.purge.examples.0.desc": "Kanaldaki son 10 mesajı temizle"
-}

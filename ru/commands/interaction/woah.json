@@ -1,5 +1,0 @@
-{
-    "commands.reactions.woah.description": "Ух ты.",
-    "commands.reactions.woah.user": "{author} восклицает 'Вау!' в ответ на {user}, выражая свое удивление или восхищение.",
-    "commands.reactions.woah.not_user": "{author} восклицает 'Вау!'"
-}

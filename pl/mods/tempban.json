@@ -1,8 +1,0 @@
-{
-    "tempban.title": "Tymczasowy zakaz przyznany!",
-    "tempban.description": "Zbanowany: {member} ({member_id})\nModerator: {author} ({author_id})",
-    "tempban.description.field.time": "Czas działania",
-    "tempban.description.field.reason": "Powód",
-    "tempban.list.nf": "Brak zarejestrowanych ról tymczasowych na tym serwerze",
-    "tempban.list.title": "Bany tymczasowe"
-}

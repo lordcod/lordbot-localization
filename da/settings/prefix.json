@@ -1,5 +1,0 @@
-{
-    "settings.prefix.title": "Præfiks",
-    "settings.prefix.description": "Indstilling af det præfiks, som botten vil reagere på, når kommandoen kaldes.",
-    "settings.prefix.current": "Det nuværende præfiks er {prefix}"
-}

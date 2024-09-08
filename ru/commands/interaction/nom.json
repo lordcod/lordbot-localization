@@ -1,5 +1,0 @@
-{
-    "commands.reactions.nom.description": "Ном.",
-    "commands.reactions.nom.user": "{author} удовлетворенно жует вместе с {user}, наслаждаясь вкусом.",
-    "commands.reactions.nom.not_user": "{author} удовлетворенно жует."
-}

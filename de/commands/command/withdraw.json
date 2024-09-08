@@ -1,9 +1,0 @@
-{
-    "commands.command.withdraw.description": "Leitet Ihr Geld von der Bank zurück auf Ihr Konto\n\nBitte beachten Sie, dass es bei Verlust Ihres Geldes nicht möglich ist, es zurückzugeben.",
-    "commands.command.withdraw.brief": "Überweist den Betrag zurück auf das Konto",
-    "commands.command.withdraw.arguments.0": "<amount>",
-    "commands.command.withdraw.examples.0.use": "withdraw 100",
-    "commands.command.withdraw.examples.0.desc": "Überweist 100 Münzen von der Bank zurück auf Ihr Konto",
-    "commands.command.withdraw.examples.1.use": "withdraw all",
-    "commands.command.withdraw.examples.1.desc": "Überträgt alle Coins von der Bank zurück auf Ihr Konto"
-}

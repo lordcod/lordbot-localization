@@ -1,6 +1,0 @@
-{
-    "settings.start.title": "Konfiguration af bot-modulerne.",
-    "settings.start.choose": "Vælg indstillinger...",
-    "settings.start.description": "Interager med rullemenuen for at konfigurere serveren.",
-    "settings.start.request": "Anmodning fra {name}"
-}

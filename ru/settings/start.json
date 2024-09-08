@@ -1,6 +1,0 @@
-{
-    "settings.start.title": "Настройка модулей бота.",
-    "settings.start.choose": "Выберите настройки...",
-    "settings.start.description": "Воспользуйтесь выпадающим меню выбора, чтобы настроить сервер.",
-    "settings.start.request": "Запрос от {name}"
-}

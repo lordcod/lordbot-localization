@@ -1,7 +1,0 @@
-{
-    "commands.command.purge.description": "Rydder chatten det angivne antal gange",
-    "commands.command.purge.brief": "Rydder chatten det angivne antal gange",
-    "commands.command.purge.arguments.0": "<limit>",
-    "commands.command.purge.examples.0.use": "purge 10",
-    "commands.command.purge.examples.0.desc": "Ryd de sidste 10 beskeder i kanalen"
-}

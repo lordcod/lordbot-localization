@@ -1,5 +1,0 @@
-{
-    "commands.reactions.scared.description": "Испуганный.",
-    "commands.reactions.scared.user": "{author} испуганно смотрит на {user}, испытывая страх или тревогу.",
-    "commands.reactions.scared.not_user": "{author} испуган."
-}

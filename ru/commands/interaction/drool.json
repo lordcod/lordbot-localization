@@ -1,5 +1,0 @@
-{
-    "commands.reactions.drool.description": "Слюнить.",
-    "commands.reactions.drool.user": "{author} слюнит, глядя на {user}, испытывая голод.",
-    "commands.reactions.drool.not_user": "{author} слюнит."
-}

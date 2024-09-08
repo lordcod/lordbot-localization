@@ -1,7 +1,0 @@
-{
-    "activiti.failed": "Bu etkinlik kullanılamıyor veya çalışmıyor",
-    "activiti.embed.title": "Etkinlik başarıyla oluşturuldu!",
-    "activiti.embed.description": "Ancak, yükseltme düzeyi etkinlik gereksinimlerini karşılamıyorsa bazı etkinlik türleri sunucunuz için kullanılamayabilir.",
-    "activiti.fields.label": "Etkinlik adı",
-    "activiti.fields.max-user": "Maksimum kullanıcı sayısı"
-}

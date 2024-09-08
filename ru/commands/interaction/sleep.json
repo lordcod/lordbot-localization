@@ -1,5 +1,0 @@
-{
-    "commands.reactions.sleep.description": "Спать.",
-    "commands.reactions.sleep.user": "{author} зевает и идет спать рядом с {user}, испытывая сонливость.",
-    "commands.reactions.sleep.not_user": "{author} идет спать."
-}

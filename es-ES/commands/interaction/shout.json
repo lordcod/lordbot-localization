@@ -1,5 +1,0 @@
-{
-    "commands.reactions.shout.description": "Gritar.",
-    "commands.reactions.shout.user": "{author} shouts at {user}, expressing rage or displeasure.",
-    "commands.reactions.shout.not_user": "{author} shouts."
-}
