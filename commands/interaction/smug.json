@@ -1,5 +1,0 @@
-{
-    "commands.reactions.smug.description": "Smug.",
-    "commands.reactions.smug.user": "{author} looks satisfied next to {user}, feeling proud or content.",
-    "commands.reactions.smug.not_user": "{author} looks satisfied."
-}

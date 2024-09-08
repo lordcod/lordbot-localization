@@ -1,5 +1,0 @@
-{
-    "commands.reactions.dance.description": "Dance.",
-    "commands.reactions.dance.user": "{author} joyfully dances with {user}, getting into the rhythm of the music.",
-    "commands.reactions.dance.not_user": "{author} joyfully dances."
-}

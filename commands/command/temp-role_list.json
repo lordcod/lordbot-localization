@@ -1,9 +1,0 @@
-{
-    "commands.command.temp-role list.description": "Provides a list of temporary roles for the server or member.\nIf `member` is not specified, it shows a list of all temporary roles on the server.\nIf specified, it shows only those roles that belong to the participant.\nThe roles assigned to are always not shown in the list.",
-    "commands.command.temp-role list.brief": "Provides a list of temporary roles for the server or member",
-    "commands.command.temp-role list.arguments.0": "[member]",
-    "commands.command.temp-role list.examples.0.use": "temp-role list",
-    "commands.command.temp-role list.examples.0.desc": "Shows all temporary roles",
-    "commands.command.temp-role list.examples.1.use": "temp-role list @lordcode",
-    "commands.command.temp-role list.examples.1.desc": "Shows all temporary roles assigned to the lordcode member"
-}

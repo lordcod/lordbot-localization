@@ -1,9 +1,0 @@
-{
-    "commands.command.withdraw.description": "Redirects your funds from the bank back to your account\n\nPlease note that if you lose your funds, it is not possible to return them",
-    "commands.command.withdraw.brief": "Transfers the amount back to the account",
-    "commands.command.withdraw.arguments.0": "<amount>",
-    "commands.command.withdraw.examples.0.use": "withdraw 100",
-    "commands.command.withdraw.examples.0.desc": "Transfers 100 coins from the bank back to your account",
-    "commands.command.withdraw.examples.1.use": "withdraw all",
-    "commands.command.withdraw.examples.1.desc": "Transfers all coins from the bank back to your account"
-}

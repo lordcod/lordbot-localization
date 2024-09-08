@@ -1,7 +1,0 @@
-{
-    "commands.command.move-to.description": "Will switch to the track in the queue",
-    "commands.command.move-to.brief": "Will switch to the track in the queue",
-    "commands.command.move-to.arguments.0": "<index>",
-    "commands.command.move-to.examples.0.use": "move 5",
-    "commands.command.move-to.examples.0.desc": "Will start producing 5 tracks in the queue"
-}

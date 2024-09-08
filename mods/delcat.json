@@ -1,7 +1,0 @@
-{
-    "delcat.issue.title": "Are you sure?",
-    "delcat.issue.description": "This will permanently delete the {category} category and every channel inside of it.",
-    "delcat.accept.title": "#{category} Category Deleted",
-    "delcat.accept.description": "And also remotely {count} channels that were in the category",
-    "delcat.cancel.title": "Category Deletion Canceled"
-}

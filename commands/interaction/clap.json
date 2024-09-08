@@ -1,5 +1,0 @@
-{
-    "commands.reactions.clap.description": "Clap.",
-    "commands.reactions.clap.user": "{author} applauds {user}, showing their appreciation.",
-    "commands.reactions.clap.not_user": "{author} applauds."
-}

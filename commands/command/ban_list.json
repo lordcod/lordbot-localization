@@ -1,4 +1,0 @@
-{
-    "commands.command.ban list.description": "Issues a sheet with all temporary bans that were issued by the bot",
-    "commands.command.ban list.brief": "Issues a sheet with all temporary bans that were issued by the bot"
-}

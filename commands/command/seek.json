@@ -1,5 +1,0 @@
-{
-    "commands.command.seek.description": "With this command, you can rewind the track to the time you need in seconds, which allows you to accurately navigate to the moments you are interested in.  Specify the desired number of seconds you want to rewind and enjoy the selected moment.",
-    "commands.command.seek.brief": "With this command, you can rewind the track to the time you need in seconds, which allows you to accurately navigate to the moments you are interested in.  Specify the desired number of seconds you want to rewind and enjoy the selected moment.",
-    "commands.command.seek.arguments.0": "<seconds>"
-}

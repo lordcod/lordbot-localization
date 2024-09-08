@@ -1,7 +1,0 @@
-{
-    "commands.command.purge.description": "Clears the chat the specified number of times",
-    "commands.command.purge.brief": "Clears the chat the specified number of times",
-    "commands.command.purge.arguments.0": "<limit>",
-    "commands.command.purge.examples.0.use": "purge 10",
-    "commands.command.purge.examples.0.desc": "Clear the last 10 messages in the channel"
-}
