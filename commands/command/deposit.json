@@ -1,0 +1,9 @@
+{
+    "commands.command.deposit.description": "Transfers the entered amount of money to the bank protecting your funds from robbery",
+    "commands.command.deposit.brief": "Transfers the entered amount of money to the bank",
+    "commands.command.deposit.arguments.0": "<amount>",
+    "commands.command.deposit.examples.0.use": "deposit 100",
+    "commands.command.deposit.examples.0.desc": "Transfers 100 coins to the bank",
+    "commands.command.deposit.examples.1.use": "deposit all",
+    "commands.command.deposit.examples.1.desc": "Transfers all coins to the bank"
+}
