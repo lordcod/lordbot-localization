@@ -1,0 +1,10 @@
+{
+    "commands.command.take.description": "Takes a certain amount to the selected participant\nIf the participant is not selected, the team performer acts instead",
+    "commands.command.take.brief": "Takes the amount to the participant",
+    "commands.command.take.arguments.0": "[member]",
+    "commands.command.take.arguments.1": "<amount>",
+    "commands.command.take.examples.0.use": "take 100",
+    "commands.command.take.examples.0.desc": "Takes you 100 coins.",
+    "commands.command.take.examples.1.use": "take @lordcode 100",
+    "commands.command.take.examples.1.desc": "Takes member lordcode 100 coins."
+}
