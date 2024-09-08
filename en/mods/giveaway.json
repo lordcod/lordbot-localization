@@ -1,0 +1,21 @@
+{
+    "giveaway.settings.sponsor": "Choose a giveaway sponsor",
+    "giveaway.settings.channel": "Choose a giveaway channel",
+    "giveaway.settings.prize.placeholder": "Settings Giveaway Prize",
+    "giveaway.settings.prize.label": "Prize",
+    "giveaway.settings.prize.quantity": "Quantity",
+    "giveaway.settings.prize.error": "Quantity format is invalid!",
+    "giveaway.settings.description.placeholder": "Settings Giveaway Description",
+    "giveaway.settings.description.title": "Description",
+    "giveaway.settings.dateend.placeholder": "Settings Giveaway Dateend",
+    "giveaway.settings.dateend.title": "Date end",
+    "giveaway.settings.dateend.error": "Date format is invalid!",
+    "giveaway.settings.init.title": "Giveaway",
+    "giveaway.settings.init.info.title": "Information",
+    "giveaway.settings.init.info.decription": "Prize: {prize}\nQuantity: {quantity}\nChannel: {channel}\nSponsor: {sponsor}\nDate end: {date_end}",
+    "giveaway.settings.init.info.dnr": "not registered",
+    "giveaway.settings.init.create.title": "Create giveaway",
+    "giveaway.settings.init.create.error": "You have filled in all required forms!",
+    "giveaway.confirm.leave": "Leave giveaway",
+    "giveaway.confirm.issue": "Are you sure you want to leave giveaway?"
+}
