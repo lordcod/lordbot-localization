@@ -1,0 +1,8 @@
+{
+    "temprole.global.action": "New time of action",
+    "temprole.change.title": "The duration of the role has been changed",
+    "temprole.change.role": "Role",
+    "temprole.created.title": "Temporary role granted!",
+    "temprole.list.nf": "There are no registered temporary roles on this server",
+    "temprole.list.title": "Temp Roles"
+}
