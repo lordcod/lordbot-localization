@@ -1,0 +1,5 @@
+{
+    "commands.reactions.cheers.description": "Cheers.",
+    "commands.reactions.cheers.user": "{author} raises a glass to {user}, as a sign of greeting and respect.",
+    "commands.reactions.cheers.not_user": "{author} raises a glass."
+}
